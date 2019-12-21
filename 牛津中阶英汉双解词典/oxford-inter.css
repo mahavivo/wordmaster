@@ -1,0 +1,27 @@
+﻿body {
+font-family: Tahoma, Verdana, "Lucida Sans Unicode", Arial, sans-serif;
+font-size: 14px;
+}
+.id, .phr, .der, .h, .der{font-weight:bold;}
+.gr{color:#B78032;}
+.pos{color:darkred;font-weight:bold;padding-left:2px;padding-right:2px;}
+.num{font-weight:bold;}
+.cl{font-weight:bold;}
+.def{display:block;}
+.id,.phr{display:block;}
+.ex{margin-left:10pt; display:block;} /*例句区*/
+.en{color:teal;} /*英文例句*/
+.ch{color:gray;} /*中文例句*/
+.ref{font-weight:bold;}
+.collo{font-weight:bold;}
+.x{font-style:italic;font-weight:normal;}
+.pron{color:gray; font-family:Arial, "Lucida Sans Unicode"}
+.entry{display:block;}
+.span, .syn, .opp{display:block;}
+.cht{display:none;}
+.usage:before{content:"USAGE:";color:GREEN;padding-right:4px;font-weight:bold;}
+.usage{background-color:#eeece1;display:block;}
+.idm:before{content:"IDIOM";font-weight:bold; color:teal;padding-right:4px;display:block;}
+.phr-v:before{content:"PHR V";font-weight:bold; color:teal;padding-right:4px;display:block;}
+.hw{color:royalblue; font-weight:bold;}
+.fh{display:none;}
