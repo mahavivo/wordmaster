@@ -4166,13 +4166,13 @@ flannelette [ˌflænəˈlet] noun 絨布，棉法蘭絨（尤用於製作牀單�
 flapjack [ˈflæpdʒæk] noun 1.(BrE)燕麥甜餅 2.(NAmE)煎餅；烤餅
 flapper [ˈflæpər] noun （20 世紀 20 年代不受傳統拘束的）新潮女郎
 flared [flerd] adjective (衣服)底部展開的；喇叭形的
-flare-up  noun 1.（怒氣、激烈情緒等）爆發 2.疾病 3.驟燃；突然發出火焰
+flare-up  noun 1.（怒氣、激烈情緒等）爆發 2.(疾病)突發；（尤指）復發 3.驟燃；突然發出火焰
 flashbulb [ˈflæʃbʌlb] noun （照相機的）閃光燈泡
 flasher [ˈflæʃər] noun 1.(informal)（男子）暴露狂 2.閃光裝置 3.(NAmE)（車用）閃光燈
 flashgun [ˈflæʃɡʌn] noun （攝影用的）閃光槍
 flashmob [ˈflæʃmɑːb] noun 快閃族，快閃黨（通過手機或電郵相約同一時間在公共場所速聚速散的一大群人）
 flashpoint [ˈflæʃpɔɪnt] noun （暴力或憤怒的）一觸即發，危機即將爆發的地點
-flatbed [ˈflætbed] noun 1.(計) 2.(especially NAmE)平板車；平板拖車
+flatbed [ˈflætbed] noun 1.(計)=flatbed scanner 2.(especially NAmE)平板車；平板拖車
 flat-chested  adjective (婦女)平胸的；乳房小的
 flatfish [ˈflætfɪʃ] noun 比目魚（扁平海魚，如鰈）
 flat-footed  adjective 1.平足的；扁平足的 2.(especially NAmE)無準備的
@@ -4184,14 +4184,14 @@ flat-out  adjective (especially NAmE)直截了當的；完全的
 flat-pack  noun (BrE)扁平盒裝組件傢具（買主自己拼裝）
 flat-screen  adjective （電視或電腦顯示器）平面的，平板的，超薄的
 flat-top  noun 平頂頭，平頭（髮型）
-flatware [ˈflætwer] noun 1. 2.扁平餐具（如盤子、茶碟等）
+flatware [ˈflætwer] noun 1.=silverware 2.扁平餐具（如盤子、茶碟等）
 flatworm [ˈflætwɜːrm] noun 扁形動物；扁蟲
 flautist [ˈflaʊtɪst] noun (BrE)長笛手
 flavonoid [ˈfleɪvənɔɪd] noun (化)類黃酮（存在於西紅柿等植物中，據信對某些癌症和心臟病有防治作用）
 flavoured [ˈfleɪvərd] adjective 1.有…味道的 2.添加了味道的
-flavouring [ˈfleɪvərɪŋ] noun especially US調味品；調味香料
-flavourless [ˈfleɪvərləs] adjective especially US無味的；沒有味道的
-flavoursome [ˈfleɪvərsəm] adjective especially US多味的；味道豐富的；很有滋味的
+flavouring [ˈfleɪvərɪŋ] noun 調味品；調味香料
+flavourless [ˈfleɪvərləs] adjective 無味的；沒有味道的
+flavoursome [ˈfleɪvərsəm] adjective 多味的；味道豐富的；很有滋味的
 flaxen [ˈflæksn] adjective (literary)(毛髮)淺黃色的；亞麻色的
 flaxseed [ˈflækssiːd] noun 亞麻籽
 fleabag [ˈfliːbæɡ] noun 1.邋遢的人 2.骯髒的動物 3.(especially NAmE)廉價低級旅館
@@ -4205,7 +4205,7 @@ fleur-de-lis [ˌflɜːr də ˈliː] noun (from French)鳶尾花飾，百合花�
 flexitime [ˈfleksitaɪm] noun (especially BrE)彈性工作時間制
 flexor [ˈfleksər] noun (解)屈肌
 flibbertigibbet [ˈflɪbərtidʒɪbɪt] noun (informal)輕浮的人；饒舌的人
-flies [flaɪz] noun 1. 2.(BrE) 3.（舞台上方）懸吊佈景的空間，吊景區
+flies [flaɪz] noun 1.plural of fly 2.(BrE)=fly 3.（舞台上方）懸吊佈景的空間，吊景區
 flightless [ˈflaɪtləs] adjective (鳥或昆蟲)不能飛的
 flintlock [ˈflɪntlɑːk] noun （舊時的）燧發機，明火槍
 flinty [ˈflɪnti] adjective 1.冷冷的 2.含燧石的
@@ -4220,19 +4220,19 @@ floodwater [ˈflʌdwɔːtər] noun 洪水
 floorcloth [ˈflɔːrklɔːθ] noun (BrE)擦地布
 floozy [ˈfluːzi] noun (old-fashioned, informal, disapproving)蕩婦
 flophouse [ˈflɑːphaʊs] noun (NAmE)（供流浪者投宿的）廉價客店
-florentine [ˈflɔːrəntiːn] adjective 食物 noun （一面有巧克力的）乾果餅乾
+florentine [ˈflɔːrəntiːn] adjective (食物)佛羅倫薩式的；（上桌時）放在菠菜上的 noun （一面有巧克力的）乾果餅乾
 floret [ˈflɔːrət] noun （花椰菜等的）花部
 floribunda [ˌflɔːrɪˈbʌndə] noun (術語)多花植物
 florin [ˈflɔːrɪn] noun 弗羅林（英國舊時價值兩先令的硬幣，相當於現在的 10 便士）
-floss [flɔːs] noun 1. 2.絲線 verb 用牙線剔牙縫
+floss [flɔːs] noun 1.=dental floss 2.絲線 verb 用牙線剔牙縫
 flotation [floʊˈteɪʃn] noun 1.(商)（公司的）發行股份 2.浮；漂浮
 flotilla [floʊˈtɪlə] noun 船隊；小型艦隊
 flotsam [ˈflɑːtsəm] noun 1.（沖上岸或漂浮水面的）船隻殘骸，碎木，零碎雜物；廢料 2.無家可歸者；失業流浪者
 flounce [flaʊns] verb （因憤怒或煩躁等而）走動，急動，驟動，扭轉 noun 1.（衣、裙、窗簾等的）荷葉邊 2.（因氣憤而猛然做出的）動作；故作誇張的動作
-floury [ˈflaʊəri] adjective 1.覆有麪粉的 2.麪粉似的；味道像麪粉的 3.土豆
+floury [ˈflaʊəri] adjective 1.覆有麪粉的 2.麪粉似的；味道像麪粉的 3.(土豆)（煮後）很麪的
 flowerpot [ˈflaʊərpɑːt] noun 花盆
 flow-on  noun 順勢加薪，順勢改善工作條件（因大勢所趨） adjective （效應等）順勢的
-flub [flʌb] verb (NAmE) (informal)[transitive, intransitive]flub(sth)搞壞；搞糟；犯錯誤
+flub [flʌb] verb (NAmE) (informal)flub(sth)搞壞；搞糟；犯錯誤
 flue [fluː] noun 煙道
 flugelhorn [ˈfluːɡlhɔːrn] noun 夫呂號，富魯格號（銅管樂器，類似小號）
 flume [fluːm] noun 1.（工業用）引水槽，放水溝 2.（遊樂園或游泳池的）水滑道
@@ -4249,12 +4249,12 @@ flyblown [ˈflaɪbloʊn] adjective (BrE)不潔淨的；沾有蒼蠅卵的；不�
 fly-by  noun 1.（航天器的）近天體探測飛行 2.(NAmE)（飛機編隊的）檢閱飛行
 fly-by-night  adjective (人或企業)無信用（或不可靠）而唯利是圖的
 flycatcher [ˈflaɪkætʃər] noun 翔食雀（能躍飛空中捕捉昆蟲）
-fly-drive  adjective 假期 noun 飛行駕車之旅假期
+fly-drive  adjective (假期)飛行駕車之旅的（由旅行社組織，費用包含航班、自行駕車以及住宿） noun 飛行駕車之旅假期
 flyleaf [ˈflaɪliːf] noun （書籍前後的）空白頁，襯頁
-flyover [ˈflaɪoʊvər] noun 1.(BrE)跨線橋；立交橋；立體交叉道 2.(NAmE)
+flyover [ˈflaɪoʊvər] noun 1.(BrE)跨線橋；立交橋；立體交叉道 2.(NAmE)=fly-by
 flypaper [ˈflaɪpeɪpər] noun 捕蠅紙
 fly-past  noun (BrE)檢閱飛行
-fly-post  verb (BrE)[intransitive, transitive]fly-post(sth)（未經正式許可）張貼小廣告
+fly-post  verb (BrE)fly-post(sth)（未經正式許可）張貼小廣告
 flysheet [ˈflaɪʃiːt] noun (BrE)（帳篷外層防雨的）篷蓋
 fly-tip  verb (BrE)亂倒垃圾
 flyweight [ˈflaɪweɪt] noun 特輕量級拳擊手，次最輕量級拳擊手，最輕量級摔跤手，蠅量級拳擊手（體重 48 至 51 公斤之間）
@@ -4268,18 +4268,17 @@ foetus [ˈfiːtəs] noun (BrE)胎兒；胎
 fogbound [ˈfɔːɡbaʊnd] adjective 因霧不能運行的；因霧滯留的
 fogey [ˈfoʊɡi] noun 老頑固；守舊落伍的人
 foghorn [ˈfɔːɡhɔːrn] noun 霧角，霧喇叭（向霧中的船隻發警告）
-foist [fɔɪst] verb 
 fold-up  adjective (物件)可收攏的；可摺叠的
 foliar [ˈfoʊliər] adjective (術語)葉的；葉狀的
 folio [ˈfoʊlioʊ] noun 1.（尤指早期印刷的）對開本 2.(術語)（書籍的）一頁
 folklorist [ˈfoʊklɔːrɪst] noun 民俗學家；民俗學研究者
 follicle [ˈfɑːlɪkl] noun （毛）囊
-follow-on  noun 板球
+follow-on  noun (板球)（一局未得分後的）二局繼續擊球
 follow-the-leader  noun 學樣遊戲（參加者模仿領頭人的動作）
-follow-through  noun 1.網球、高爾夫球等 2.（為完成某計劃所採取的）後續行動
+follow-through  noun 1.(網球、高爾夫球等)（擊球後的）隨球動作，順勢動作 2.（為完成某計劃所採取的）後續行動
 fondant [ˈfɑːndənt] noun 1.軟糖料（尤用於裝飾糕點） 2.方旦軟糖
 fondue [fɑːnˈduː] noun 1.奶酪火鍋（瑞士特色菜，蘸麪包片吃） 2.熱油火鍋（在熱油中涮肉片、蔬菜等）
-fontanelle [ˌfɑːntəˈnel] noun US usually囟，囟門（嬰兒頭頂骨未合縫處）
+fontanelle [ˌfɑːntəˈnel] noun (解)囟，囟門（嬰兒頭頂骨未合縫處）
 foodie [ˈfuːdi] noun (informal)美食家
 foolhardy [ˈfuːlhɑːrdi] adjective (disapproving)莽撞的；有勇無謀的
 foolscap [ˈfuːlskæp] noun (BrE)（書寫紙規格）大裁，大頁紙
@@ -4289,24 +4288,24 @@ footballing [ˈfʊtbɔːlɪŋ] adjective (BrE)足球的；與足球比賽有關�
 footbrake [ˈfʊtbreɪk] noun 腳剎車
 footbridge [ˈfʊtbrɪdʒ] noun 人行橋；步行橋
 footer [ˈfʊtər] noun 1.（計算機打印的每頁的）頁腳，頁尾 2.（網頁的）頁腳
-footfall [ˈfʊtfɔːl] noun 1.(literary)腳步聲 2.(商)客流，人流（商店、購物中心在一段時間內的訪客人數）
+footfall [ˈfʊtfɔːl] noun 1.(literary)腳步聲 2.(BrE)(商)客流，人流（商店、購物中心在一段時間內的訪客人數）
 footlights [ˈfʊtlaɪts] noun 腳燈（舞台前面的一排燈）
 footling [ˈfuːtlɪŋ] adjective (old-fashioned, informal)無足輕重的；無聊（而煩人）的
 footloose [ˈfʊtluːs] adjective 行動無拘無束的；自由自在的
 footman [ˈfʊtmən] noun （舊時宅院的）男僕，門房，侍者
-footpath [ˈfʊtpæθ] noun 1.(BrE)（尤指鄉間的）人行小道 2.(AustralE, NZE)
+footpath [ˈfʊtpæθ] noun 1.(BrE)（尤指鄉間的）人行小道 2.(AustralE, NZE)=pavement
 footplate [ˈfʊtpleɪt] noun (BrE)（蒸汽機車司機站立的）平台
 footrest [ˈfʊtrest] noun 擱腳物
-footsie [ˈfʊtsi] noun (informal)
+footsie [ˈfʊtsi] noun (informal)play footsie with sb （在桌下）與某人腳碰腳調情，腳挨腳愛撫
 footsore [ˈfʊtsɔːr] adjective (formal)（因走遠路）腳痛，腳痠
 footstool [ˈfʊtstuːl] noun 腳凳（坐時擱腳的矮凳）
 footway [ˈfʊtweɪ] noun (BrE) (formal)（馬路邊的）人行道
 footwork [ˈfʊtwɜːrk] noun 1.（體育、舞蹈的）步法，腳步動作 2.（應付困境的）策略，應變能力
-forbear [fɔːrˈber] verb (formal)克制；自制；忍住（不說話或不做某事） noun 
+forbear [fɔːrˈber] verb (formal)克制；自制；忍住（不說話或不做某事） noun =forebear
 forbearing [fɔːrˈberɪŋ] adjective (formal)寬容的
 force-feed  verb force-feed sb強迫進食（尤指把飲食灌進囚犯等口中）
 forcemeat [ˈfɔːrsmiːt] noun （常作烹飪填料用的）碎肉，菜末
-force-out  noun 棒球
+force-out  noun (棒球)封殺；封殺出局
 forceps [ˈfɔːrseps] noun （醫生用的）鑷子，鉗子
 forcible [ˈfɔːrsəbl] adjective 強行的；用暴力的
 forebrain [ˈfɔːreɪn] noun (解)前腦
@@ -4315,8 +4314,7 @@ forecourt [ˈfɔːrkɔːrt] noun (BrE)大片空地（在建築物如加油站或
 foredoomed [fɔːrˈduːmd] adjective (formal)foredoomed(to sth)注定（失敗）的
 forefoot [ˈfɔːrfʊt] noun （四足動物的）前足
 foregather [ˌfɔːrˈɡæðər] verb (formal)（一群人）聚會，集合
-foregone [ˈfɔːrɡɔːn] adjective 
-forehand [ˈfɔːrhænd] noun 網球等
+forehand [ˈfɔːrhænd] noun (網球等)正手擊球；正手；正拍
 foreign-returned  adjective (IndE) (informal)(人)學成歸國的；海歸的
 foreland [ˈfɔːrlənd] noun 1.前陸；前沿地；前方地 2.岬；陸岬
 foreleg [ˈfɔːrleɡ] noun （四足動物的）前足，前腿
@@ -4332,7 +4330,7 @@ forethought [ˈfɔːrθɔːt] noun 深謀遠慮
 forewarn [fɔːrˈwɔːrn] verb (formal)[often passive]forewarn sb (of sth)|forewarn sb that…預先警告；事先告誡
 forfend [fɔːrˈfend] verb 1.(NAmE)防止；阻止 2.(old use)防止；擋開
 forget-me-not  noun 勿忘我，勿忘草（野生，開藍花）
-forgivable [fərˈɡɪvəbl] adjective 可原諒的；可寬恕的
+# forgivable [fərˈɡɪvəbl] adjective 可原諒的；可寬恕的
 forked [fɔːrkt] adjective 叉狀的（形如字母 Y）
 forkful [ˈfɔːrkfʊl] noun 一叉子（的量）
 formaldehyde [fɔːrˈmældɪhaɪd] noun 1.甲醛 2.(術語)福爾馬林；甲醛水溶液
@@ -4348,7 +4346,7 @@ fortnightly [ˈfɔːrtnaɪtli] adjective (BrE)兩星期一次的
 fortune-teller  noun 給人算命的人；算命先生
 forward-looking  adjective (approving)向前看的；有遠見的；有進步思想的
 forwardness [ˈfɔːrwərdnəs] noun 魯莽；冒失；無禮；孟浪
-fossick [ˈfɑːsɪk] verb 1.（在…中）搜尋，查找 2.（在廢礦中）淘金
+fossick [ˈfɑːsɪk] verb (AustralE, NZE) (informal)1.（在…中）搜尋，查找 2.（在廢礦中）淘金
 foul-mouthed  adjective 說下流話的；口出惡言的
 foul-up  noun (informal)（因組織不當或愚蠢錯誤而引起的）混亂，差錯
 foundling [ˈfaʊndlɪŋ] noun (old-fashioned)棄嬰；棄兒
@@ -4356,12 +4354,12 @@ fount [faʊnt] noun (literary or humorous)fount(of sth)（重要事物的）來�
 fountainhead [ˈfaʊntnhed] noun (literary)泉源；根源；來源
 four-by-four  noun 四輪驅動汽車
 four-dimensional  adjective 四維的（包括長、寬、高和時間）；四度空間的
-four-square  adjective 1.建築物 2.人
+four-square  adjective 1.(建築物)方形堅固的；方方正正的 2.(人)堅決果斷的；堅定不移的
 four-stroke  adjective (術語)(發電機或機動車)四衝程的
-fourth [fɔːrθ] ordinal number 第四 noun (especially NAmE)
+# fourth [fɔːrθ] ordinal number 第四 noun (especially NAmE)=quarter
 fourthly [ˈfɔːrθli] adverb （用於列舉）第四
 four-wheeler  noun (NAmE)四輪摩托車（常用於娛樂）
-foxed [fɑːkst] adjective 1.困惑的；迷惑不解的 2.舊書書頁或圖片
+foxed [fɑːkst] adjective 1.困惑的；迷惑不解的 2.(舊書書頁或圖片)佈滿褐色斑點的
 foxglove [ˈfɑːksɡlʌv] noun 洋地黃，毛地黃（高棵植物，開紫色或白色鐘狀花朵）
 foxhole [ˈfɑːkshoʊl] noun 散兵坑
 foxhound [ˈfɑːkshaʊnd] noun 狐；獵狐狗
@@ -4376,12 +4374,11 @@ franchiser [ˈfræntʃaɪzər] noun 授予（他人）特許權的公司（或�
 francium [ˈfrænsiəm] noun 鈁（放射性化學元素）
 francophone [ˈfreɪmfoʊn] adjective 說法語的
 frangipani [ˌfrændʒiˈpæni] noun 1.雞蛋花樹（或灌木）（產於美洲熱帶） 2.雞蛋花香水
-frankfurter [ˈfræŋkfɜːrtər] noun NAmE also法蘭克福熏腸（常用於做熱狗）
+frankfurter [ˈfræŋkfɜːrtər] noun 法蘭克福熏腸（常用於做熱狗）
 frankincense [ˈfræŋkɪnsens] noun 乳香（點燃時散發出香味，尤用於宗教禮儀）
-fraternize [ˈfrætərnaɪz] verb [intransitive]fraternize(with sb)（與尤指不該親善者）親善
+fraternize [ˈfrætərnaɪz] verb fraternize(with sb)（與尤指不該親善者）親善
 fratricide [ˈfrætrɪsaɪd] noun 1.(formal)殺害兄弟（或姐妹）罪；殺害兄弟（或姐妹）者 2.殺害同胞罪；殺害同胞者
 fraudster [ˈfrɔːdstər] noun (BrE)犯欺詐罪者；犯欺騙罪者
-frazzle [ˈfræzl] noun 
 frazzled [ˈfræzld] adjective (informal)疲憊而煩躁的
 freaking [ˈfriːkɪŋ] adverb (NAmE) (taboo, slang)（加強語氣，用以替代 fucking）該死的，他媽的
 freakish [ˈfriːkɪʃ] adjective 怪異的；反常的；意外的
@@ -4411,7 +4408,7 @@ freewheel [ˌfriːˈwiːl] verb [intransitive](+ adv./prep.)（騎自行車）�
 freewheeling [ˌfriːˈwiːlɪŋ] adjective (informal)隨心所欲的；無拘無束的
 freeze-dry  verb [usually passive]freeze-dry sth冷凍乾燥保存（食物）
 freeze-frame  noun 定格；定幀
-frenulum [ˈfrenjələm] noun BrE also繫帶
+frenulum [ˈfrenjələm] noun (解)繫帶
 freshener [ˈfreʃnər] noun (常構成複合詞)使清潔（或純淨、清新、涼爽）之物
 fresher [ˈfreʃər] noun (BrE) (informal)大學一年級新生
 fresh-faced  adjective 青春容光煥發的
@@ -4421,12 +4418,11 @@ fretted [ˈfretɪd] adjective (術語)(尤指木頭或石頭)迴紋裝飾的；�
 friar [ˈfraɪər] noun （天主教）托鉢會士
 friary [ˈfraɪəri] noun 托鉢修院；會院
 fricassee [ˈfrɪkəsiː] noun 濃汁肉菜丁；白汁燉肉
-fricative [ˈfrɪkətɪv] noun (BrE)摩擦音
+fricative [ˈfrɪkətɪv] noun (BrE)(語音)摩擦音
 fridge-freezer  noun (BrE)（有冷藏室和冷涷室的）立式冰箱；雙門冰箱
 friendless [ˈfrendləs] adjective 沒有朋友的
 frigate [ˈfrɪɡət] noun （小型）護衞艦
 frigging [ˈfrɪɡɪŋ] adverb (taboo, slang)（避免使用 fucking 而說的粗話）該死地（的），他媽地（的）
-frighteners [ˈfraɪtnərz] noun 
 frightful [ˈfraɪtfl] adjective 1.(informal)極壞的；很糟的 2.十分嚴重的；令人很不愉快的
 frightfully [ˈfraɪtfəli] adverb (old-fashioned) (especially BrE)十分；極其
 frilled [frɪld] adjective (BrE)帶飾邊的；有褶邊的
@@ -4434,9 +4430,8 @@ frilly [ˈfrɪli] adjective 多飾邊的；多褶邊的
 frippery [ˈfrɪpəri] noun (disapproving) (especially BrE)不必要的昂貴飾品（或物件）
 frisson [friːˈsɔːn] noun (from French)強烈興奮感；恐懼感；震顫
 fritillary [ˈfrɪtleri] noun 1.貝母（花鐘狀） 2.豹紋蝶
-fritz [frɪts] noun 
 frivolity [frɪˈvɑːləti] noun (often disapproving)愚蠢的行為；可笑的表現；輕浮的舉止
-frizz [frɪz] verb (informal)（使）鬈曲，捲緊 noun (disapproving)鬈髮；鬈毛
+frizz [frɪz] verb (informal)(頭髮)（使）鬈曲，捲緊 noun (disapproving)鬈髮；鬈毛
 frizzle [ˈfrɪzl] verb frizzle sth把…燙捲曲；把…烤焦
 frogging [ˈfrɔːɡɪŋ] noun 盤花鈕扣
 froglet [ˈfrɔːɡlət] noun 1.小青蛙 2.幼蛙
@@ -4450,9 +4445,9 @@ frontiersman [frʌnˈtɪrzmən] noun （尤指 19 世紀美國西部的）開拓
 frontispiece [ˈfrʌntɪspiːs] noun （與書名頁相對一頁上的）卷首插圖
 front-load  verb 1.(商)將（成本）的大頭提前花費；提前負載 2.將（項目或文章）的重點前置
 frontman [ˈfrʌntmæn] noun 1.（某組織的）代表，頭面人物；（非法活動的）掩護者 2.樂隊領銜者 3.(BrE)電視節目主持人
-front-of-house  noun 1.（劇院的）觀眾席 2.(常用作形容詞)（劇院的）前台事務，劇場服務
+front-of-house  noun (BrE)1.（劇院的）觀眾席 2.(常用作形容詞)（劇院的）前台事務，劇場服務
 frostbite [ˈfrɔːstbaɪt] noun 凍傷；凍瘡
-froth [frɔːθ] noun 1.（尤指液體表面的）泡沫，泡 2.華而不實的思想（或活動等） 3.泡沫狀物 verb 1.（使）起泡沫 2.(figurative)（口）吐白沫
+froth [frɔːθ] noun 1.（尤指液體表面的）泡沫，泡 2.華而不實的思想（或活動等） 3.泡沫狀物 verb 1.（使）起泡沫 2.（口）吐白沫
 frowsty [ˈfraʊsti] adjective (BrE)悶熱的；不通風的；霉臭的
 fructose [ˈfrʌktoʊs] noun (化)果糖，左旋糖（存於果汁、蜂蜜中）
 fruitarian [fruːˈteriən] noun 只吃水果的人；果素者
@@ -4471,20 +4466,20 @@ fugue [fjuːɡ] noun 賦格曲
 fulfilled [fʊlˈfɪld] adjective 感到滿足的；覺得滿意的；滿足的
 fulfilling [fʊlˈfɪlɪŋ] adjective 讓人感覺有意義的；令人滿足的
 full-blooded  adjective 1.感情強烈的；猛烈的；精力旺盛的；熱情的 2.全血緣的；純血統的
-full-colour  adjective especially US彩色的；全色的
+full-colour  adjective 彩色的；全色的
 full-cream  adjective (BrE)(牛奶)全脂的
 full-fat  adjective (especially BrE)(牛奶、奶酪等)全脂的
-full-frontal  adjective 1.裸露正面的 2. noun 正面全裸的照片（或電影鏡頭）
+full-frontal  adjective 1.裸露正面的 2.=frontal noun 正面全裸的照片（或電影鏡頭）
 full-grown  adjective (人或動植物)長足了的；長成的；成熟的
 full-on  adjective (informal)（表示最大程度）完全的；最強烈的
-full-term  adjective 1.懷胎 2.嬰兒
+full-term  adjective (術語)1.(懷胎)足月的 2.(嬰兒)足月生的
 full-timer  noun 全日制工作者；全職人員
 fulmar [ˈfʊlmər] noun 暴風鸌（海鳥）
 fumbling [ˈfʌmblɪŋ] adjective 笨拙的；遲疑的
-fumes [fjuːmz] noun less frequent（濃烈的或有害的）煙，氣，汽
+fumes [fjuːmz] noun （濃烈的或有害的）煙，氣，汽
 functionalism [ˈfʌŋkʃənəlɪzəm] noun 功能主義，實用建築主義（主張建築或物品設計首要的是用途而不是外觀）
 functionality [ˌfʌŋkʃəˈnæləti] noun 1.實用；符合實際 2.設計目的；設計功能 3.(計)（計算機或電子系統的）功能
-functor [ˈfʌŋktər] noun 1.(數)函子 2.(語法)
+functor [ˈfʌŋktər] noun 1.(數)函子 2.(語法)=function word
 funder [ˈfʌndər] noun 基金贊助者；提供資金者
 fundholding [ˈfʌndhoʊldɪŋ] noun 費用負責制（英國政府發給家庭醫生支付某些醫院服務費用的制度）
 fundi [ˈfʊndiː] noun (SAfrE)匠人；行家；專家
@@ -4496,10 +4491,10 @@ fun-loving  adjective (人)喜歡玩樂的
 funnies [ˈfʌniz] noun (NAmE) (informal)（報章的）滑稽連環漫畫
 funnily [ˈfʌnəli] adverb 奇怪地
 furl [fɜːrl] verb furl sth捲起，收攏（帆、旗或傘）
-furlong [ˈfɜːrlɔːŋ] noun 尤指賽馬
+furlong [ˈfɜːrlɔːŋ] noun (尤指賽馬)弗隆，浪（長度單位，相當於 220 碼、201 米或 ⅛ 英里）
 furlough [ˈfɜːrloʊ] noun 1.（尤指在國外服役士兵的）休假（許可） 2.(NAmE)（犯人的）准假 3.(NAmE)（通常因發不出工資而給的）准假
 furnished [ˈfɜːrnɪʃt] adjective (房屋、房間等)配備傢具的
-furore [ˈfjʊrrɔːr] noun especially in NAmE群情激憤；騷動；轟動
+furore [ˈfjʊrrɔːr] noun 群情激憤；騷動；轟動
 furphy [ˈfɜːrfi] noun (AustralE)傳聞；傳言
 furred [fɜːrd] adjective 覆蓋毛皮的；穿戴毛皮衣物的；長舌苔的
 furrier [ˈfʌrɪər] noun 毛皮加工者；皮貨商
@@ -4507,9 +4502,9 @@ furtherance [ˈfɜːrðərəns] noun (formal)促進；增進
 furthermost [ˈfɜːrðərmoʊst] adjective (formal)最遠的
 fusilier [ˌfjuːzəˈlɪər] noun （舊時的）燧發槍士兵，明火槍士兵
 fusionist [ˈfjuːʒənɪst] noun 合成音樂演奏者
-fusspot [ˈfʌspɑːt] noun (BrE)大驚小怪的人；好挑剔的人；愛吹毛求疵的人
+fusspot [ˈfʌspɑːt] noun (BrE)(informal)大驚小怪的人；好挑剔的人；愛吹毛求疵的人
 futon [ˈfuːtɑːn] noun 日本牀墊（摺叠時可坐，鋪開時可卧）
-future-proof  adjective (商)不會過時的 verb 使不過時
+future-proof  adjective (商 or 術語)不會過時的 verb 使不過時
 futurism [ˈfjuːtʃərɪzəm] noun 未來主義（20 世紀 20 和 30 年代的文藝運動，強調對技術時代的讚歎）
 futurity [fjuˈtʊrəti] noun (formal)將來；未來
 futurologist [ˌfjuːtʃəˈrɑːlədʒɪst] noun 未來學家
@@ -4521,7 +4516,7 @@ gabion [ˈɡeɪbiən] noun 石籠（築堤等用的鐵絲網）
 gable [ˈɡeɪbl] noun 三角牆；山牆
 gabled [ˈɡeɪbld] adjective 有三角牆的；有山牆的
 gaboon [ɡəˈbuːn] noun 加蓬桃花心木（非洲熱帶硬質木材，尤用於製作樂器部件或小飾物）
-gad [ɡæd] verb 
+gad [ɡæd] verb gad about/around (informal) (especially BrE)閒逛；遊蕩
 gadabout [ˈɡædəbaʊt] noun (informal often humorous)好社交者；好旅遊者
 gadolinium [ˌɡædəˈlɪniəm] noun 釓
 gadzooks [ɡædˈzuːks] exclamation (old use)（舊時用語，表示驚訝或惱怒）天哪，哎呀，該死
@@ -4531,9 +4526,8 @@ gaga [ˈɡɑːɡɑː] adjective 1.(offensive)迷糊；（尤因年老）糊塗 2
 gaily [ˈɡeɪli] adverb 1.花哨地；豔麗地；華麗地 2.快樂地；歡樂地；喜氣洋洋地 3.欠思索地；毫無顧忌地；輕率地
 gaiter [ˈɡeɪtər] noun 綁腿，護腿（舊時為男士所穿，現主要為徒步者或登山者所穿）
 gal [ɡæl] noun (old-fashioned, informal) (especially NAmE)女孩；姑娘；女子
-gal.  abbreviation （書寫形式）加侖
 galah [ɡəˈlɑː] noun (AustralE) (informal)蠢人；傻瓜
-gallantry [ˈɡæləntri] noun 1.（尤指在戰場上）勇敢，英勇頑強 2.（男子對女子的）殷勤
+gallantry [ˈɡæləntri] noun (formal)1.（尤指在戰場上）勇敢，英勇頑強 2.（男子對女子的）殷勤
 galleon [ˈɡæliən] noun （15–17 世紀使用的）西班牙大帆船
 galleried [ˈɡælərid] adjective (建築物)有樓座的
 galling [ˈɡɔːlɪŋ] adjective (境況或事實)令人惱怒；使人煩惱；使人感到屈辱
@@ -4550,16 +4544,15 @@ gamekeeper [ˈɡeɪmkiːpər] noun （私有獵場的）獵物看守人
 gamelan [ˈɡæməlæn] noun 加美蘭樂隊，佳美蘭，甘美朗（以木琴、大吊鑼等樂器為主的印度尼西亞傳統樂隊）
 gamely [ˈɡeɪmli] adverb 頑強勇敢地；勇於承擔地
 gameplay [ˈɡeɪmpleɪ] noun 電腦遊戲情節
-gamer [ˈɡeɪmər] noun 1.喜歡玩電腦遊戲的人 2.(NAmE)堅毅的運動員
+gamer [ˈɡeɪmər] noun 1.喜歡玩電腦遊戲的人 2.(NAmE)(體育運動)堅毅的運動員
 gamesmanship [ˈɡeɪmzmənʃɪp] noun 比賽的戰術；比賽策略
 gamete [ˈɡæmiːt] noun (生)配子（形成受精卵的精子或卵子）
 gamey [ˈɡeɪmi] adjective (野味)有變質味道的；有羶味的
 gamine [ɡæˈmiːn] adjective (formal)(年輕女子)嬌小迷人的；男孩子氣的
 gammon [ˈɡæmən] noun (BrE)醃豬後腿；熏腿；熏豬肋肉
 gammy [ˈɡæmi] adjective (old-fashioned) (BrE informal)(腿或膝)受傷的；受損的
-gangbusters [ˈɡæŋbʌstərz] noun 
 gangland [ˈɡæŋlænd] noun 盜匪世界；黑社會
-ganglion [ˈɡæŋɡliən] noun 1.神經節 2.腱鞘囊腫（經常出現在手背）
+ganglion [ˈɡæŋɡliən] noun (醫)1.神經節 2.腱鞘囊腫（經常出現在手背）
 gangmaster [ˈɡæŋmæstər] noun (BrE)非法雇主（大批雇用臨時工人從事體力勞動，尤其是農場工作）
 gangplank [ˈɡæŋplæŋk] noun （上下船用的）跳板，步橋
 gangsta [ˈɡæŋstə] noun 1.(NAmE) (slang)街頭流氓；地痞；痞子 2.岡斯特說唱樂，岡斯特快板歌（歌詞內容通常與暴力、槍殺、吸毒和色情有關）
@@ -4567,7 +4560,7 @@ gannet [ˈɡænɪt] noun 1.塘鵝（潛水捕魚的大海鳥） 2.(BrE) (informa
 gantry [ˈɡæntri] noun （起重的）龍門架；（道路的）路標架；（發射航天器的）豎架
 gapper [ˈɡæpər] noun (BrE)空缺年休假者（中學畢業後到上大學前用一年時間實習或旅遊）
 gap-toothed  adjective 齒縫很大的；有齒縫的
-garbed [ɡɑːrbd] adjective (formal)[not before noun]以…方式穿着
+garbed [ɡɑːrbd] adjective (formal)garbed(in sth)以…方式穿着
 garbo [ˈɡɑːrboʊ] noun (AustralE) (informal)垃圾工
 garden-variety  adjective (NAmE)普通的；平常的；一般的
 gargle [ˈɡɑːrɡl] verb 含漱；漱喉 noun 1.（含）漱液 2.含漱；漱口；含漱聲
@@ -4577,20 +4570,20 @@ garter [ˈɡɑːrtər] noun 1.（通常為彈性的）襪帶 2.(NAmE)吊襪帶
 gasbag [ˈɡæsbæɡ] noun (informal, humorous)夸夸其談的人；貧嘴子；聒噪的人
 gas-cooled  adjective 氣冷的；用氣體冷卻的
 gas-fired  adjective (BrE)燃氣的；以煤氣為燃料的
-gasket [ˈɡæskɪt] noun (figurative, informal)墊圈；襯墊；密封墊
-gaslight [ˈɡæslaɪt] noun 1.煤氣燈光 2.
+gasket [ˈɡæskɪt] noun 墊圈；襯墊；密封墊
+gaslight [ˈɡæslaɪt] noun 1.煤氣燈光 2.=gas lamp
 gasman [ˈɡæsmæn] noun (informal)煤氣抄表員；煤氣收費員；煤氣設備安裝（或檢修）工
 gasohol [ˈɡæsəhɔːl] noun (NAmE)（汽車用）汽油和酒精混合燃料
 gasometer [ɡæˈsɑːmɪtər] noun （大型）貯燃氣罐，貯氣庫
 gas-permeable  adjective 透氣的
-gassy [ˈɡæsi] adjective 1.(BrE)充滿氣泡的 2.(NAmE)（腸胃）脹氣的
+gassy [ˈɡæsi] adjective 1.(BrE)(飲料)充滿氣泡的 2.(NAmE)(人)（腸胃）脹氣的
 gastroenteritis [ˌɡæstroʊ‑] noun (醫)胃腸炎；腸胃炎
 gastronomic [ˌɡæstrəˈnɑːmɪk] adjective 烹飪的；美食的
 gastropod [ˈɡæstrəpɑːd] noun (生)腹足類；腹足綱軟體動物
 gastropub [ˈɡæstroʊpʌb] noun (BrE)美食酒吧
 gasworks [ˈɡæswɜːrks] noun 煤氣廠
 gateau [ɡæˈtoʊ] noun 奶油水果大蛋糕
-gatecrash [ˈɡeɪtkræʃ] verb informal[transitive, intransitive]gatecrash(sth)未獲邀請而參加（或出席）；做（聚會等的）不速之客
+gatecrash [ˈɡeɪtkræʃ] verb gatecrash(sth)未獲邀請而參加（或出席）；做（聚會等的）不速之客
 gatefold [ˈɡeɪtfoʊld] noun （書籍、雜誌的）大張摺叠插頁，大摺頁
 gatehouse [ˈɡeɪthaʊs] noun 門房；門樓
 gatepost [ˈɡeɪtpoʊst] noun 門柱
@@ -4598,7 +4591,7 @@ gatherer [ˈɡæðərər] noun 收集者；採集者
 gathers [ˈɡæðərz] noun 皺襇；褶襇
 gaucho [ˈɡaʊtʃoʊ] noun 南美牛仔
 gavotte [ɡəˈvɑːt] noun 加沃特舞，加沃特舞曲（舊時流行於法國）
-gawp [ɡɔːp] verb (BrE) (informal)[intransitive]gawp(at sb/sth)無禮地瞪眼看；呆頭呆腦地盯着
+gawp [ɡɔːp] verb (BrE) (informal)gawp(at sb/sth)無禮地瞪眼看；呆頭呆腦地盯着
 gaydar [ˈɡeɪdɑːr] noun (informal)同性戀雷達（同性戀者識別其他同性戀者的能力）
 gayness [ˈɡeɪnəs] noun 同性戀
 gazelle [ɡəˈzel] noun 羚羊
@@ -4609,20 +4602,20 @@ gazump [ɡəˈzʌmp] verb (BrE)[usually passive]gazump sb（房價議定後因�
 gazunder [ɡəˈzʌndər] verb (BrE)[often passive]gazunder sb（簽合同前）壓低房價
 g'day [ɡəˈdeɪ] exclamation (AustralE, NZE)喂；你好
 gearbox [ˈɡɪrbɑːks] noun 變速箱；齒輪箱
-geared [ɡɪrd] adjective 1.旨在；適合於 2.（為…）做好準備，準備好
+geared [ɡɪrd] adjective 1.geared to/towards sth|geared to do sth旨在；適合於 2.geared up (for sth)|geared up (to do sth)（為…）做好準備，準備好
 gearhead [ˈɡɪrhed] noun (informal)設備發燒友（指對汽車或新科技設備着迷者）
-gearing [ˈɡɪrɪŋ] noun 1.(BrE)資本與負債比率；聯動比率 2.齒輪裝置；傳動裝置
+gearing [ˈɡɪrɪŋ] noun 1.(BrE)(財)資本與負債比率；聯動比率 2.齒輪裝置；傳動裝置
 gecko [ˈɡekoʊ] noun 壁虎
 geddit? [ˈɡedɪt] abbreviation (informal)（指笑話）明白了嗎
-gee-gee  noun (BrE) (informal)馬兒
-geezer [ˈɡiːzər] noun 1.(BrE)男人；傢伙 2.(NAmE)怪老頭；老傢伙
+gee-gee  noun (BrE) (informal)(尤為兒語或對兒童說話時用)馬兒
+geezer [ˈɡiːzər] noun (informal)1.(BrE)男人；傢伙 2.(NAmE)怪老頭；老傢伙
 geisha [ˈɡeɪʃə] noun 藝伎（陪男子聊天、表演歌舞的日本女子）
 gelatinous [dʒəˈlætɪnəs] adjective 明膠的；膠狀的
 geld [ɡeld] verb (術語)geld sth閹割（雄性動物，尤指馬）；給（動物）去勢
 gelding [ˈɡeldɪŋ] noun 閹割的馬；去勢的馬
 gelignite [ˈdʒelɪɡnaɪt] noun 葛里炸藥；硝銨炸藥；炸膠
 geminate [ˈdʒemɪneɪt] adjective (語音)(語音)雙音的，雙輔音的（如 backcomb 中的/kk/）
-gen [dʒen] noun (old-fashioned) (BrE informal)消息；情報；資料 verb 
+gen [dʒen] noun (old-fashioned) (BrE informal)gen(on sth)消息；情報；資料
 gendarme [ˈʒɑːndɑːrm] noun (from French)（法國的）警察，憲兵
 gender-specific  adjective 女（或男）性特有的；與某一性別有關的
 genealogist [ˌdʒiːniˈælədʒɪst] noun 家譜學者；系譜學家；宗譜學家
@@ -4630,15 +4623,15 @@ generalist [ˈdʒenrəlɪst] noun 多面手；全才；通才
 general-purpose  adjective 多用途的；多功能的
 generalship [ˈdʒenrəlʃɪp] noun 指揮作戰；將軍職能
 generative [ˈdʒenərətɪv] adjective (formal)有生產力的；能生產的；有生殖力的
-genet [ˈdʒenɪt] noun （棲息於非洲、歐洲南部和亞洲）
-genitive [ˈdʒenətɪv] noun (語法)屬格；所有格
+genet [ˈdʒenɪt] noun 𧴌（棲息於非洲、歐洲南部和亞洲）
+genitive [ˈdʒenətɪv] noun (語法)(用於某些語言)屬格；所有格
 genotype [ˈdʒenətaɪp] noun (生)基因型
 gentian [ˈdʒenʃn] noun 龍膽；龍膽草
 gentile [ˈdʒentaɪl] noun 非猶太人；外邦人（猶太人對非猶太人的通稱）
 gentlefolk [ˈdʒentlfoʊk] noun (old-fashioned)（舊時）出身名門世家的人
 gentlemanly [ˈdʒentlmənli] adjective (approving)彬彬有禮的；紳士風度的；紳士派頭的
 gentlewoman [ˈdʒentlwʊmən] noun 1.(old use)貴婦人；有教養的婦女；淑女 2.(NAmE)（對立法機構女議員的稱呼）女士，夫人
-gentrify [ˈdʒentrɪfaɪ] verb [usually passive]gentrify sth/sb使（地區、人等）貴族化；對（地區、人等）進行改造以適應較高階層的人
+gentrify [ˈdʒentrɪfaɪ] verb gentrify sth/sb使（地區、人等）貴族化；對（地區、人等）進行改造以適應較高階層的人
 geocentric [ˌdʒiːoʊˈsentrɪk] adjective (術語)以地球為中心的
 geodesic [ˌdʒiːoʊˈdesɪk] adjective (術語)（連接兩點的）曲面最短線的；測地線的
 geomagnetism [ˌdʒiːoʊˈmæɡnətɪzəm] noun (地)地磁學
@@ -4651,11 +4644,10 @@ geriatrician [ˌdʒeriəˈtrɪʃn] noun 老年病科醫師；老年病學專家
 germanium [dʒɜːrˈmeɪniəm] noun 鍺
 gerontologist [ˌdʒerənˈtɑːlədʒɪst] noun (especially NAmE)老年學專家
 gerund [ˈdʒerənd] noun (語法)動名詞
-gestalt [ɡəˈʃtælt] noun (心)格式塔，完形（即有別於其內部個體單位、作為單一體系的一系列思想、經驗等）
+gestalt [ɡəˈʃtælt] noun (from German)(心)格式塔，完形（即有別於其內部個體單位、作為單一體系的一系列思想、經驗等）
 gestation [dʒeˈsteɪʃn] noun 1.妊娠（期）；懷孕（期） 2.(formal)（想法、計劃的）構思，醞釀，孕育
 gesundheit [ɡəˈzʊndhaɪt] exclamation (NAmE, from German)（別人打噴嚏時說）祝你健康
 get-out  noun (BrE) (informal)迴避（責任或義務）的辦法；藉口
-getting [ˈɡetɪŋ] noun 
 get-together  noun (informal)（非正式的）聚會；聯歡會
 get-up  noun (old-fashioned, informal)（尤指奇特的）一套衣服，穿戴，裝束
 get-up-and-go  noun (informal)幹勁；進取心；魄力；膽量
@@ -4663,16 +4655,16 @@ gewgaw [ˈɡjuːɡɔː] noun 花哨無用的物品；徒有其表的東西
 ghagra [ˈɡʌɡrɑː] noun （南亞婦女穿的）筒裙
 gharara [ɡʌˈrɑːrə] noun （南亞婦女配克米茲和圍巾穿的）加格拉喇叭褲
 gharial [ˈɡeriəl] noun 恆河鱷（棲於南亞）
-ghat [ɡɑːt] noun 1.河堤（或湖邊）的台階 2.山路；山道 3.高止山脈（在印度東、西海岸附近）
+ghat [ɡɑːt] noun (IndE)1.河堤（或湖邊）的台階 2.山路；山道 3.Ghats高止山脈（在印度東、西海岸附近）
 ghee [ɡiː] noun 印度酥油（用牛乳製成）
 gherkin [ˈɡɜːrkɪn] noun 1.(BrE)醋泡小黃瓜 2.(NAmE)小黃瓜
 ghosting [ˈɡoʊstɪŋ] noun （電視、電腦等屏幕上的）重像
-ghostwrite [ˈɡoʊstraɪt] verb [transitive, often passive, intransitive]ghostwrite(sth)代人寫作；為人捉刀；代寫
+ghostwrite [ˈɡoʊstraɪt] verb [often passive]ghostwrite(sth)代人寫作；為人捉刀；代寫
 ghostwriter [ˈɡoʊstraɪtər] noun 代人寫作者；代筆者；捉刀人
 ghoul [ɡuːl] noun 1.（傳說中的）盜墓食屍鬼 2.(disapproving)對兇殘之事興趣濃厚的人
 giantess [ˌdʒaɪənˈtes] noun （故事中的）女巨人
-giant-killer  noun (BrE)打敗強大對手的人（或隊）；強手（或強隊）的剋星
-gibber [ˈdʒɪbər] verb [intransitive, transitive](+ speech)（常因害怕而）急促不清地說，語無倫次地說
+giant-killer  noun (BrE)(尤用於體育運動)打敗強大對手的人（或隊）；強手（或強隊）的剋星
+gibber [ˈdʒɪbər] verb (+ speech)（常因害怕而）急促不清地說，語無倫次地說
 gibberish [ˈdʒɪbərɪʃ] noun (informal)莫名其妙的話；胡話；令人費解的話
 gibbet [ˈdʒɪbɪt] noun (old-fashioned)絞刑架；絞台
 gibbon [ˈɡɪbən] noun 長臂猿（棲息於東南亞）
@@ -4680,9 +4672,9 @@ gibbous [ˈɡɪbəs] adjective (術語)(月球)光亮部份大於半圓的；盈
 giblets [ˈdʒɪbləts] noun （禽類的）內臟
 giddy-up  exclamation （趕馬的吆喝）駕
 gift-wrap  verb [often passive]gift-wrap sth（尤指商店裏）將…包裝成禮品
-gigabit [ˈɡɪɡəbɪt] noun 1.十億比特，吉比特，千兆比特（十進制計算機內存或數據單位，等於 1 000 000 000 比特） 2.吉比特，千兆比特（二進制計算機內存或數據單位，等於 1 073 741 824 比特）
-gigabyte [ˈɡɪɡəbaɪt] noun 1.十億字節，吉字節，千兆字節（十進制計算機內存或數據單位，等於 1 000 000 000 字節） 2.吉字節，千兆字節（二進制計算機內存或數據單位，等於 1 073 741 824 字節）
-gigahertz [ˈɡɪɡəhɜːrts] noun (計)十億赫，吉赫，千兆赫（無線電波頻率和計算機運作速度單位，等於 1 000 000 000 赫）
+gigabit [ˈɡɪɡəbɪt] noun (計)1.十億比特，吉比特，千兆比特（十進制計算機內存或數據單位，等於 1 000 000 000 比特） 2.吉比特，千兆比特（二進制計算機內存或數據單位，等於 1 073 741 824 比特）
+gigabyte [ˈɡɪɡəbaɪt] noun (計)1.十億字節，吉字節，千兆字節（十進制計算機內存或數據單位，等於 1 000 000 000 字節） 2.吉字節，千兆字節（二進制計算機內存或數據單位，等於 1 073 741 824 字節）
+gigahertz [ˈɡɪɡəhɜːrts] noun (計)(物)十億赫，吉赫，千兆赫（無線電波頻率和計算機運作速度單位，等於 1 000 000 000 赫）
 gigantism [dʒaɪˈɡæntɪzəm] noun (醫)巨人症
 giggly [ˈɡɪɡli] adjective 咯咯傻笑的；緊張得咯咯笑的
 gigolo [ˈʒɪɡəloʊ] noun 舞男；面首
@@ -4691,7 +4683,7 @@ gilet [ˈʒɪleɪ] noun 厚夾克背心
 gillie [ˈɡɪli] noun (ScotE)（蘇格蘭漁獵運動者的）隨從，侍童，男僕
 gilt-edged  adjective (財)金邊的；安全的；高度可靠的
 gimcrack [ˈdʒɪmkræk] adjective 粗製濫造的；劣質的；無價值的
-gimlet [ˈɡɪmlət] noun (figurative)螺絲錐；手錐；手鑽；木鑽
+gimlet [ˈɡɪmlət] noun 螺絲錐；手錐；手鑽；木鑽
 gimme [ˈɡɪmi]  （give me 的一種書寫形式，表示此短語某些時候的讀法）給我 noun 輕而易舉的事；容易獲得的事物
 gimmickry [ˈɡɪmɪkri] noun (disapproving)玩弄銷售伎倆；耍花招
 gingery [ˈdʒɪndʒəri] adjective 薑色的；薑味的
@@ -4709,7 +4701,7 @@ giveback [ˈɡɪvbæk] noun (NAmE)福利歸還（工人同意在某段時間接�
 gizzard [ˈɡɪzərd] noun （鳥的）砂囊，胗，肫
 glaciation [ˌɡleɪsiˈeɪʃn] noun (地)冰川作用；冰蝕
 gladden [ˈɡlædn] verb (old-fashioned)使高興；使愉快；使喜悅
-glad-hand  verb (尤指政客)熱情招呼；尤指假意歡迎
+glad-hand  verb glad-hand(sb)(尤指政客)熱情招呼；尤指假意歡迎
 gladiolus [ˌɡlædiˈoʊləs] noun 唐菖蒲；菖蘭；劍蘭
 gladness [ˈɡlædnəs] noun (literary)高興；愉快；快樂
 glamorize [ˈɡlæməraɪz] verb (usually disapproving)glamorize sth使有魅力；使有刺激性；美化
@@ -4717,16 +4709,16 @@ glancing [ˈɡlænsɪŋ] adjective 斜擦而過的；擊偏的
 glans [ɡlænz] noun (解)陰莖頭；龜頭；陰蒂
 glass-blowing  noun 玻璃吹製（術）；吹玻璃
 glassful [ˈɡlæsfʊl] noun 一玻璃杯（的量）
-glasshouse [ˈɡlæshaʊs] noun 1.玻璃暖房；溫室 2.(slang)軍事監獄
+glasshouse [ˈɡlæshaʊs] noun (BrE)1.玻璃暖房；溫室 2.(slang)軍事監獄
 glaucoma [ɡlaʊˈkoʊmə] noun 青光眼
 glazier [ˈɡleɪʒər] noun 鑲玻璃的工人
 gleanings [ˈɡliːnɪŋz] noun （費力從多處）收集的信息（或知識等）
-glebe [ɡliːb] noun 1.（舊時）作為牧師俸祿來源的土地 2.土地；田地
+glebe [ɡliːb] noun (old use)1.（舊時）作為牧師俸祿來源的土地 2.土地；田地
 glen [ɡlen] noun （尤指蘇格蘭或愛爾蘭的）峽谷
 gliding [ˈɡlaɪdɪŋ] noun 滑翔運動
 glissando [ɡlɪˈsændoʊ] noun (from Italian)滑奏
 glister [ˈɡlɪstər] verb (literary)閃耀；閃亮；熠熠生輝
-glitterati [ˌɡlɪtəˈrɑːti] noun 報章用語
+glitterati [ˌɡlɪtəˈrɑːti] noun (報章用語)時髦人物；風雲人物；知名人士
 glittery [ˈɡlɪtəri] adjective 燦爛奪目的；閃閃發光的；華麗的
 glitz [ɡlɪts] noun (sometimes disapproving)耀眼；華麗；浮華
 glob [ɡlɑːb] noun (informal)一小滴；一小團
@@ -4734,8 +4726,8 @@ globetrotting [ˈɡloʊbtrɑːtɪŋ] adjective (informal)環球旅行的；周�
 globule [ˈɡlɑːbjuːl] noun （液體或熔化了的固體的）小滴，小球體
 glocalization [ˌɡloʊkəlaɪˈzeɪʃn] noun 全球本土化，全球地域一體化，全球地方化（使世界各地的產品或服務適合本地需求）
 glockenspiel [ˈɡlɑːkənʃpiːl] noun 鐘琴
-glom [ɡlɑːm] verb 1.對…產生強烈的興趣 2.粘住
-gloop [ɡluːp] noun (BrE)（難看、味道差或令人惡心的）黏稠物
+glom [ɡlɑːm] verb glom sth(NAmE) (informal)盜竊；竊取
+gloop [ɡluːp] noun (BrE)(informal)（難看、味道差或令人惡心的）黏稠物
 glop [ɡlɑːp] noun (informal) (especially NAmE)（難看、味道差或令人惡心的）黏稠物
 glorified [ˈɡlɔːrɪfaɪd] adjective 吹捧的；吹噓的；美化的
 glottal [ˈɡlɑːtl] noun (語音)聲門音；喉音
@@ -4745,7 +4737,7 @@ glowstick [ˈɡloʊstɪk] noun 熒光棒
 glow-worm  noun 發光蟲
 glue-sniffing  noun 吸膠毒，吸膠（為產生興奮而吸入某些類膠中氣體的習慣）
 gluey [ˈɡluːi] adjective 膠黏的；塗滿膠的
-glug [ɡlʌɡ] verb 1.液體 2.大口喝 noun 倒出的少量飲料（或液體）
+glug [ɡlʌɡ] verb 1.(液體)（尤指從瓶中）汩汩地倒出來 2.glug sth (down)大口喝 noun 倒出的少量飲料（或液體）
 glum [ɡlʌm] adjective 憂鬱的；死氣沉沉的；悶悶不樂的
 gluten [ˈɡluːtn] noun 穀蛋白；麪筋
 glutes [ɡluːts] noun (informal)臀大肌
@@ -4754,21 +4746,20 @@ glutton [ˈɡlʌtn] noun 1.(disapproving)貪吃者；吃得過多的人；饕餮
 gluttony [ˈɡlʌtəni] noun 暴食；暴飲；貪食
 glycerine [ˈɡlɪsərən] noun (especially BrE)甘油，丙三醇（用於藥物、美容產品和炸藥）
 glyph [ɡlɪf] noun 石雕符號；象形文字
-gnarly [ˈnɑːrli] adjective 1.呱呱叫的；極好的 2.不太好
-gnash [næʃ] verb 
+gnarly [ˈnɑːrli] adjective (NAmE) (slang)1.呱呱叫的；極好的 2.不太好
 gnashers [ˈnæʃərz] noun (BrE) (informal)牙齒
 gneiss [naɪs] noun (地)片麻岩（地層深處在高壓高溫下形成的變質岩）
 gnocchi [ˈnjɑːki] noun 意大利糰子（用麪粉和馬鈴薯做成）
 go-ahead  noun (informal)批准；許可 adjective 有進取心的；有開拓精神的
-goalkeeper [ˈɡoʊlkiːpər] noun informal守門員
-goalless [ˈɡoʊlləs] adjective (BrE)零比零的
+goalkeeper [ˈɡoʊlkiːpər] noun (足球、曲棍球等)守門員
+goalless [ˈɡoʊlləs] adjective 零比零的
 goalmouth [ˈɡoʊlmaʊθ] noun 球門口
 goalpost [ˈɡoʊlpoʊst] noun 球門柱
 goalscorer [ˈɡoʊlskɔːrər] noun （體育比賽的）得分隊員，得分射手，得分者
 go-around  noun 1.(術語)（飛機降落失敗後的）復飛路線 2.(NAmE) (informal)爭論；爭吵
 goatherd [ˈɡoʊthɜːrd] noun 牧羊人；羊倌
 goatskin [ˈɡoʊtskɪn] noun 山羊皮革
-gob [ɡɑːb] noun 1.(BrE)嘴（粗俗說法） 2.少許（黏濕的物質） 3.(NAmE)大量 verb (BrE) (slang)吐，啐（唾液）
+gob [ɡɑːb] noun (slang)1.(BrE)嘴（粗俗說法） 2.少許（黏濕的物質） 3.(NAmE)大量 verb (BrE) (slang)吐，啐（唾液）
 gobbet [ˈɡɑːbɪt] noun (old-fashioned)少量；一點點
 gobbledegook [ˈɡɑːbldiɡuːk] noun (informal)（尤指用於正式文件中的）令人費解的文字，官樣文章
 go-between  noun 中間人
@@ -4780,13 +4771,13 @@ godchild [ˈɡɑːdtʃaɪld] noun 教子（或女）；代子（或女）
 goddam [ˈɡɑːddæm] adjective (taboo, slang)（表示氣憤或煩惱的詛咒語，許多人認為此用法含冒犯意）該死，討厭，十足，極其
 god-daughter  noun 教女；代女
 godforsaken [ˈɡɑːdfərseɪkən] adjective (地方)乏味的；沉悶的；醜陋的
-godhead [ˈɡɑːdhed] noun (formal)（基督教中指上帝，包括聖父、聖子和聖靈）上帝
+godhead [ˈɡɑːdhed] noun (formal)the Godhead（基督教中指上帝，包括聖父、聖子和聖靈）上帝
 godless [ˈɡɑːdləs] adjective 不信神的；不敬上帝的
 godlike [ˈɡɑːdlaɪk] adjective 上帝般的；如神的；神聖的
 godly [ˈɡɑːdli] adjective (old-fashioned)虔誠的；敬畏上帝的；高尚的
 godown [ˈɡoʊdaʊn] noun (IndE)倉庫
 godparent [ˈɡɑːdperənt] noun 教父（或母）；代父（或母）
-godsend [ˈɡɑːdsend] noun [singular]godsend(for sb/sth)|godsend(to sb/sth)天賜之物；意外的好運；及時雨
+godsend [ˈɡɑːdsend] noun godsend(for sb/sth)|godsend(to sb/sth)天賜之物；意外的好運；及時雨
 godson [ˈɡɑːdsʌn] noun 教子；代子
 goer [ˈɡoʊər] noun 1.(構成複合詞)常去…的人 2.(BrE) (informal)放蕩的女人；騷貨；破鞋
 gofer [ˈɡoʊfər] noun (informal)勤雜員；跑腿的辦事員
@@ -4796,10 +4787,10 @@ goggle-box  noun (BrE) (old-fashioned, informal)電視機
 goggle-eyed  adjective （尤指由於驚恐而）瞪大眼睛的，瞪着眼的
 goggles [ˈɡɑːɡlz] noun 護目鏡；風鏡；游泳鏡
 go-go  adjective 1.歌歌舞的（跳舞的女子衣着暴露） 2.(NAmE) (informal)生意興隆的；賺大錢的
-gogo [ˈɡɔːɡɔː] noun 1.祖母；外婆 2.（稱呼有禮貌、有愛心的老年女士）老婆婆，大娘
-going-over  noun 1.徹底檢查；仔細審查 2.痛打
+gogo [ˈɡɔːɡɔː] noun (SAfrE)1.祖母；外婆 2.（稱呼有禮貌、有愛心的老年女士）老婆婆，大娘
+going-over  noun (informal)1.徹底檢查；仔細審查 2.痛打
 goings-on  noun (informal)異常情況；令人吃驚的活動（或事情）；見不得人的勾當
-goitre [ˈɡɔɪtər] noun especially US甲狀腺腫
+goitre [ˈɡɔɪtər] noun 甲狀腺腫
 go-kart [ˈɡoʊ kɑːrt] noun (BrE)（無篷無門的）微型賽車
 goldcrest [ˈɡoʊldkrest] noun 金冠戴菊鳥（頭頂有直立的黃羽毛）
 gold-digger  noun (informal, disapproving)以色相騙取錢財的人
@@ -4809,38 +4800,38 @@ gold-plated  adjective 鍍金的
 goldsmith [ˈɡoʊldsmɪθ] noun 金匠；金器商
 golem [ˈɡoʊləm] noun 1.(猶太傳說)有生命的泥人 2.機器人
 golfing [ˈɡɑːlfɪŋ] adjective 打高爾夫球的；與高爾夫球有關的
-golliwog [ˈɡɑːliwɑːɡ] noun informal黑臉短髮布娃娃（現在常被認為會冒犯黑人）
+golliwog [ˈɡɑːliwɑːɡ] noun 黑臉短髮布娃娃（現在常被認為會冒犯黑人）
 golly [ˈɡɑːli] exclamation (old-fashioned, informal)（表示驚奇）天哪，啊
 gonad [ˈɡoʊnæd] noun (解)性腺；睾丸；卵巢
 gondolier [ˌɡɑːndəˈlɪr] noun 威尼斯小划船船夫
-gone [ɡɔːn] adjective 1.物品 2.人 3.(formal)不復存在；一去不復返 4.(BrE) (informal)懷孕…時間了 preposition (BrE) (informal)晚於；已過
+gone [ɡɔːn] adjective 1.(物品) 用完了；用光了2.(人)走了；離開了；不在 3.(formal)不復存在；一去不復返 4.(BrE) (informal)懷孕…時間了 preposition (BrE) (informal)晚於；已過
 goner [ˈɡɔːnər] noun (informal)垂死的人；快完蛋的人；無法挽救的人
 gonna [ˈɡɔːnə]  (informal, non-standard)即將，將要（非正式用語，即 going to）
 gonorrhoea [ˌɡɑːnəˈriːə] noun (BrE)淋病
 good-for-nothing  noun (informal)懶人；無用之人
 good-hearted  adjective 善良的；好心的；樂於助人的
-goodish [ˈɡʊdɪʃ] adjective 1.尚好的；不錯的 2.相當大的；相當多的
+goodish [ˈɡʊdɪʃ] adjective (BrE) (informal)1.尚好的；不錯的 2.相當大的；相當多的
 goodly [ˈɡʊdli] adjective 1.(old-fashioned, formal)相當大的；相當多的 2.(old use)漂亮的；好看的；高質量的
 good-neighbourliness  noun (BrE)睦鄰關係
 goodo [ˈɡʊdoʊ] adjective (AustralE, NZE) (informal)好的；令人滿意的
 good-tempered  adjective 脾氣好的；快活的；和藹的
 good-time  adjective 一味追求享樂的；只顧玩樂的
-goody [ˈɡʊdi] noun 1.好吃的東西 2.誘人的東西；人們渴望得到的東西 3.（尤指書和電影中的）正面人物，主人公，好人 exclamation (becoming old-fashioned)（孩童用語）好哇，太好了
-goody-goody  noun (尤為兒語)善於討好賣乖的人
+goody [ˈɡʊdi] noun (informal)1.好吃的東西 2.誘人的東西；人們渴望得到的東西 3.（尤指書和電影中的）正面人物，主人公，好人 exclamation (becoming old-fashioned)（孩童用語）好哇，太好了
+goody-goody  noun (informal, disapproving)(尤為兒語)善於討好賣乖的人
 goody-two-shoes  noun (informal, disapproving)潔身自好的人；嚴於律己責他的人
 goofball [ˈɡuːfbɔːl] noun (NAmE) (informal)傻瓜；蠢人
 goof-off  noun (NAmE) (slang)逃避工作（或責任）的人；懶漢
 goog [ɡuːɡ] noun (AustralE, NZE) (informal)蛋
-google [ˈɡuːɡl] verb (計)[transitive, intransitive]google(sb/sth)用谷歌搜索引擎搜索（字、詞等）
-googly [ˈɡuːɡli] noun (figurative)變向曲線球
-googol [ˈɡuːɡɔːl] noun (數)古戈爾（= 10100）；大數
+google [ˈɡuːɡl] verb (計)google(sb/sth)用谷歌搜索引擎搜索（字、詞等）
+googly [ˈɡuːɡli] noun (板球)變向曲線球
+googol [ˈɡuːɡɔːl] noun (數)古戈爾（= 10^100）；大數
 gook [ɡuːk] noun 1.(informal)黏乎乎的髒東西 2.(NAmE) (taboo, slang)（蔑稱）東南亞人
 goolie [ˈɡuːli] noun (BrE) (slang)睾丸
 gooseberry [ˈɡuːsberi] noun 醋栗
 goose-step  noun (often disapproving)正步
-gopher [ˈɡoʊfər] noun 1.囊地鼠；囊鼠 2.
+gopher [ˈɡoʊfər] noun 1.囊地鼠；囊鼠 2.=gofer
 gora [ˈɡɔːrə] noun （南亞用語）白人
-gore [ɡɔːr] verb 動物 noun （尤指在暴力情況下）傷口流出的血，凝固的血
+gore [ɡɔːr] verb gore sb/sth(動物)（用角或長牙）頂傷，戳傷 noun （尤指在暴力情況下）傷口流出的血，凝固的血
 gorgon [ˈɡɔːrɡən] noun 1.戈耳工蛇髮女怪（古希臘神話中三個蛇髮女怪之一，人見之即化為石頭） 2.醜陋兇惡的女人
 gormless [ˈɡɔːrmləs] adjective (BrE) (informal)愚蠢的；傻的；沒頭沒腦的
 gorp [ɡɔːrp] noun (NAmE)什錦乾果果仁
@@ -4864,15 +4855,15 @@ graded [ˈɡreɪdɪd] adjective （按難度、大小等）分級的
 gradiometer [ˌɡreɪdiˈɑːmɪtər] noun 1.(術語)坡度測量儀 2.(物)重力梯度儀
 gradualism [ˈɡrædʒuəlɪzəm] noun （社會改革上的）漸進主義，漸進主義政策
 grail [ɡreɪl] noun 1.聖杯（據信為耶穌離世前所用） 2.渴望但永遠得不到的東西；努力追求但永遠不可能實現的目標（或理想）
-grained [ɡreɪnd] adjective 1.有紋理的 2.質地…的
+grained [ɡreɪnd] adjective (木、石等)1.有紋理的 2.質地…的
 grammarian [ɡrəˈmeriən] noun 語法學家
 gran [ɡræn] noun (BrE) (informal)奶奶；姥姥
-grandad [ˈɡrændæd] noun especially in NAmE爺爺；姥爺
-granddaddy [ˈɡrændædi] noun 1. 2.（某事物的）老祖宗，祖師爺
+grandad [ˈɡrændæd] noun (informal)爺爺；姥爺
+granddaddy [ˈɡrændædi] noun (NAmE) (informal)1.=grandfather 2.（某事物的）老祖宗，祖師爺
 grandee [ɡrænˈdiː] noun 1.（舊時西班牙或葡萄牙的）大公 2.大人物；顯要人物
 grandiloquent [ɡrænˈdɪləkwənt] adjective (formal, disapproving)賣弄辭藻的；言辭浮誇的
-grandstanding [ˈɡrænstændɪŋ] noun (NAmE)譁眾取寵；炫耀
-grange [ɡreɪndʒ] noun (BrE)農莊；莊園
+grandstanding [ˈɡrænstændɪŋ] noun (NAmE)(尤指在商業、政治等方面)譁眾取寵；炫耀
+grange [ɡreɪndʒ] noun (BrE)(常作名稱的一部份)農莊；莊園
 granita [ɡrəˈniːtə] noun (from Italian)碎冰飲料；沙冰
 granola [ɡrəˈnoʊlə] noun (especially NAmE)格蘭諾拉麥片（用烘烤過的穀類、堅果等配製成的早餐食品） adjective (NAmE) (informal)講求身心健康的（吃得健康、支持環保、思想開明）
 grant-in-aid  noun （給地方政府、機構或學者的）撥款，研究資助
@@ -4887,8 +4878,8 @@ grassed [ɡræst] adjective 長滿草的；被草覆蓋的
 grater [ˈɡreɪtər] noun 礤牀兒，磨碎器（廚房用具）
 gratin [ˈɡrætn] noun (from French)脆皮烙菜（表面為乾酪或麪包屑）
 gravedigger [ˈɡreɪvdɪɡər] noun 掘墓人
-gravelled [ˈɡrævld] adjective US(道路等)礫石鋪的
-gravelly [ˈɡrævəli] adjective 1.沙礫多的；含沙礫的；含碎石的 2.嗓音
+gravelled [ˈɡrævld] adjective (道路等)礫石鋪的
+gravelly [ˈɡrævəli] adjective 1.沙礫多的；含沙礫的；含碎石的 2.(嗓音)低沉沙啞的
 gravid [ˈɡrævɪd] adjective (術語)懷孕的
 gravitas [ˈɡrævɪtɑːs] noun (formal)嚴肅；莊嚴
 grazier [ˈɡreɪziər] noun 牧場主；放牧者
@@ -4900,19 +4891,19 @@ greenback [ˈɡriːnbæk] noun (NAmE) (informal)美鈔
 greenfield [ˈɡriːnfiːld] adjective (BrE)未開發地區的；地產發展規劃區的；綠色開發區的
 greenfly [ˈɡriːnflaɪ] noun 蚜蟲
 greengage [ˈɡriːnɡeɪdʒ] noun 西洋李；青梅子；青李子
-greengrocer [ˈɡriːnɡroʊsər] noun 1.果菜商 2.蔬菜水果店
-greenkeeper [ˈɡriːnkiːpər] noun NAmE also高爾夫球場看管人
+greengrocer [ˈɡriːnɡroʊsər] noun (especially BrE)1.果菜商 2.greengrocer's蔬菜水果店
+greenkeeper [ˈɡriːnkiːpər] noun 高爾夫球場看管人
 greensward [ˈɡriːnswɔːrd] noun (literary)草坪；草地
 greenwash [ˈɡriːnwɔːʃ] noun (disapproving)綠色外衣，綠色粉飾，環保幌子，漂綠（指公司或機構假借環保之名進行宣傳）
 greeter [ˈɡriːtər] noun (especially NAmE)（餐館、商店等處的）門迎，迎賓
 gremlin [ˈɡremlɪn] noun （機器停止運轉時人們所責怪假想的）小精靈
 grenadier [ˌɡrenəˈdɪr] noun 英國近衞步兵團的士兵
 grenadine [ˈɡrenədiːn] noun 石榴汁飲料（飲用時摻水或酒）
-greybeard [ˈɡreɪbɪrd] noun (especially BrE)老頭兒；老翁
+greybeard [ˈɡreɪbɪrd] noun (especially BrE)(informal)老頭兒；老翁
 grey-haired  adjective (especially BrE)頭髮灰白的；頭髮花白的
-greyhound [ˈɡreɪhaʊnd] noun 靈（身細長、腿長、毛滑、善跑的大賽狗）
+greyhound [ˈɡreɪhaʊnd] noun 靈𤟥（身細長、腿長、毛滑、善跑的大賽狗）
 greyish [ˈɡreɪɪʃ] adjective (especially BrE)帶灰色的；淺灰色的
-greyscale [ˈɡreɪskeɪl] adjective 1.圖像 2.打印機或掃描儀
+greyscale [ˈɡreɪskeɪl] adjective (術語)1.(圖像)灰度的；灰色調的 2.(打印機或掃描儀)灰度的
 griddle [ˈɡrɪdl] noun 鏊子（圓形平底鐵鍋）
 grief-stricken  adjective （尤因某人的去世而）極度悲傷的，悲痛欲絕的
 griffin [ˈɡrɪfɪn] noun （神話故事中的）獅身鷹首獸
@@ -4923,7 +4914,6 @@ grindstone [ˈɡraɪndstoʊn] noun 磨石；砂輪
 gringo [ˈɡrɪŋɡoʊ] noun (informal, disapproving)美國佬（在拉丁美洲國家使用）
 griot [ˈɡriːoʊ] noun （西非，尤指舊時的）部族史（或傳統）說唱藝人
 griping [ˈɡraɪpɪŋ] adjective 腸（或胃）絞痛的
-grist [ɡrɪst] noun 
 grits [ɡrɪts] noun （美國南部吃的）粗玉米粉，玉米
 gritter [ˈɡrɪtər] noun (BrE)鋪沙機，撒鹽車，撒沙車（在結冰的路面上使用）
 grizzle [ˈɡrɪzl] verb (BrE) (informal)(尤指嬰兒或小孩)不斷地啼哭；哭哭啼啼地纏人
@@ -4932,7 +4922,7 @@ groat [ɡroʊt] noun 格羅特（歐洲舊時銀幣）
 grog [ɡrɑːɡ] noun 1.格洛格酒（用朗姆酒兌水製成的烈酒） 2.(informal) (AustralE, NZE)酒（尤指啤酒）
 grok [ɡrɑːk] verb (US) (slang)grok sth通過感覺意會
 grommet [ˈɡrɑːmɪt] noun 1.（織物或皮革上用以加固扣眼的）金屬環，金屬圈 2.(BrE)鼓室通氣管；中耳引流管
-groomed [ɡruːmd] adjective (通常用於副詞之後)通常用於副詞之後
+groomed [ɡruːmd] adjective (通常用於副詞之後)（描述穿着打扮情況）
 grooming [ˈɡruːmɪŋ] noun 1.打扮；裝束；刷洗；（給動物）梳毛 2.勾引幼童（尤指通過網絡與兒童交友以達到發生性關係的目的）
 groomsman [ˈɡruːmzmən] noun (NAmE)男儐相；伴郎
 grooved [ɡruːvd] adjective 有溝的；有槽的
@@ -4941,21 +4931,21 @@ gross-out  noun (especially NAmE) (informal)令人厭惡的東西；倒胃口的
 grot [ɡrɑːt] noun (BrE) (informal)討厭（或骯髒、劣質）的東西
 grotty [ˈɡrɑːti] adjective (BrE) (informal)令人討厭的；令人不悅的；低劣的
 groundbreaking [ˈɡraʊndbreɪkɪŋ] adjective 開創性的；創新的；革新的
-grounder [ˈɡraʊndər] noun 棒球
+grounder [ˈɡraʊndər] noun (棒球)地滾球；地面球
 groundless [ˈɡraʊndləs] adjective 無理由的；無根據的
 groundsel [ˈɡraʊnsl] noun 千里光，縐葉菊（開黃花，有時用作動物和鳥的飼料）
 groundsheet [ˈɡraʊndʃiːt] noun (BrE)（帳篷內鋪地用的）防潮布
 groundsman [ˈɡraʊndzmən] noun (especially BrE)運動場地（或大花園）管理員
-groundstroke [ˈɡraʊndstroʊk] noun 網球
-groundswell [ˈɡraʊndswel] noun (formal)[singular]groundswell(of sth)（群體情緒的）迅速高漲
+groundstroke [ˈɡraʊndstroʊk] noun (網球)落地球（球落地彈起之後的一擊）
+groundswell [ˈɡraʊndswel] noun (formal)groundswell(of sth)（群體情緒的）迅速高漲
 grouping [ˈɡruːpɪŋ] noun 1.小集團；小團體；小圈子 2.分組；歸類
 groupware [ˈɡruːpwer] noun (計)群件，協同件，組件，小組軟體（協調網絡小組工作的軟件平台）
 grout [ɡraʊt] noun （用於牆上瓷磚間抹縫的）勾縫劑，薄膠泥
 growbag [ˈɡroʊbæɡ] noun 栽培袋，植物生長袋（盛滿泥土的大塑料袋）
 grower [ˈɡroʊər] noun 1.栽培者；種植商；種植公司 2.（以…方式）生長的植物
 growing [ˈɡroʊɪŋ] adjective 增加的；增長的；增強的
-groyne [ɡrɔɪn] noun especially US防波堤，折流壩（防止海浪侵蝕海灘沙石的矮牆）
-grubber [ˈɡrʌbər] noun 板球
+groyne [ɡrɔɪn] noun 防波堤，折流壩（防止海浪侵蝕海灘沙石的矮牆）
+grubber [ˈɡrʌbər] noun (板球)地滾球
 grubby [ˈɡrʌbi] adjective 1.骯髒的；邋遢的；污穢的 2.卑鄙的；可鄙的
 gruel [ˈɡruːəl] noun （尤指舊時窮人吃的）稀粥，燕麥粥
 gruelling [ˈɡruːəlɪŋ] adjective (especially BrE)使人筋疲力盡的；折磨人的
@@ -4985,12 +4975,12 @@ gumball [ˈɡʌmbɔːl] noun (NAmE)球形口香糖
 gumboil [ˈɡʌmbɔɪl] noun 齦膿腫
 gumdrop [ˈɡʌmdrɑːp] noun 膠姆糖；橡皮糖
 gummed [ɡʌmd] adjective (郵票、紙張等)塗膠的；帶黏膠的
-gummy [ˈɡʌmi] adjective 1.黏性的；塗有黏膠的 2.（微笑時）露齒齦的
-gumption [ˈɡʌmpʃn] noun 1.機智；老練；精明 2.勇氣；膽力；決心
+gummy [ˈɡʌmi] adjective (informal)1.黏性的；塗有黏膠的 2.（微笑時）露齒齦的
+gumption [ˈɡʌmpʃn] noun (old-fashioned, informal)1.機智；老練；精明 2.勇氣；膽力；決心
 gumshield [ˈɡʌmʃiːld] noun (BrE)（運動員口中所含的）護齒
 gunboat [ˈɡʌnboʊt] noun 炮艇；炮艦
 gunfight [ˈɡʌnfaɪt] noun 槍戰；炮戰
-gunge [ɡʌndʒ] noun (BrE)骯髒討厭的黏性物質；黏糊糊的東西
+gunge [ɡʌndʒ] noun (BrE)(informal)骯髒討厭的黏性物質；黏糊糊的東西
 gung-ho [ˈhoʊ] adjective (informal, disapproving)（尤指對戰鬥和戰爭）偏激的，狂熱的，莽撞的
 gunk [ɡʌŋk] noun (especially NAmE)骯髒討厭的黏性物質；黏糊糊的東西
 gunmetal [ˈɡʌnmetl] noun 1.炮銅，G 合金（銅、錫和鋅的合金） 2.炮銅色；暗藍灰色；鐵灰色
@@ -5009,7 +4999,6 @@ gurgle [ˈɡɜːrɡl] verb 1.發汩汩聲；發潺潺流水聲 2.（嬰兒高興
 gurn [ɡɜːrn] verb (especially BrE)做俏皮相；扮鬼臉
 gushing [ˈɡʌʃɪŋ] adjective (disapproving)過分熱情的；過分讚揚的；誇張地表現感情的
 gusset [ˈɡʌsɪt] noun （縫在衣服上以放大、加固等的）襯料
-gussy [ˈɡʌsi] verb 
 gusty [ˈɡʌsti] adjective 有陣風在吹的；颳風的
 gutser [ˈɡʌtsər] noun (AustralE, NZE) (informal)摔跤；跌倒；撞擊
 gutted [ˈɡʌtɪd] adjective (BrE) (informal)十分傷心；極度失望；非常沮喪
@@ -5018,18 +5007,18 @@ guttersnipe [ˈɡʌtərsnaɪp] noun (informal, disapproving)骯髒的窮孩子�
 guttural [ˈɡʌtərəl] adjective (聲音)（似）喉間發出的
 gut-wrenching  adjective (informal)倒胃口的；非常討厭的；令人厭煩的
 guv [ɡʌv] exclamation (BrE) (informal)（男人對男顧客等的稱呼）先生
-guv'nor [ˈɡʌvnər] noun (BrE) (informal)老闆；頭兒
+guv'nor [ˈɡʌvnər] noun (BrE) (informal)(常用作稱呼)老闆；頭兒
 gweilo [ˈɡweɪloʊ] noun (SEAsianE)（東南亞用語，尤指西方人）外國佬，鬼佬
-gybe [dʒaɪb] verb （順風時使船帆從一舷轉至另一舷以）改變方向，轉帆 noun 船帆從一舷轉至另一舷；轉帆
+gybe [dʒaɪb] verb (especially BrE)（順風時使船帆從一舷轉至另一舷以）改變方向，轉帆 noun 船帆從一舷轉至另一舷；轉帆
 gymkhana [dʒɪmˈkɑːnə] noun (BrE)賽馬會；馬術比賽
 gymslip [ˈdʒɪmslɪp] noun (BrE)吉姆無袖衫；（尤指舊時女生穿的）體操衫
 gynaecologist [ˌɡaɪnəˈkɑːlədʒɪst] noun (BrE)婦科醫生；婦科學家
 gynaecology [ˌɡaɪnəˈkɑːlədʒi] noun (BrE)婦科學；婦科
-gyp [dʒɪp] noun (NAmE) (informal)敲竹槓 verb (especially NAmE)敲詐；詐取；詐騙
+gyp [dʒɪp] noun (NAmE) (informal)敲竹槓 verb gyp sb(especially NAmE)敲詐；詐取；詐騙
 gypsum [ˈdʒɪpsəm] noun 石膏
 gyroscope [ˈdʒaɪrəskoʊp] noun informal陀螺儀；迴轉儀
 haar [hɑːr] noun 哈霧（英格蘭或蘇格蘭東海岸的冷海霧）
-haberdasher [ˈhæbərdæʃər] noun 1.(old-fashioned) (BrE)縫紉用品店店主（或店員） 2.縫紉用品店 3.(NAmE)男裝店店主（或店員等）
+haberdasher [ˈhæbərdæʃər] noun 1.(old-fashioned) (BrE)縫紉用品店店主（或店員） 2.haberdasher's縫紉用品店 3.(NAmE)男裝店店主（或店員等）
 haberdashery [ˈhæbərdæʃəri] noun 1.(old-fashioned) (BrE)縫紉用品 2.(old-fashioned) (NAmE)男子服裝 3.縫紉用品店（或櫃枱）；男子服裝店（或櫃枱）
 habit-forming  adjective 使成習慣的；使上癮的
 habituated [həˈbɪtʃueɪtɪd] adjective (formal)habituated(to sth)熟悉（某事）的；習慣（於某事）的
