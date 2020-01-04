@@ -5025,19 +5025,19 @@ habituated [həˈbɪtʃueɪtɪd] adjective (formal)habituated(to sth)熟悉（�
 hackles [ˈhæklz] noun （狗、貓等害怕或發怒時豎起的）後頸毛
 hacksaw [ˈhæksɔː] noun 鋼鋸，弓鋸（用以切割金屬）
 haddock [ˈhædək] noun 黑線鱈（肉白色，可食用）
-haematite [ˈhiːmətaɪt] noun (BrE)赤鐵礦
+haematite [ˈhiːmətaɪt] noun (BrE)(地)赤鐵礦
 haematology [ˌhiːməˈtɑːlədʒi] noun (BrE)血液學
-haematoma [ˌhiːməˈtoʊmə] noun (BrE)血腫
+haematoma [ˌhiːməˈtoʊmə] noun (BrE)(醫)血腫
 haemoglobin [ˌhiːməˈɡloʊbɪn] noun (BrE)血紅蛋白
 haemophilia [ˌhiːməˈfɪliə] noun (BrE)血友病
 haemophiliac [ˌhiːməˈfɪliæk] noun (BrE)血友病患者
 haemorrhage [ˈhemərɪdʒ] noun 1.體內（大）出血 2.（人、資金等的）大量流失 verb 1.（尤指體內）大出血 2.大量快速流失（資金、人等）
-haemorrhagic [ˌheməˈrædʒɪk] adjective (BrE)體內出血的；出血引起的
-haemorrhoids [ˈhemərɔɪdz] noun (BrE)痔
+haemorrhagic [ˌheməˈrædʒɪk] adjective (BrE)(醫)體內出血的；出血引起的
+haemorrhoids [ˈhemərɔɪdz] noun (BrE)(醫)痔
 hafnium [ˈhæfniəm] noun 鉿（放射性化學元素）
 hag [hæɡ] noun (offensive)醜陋（或討厭）的老女人
 haggis [ˈhæɡɪs] noun （蘇格蘭）羊雜碎肚（用剁碎的羊的心、肺、肝和燕麥、香草等調成餡，通常包在羊肚中煮成）
-hagiographer [ˌhæɡiˈɑːɡrəfər] noun 1.聖賢傳記作者；聖徒傳記作者 2.偶像化傳記的作者
+hagiographer [ˌhæɡiˈɑːɡrəfər] noun (formal)1.聖賢傳記作者；聖徒傳記作者 2.偶像化傳記的作者
 hagiography [ˌhæɡiˈɑːɡrəfi] noun (formal)吹捧性的傳記；偶像化（或理想化）傳記
 haiku [ˈhaɪkuː] noun (from Japanese)俳句（日本傳統詩體，三行為一首，通常有 17 個音節）
 hailstone [ˈheɪlstoʊn] noun 雹塊；雹子
@@ -5045,13 +5045,13 @@ hailstorm [ˈheɪlstɔːrm] noun 雹暴
 hairband [ˈherbænd] noun 束髮帶；髮箍
 hairbrush [ˈherbrʌʃ] noun 髮刷；毛刷
 hairdryer [ˈherdraɪər] noun （吹乾頭髮的）吹風機
-hairgrip [ˈherɡrɪp] noun (all BrE)髮夾
-hairless [ˈherləs] adjective 無髮的；無毛的；禿的
+hairgrip [ˈherɡrɪp] noun (BrE)髮夾
+# hairless [ˈherləs] adjective 無髮的；無毛的；禿的
 hairnet [ˈhernet] noun 髮網
 hairpiece [ˈherpiːs] noun （使頭髮看上去更長或更濃密的）假髮
-hairpin [ˈherpɪn] noun 1.髮夾 2.
+hairpin [ˈherpɪn] noun 1.髮夾 2.=hairpin bend
 hair-raising  adjective 令人寒毛直豎的；驚險的
-hairslide [ˈherslaɪd] noun (both BrE)（裝飾性）小髮夾
+hairslide [ˈherslaɪd] noun (BrE)（裝飾性）小髮夾
 hair-splitting  noun (disapproving)過於強調微不足道的分歧；吹毛求疵
 hairspray [ˈherspreɪ] noun 髮膠；定型劑
 hairstylist [ˈherstaɪlɪst] noun 理髮師；美髮師；髮型師
@@ -5062,14 +5062,13 @@ hakim [hæˈkiːm] noun （印度和伊斯蘭國家的）草藥醫生，郎中
 halal [ˈhælæl] adjective (肉)按伊斯蘭教教規宰殺牲畜的
 halberd [ˈhælbərd] noun 戟（舊時結合長矛和斧頭的武器）
 half-and-half  adjective 兩種事物各半的 noun (NAmE)咖啡伴侶，茶伴侶（一種牛奶與奶油的混合物）
-half-arsed  adjective 1.馬虎的；草草了事的 2.愚蠢的；糊塗的
+half-arsed  adjective (slang)1.馬虎的；草草了事的 2.愚蠢的；糊塗的
 halfback [ˈhæfbæk] noun 1.（曲棍球或橄欖球的）前衞 2.（美式足球的）前衞 3.前衞的位置；中場
 half-baked  adjective (informal)計劃不完善的；考慮不周的
 half-bath  noun (NAmE)小盥洗室（內設洗臉盆和抽水馬桶）
 half-breed  noun (taboo, offensive)（尤指白人和美洲土著人的）混血兒
 half-brother  noun 同母異父（或同父異母）的兄弟
 half-caste  noun (taboo, offensive)（不同人種的）混血兒
-half-cock  noun 
 half-crown  noun *2 先令 6 便士硬幣（英國舊制硬幣，相當於現在 12½ 便士）
 half-hourly  adjective 每半小時的
 half-life  noun 1.(物)（放射性物質的）半衰期 2.(化)半反應期
@@ -5082,9 +5081,9 @@ half-sister  noun 同母異父（或同父異母）的姐妹
 half-term  noun （英國學校的）期中假
 half-timbered  adjective (建築物)露明木架的
 half-time  noun （體育比賽上下半場之間的）中場休息時間
-half-tone  noun 1.(術語)網目（凸）版；網版畫 2.(音)
+half-tone  noun 1.(術語)網目（凸）版；網版畫 2.(音)=half step
 half-truth  noun 半真半假的陳述（尤指為欺騙人）
-half-volley  noun 網球和足球
+half-volley  noun (網球和足球)（球反彈當即的）半截擊，反彈球，凌空抽射
 halfwit [ˈhæfwɪt] noun (informal)傻瓜；笨蛋
 half-yearly  adjective 每半年一次的；半年度的
 halitosis [ˌhælɪˈtoʊsɪs] noun (醫)口臭
@@ -5097,27 +5096,27 @@ halogen [ˈhælədʒən] noun (化)鹵素
 halon [ˈheɪlɑːn] noun (化)鹵化烷（尤用以滅火）
 halwa [ˈhælwɑː] noun 哈瓦（用粗麪粉或胡蘿蔔加杏仁和豆蔻乾籽製成的南亞甜食）
 halyard [ˈhæljərd] noun (術語)（帆或旗的）升降索
-ham-fisted  adjective NAmE also笨手笨腳的；愚笨的
+ham-fisted  adjective (informal)笨手笨腳的；愚笨的
 hammered [ˈhæmərd] adjective (slang)爛醉
 hammerhead [ˈhæmərhed] noun 錘頭鯊；雙髻鯊
 hammering [ˈhæmərɪŋ] noun 1.（錘子或拳頭的）敲打聲，捶打聲 2.(BrE) (informal)挫敗；嚴厲批評
-hammy [ˈhæmi] adjective (informal)做作的；過火的
-handball [ˈhændbɔːl] noun 1.US also手球（比賽兩隊各七人，通常在室內進行，用手擊球或擲球） 2.(NAmE)牆手球（兩人比賽，用手或拳把小球擊向牆） 3.足球
+hammy [ˈhæmi] adjective (informal)(演出風格)做作的；過火的
+handball [ˈhændbɔːl] noun 1.手球（比賽兩隊各七人，通常在室內進行，用手擊球或擲球） 2.(NAmE)牆手球（兩人比賽，用手或拳把小球擊向牆） 3.(足球)手球（用手觸球的犯規動作）
 handbasin [ˈhændbeɪsn] noun (BrE)（固定在牆上有水龍頭的）洗手盆
 handbell [ˈhændbel] noun 手搖鈴（常指成套搖鈴之一，用於小組演奏）
 handbill [ˈhændbɪl] noun 傳單
 handbrake [ˈhændbreɪk] noun (especially BrE)（車輛的）手閘，手剎車
 handcrafted [ˈhændkræftɪd] adjective 手工製作的
-handcuffs [ˈhændkʌfs] noun informal手銬
+handcuffs [ˈhændkʌfs] noun 手銬
 handgrip [ˈhændɡrɪp] noun 1.把手；柄 2.手提袋
 handhold [ˈhændhoʊld] noun 攀緣時手可抓的東西（或地方）
 hand-hot  adjective （水）熱但不燙手的
 handjob [ˈhænddʒɑːb] noun (taboo, slang)（對男性的）手淫
-handling [ˈhændlɪŋ] noun 1.（對形勢、人、動物等的）處理，對付，對待 2.組織；控制；管理 3.（手的）觸摸，觸摸感覺，握，拿 4.（訂貨、送貨、訂票等的）費用，手續費 5.（車輛的）駕駛，操縱 6.also BrE運輸；運費
+handling [ˈhændlɪŋ] noun 1.（對形勢、人、動物等的）處理，對付，對待 2.組織；控制；管理 3.（手的）觸摸，觸摸感覺，握，拿 4.（訂貨、送貨、訂票等的）費用，手續費 5.（車輛的）駕駛，操縱 6.(formal)運輸；運費
 handmaiden [ˈhændmeɪdn] noun 1.(old-fashioned)女傭人；侍女 2.(formal)根基；基礎
-hand-me-down  noun (especially NAmE)=cast-off◆She hated having to wear her sister's hand-me-downs.她討厭穿她姐姐穿過的舊衣服。
+hand-me-down  noun (especially NAmE)=cast-off
 hand-me-up  noun （送給年長親屬的）舊東西，替換下的東西
-handoff [ˈhændɔːf] noun 1.尤指橄欖球 2.美式足球
+handoff [ˈhændɔːf] noun 1.(尤指橄欖球)伸手阻擋對手 2.(美式足球)給球；傳球
 handover [ˈhændoʊvər] noun 1.（權力、責任等的）移交，移交期 2.（某人或某物的）交出，上交
 handphone [ˈhændfoʊn] noun （東南亞用語）手機，移動電話
 hand-picked  adjective 仔細挑選的；精選的
@@ -5138,9 +5137,9 @@ hang-gliding  noun 懸掛式滑翔運動
 hangman [ˈhæŋmən] noun 1.執行絞刑的人；劊子手 2.猜詞畫人遊戲（一個玩家選一個單詞，其他玩家設法猜出，每猜錯一個字母就畫一部份吊着的人的身體，其他玩家須在全部身體畫完之前猜出該詞。）
 hangnail [ˈhæŋneɪl] noun （指甲根部或兩側的）倒刺
 hang-out  noun (informal)住所；經常去的地方
-hang-up  noun 1.苦惱；難堪；焦慮 2.(NAmE)（拖延協議等達成的）難題，障礙
+hang-up  noun (informal)1.苦惱；難堪；焦慮 2.(NAmE)（拖延協議等達成的）難題，障礙
 hank [hæŋk] noun （毛線、棉線、繩等的）團
-hanky-panky [ˌhæŋki ˈpæŋki] noun 1.不得體的性行為；調戲；不正當性活動 2.欺騙行為；花招
+hanky-panky [ˌhæŋki ˈpæŋki] noun (old-fashioned, informal)1.不得體的性行為；調戲；不正當性活動 2.欺騙行為；花招
 hansom [ˈhænsəm] noun （舊時由一匹馬拉的）雙輪雙座馬車
 haploid [ˈhæplɔɪd] adjective (生)(細胞)單倍體的
 ha'p'orth [ˈheɪpərθ] noun (old-fashioned) (BrE informal)很少的量，微量（舊時半便士可購買的量）
@@ -5149,9 +5148,9 @@ happy-clappy [ˌhæpi ˈklæpi] adjective (BrE) (often disapproving)（基督教
 happy-go-lucky  adjective 無憂無慮的；樂天的
 haptic [ˈhæptɪk] adjective (術語)觸覺的；與觸覺有關的
 hara-kiri [ˌherə ˈkeri] noun (from Japanese)切腹，剖腹自盡（尤指舊時日本武士為免受屈辱而自殺的行為）
-harambee [həˈræmbiː] noun 1.（為社區項目等舉行的）募捐會，籌款會 2.齊心協力
+harambee [həˈræmbiː] noun (EAfrE)1.（為社區項目等舉行的）募捐會，籌款會 2.齊心協力
 harassed [ˈhærəst] adjective 疲憊焦慮的
-hardback [ˈhɑːrdbæk] noun especially in NAmE精裝書
+hardback [ˈhɑːrdbæk] noun 精裝書
 hardboard [ˈhɑːrdbɔːrd] noun 硬質纖維板（由碎木壓成）
 hard-charging  adjective 熟練且有幹勁的；全力進取的
 hard-code  verb (計)hard-code sth編寫硬代碼，硬編碼（編碼不能被輕易更改）
@@ -5167,13 +5166,13 @@ hard-on  noun (taboo, slang)陰莖勃起
 hardscrabble [ˌhɑːrdˈskræbl] adjective (NAmE)艱難困苦的；貧困的；勉強維持的
 hardtop [ˈhɑːrdtɑːp] noun 硬頂小汽車
 hard-wearing  adjective (BrE)經久耐用的
-hard-wired  adjective 1.(術語)硬（佈）線的；硬接連的 2.（某種技能、品質或行為等）與生俱來的，固有的
+hard-wired  adjective 1.(術語)(計算機功能)硬（佈）線的；硬接連的 2.（某種技能、品質或行為等）與生俱來的，固有的
 hard-won  adjective 經奮鬥（或努力）得到的；來之不易的
-harebell [ˈherbel] noun ScotE圓葉風鈴草
+harebell [ˈherbel] noun 圓葉風鈴草
 hare-brained  adjective (informal)瘋狂的；輕率的
 harelip [ˈherlɪp] noun 兔唇，唇裂（舊式用語，含冒犯意，現稱 cleft lip）
-haricot [ˈhærɪkoʊ] noun (both BrE)菜豆；芸豆；扁豆
-hark [hɑːrk] verb 1.回憶起，重提（過去的事） 2.使想起；和（過去的事物）相似
+haricot [ˈhærɪkoʊ] noun (BrE)菜豆；芸豆；扁豆
+hark [hɑːrk] verb (old use)（用於命令）聽着，聽
 harlot [ˈhɑːrlət] noun (old use, disapproving)妓女；蕩婦
 harmonium [hɑːrˈmoʊniəm] noun 簧風琴（鍵盤樂器，以氣流使簧片振動發聲）
 harpist [ˈhɑːrpɪst] noun 豎琴演奏者
@@ -5186,9 +5185,9 @@ hart [hɑːrt] noun 雄鹿（尤指雄赤鹿）
 harum-scarum [ˌherəm ˈskerəm] adjective (old-fashioned)魯莽的；莽撞的
 harvester [ˈhɑːrvɪstər] noun 1.收割機 2.(old-fashioned)收割莊稼的人
 has-been [ˈhæz biːn] noun (informal, disapproving)一度有名（或成功、重要）的人物；曾紅極一時的人物；過氣名人
-hashish [ˈhæʃiːʃ] noun informal哈希什，大麻麻醉劑（吸食或咀嚼時有放鬆感。很多國家的法律禁止服用該毒品）
+hashish [ˈhæʃiːʃ] noun 哈希什，大麻麻醉劑（吸食或咀嚼時有放鬆感。很多國家的法律禁止服用該毒品）
 hasp [hæsp] noun （門、箱子等掛鎖的）搭扣
-hassium [ˈhæsiəm] noun （化學元素）
+hassium [ˈhæsiəm] noun 𨭆（化學元素）
 hassock [ˈhæsək] noun 1.跪墊（在教堂祈禱時用） 2.(NAmE)（厚實的）坐墊，腳墊
 hatband [ˈhætbænd] noun 帽帶（圍着帽作裝飾）
 hatbox [ˈhætbɑːks] noun 帽盒
@@ -5210,21 +5209,20 @@ hawthorn [ˈhɔːθɔːrn] noun 山楂
 hayloft [ˈheɪlɔːft] noun （農舍頂部的）乾草棚；乾草頂閣
 haymaking [ˈheɪmeɪkɪŋ] noun 製乾草
 hayride [ˈheɪraɪd] noun (NAmE)乘坐（由馬或拖拉機拉的）乾草車出遊
-haystack [ˈheɪstæk] noun less frequent乾草堆；乾草垛
-haywire [ˈheɪwaɪər] adjective 
-hazel [ˈheɪzl] noun 榛樹（其果實榛子可食） adjective 眼睛
-headbanger [ˈhedbæŋər] noun 1.（聽搖滾樂時）拚命搖頭者 2.愚蠢的人；瘋狂的人
+haystack [ˈheɪstæk] noun 乾草堆；乾草垛
+hazel [ˈheɪzl] noun 榛樹（其果實榛子可食） adjective (眼睛)淡綠褐色的；淺赤褐色的
+headbanger [ˈhedbæŋər] noun (informal)1.（聽搖滾樂時）拚命搖頭者 2.愚蠢的人；瘋狂的人
 headbutt [ˈhedbʌt] verb (especially BrE)headbutt sb故意用頭撞（人）
 headcase [ˈhedkeɪs] noun (BrE) (informal)怪人；神經兮兮的人
 headcheese [ˈhedtʃiːz] noun (NAmE)（罐裝）豬頭肉，牛犢頭肉
 headcount [ˈhedkaʊnt] noun 人數統計；統計出的人數
-headed [ˈhedɪd] adjective 1.信紙 2.(構成形容詞)有…頭的；有…個頭的
-header [ˈhedər] noun 1.足球 2.（計算機打印時自動加在各頁頂端的）標頭，首標
+headed [ˈhedɪd] adjective 1.(信紙)頂端印有名稱和地址的；有信頭的 2.(構成形容詞)有…頭的；有…個頭的
+header [ˈhedər] noun 1.(足球)用頭頂球；頭球 2.（計算機打印時自動加在各頁頂端的）標頭，首標
 headgear [ˈhedɡɪr] noun 頭戴之物；帽子
 headhunt [ˈhedhʌnt] verb headhunt sb獵頭（物色、延攬高層人員）
 headhunter [ˈhedhʌntər] noun 1.獵頭者（專門負責延攬人才） 2.獵頭部落成員（收集所殺者的人頭）
 headland [ˈhedlənd] noun 岬，岬角（突入海中的狹長高地）
-headlock [ˈhedlɑːk] noun 摔跤運動
+headlock [ˈhedlɑːk] noun (摔跤運動)夾頭
 headman [ˈhedmæn] noun （群體的）頭人，首領，酋長
 headphones [ˈhedfoʊnz] noun 耳機；頭戴式受話器
 headquartered [ˈhedkwɔːrtərd] adjective 總部在某地
@@ -5251,7 +5249,7 @@ heart-to-heart  noun 坦誠親切的交談；談心
 heart-warming  adjective 使人幸福愉快的
 heartwood [ˈhɑːrtwʊd] noun （樹木的）心材
 heath [hiːθ] noun （雜草和灌木叢生的）荒地，荒野
-heathen [ˈhiːðn] noun 1.無宗教信仰者；異教徒 2.未開化的人；不文明的人 adjective (old-fashioned, offensive)無宗教信仰的；異教徒的；不文明的
+heathen [ˈhiːðn] noun (old-fashioned, offensive)1.無宗教信仰者；異教徒 2.未開化的人；不文明的人 adjective (old-fashioned, offensive)無宗教信仰的；異教徒的；不文明的
 heather [ˈheðər] noun 帚石楠（低矮野生，開紫、粉紅或白色小花）
 heathland [ˈhiːθlænd] noun 歐石楠叢生的大片地方
 heatproof [ˈhiːtpruːf] adjective 隔熱的；抗熱的；耐高溫的
@@ -5259,12 +5257,11 @@ heat-resistant  adjective 抗熱的；耐熱的
 heat-seeking  adjective (武器)熱自導引的；跟踪熱源的
 heatstroke [ˈhiːtstroʊk] noun 中暑
 heatwave [ˈhiːtweɪv] noun 酷熱期；熱浪
-heave-ho [ˈhoʊ] noun 
 heaven-sent  adjective 天賜的；正合時宜的
 heavenward [ˈhevnwərd] adverb (literary)朝天上；向天空
-heaving [ˈhiːvɪŋ] adjective [not before noun]heaving(with sb/sth)充滿（人或事物）
+heaving [ˈhiːvɪŋ] adjective heaving(with sb/sth)充滿（人或事物）
 heavy-set  adjective 敦實的；壯碩的
-hectolitre [ˈhektəliːtər] noun especially US百升（容量單位）
+hectolitre [ˈhektəliːtər] 百升（容量單位）
 hedgerow [ˈhedʒroʊ] noun （尤指英國田邊或路邊的）樹籬
 heebie-jeebies [ˌhiːbi ˈdʒiːbiz] noun (old-fashioned, informal)忐忑不安；坐立不安
 heedful [ˈhiːdfl] adjective (formal)heedful(of sb/sth)留心的；注意的
@@ -5290,9 +5287,9 @@ helpline [ˈhelplaɪn] noun (BrE)（提供咨詢和信息的電話）服務熱�
 helpmate [ˈhelpmeɪt] noun (formal or literary)得力的伴侶；（尤指）妻子
 helter-skelter [ˌheltər] noun (BrE)（遊樂場的）螺旋滑梯 adjective 忙亂的；倉促的
 he-man  noun (often humorous)強健的男子（尤指好顯示其體魄者）
-hematite [ˈhiːmətaɪt] noun (NAmE)(BrE haem·atite)/ˈhiːmətaɪt;NAmEˈhiːmətaɪt/noun[uncountable]赤鐵礦
-hematology [ˌhiːməˈtɑːlədʒi] noun (NAmE)(BrE haema·tol·ogy)/ˌhiːməˈtɒlədʒi;NAmEˌhiːməˈtɑːlədʒi/noun[uncountable]血液學
-hematoma [ˌhiːməˈtoʊmə] noun (NAmE)(BrE haem·atoma)/ˌhiːməˈtəʊmə;NAmEˌhiːməˈtoʊmə/noun血腫
+hematite [ˈhiːmətaɪt] noun (NAmE)赤鐵礦
+hematology [ˌhiːməˈtɑːlədʒi] noun (NAmE)血液學
+hematoma [ˌhiːməˈtoʊmə] noun (NAmE)(醫)血腫
 hemispherical [ˌhemɪˈsferɪkl] adjective 半球形的
 hemline [ˈhemlaɪn] noun （衣裙的）底邊，下襬；衣裙長度
 henchman [ˈhentʃmən] noun （政治領袖人物或罪犯等的）忠實支持者，親信，心腹，追隨者
@@ -5309,7 +5306,7 @@ herbage [ˈɜːrbɪdʒ] noun (術語)（統稱）草本植物；（尤指）牧�
 herbalism [ˈɜːrblɪzəm] noun 草藥療法（尤指作為另類療法）
 herbalist [ˈɜːrbəlɪst] noun 藥草栽培者；藥草商；草藥醫生
 herbivore [ˈɜːrbɪvɔːr] noun 食草動物；草食動物
-hereabouts [ˌhɪrəˈbaʊts] adverb NAmE also在這附近
+hereabouts [ˌhɪrəˈbaʊts] adverb 在這附近
 hereof [ˌhɪrˈʌv] adverb (律)關於這個；在本文件中
 hereto [ˌhɪrˈtuː] adverb (律)到此為止；至此；於此
 hereupon [ˌhɪrəˈpɑːn] adverb (literary)此後；於是；隨即
@@ -5326,7 +5323,7 @@ herringbone [ˈherɪŋboʊn] noun （織物等的）人字形平行花紋
 hertz [hɜːrts] noun 赫，赫茲（聲波頻率單位）
 hesitancy [ˈhezɪtənsi] noun 猶豫；躊躇；遲疑不決
 hessian [ˈheʃn] noun (especially BrE)棕色粗麻布
-heteronym [ˈhetərənɪm] noun 1.同形異音異義詞（如表示“撕裂”的 tear 與表示“眼淚”的 tear） 2.異形同義詞（如 lift 和 elevator）
+heteronym [ˈhetərənɪm] noun (語言)1.同形異音異義詞（如表示“撕裂”的 tear 與表示“眼淚”的 tear） 2.異形同義詞（如 lift 和 elevator）
 heterozygote [ˌhetərəˈzaɪɡoʊt] noun (生)雜合子（基因有兩種不同形式的生物）
 heuristic [hjuˈrɪstɪk] adjective (formal)（教學或教育）啟發式的
 heuristics [hjuˈrɪstɪks] noun (formal)探索法；啟發式
@@ -5342,12 +5339,12 @@ hide-and-seek [ˌhaɪd n ˈsiːk] noun 捉迷藏遊戲
 hidey-hole [ˈhaɪdi hoʊl] noun (informal)躲藏處；隱藏處；獨居處
 hieroglyphics [ˌhaɪərəˈɡlɪfɪks] noun 用象形文字書寫的東西
 higgledy-piggledy [ˌhɪɡldi ˈpɪɡldi] adverb (informal)雜亂無章；混亂
-highball [ˈhaɪbɔːl] noun 開波酒，冰威士忌蘇打（用烈酒摻入汽水等加冰） verb 1.高速行進 2.故意高估價值（或成本）
+highball [ˈhaɪbɔːl] noun 開波酒，冰威士忌蘇打（用烈酒摻入汽水等加冰） (informal)verb 1.高速行進 2.故意高估價值（或成本）
 high-born  adjective (old-fashioned or formal)出身高貴的
 highboy [ˈhaɪbɔɪ] noun (NAmE)（帶抽屜的）高腳衣櫃
 high-class  adjective 1.極好的；高級的 2.上流社會的
 high-definition  adjective (術語)高清晰度的；高分辨率的
-higher [ˈhaɪər] adjective 高等級的；級別較高的；較重要的
+# higher [ˈhaɪər] adjective 高等級的；級別較高的；較重要的
 higher-up  noun (informal)上級；上司；長官
 highfalutin [ˌhaɪfəˈluːtɪn] adjective (informal)裝模作樣的；浮誇的；做作的
 high-flown  adjective (usually disapproving)(語言和思想)浮誇的；故弄玄虛的；說大話的
@@ -5360,14 +5357,13 @@ highlife [ˈhaɪlaɪf] noun 強節奏爵士舞，強節奏爵士樂（尤指 20 
 highlighter [ˈhaɪlaɪtər] noun 1.（顏色鮮亮的）標記筆；熒光筆 2.（勾畫臉、眼的）彩妝
 high-maintenance  adjective 耗費精力的；費神費力的
 high-minded  adjective (人或思想)高尚的；高潔的
-high-octane  adjective 1.發動機燃料 2.(informal)充滿活力的；強有力的
+high-octane  adjective 1.(發動機燃料)優質的；高辛烷值的 2.(informal)充滿活力的；強有力的
 high-priced  adjective 昂貴的；高價的
 high-resolution  adjective (照片、計算機或電視屏幕的圖像)高清晰度的；高分辨率的
-high-security  adjective 1.建築或地方 2.囚犯
+high-security  adjective 1.(建築或地方)戒備森嚴的；警戒嚴密的 2.(囚犯)關押在警備森嚴的監獄裏的
 high-sounding  adjective (especially BrE) (often disapproving)(語言或思想)誇張的；高調的
-high-spirited  adjective 1.人 2.動物，尤指馬
+high-spirited  adjective 1.(人)興致勃勃的；興高采烈的 2.(動物，尤指馬)烈性的；歡蹦亂跳的
 high-strung  adjective (NAmE)(人或動物)緊張不安的
-hightail [ˈhaɪteɪl] verb 
 high-tension  adjective 高（電）壓的
 high-tops  noun (especially NAmE)高幫運動鞋（尤用於籃球運動）
 high-up  noun (BrE) (informal)高官；要員
@@ -5391,22 +5387,22 @@ histogram [ˈhɪstəɡræm] noun (術語)條形圖，柱形圖（以不同長度
 histopathology [ˌhɪstoʊpəˈθɑːlədʒi] noun 組織病理學
 historicism [hɪˈstɔːrɪsɪzəm] noun 歷史決定論
 hit-and-miss  adjective 粗製濫造的；時好時壞的
-hit-and-run  adjective 1.交通事故 2.軍事進攻
+hit-and-run  adjective 1.(交通事故)駕駛人肇事後逃逸的 2.(軍事進攻)突襲後迅速撤離的
 hither [ˈhɪðər] adverb (old use)到此處；向此地
-hit-out  noun 澳式橄欖球
+hit-out  noun (澳式橄欖球)反彈後擲球（在裁判擲地反彈之後投向同隊隊員的球）
 hiya [ˈhaɪjə] exclamation （非正式招呼語）嗨，你好
 hmm [m] exclamation （書寫形式，表示有疑慮或猶豫時發出的聲音）呣，嗯，唔，哼
-hoagie [ˈhoʊɡi] noun 1.（在長條麪包中夾肉、乾酪、色拉等做成的）大型三明治 2.（用以做大型三明治的）長條麪包
+hoagie [ˈhoʊɡi] noun (NAmE)1.（在長條麪包中夾肉、乾酪、色拉等做成的）大型三明治 2.（用以做大型三明治的）長條麪包
 hoarding [ˈhɔːrdɪŋ] noun 1.(BrE)大幅廣告牌 2.(BrE)（建築工地用木板搭起的）臨時圍欄 3.貯存；聚藏；（尤指）秘藏
 hob [hɑːb] noun 1.(BrE)爐盤；爐頭 2.（舊時放在爐側用於加熱鍋等的）火爐擱架，壁爐擱架
 hobbyist [ˈhɑːbiɪst] noun (formal)（業餘）愛好者
 hobgoblin [ˈhɑːbɡɑːblɪn] noun （傳說中的）淘氣的小妖精
-hobnob [ˈhɑːbnɑːb] verb (informal)[intransitive]hobnob(with sb)（尤指同有錢有名望的人）過從甚密，親近；巴結
-hobo [ˈhoʊboʊ] noun 1.流浪的失業工人；（尤指農場）季節工人，零工 2.
-hock [hɑːk] noun 1.（動物後腿的）跗關節 2.(BrE)萊茵白葡萄酒 3.(especially NAmE) 4.(informal)典當；抵押 verb (informal)典當；抵押
+hobnob [ˈhɑːbnɑːb] verb (informal)hobnob(with sb)（尤指同有錢有名望的人）過從甚密，親近；巴結
+hobo [ˈhoʊboʊ] noun (old-fashioned) (especially NAmE)1.流浪的失業工人；（尤指農場）季節工人，零工 2.=tramp
+hock [hɑːk] noun 1.（動物後腿的）跗關節 2.(BrE)萊茵白葡萄酒 3.(especially NAmE)=knuckle 4.(informal)典當；抵押 verb (informal)典當；抵押
 hocus-pocus [ˌhoʊkəs ˈpoʊkəs] noun 騙人的鬼話；花招；騙術
 hod [hɑːd] noun （建築工人扛磚用的長柄）磚斗
-hoedown [ˈhoʊdaʊn] noun 1.熱烈的民間舞舞會 2.熱烈的民間舞蹈
+hoedown [ˈhoʊdaʊn] noun (NAmE)1.熱烈的民間舞舞會 2.熱烈的民間舞蹈
 hogwash [ˈhɔːɡwɑːʃ] noun (informal)愚蠢的想法（或論點等）；胡言亂語
 ho-hum [ˌhoʊ] exclamation （表示厭倦）
 hoick [hɔɪk] verb (BrE) (informal)hoick sth (+ adv./prep.)猛提；猛拉
@@ -5416,7 +5412,7 @@ hoki [ˈhoʊki] noun 福氣魚（見於新西蘭附近海域）
 hokum [ˈhoʊkəm] noun 1.做作的電影（或戲劇等） 2.愚蠢的想法（或論點等）
 holdall [ˈhoʊldɔːl] noun (BrE)大旅行袋（用帆布或軟皮製造）
 holdover [ˈhoʊldoʊvər] noun (NAmE)（在下屆政府中）留任的官員
-hold-up  noun 1.(BrE)停頓；阻滯；阻礙 2.especially in NAmE持槍搶劫
+hold-up  noun 1.停頓；阻滯；阻礙 2.持槍搶劫
 hole-and-corner  adjective 暗地裏的；秘密的
 hole-in-one  noun （高爾夫球）一杆進洞
 holey [ˈhoʊli] adjective 多洞的
@@ -5434,13 +5430,13 @@ homebody [ˈhoʊmbɑːdi] noun (informal) (especially NAmE)喜歡待在家裏的
 homeboy [ˈhoʊmbɔɪ] noun (NAmE) (informal)（男）老鄉，夥伴，同夥
 homebuyer [ˈhoʊmbaɪər] noun 購房者
 homegirl [ˈhoʊmɡɜːrl] noun (NAmE) (informal)女同鄉；（女）玩伴
-home-grown  adjective 1.植物、水果和蔬菜 2.本國（或本地）製造的（或培養的、教育的）
+home-grown  adjective 1.(植物、水果和蔬菜)自家園子裏產的 2.本國（或本地）製造的（或培養的、教育的）
 home-made  adjective 自製的；家裏做的
-homeopath [ˈhoʊmiəpæθ] noun BrE also順勢療法醫生
-homeopathy [ˌhoʊmiˈɑːpəθi] noun BrE also順勢療法
+homeopath [ˈhoʊmiəpæθ] noun 順勢療法醫生
+homeopathy [ˌhoʊmiˈɑːpəθi] noun 順勢療法
 homeroom [ˈhoʊmruːm] noun (NAmE)進行課前點名的教室；課前點名教室集合時間
 homeschooling [ˌhoʊmˈskuːlɪŋ] noun （兒童）在家受教育，家學
-homespun [ˈhoʊmspʌn] adjective 1.尤指思想 2.布
+homespun [ˈhoʊmspʌn] adjective 1.(尤指思想)樸素的；平常的 2.(布)家紡的；家裏製作的
 homestay [ˈhoʊmsteɪ] noun （為學生或遊客提供的）家庭寄宿
 homeward [ˈhoʊmwərd] adjective 回家的；回國的
 homeworker [ˈhoʊmwɜːrkər] noun 在家工作的人（常做報酬低微的工作）
@@ -5460,17 +5456,17 @@ honest-to-goodness  adjective (approving)實實在在的；真正的；地道的
 honeybee [ˈhʌnibiː] noun 蜜蜂
 honeycomb [ˈhʌnikoʊm] noun 蜂巢
 honeycombed [ˈhʌnikoʊmd] adjective honeycombed(with sth)蜂窩狀的；多洞的；多孔道的
-honeyed [ˈhʌnid] adjective 1.言辭 2.蜂蜜味的；蜂蜜色的
+honeyed [ˈhʌnid] adjective 1.(言辭)柔順討好的；甜言蜜語的 2.蜂蜜味的；蜂蜜色的
 honeypot [ˈhʌnipɑːt] noun (BrE)富有吸引力的地方（或事物、人）
 honeysuckle [ˈhʌnisʌkl] noun 忍冬（蔓生，開白色、黃色或粉紅色花，氣味芬芳）
 hongi [ˈhɑːŋi] noun (NZE)摩擦鼻子（毛利人表示歡迎的方式）
 honky [ˈhɑːŋki] noun (NAmE) (slang)（黑人對白人的冒犯稱呼）白鬼
 honky-tonk [ˈhɑːŋki tɑːŋk] noun 1.(NAmE)低級嘈雜的酒吧（或舞廳） 2.杭基湯克音樂，酒吧爵士樂（用鋼琴演奏的活潑爵士樂）
-honoree [ˌɑːnəˈriː] noun BrE also獲獎者；獲獎作品
+honoree [ˌɑːnəˈriː] noun (especially NAmE)獲獎者；獲獎作品
 honorific [ˌɑːnəˈrɪfɪk] adjective (formal)表示尊敬的
-honouree [ˌɑːnəˈriː] noun especially US獲獎者
+honouree [ˌɑːnəˈriː] noun (especially NAmE)獲獎者
 hooch [huːtʃ] noun (informal) (especially NAmE)（尤指非法釀造的）烈酒
-hoodlum [ˈhuːdləm] noun 1.slang暴徒，惡棍（尤指屬於某團夥者） 2.小阿飛；小流氓
+hoodlum [ˈhuːdləm] noun 1.暴徒，惡棍（尤指屬於某團夥者） 2.小阿飛；小流氓
 hoodoo [ˈhuːduː] noun (especially US)帶來厄運的人；不祥之物
 hoody [ˈhʊdi] noun (informal)帶兜帽短上衣，連帽短上衣（或運動衫）
 hooey [ˈhuːi] noun (informal) (especially NAmE)廢話；胡說八道
@@ -5479,7 +5475,6 @@ hookah [ˈhʊkə] noun 水煙袋；水煙筒
 hooked [hʊkt] adjective 1.彎曲的；鈎形的 2.(informal)上癮；（尤指）有毒癮 3.(informal)（對某事）着迷 4.有鈎的
 hook-up  noun （廣播等的）聯播；（計算機之間的）聯機
 hookworm [ˈhʊkwɜːrm] noun 1.鈎蟲（寄生於人或動物腸道） 2.鈎蟲病
-hooky [ˈhʊki]  (old-fashioned) (NAmE)
 hooligan [ˈhuːlɪɡən] noun （通常結夥的）阿飛，小流氓
 hoon [huːn] noun (AustralE, NZE) (informal)莽漢；（尤指）危險駕駛的男子，橫衝直撞的駕駛員
 hooped [huːpt] adjective 環形的
@@ -5487,9 +5482,9 @@ hoopoe [ˈhuːpoʊ] noun 戴勝（一種鳥，粉紅褐色，喙長而下彎，�
 hooray [huˈreɪ] exclamation 1.（表示快樂或贊同）好極了，好哇 2.(AustralE, NZE)再見
 hootenanny [ˈhuːtnæni] noun (especially US)民歌演唱會；民間歌舞會
 hooter [ˈhuːtər] noun 1.(BrE) (rather old-fashioned)（車輛的）喇叭；（工廠的）汽笛 2.(BrE) (slang)（尤指大的）鼻子 3.(NAmE) (slang)（女人的）乳房
-hoover [ˈhuːvər] verb 1.用真空吸塵器把…清除掉 2.(informal)獲得大量的（某物）
+hoover [ˈhuːvər] verb hoover(sth)(BrE)用真空吸塵器清掃（地毯、地板等的灰塵）
 hoped-for  adjective 期待的；所希望的
-hopping [ˈhɑːpɪŋ] adjective (NAmE) (informal)很活躍的；忙忙碌碌的 adverb 
+hopping [ˈhɑːpɪŋ] adjective (NAmE) (informal)很活躍的；忙忙碌碌的 
 hopscotch [ˈhɑːpskɑːtʃ] noun 跳房子（兒童單足跳石子的遊戲）
 hornbeam [ˈhɔːrnbiːm] noun 鵝耳櫪（樹皮平滑呈灰色，木質堅韌）
 hornbill [ˈhɔːrnbɪl] noun 犀鳥（熱帶鳥類）
@@ -5520,13 +5515,12 @@ hot-desking  noun 辦公桌輪用（非固定分配）
 hot-dog  verb (NAmE) (informal)（在滑雪、滑雪板運動或衝浪中）表演技巧，表演高難動作
 hotelier [hoʊˈteljər] noun 旅館老闆；旅館經理
 hotfix [ˈhɑːtfɪks] noun (計)（電腦的）補丁程序，補丁程式
-hotfoot [ˈhɑːtfʊt] adverb 急匆匆地；匆忙地 verb 
+hotfoot [ˈhɑːtfʊt] adverb 急匆匆地；匆忙地
 hothead [ˈhɑːthed] noun 莽撞的人；急躁的人
 hothouse [ˈhɑːthaʊs] noun 1.溫室；暖房 2.有利於迅速發展的地方（或環境）；（尤指有利於思想感情發展的）溫牀
 hotlist [ˈhɑːtlɪst] noun 1.熱點（或重要）人物名單；熱點（或重要）事物清單 2.(計)熱表；熱門網頁列表
 hotplate [ˈhɑːtpleɪt] noun 烤盤，加熱板（置於爐灶等的上面，用於烹調或使食物保溫）
 hotpot [ˈhɑːtpɑːt] noun 1.(BrE)燜罐（內裝燉的肉、土豆、洋葱等） 2.(NAmE)小電熱鍋（可燒水或熱飯）
-hots [hɑːts] noun 
 hot-tempered  adjective (especially BrE)易怒的；暴躁的
 hottie [ˈhɑːti] noun (informal)熱辣性感的人；辣哥；辣妹
 hot-wire  verb (informal)hot-wire sth熱線發動，短路點火（不用鑰匙而用電線短路方法發動汽車）
@@ -5543,7 +5537,7 @@ houseful [ˈhaʊsfʊl] noun 一大家人；滿屋子人
 householder [ˈhaʊshoʊldər] noun (formal)房主；住戶
 house-hunting  noun 找房子，看房子（以便購買）
 housemaid [ˈhaʊsmeɪd] noun (old-fashioned)（家庭的）女僕，女傭
-houseman [ˈhaʊsmən] noun 1.(old-fashioned) (BrE) 2.(NAmE)（家庭或旅館等的）男勤雜工，男僕
+houseman [ˈhaʊsmən] noun 1.(old-fashioned) (BrE) =house officer 2.(NAmE)（家庭或旅館等的）男勤雜工，男僕
 housemate [ˈhaʊsmeɪt] noun 同屋（指同住一所房子但非家庭成員的人）
 house-proud  adjective 熱衷於收拾家的
 houseroom [ˈhaʊsruːm] noun 家裏的容納空間；家裏放東西的地方
@@ -5573,17 +5567,16 @@ hummock [ˈhʌmək] noun (BrE)小山；小丘
 hummus [ˈhʊməs] noun 鷹嘴豆泥（中東食品，將鷹嘴豆、芝麻、油、檸檬汁和大蒜搗碎而成）
 humongous [hjuːˈmʌŋɡəs] adjective (informal)巨大的；龐大的
 humorist [ˈhjuːmərɪst] noun 幽默作家；詼諧風趣的人
-humourless [ˈhjuːmərləs] adjective especially US無幽默感的
+humourless [ˈhjuːmərləs] adjective 無幽默感的
 humped [hʌmpt] adjective 有隆起物的；似駝峰的
-humph  exclamation （書寫中代表/h ə mf/的音，表示懷疑或不贊成）哼
+humph  exclamation （書寫中代表/həmf/的音，表示懷疑或不贊成）哼
 humus [ˈhjuːməs] noun 腐殖質
 hunchback [ˈhʌntʃbæk] noun (offensive)駝背的人
 hundredth [ˈhʌndrədθ] ordinal number 第一百 noun 百分之一
 hundredweight [ˈhʌndrədweɪt] noun 英擔（在英國等於 112 磅，在美國等於 100 磅。一噸為 20 英擔）
-hung [hʌŋ] adjective 1.(BrE)任何政黨都不佔多數席位的 2.陪審團
+hung [hʌŋ] adjective 1.(BrE)(上下議院或市郡議會)任何政黨都不佔多數席位的 2.(陪審團)不能取得一致意見的
 hungover [ˌhʌŋˈoʊvər] adjective 宿醉
-hunkers [ˈhʌŋkərz] noun 
-hunky [ˈhʌŋki] adjective 男子
+hunky [ˈhʌŋki] adjective (男子)結實性感的
 hunky-dory [ˌhʌŋki ˈdɔːri] adjective (informal)平安無事；皆大歡喜
 hunted [ˈhʌntɪd] adjective (面部表情)惴惴不安的；驚恐萬分的
 hunter-gatherer  noun 遊獵採集部族成員
@@ -5602,7 +5595,7 @@ hustings [ˈhʌstɪŋz] noun (especially BrE)競選活動（競選前進行的�
 hutch [hʌtʃ] noun 1.（養兔子等小動物的）籠子 2.(NAmE)廚櫃，餐具櫃（上部為擱架，下部為櫃子）
 hwyl [hɔɪl] noun (WelshE)強烈感情；激情
 hyacinth [ˈhaɪəsɪnθ] noun 風信子
-hybridize [ˈhaɪbrɪdaɪz] verb (術語)[intransitive, transitive]hybridize(sth)（使）產生雜交品種，雜交
+hybridize [ˈhaɪbrɪdaɪz] verb (術語)hybridize(sth)（使）產生雜交品種，雜交
 hydel [ˈhaɪdel] abbreviation (IndE)水力發電的
 hydra [ˈhaɪdrə] noun 1.(古希臘故事)許德拉，多頭蛇（砍去一個頭即長出新頭，後為大力神赫拉克勒斯所殺） 2.(formal)棘手的複雜事物；難以根絕的禍患 3.(生)水螅
 hydrangea [haɪˈdreɪndʒə] noun 繡球花
@@ -5614,26 +5607,26 @@ hydrogenated [haɪˈdrɑːdʒəneɪtɪd] adjective (化)（油類）氫化的，
 hydrology [haɪˈdrɑːlədʒi] noun (術語)水文學；水文地理學
 hydrolysis [haɪˈdrɑːlɪsɪs] noun (化)水解（化合物的加水分解）
 hydrophobia [ˌhaɪdrəˈfoʊbiə] noun （狂犬病患者的）恐水，畏水
-hydroplane [ˈhaɪdrəpleɪn] noun 1.水上滑行艇 2.(NAmE) verb 1.(NAmE)在潮濕路面上打滑失控 2.船
+hydroplane [ˈhaɪdrəpleɪn] noun 1.水上滑行艇 2.(NAmE) verb 1.(NAmE)在潮濕路面上打滑失控 2.(船)飛掠過水面
 hydroplaning [ˈhaɪdrəpleɪnɪŋ] noun (NAmE)（汽車在潮濕路面上的）打滑
 hydroponics [ˌhaɪdrəˈpɑːnɪks] noun 溶液栽培；水培
-hydrospeed [ˈhaɪdroʊspiːd] noun BrE also急流跳水漂流
+hydrospeed [ˈhaɪdroʊspiːd] noun 急流跳水漂流
 hydrotherapy [ˌhaɪdroʊˈθerəpi] noun 水療法
 hydroxide [haɪˈdrɑːksaɪd] noun (化)氫氧化物
-hygienist [haɪˈdʒiːnɪst] noun especially in NAmE牙科保健員；牙科潔治員
+hygienist [haɪˈdʒiːnɪst] noun 牙科保健員；牙科潔治員
 hymen [ˈhaɪmən] noun (解)處女膜
 hyper [ˈhaɪpər] adjective (informal)既興奮又緊張的；精力過旺的
 hyperbaric [ˌhaɪpərˈbærɪk] adjective (物)(氣體)高氣壓的；高壓的
 hyperbola [haɪˈpɜːrbələ] noun 雙曲線
-hyperbolic [ˌhaɪpərˈbɑːlɪk] adjective 1.(數)雙曲線的 2.言語
+hyperbolic [ˌhaɪpərˈbɑːlɪk] adjective 1.(數)雙曲線的 2.(言語)誇張的；誇張法的
 hypercorrection [ˌhaɪpərkəˈrekʃn] noun (語言)矯枉過正；改正過頭
-hyperglycaemia [ˌhaɪpərɡlaɪˈsiːmiə] noun (BrE)高血糖
+hyperglycaemia [ˌhaɪpərɡlaɪˈsiːmiə] noun (BrE)(醫)高血糖
 hyperinflation [ˌhaɪpərɪnˈfleɪʃn] noun 惡性通貨膨脹；超通貨膨脹；過度通貨膨脹
 hyperlink [ˈhaɪpərlɪŋk] noun 超級鏈接；超連結
 hypermarket [ˈhaɪpərmɑːrkɪt] noun (BrE)特大型商店（坐落在城外，商品種類繁多）
 hypermedia [ˌhaɪpərˈmiːdiə] noun (計)超媒體（連接文本與圖像、聲音或影像文件的系統）
 hypersensitive [ˌhaɪpərˈsensətɪv] adjective 1.非常敏感的；很容易生氣的 2.（對某些物質、藥物、光等）過敏的
-hyperspace [ˈhaɪpərspeɪs] noun 1.(術語)超空間；多維空間 2.小說
+hyperspace [ˈhaɪpərspeɪs] noun 1.(術語)超空間；多維空間 2.(小說)超光速狀態
 hypertext [ˈhaɪpərtekst] noun 超文本
 hyperthyroidism [ˌhaɪpərˈθaɪrɔɪdɪzəm] noun (醫)甲狀腺功能亢進
 hypertrophy [haɪˈpɜːrtrəfi] noun (生)（器官或組織的）肥大，過度生長
@@ -5645,12 +5638,12 @@ hypnotist [ˈhɪpnətɪst] noun 催眠術專家
 hypoallergenic [ˌhaɪpoʊˌælərˈdʒenɪk] adjective (術語)不致過敏的；低過敏原的
 hypochondria [ˌhaɪpəˈkɑːndriə] noun 疑病（症）
 hypochondriac [ˌhaɪpəˈkɑːndriæk] noun 疑病患者
-hypoglycaemia [ˌhaɪpoʊɡlaɪˈsiːmiə] noun (BrE)低血糖
+hypoglycaemia [ˌhaɪpoʊɡlaɪˈsiːmiə] noun (BrE)(醫)低血糖
 hyponym [ˈhaɪpənɪm] noun (語言)下義詞，下位詞（如 dog 和 cat 是 animal 的下義詞）
 hypotaxis [ˌhaɪpoʊˈtæksɪs] noun (語法)從句的使用；從屬關係；主從結構
 hypothalamus [ˌhaɪpəˈθæləməs] noun (解)下丘腦（有調節體溫、攝食、內分泌等的功能）
 hypothyroidism [ˌhaɪpoʊˈθaɪrɔɪdɪzəm] noun (醫)甲狀腺功能減退
-hypoxaemia [ˌhaɪpɑːkˈsiːmiə] noun (BrE)低氧血；低血氧
+hypoxaemia [ˌhaɪpɑːkˈsiːmiə] noun (BrE)(醫)低氧血；低血氧
 hypoxia [haɪˈpɑːksiə] noun (醫)缺氧；低氧
 hysterics [hɪˈsterɪks] noun 1.歇斯底里的表現 2.(informal)狂笑
 iambic [aɪˈæmbɪk] adjective (術語)(詩的韻步)抑揚格的（每一短或弱音節後接一長或強音節）
@@ -5668,7 +5661,7 @@ icily [ˈaɪsɪli] adverb （態度）冷冰冰地
 icky [ˈɪki] adjective (informal)黏糊糊（令人不舒服）的
 iconology [ˌaɪkəˈnɑːlədʒi] noun （藝術上的）象徵手法
 id [ɪd] noun (心)本我，伊德（指人的潛意識中其基本需求、感情和慾望假定存在的部份）
-ideate [ˈaɪdieɪt] verb 1.對…形成概念；想像 2.形成概念；想
+ideate [ˈaɪdieɪt] verb (formal)1.對…形成概念；想像 2.形成概念；想
 idem [ˈɪdem] adverb (from Latin)（指出自同一書、文章、作者等）同前，同上
 ident [ˈaɪdent] noun (BrE)（電台或電視節目之間插播的）標誌曲，標誌短片
 identifier [aɪˈdentɪfaɪər] noun (計)標識符，標識號，識別字（可用以進入程序或其中的數據集）
@@ -5679,7 +5672,7 @@ idler [ˈaɪdlər] noun 懶漢；無所事事的人
 idli [ˈɪdliː] noun 印度蒸米糕
 idolatry [aɪˈdɑːlətri] noun 1.神像崇拜；偶像崇拜 2.(formal)盲目崇拜
 iff [ɪf] conjunction (數)當且僅當；在而且只有在…時
-iffy [ˈɪfi] adjective 1.(especially BrE)不完美的；有點壞的 2.未確定的
+iffy [ˈɪfi] adjective (informal)1.(especially BrE)不完美的；有點壞的 2.未確定的
 igloo [ˈɪɡluː] noun （北美北部因努伊特人的拱形圓頂）冰屋
 ignoramus [ˌɪɡnəˈreɪməs] noun (usually humorous)無知識的人
 iguanodon [ɪˈɡwɑːnədɑːn] noun 禽龍
@@ -5722,7 +5715,7 @@ immiscible [ɪˈmɪsəbl] adjective (術語)(液體)不互溶的；非混相的
 immobilizer [ɪˈmoʊbəlaɪzər] noun 汽車防盜器（遇到有人盜車時使汽車開不動的裝置）
 immoderate [ɪˈmɑːdərət] adjective (formal, disapproving)極端的；不適度的；不合理的；過度的
 immodest [ɪˈmɑːdɪst] adjective 1.(disapproving)自負的；傲慢的 2.不正派的；不合禮儀的；猥褻的
-immovable [ɪˈmuːvəbl] adjective 1.不能移動的；固定的 2.人、主張等
+immovable [ɪˈmuːvəbl] adjective 1.不能移動的；固定的 2.(人、主張等)不動搖的；無法說服的
 immunodeficiency [ɪˌmjuːnoʊdɪˈfɪʃnsi] noun 免疫缺陷
 immunology [ˌɪmjuˈnɑːlədʒi] noun 免疫學
 immunosuppression [ˌɪmjunoʊsəˈpreʃn] noun (醫)免疫抑制
@@ -5740,27 +5733,27 @@ impersonator [ɪmˈpɜːrsəneɪtər] noun 模仿他人的滑稽演員；扮演�
 impetigo [ˌɪmpɪˈtaɪɡoʊ] noun 膿疱病
 impious [ˈɪmpiəs] adjective (formal)（對上帝或宗教）不敬的，不恭的
 impish [ˈɪmpɪʃ] adjective 頑童似的；頑皮的；淘氣的
-implicature [ˈɪmplɪkətʃər] noun 1.含蓄行為；含蓄表達 2.隱含意；言外之意
+implicature [ˈɪmplɪkətʃər] noun (術語)1.含蓄行為；含蓄表達 2.隱含意；言外之意
 impolite [ˌɪmpəˈlaɪt] adjective 不禮貌的；粗魯的
 importunate [ɪmˈpɔːrtʃənət] adjective (formal)再三要求的；糾纏不休的
-impound [ɪmˈpaʊnd] verb 1.警察、法庭等 2.收押（待領的狗、貓等）
+impound [ɪmˈpaʊnd] verb 1.(警察、法庭等)暫時沒收；扣押 2.收押（待領的狗、貓等）
 impracticable [ɪmˈpræktɪkəbl] adjective 不可行的；不切實際的
 impressionistic [ˌɪmpreʃəˈnɪstɪk] adjective 給人以大致印象的；不精確的；憑印象的
 imprimatur [ˌɪmprɪˈmɑːtər] noun (formal)正式批准；認可；同意
-impulsion [ɪmˈpʌlʃn] noun 1.衝動；強烈慾望 2.理由；緣由
+impulsion [ɪmˈpʌlʃn] noun (formal)1.衝動；強烈慾望 2.理由；緣由
 inadmissible [ˌɪnədˈmɪsəbl] adjective (formal)（尤指法庭上）不允許的，不能採納的
-inadvisable [ˌɪnədˈvaɪzəbl] adjective (formal)[not usually before noun]inadvisable(for sb) (to do sth)不明智；不可取
-inamorata [ɪnˌæməˈrɑːtə] noun from Italian formal or humorous女情人
-inapplicable [ˌɪnəˈplɪkəbl] adjective [not before noun]inapplicable(to sb/sth)不適用；不可應用
-inarticulate [ˌɪnɑːrˈtɪkjələt] adjective 1.人 2.講話
+inadvisable [ˌɪnədˈvaɪzəbl] adjective (formal)inadvisable(for sb) (to do sth)不明智；不可取
+inamorata [ɪnˌæməˈrɑːtə] noun (from Italian)(formal or humorous)女情人
+inapplicable [ˌɪnəˈplɪkəbl] adjective inapplicable(to sb/sth)不適用；不可應用
+inarticulate [ˌɪnɑːrˈtɪkjələt] adjective 1.(人)不善於表達的；不善於說話的 2.(講話)詞不達意的；表達得不清楚的
 inattentive [ˌɪnəˈtentɪv] adjective (disapproving)不注意的；不經心
 inauspicious [ˌɪnɔːˈspɪʃəs] adjective (formal)預示前景黯淡的；不祥的；不吉利的
 inauthentic [ˌɪnɔːˈθentɪk] adjective 假的；不可信的；不可靠的
 inboard [ˈɪnbɔːrd] adjective (術語)（船、飛機或汽車）內部的；艙內的
 inbound [ˈɪnbaʊnd] adjective (formal)到達的；入境的
-inbounds [ˈɪnbaʊndz] adjective 籃球
+inbounds [ˈɪnbaʊndz] adjective (籃球)從界外擲入界內的
 inbox [ˈɪnbɑːks] noun (計)（電子郵件）收件箱
-inbred [ˌɪnˈbred] adjective 1.近親繁殖的；同系交配的 2.
+inbred [ˌɪnˈbred] adjective 1.近親繁殖的；同系交配的 2.=inborn
 inbreeding [ˈɪnbriːdɪŋ] noun 近親繁殖；同系交配
 inbuilt [ˈɪnbɪlt] adjective 內在的；本質的；天生的
 incalculable [ɪnˈkælkjələbl] adjective (formal)極大的；不可計算的；不可估量的
@@ -5772,7 +5765,7 @@ incentivize [ɪnˈsentɪvaɪz] verb 激勵；獎勵
 incestuous [ɪnˈsestʃuəs] adjective 1.亂倫的；血親相姦的 2.(disapproving)小集團的；小團體的；排外的
 incharge [ˈɪntʃɑːrdʒ] noun (IndE)（部門等的）負責人，主管
 inchoative [ɪnˈkoʊətɪv] adjective (語法)(動詞)表始的（表示動作自動開始的，如 the door opened 中的 opened）
-incitement [ɪnˈsaɪtmənt] noun [uncountable, countable]incitement(to sth)煽動；鼓動
+incitement [ɪnˈsaɪtmənt] noun incitement(to sth)煽動；鼓動
 incivility [ˌɪnsəˈvɪləti] noun (formal)粗魯的舉動；無禮的語言；不文明
 incognito [ˌɪnkɑːɡˈniːtoʊ] adverb 偽裝；隱姓埋名
 incomer [ˈɪnkʌmər] noun (BrE)新來的人；移民
@@ -5780,19 +5773,18 @@ incommensurable [ˌɪnkəˈmenʃərəbl] adjective (formal)incommensurable(with 
 incommode [ˌɪnkəˈmoʊd] verb (formal)incommode sb造成困難；打擾；妨礙
 incommunicado [ˌɪnkəˌmjuːnɪˈkɑːdoʊ] adjective 不允許與他人接觸；不願與他人接觸
 incomprehension [ɪnˌkɑːmprɪˈhenʃn] noun 不理解；不懂
-inconsiderable [ˌɪnkənˈsɪdrəbl] adjective 
 inconsiderate [ˌɪnkənˈsɪdərət] adjective (disapproving)不為別人着想的；不體諒別人的；考慮不周的
 inconsolable [ˌɪnkənˈsoʊləbl] adjective 悲痛欲絕的；無法慰藉的
-inconstant [ɪnˈkɑːnstənt] adjective 1.（對愛情或友情）不忠的，不專一的 2.不穩定的；經常變換的
+inconstant [ɪnˈkɑːnstənt] adjective (formal)1.（對愛情或友情）不忠的，不專一的 2.不穩定的；經常變換的
 incontestable [ˌɪnkənˈtestəbl] adjective (formal)無可辯駁的；不可否認的；無可置疑的
 incorporated [ɪnˈkɔːrpəreɪtɪd] adjective (商)組成有法人地位的營業公司的；組成公司的
 in-crowd  noun 最受歡迎（或最時髦）的小團體；時髦一族
 incumbency [ɪnˈkʌmbənsi] noun (formal)現任職位；任期
 incurious [ɪnˈkjʊriəs] adjective (formal)不感興趣的；不好奇的；漫不經心的
-indaba [ɪnˈdɑːbə] noun 1.（重要問題）大會，研討會 2.(informal)所關心的困難（或事情）；擔心；憂慮
+indaba [ɪnˈdɑːbə] noun (SAfrE)1.（重要問題）大會，研討會 2.(informal)所關心的困難（或事情）；擔心；憂慮
 indecency [ɪnˈdiːsnsi] noun 1.下流的行為；猥褻 2.下流的動作（或表情等）
 indecorous [ɪnˈdekərəs] adjective (formal)(舉止)令人難堪的；不得體的；不適當的
-indefensible [ˌɪndɪˈfensəbl] adjective 1.（道德上）無可辯解的，不能原諒的 2.地方或建築
+indefensible [ˌɪndɪˈfensəbl] adjective 1.（道德上）無可辯解的，不能原諒的 2.(地方或建築)無法防守的
 indefinable [ˌɪndɪˈfaɪnəbl] adjective 難以定義的；無法解釋的
 indelicate [ɪnˈdelɪkət] adjective (formal)不文雅的；頗粗魯的；令人尷尬的
 indented [ɪnˈdentɪd] adjective (邊緣或表面)鋸齒狀的；參差不齊的
@@ -5800,13 +5792,13 @@ indescribable [ˌɪndɪˈskraɪbəbl] adjective 難以形容的；無法言傳�
 indestructible [ˌɪndɪˈstrʌktəbl] adjective 不可摧毀的；破壞不了的
 indexation [ˌɪndekˈseɪʃn] noun （工資等相對於物價的）指數化
 index-linked  adjective (BrE)(工資等)按生活指數調整的
-indictable [ɪnˈdaɪtəbl] adjective 1.罪行 2.人
-indigestible [ˌɪndɪˈdʒestəbl] adjective 1.食物 2.事實、信息等
+indictable [ɪnˈdaɪtəbl] adjective 1.(罪行)可提起公訴的 2.(人)可被控告的；可被起訴的
+indigestible [ˌɪndɪˈdʒestəbl] adjective 1.(食物)不易消化的 2.(事實、信息等)難解的；複雜難懂的
 indiscernible [ˌɪndɪˈsɜːrnəbl] adjective 隱約的；依稀的；不明顯的
 indiscipline [ɪnˈdɪsɪplɪn] noun (formal)無紀律；無秩序；缺乏管理
 indiscreet [ˌɪndɪˈskriːt] adjective 不慎重的；不審慎的；魯莽的
 indiscretion [ˌɪndɪˈskreʃn] noun 1.不慎的言行；（尤指道德上）不檢點的言行 2.輕率；魯莽
-indisposed [ˌɪndɪˈspoʊzd] adjective 1.（因病或不願透露的原因）不能做某事 2.不願（做某事）
+indisposed [ˌɪndɪˈspoʊzd] adjective 1.（因病或不願透露的原因）不能做某事 2.indisposed to do sth不願（做某事）
 indisposition [ˌɪndɪspəˈzɪʃn] noun (formal)小病；微恙
 indissoluble [ˌɪndɪˈsɑːljəbl] adjective (formal)(關係)牢不可破的；穩定持久的
 indium [ˈɪndiəm] noun 銦
@@ -5836,7 +5828,7 @@ inexpert [ɪnˈekspɜːrt] adjective 不熟練的；缺乏技巧的
 inexpressible [ˌɪnɪkˈspresəbl] adjective (感情)（強烈得）難以言傳的，無法形容的
 inextricable [ˌɪnɪkˈstrɪkəbl] adjective (formal)無法分開的；分不開的
 infamy [ˈɪnfəmi] noun 1.臭名昭著；聲名狼藉 2.惡行；罪惡
-infanticide [ɪnˈfæntɪsaɪd] noun 1.殺嬰（罪）；殺嬰犯 2.殺嬰（某些文化中殺女嬰等的做法）
+infanticide [ɪnˈfæntɪsaɪd] noun (formal)1.殺嬰（罪）；殺嬰犯 2.殺嬰（某些文化中殺女嬰等的做法）
 infantilism [ɪnˈfæntɪlɪzəm] noun (心)（成人的）幼稚病
 infantilize [ɪnˈfæntɪlaɪz] verb (formal)infantilize sb當作幼兒對待
 infantryman [ˈɪnfəntrimən] noun （一名）步兵
@@ -5847,7 +5839,7 @@ infiltrator [ˈɪnfɪltreɪtər] noun 潛入者；滲入者
 infirmary [ɪnˈfɜːrməri] noun 1.（常用於名稱）醫院 2.（學校、監獄等的）醫務室
 infirmity [ɪnˈfɜːrməti] noun （長期的）體弱，生病
 infix [ˈɪnfɪks] noun (語法)中綴；中加成分
-inflammable [ɪnˈflæməbl] adjective 1.(especially BrE) 2.易激動的；易激怒的
+inflammable [ɪnˈflæməbl] adjective 1.(especially BrE)=flammable 2.易激動的；易激怒的
 inflatable [ɪnˈfleɪtəbl] adjective 需充氣的 noun 1.充氣小艇 2.充氣玩具；大型充氣宣傳品
 inflect [ɪnˈflekt] verb (語法)屈折變化；詞尾變化
 in-flight  adjective 飛行中供應（或發生）的
@@ -5864,7 +5856,6 @@ inhabited [ɪnˈhæbɪtɪd] adjective 有人居住的；有動物棲居的
 inhalant [ɪnˈheɪlənt] noun 吸入藥；吸入劑
 inhaler [ɪnˈheɪlər] noun informal吸入器（吸藥用）
 inharmonious [ˌɪnhɑːrˈmoʊniəs] adjective (formal)不和諧的；不協調的
-inhere [ɪnˈhɪr] verb 
 inheritable [ɪnˈherɪtəbl] adjective (生)(特徵或疾病)可遺傳的；有遺傳性的
 inheritor [ɪnˈherɪtər] noun 1.後繼者；繼承人 2.遺產繼承人
 inhibited [ɪnˈhɪbɪtɪd] adjective 拘束的；拘謹的
@@ -5880,24 +5871,24 @@ inky [ˈɪŋki] adjective 1.墨黑的；漆黑的 2.沾有墨水的；被墨水�
 in-laws  noun (informal)姻親；（尤指）公婆，岳父母
 inlay [ˌɪnˈleɪ] verb 鑲嵌；把（圖案等）嵌入 noun 鑲嵌藝術；鑲嵌裝飾（或圖案）；鑲嵌材料
 innards [ˈɪnərdz] noun 1.內臟；（尤指）胃 2.（機器的）內部結構
-innit [ˈɪnɪt] exclamation 1.（即 isn't it）是否，是不是 2.是嗎；是不是
+innit [ˈɪnɪt] exclamation (BrE) (non-standard)1.（即 isn't it）是否，是不是 2.是嗎；是不是
 innumerate [ɪˈnuːmərət] adjective 不會數數的；不會計算的；不懂算術的
 inoffensive [ˌɪnəˈfensɪv] adjective 不會冒犯人的；不討人嫌的
-inoperable [ɪnˈɑːpərəbl] adjective 1.疾病，尤指癌 2.(formal)無法使用的；不能實行的；不實用的
-inoperative [ɪnˈɑːpərətɪv] adjective 1.規則、體系等 2.機器
+inoperable [ɪnˈɑːpərəbl] adjective 1.(疾病，尤指癌)手術無法治瘉的 2.(formal)無法使用的；不能實行的；不實用的
+inoperative [ɪnˈɑːpərətɪv] adjective (formal)1.(規則、體系等)無效的；不能實行的 2.(機器)不運轉的；運行不正常的
 inopportune [ɪnˌɑːpərˈtuːn] adjective (formal)不合時宜的；不是時候的
 inquest [ˈɪŋkwest] noun 1.死因審理；驗屍；勘驗 2.（對失敗的事進行的）討論
 inquisition [ˌɪnkwɪˈzɪʃn] noun 1.（尤指 15 到 17 世紀天主教的）宗教裁判所，異端審問 2.(formal or humorous)一連串的提問；（尤指）盤問，責難
 inquisitor [ɪnˈkwɪzɪtər] noun 1.連續不斷地發問的人；（尤指）盤問者 2.（天主教異端審問的）裁判人
-inquorate [ɪnˈkwɔːreɪt] adjective (術語)（會議）不構成法定人數的
+inquorate [ɪnˈkwɔːreɪt] adjective (BrE) (術語)（會議）不構成法定人數的
 inrush [ˈɪnrʌʃ] noun （突然的）流入，湧入，進入
 insalubrious [ˌɪnsəˈluːbriəs] adjective (地方)骯髒破舊的
-insanitary [ɪnˈsænəteri] adjective especially in NAmE不衞生的；不潔的
+insanitary [ɪnˈsænəteri] adjective 不衞生的；不潔的
 inseam [ˈɪnsiːm] noun (NAmE)下落襠（褲腿內側長度的尺寸，用於訂做或選購長褲）
 insectivore [ɪnˈsektɪvɔːr] noun 食蟲動物
 inseminate [ɪnˈsemɪneɪt] verb (術語)inseminate sb/sth使受精；授精
 insensibility [ɪnˌsensəˈbɪləti] noun 1.(formal)無知覺；不省人事 2.（對某事物的）麻木，無反應能力
-insensible [ɪnˈsensəbl] adjective 1.（對某事物）無感覺，無反應能力，麻木 2.未察覺；意識不到 3.失去知覺；昏迷
+insensible [ɪnˈsensəbl] adjective (formal)1.（對某事物）無感覺，無反應能力，麻木 2.未察覺；意識不到 3.失去知覺；昏迷
 inshore [ˈɪnʃɔːr] adjective 近岸的；近海的
 insincere [ˌɪnsɪnˈsɪr] adjective (disapproving)不誠懇的；不真心的
 insinuation [ɪnˌsɪnjuˈeɪʃn] noun 1.旁敲側擊的話；影射；暗示 2.旁敲側擊；含沙射影；巧妙進入
@@ -5917,9 +5908,9 @@ insulating [ˈɪnsəleɪtɪŋ] adjective 起隔熱（或隔音、絕緣）作用
 insupportable [ˌɪnsəˈpɔːrtəbl] adjective 難以接受的；棘手的
 insured [ɪnˈʃʊrd] adjective 1.被保險的 2.(律)受保人
 integer [ˈɪntɪdʒər] noun (數)整數
-intemperate [ɪnˈtempərət] adjective 1.放縱的；無節制的 2.(especially NAmE)酗酒的
+intemperate [ɪnˈtempərət] adjective (formal)1.放縱的；無節制的 2.(especially NAmE)酗酒的
 intensifier [ɪnˈtensɪfaɪər] noun (語法)強調成分，強化詞（尤指形容詞或副詞，如 so 或 very）
-interbreed [ˌɪntərˈbriːd] verb [intransitive, transitive]interbreed(sth) (with sth)（使）雜交繁殖
+interbreed [ˌɪntərˈbriːd] verb interbreed(sth) (with sth)（使）雜交繁殖
 interceptor [ˌɪntərˈseptər] noun 截擊機
 intercity [ˌɪntərˈsɪti] adjective (交通運輸)城市間的，城際的（通常中途停站不多）
 intercommunication [ˌɪntərkəˌmjuːnɪˈkeɪʃn] noun 相互交流；相互通信；相互溝通
@@ -5938,20 +5929,20 @@ interlanguage [ˈɪntərlænɡwɪdʒ] noun (語言)中間語言，中介語言�
 interleave [ˌɪntərˈliːv] verb interleave sth (with sth)（尤指將片狀物）插入，嵌入
 interlinear [ˌɪntərˈlɪniər] adjective (術語)行間書寫（或印刷）的
 interlingual [ˌɪntərˈlɪŋɡwəl] adjective 1.(語言)使用兩種語言的；介於兩種語言間的；語際的 2.中間語言的；中介語言的
-interlink [ˌɪntərˈlɪŋk] verb [transitive, usually passive, intransitive]interlink(sth) (with sth)（使）連接
+interlink [ˌɪntərˈlɪŋk] verb interlink(sth) (with sth)（使）連接
 intermarry [ˌɪntərˈmæri] verb 1.不同種族（或國家、教派）間通婚 2.近族通婚；近親結婚
 interment [ɪnˈtɜːrmənt] noun (formal)埋葬；安葬
 intermesh [ˌɪntərˈmeʃ] verb (兩個物體或部份)互相嚙合；緊密相接
 intermezzo [ˌɪntərˈmetsoʊ] noun (音)間奏曲，幕間曲（歌劇或其他音樂表演中幕與幕之間的過場音樂）
-intermix [ˌɪntərˈmɪks] verb [transitive, intransitive]intermix(sth) (with sth)（使）混合；（使）混雜
+intermix [ˌɪntərˈmɪks] verb intermix(sth) (with sth)（使）混合；（使）混雜
 internationalism [ˌɪntərˈnæʃnəlɪzəm] noun 國際主義
 internationalist [ˌɪntərˈnæʃnəlɪst] noun 1.國際主義者 2.(ScotE)參加國際比賽的國家隊選手
 internationalize [ˌɪntərˈnæʃnəlaɪz] verb internationalize sth使國際共管；使國際化
 internee [ˌɪntɜːrˈniː] noun （通常指未經審訊而關押的）政治犯
 interoperable [ˌɪntərˈɑːpərəbl] adjective (術語)(計算機系統或程序)互相操作的；配合動作的；互用的
-interpenetrate [ˌɪntərˈpenɪtreɪt] verb (formal)[intransitive, transitive]interpenetrate(sth)（互相）貫穿，滲透
+interpenetrate [ˌɪntərˈpenɪtreɪt] verb (formal)interpenetrate(sth)（互相）貫穿，滲透
 interplanetary [ˌɪntərˈplænəteri] adjective 行星間的
-interpretative [ɪnˈtɜːrprəteɪtɪv] adjective especially in NAmE理解的；解釋的；表演的；演繹的
+interpretative [ɪnˈtɜːrprəteɪtɪv] adjective 理解的；解釋的；表演的；演繹的
 interrelate [ˌɪntərɪˈleɪt] verb 相互關聯（或影響）
 interrogatory [ˌɪntəˈrɑːɡətri] adjective 疑問的；質問的 noun (律)（訴訟中一方向另一方提出的）書面質詢
 intersex [ˈɪntərseks] noun (醫)間性；雌雄間性；雌雄間體
@@ -5965,7 +5956,7 @@ intimidated [ɪnˈtɪmɪdeɪtɪd] adjective 膽怯；怯場
 intimidating [ɪnˈtɪmɪdeɪtɪŋ] adjective 嚇人的；令人膽怯的
 intimidatory [ɪnˌtɪmɪˈdeɪtəri] adjective (formal)恐嚇的；威脅的
 intoxicant [ɪnˈtɑːksɪkənt] noun (術語)麻醉劑；毒藥；酒類飲料
-intoxicated [ɪnˈtɑːksɪkeɪtɪd] adjective 1.(NAmE)喝醉的；（吸毒後）迷醉的 2.陶醉的；忘乎所以的；極度興奮的
+intoxicated [ɪnˈtɑːksɪkeɪtɪd] adjective (formal)1.(NAmE)喝醉的；（吸毒後）迷醉的 2.陶醉的；忘乎所以的；極度興奮的
 intramural [ˌɪntrəˈmjʊrəl] adjective (especially NAmE)機構內部的；（尤指）學校內的，大學內的
 intramuscular [ˌɪntrəˈmʌskjələr] adjective (醫)肌肉內的；注入肌內的
 intranet [ˈɪntrənet] noun (計)內聯網，企事業單位內部互聯網（公司、大學等的內部網絡，但與互聯網相接並共享軟件）
@@ -5975,19 +5966,19 @@ intrigued [ɪnˈtriːɡd] adjective 着迷；很感興趣；好奇
 intro [ˈɪntroʊ] noun (informal)介紹；（尤指）前奏，前言，導言
 introvert [ˈɪntrəvɜːrt] noun 內向的人；不喜歡與人交往的人
 introverted [ˈɪntrəvɜːrtɪd] adjective 內向的；不喜歡交往的
-intubate [ˈɪntubeɪt] verb [transitive, intransitive]intubate(sb/sth)（給…）插管；插入喉管
+intubate [ˈɪntubeɪt] verb intubate(sb/sth)（給…）插管；插入喉管
 intuit [ɪnˈtuːɪt] verb (formal)intuit that…|intuit sth|intuit what, why, etc…憑直覺知道
-invalidity [ˌɪnvəˈlɪdəti] noun 1.(術語)病弱；傷殘；不能自理 2.(formal)無效；失效
+invalidity [ˌɪnvəˈlɪdəti] noun 1.(BrE)(術語)病弱；傷殘；不能自理 2.(formal)無效；失效
 invariable [ɪnˈverəriəbl] adjective 始終如一的；永無變化的
 invariant [ɪnˈveriənt] adjective (術語)不變的；恆定的
 inviolate [ɪnˈvaɪələt] adjective (formal)未受（或不容）侵犯的；未受（或不容）褻瀆的；不容破壞的
-invitational [ˌɪnvɪˈteɪʃənl] noun (especially NAmE)邀請賽
+invitational [ˌɪnvɪˈteɪʃənl] noun (especially NAmE)(常用於名稱)邀請賽
 inwardness [ˈɪnwərdnəs] noun (formal or literary)心性；靈性；精神性
 inyanga [ɪnˈjɑːŋə] noun (SAfrE)草藥醫生；郎中
 in-your-face  adjective (informal)（態度、表演等）赤裸裸的，富刺激性的，有意惹人發怒的
 iodide [ˈaɪədaɪd] noun (化)碘化物
-ionic [aɪˈɑːnɪk] adjective 1.(化)離子的 2.(化)離子的；電價的 3.(建)愛奧尼亞柱式的（古希臘建築風格，有渦捲飾）
-ionize [ˈaɪənaɪz] verb (術語)[transitive, intransitive]ionize(sth)（使）電離，離子化
+ionic [aɪˈɑːnɪk] adjective 1.(化)離子的 2.(化)(化學鍵)離子的；電價的 3.(建)愛奧尼亞柱式的（古希臘建築風格，有渦捲飾）
+ionize [ˈaɪənaɪz] verb (術語)ionize(sth)（使）電離，離子化
 ionizer [ˈaɪənaɪzər] noun 負離子發生器；離子化裝置
 ionosphere [aɪˈɑːnəsfɪr] noun 電離層
 iridium [ɪˈrɪdiəm] noun 銥
@@ -6007,7 +5998,7 @@ irreligious [ˌɪrɪˈlɪdʒəs] adjective (formal)無宗教信仰的；漠視�
 irreparable [ɪˈrepərəbl] adjective (損失、傷害等)無法彌補的；不能修復的；不可恢復的
 irretrievable [ˌɪrɪˈtriːvəbl] adjective (formal)不可糾正的；無法挽回的
 irrupt [ɪˈrʌpt] verb (formal)[intransitive]+ adv./prep.闖入；突然衝進；爆發
-ischaemia [ɪˈskiːmiə] noun NAmE缺血（尤指心肌缺血）
+ischaemia [ɪˈskiːmiə] noun (醫)缺血（尤指心肌缺血）
 ish [ɪʃ] adverb (BrE) (informal)（用於陳述句之後，以緩和語氣）
 island-hopping  noun 列島旅行；列島旅遊
 islet [ˈaɪlət] noun 很小的島；小島
@@ -6045,13 +6036,13 @@ jag [dʒæɡ] noun (informal) (especially NAmE)（難以控制的）一陣
 jailbait [ˈdʒeɪlbeɪt] noun (informal)禍水妞（或郎）（指與之發生性關係即構成犯罪的未成年人）
 jailbird [ˈdʒeɪlbɜːrd] noun (old-fashioned, informal)長期坐牢的囚犯
 jailbreak [ˈdʒeɪlbreɪk] noun (especially NAmE)（數人）越獄
-jailer [ˈdʒeɪlər] noun BrE also監獄看守；獄卒
+jailer [ˈdʒeɪlər] noun (old-fashioned)監獄看守；獄卒
 jailhouse [ˈdʒeɪlhaʊs] noun (NAmE)監獄
 jalopy [dʒəˈlɑːpi] noun (old-fashioned, informal)破舊的汽車
 jambalaya [ˌdʒæmbəˈlaɪə] noun （美國南部的）什錦飯（用米飯、海鮮、雞肉等加香料製作而成）
 jammed [dʒæmd] adjective 1.動彈不得；卡住了 2.(especially NAmE)擠滿的；塞滿的；擁擠不堪的
 jammy [ˈdʒæmi] adjective 1.塗有果醬的；滿是果醬的 2.(BrE) (informal)幸運的；運氣好的
-jam-packed  adjective (informal)[not usually before noun]jam-packed(with sb/sth)擠滿；擁擠
+jam-packed  adjective (informal)jam-packed(with sb/sth)擠滿；擁擠
 jangle [ˈdʒæŋɡl] verb 1.（使）發出金屬撞擊聲，發出丁零噹啷的刺耳聲 2.刺激，煩擾（神經）；（使）煩躁不安 noun 金屬撞擊聲；丁零噹啷的刺耳聲
 japonica [dʒəˈpɑːnɪkə] noun （日本）貼梗海棠
 jarhead [ˈdʒɑːrhed] noun (NAmE) (informal)鍋蓋頭（指美國海軍陸戰隊士兵）
@@ -6064,10 +6055,10 @@ jawline [ˈdʒɔːlaɪn] noun 下頜的輪廓；下巴的外形
 jay [dʒeɪ] noun 松鴉，樫鳥（見於歐洲，羽毛鮮豔，喜大聲鳴叫）
 jaywalk [ˈdʒeɪwɔːk] verb （無視交通規則）亂穿馬路
 jazzed [dʒæzd] adjective (informal)興奮；激動
-jazzy [ˈdʒæzi] adjective 1.爵士樂風格的 2.(sometimes disapproving)絢麗的；花哨的
+jazzy [ˈdʒæzi] adjective (informal)1.爵士樂風格的 2.(sometimes disapproving)絢麗的；花哨的
 jeepers [ˈdʒiːpərz] exclamation (especially NAmE) (informal)（表示驚奇或震驚）天哪，哎呀
 jejunum [dʒɪˈdʒuːnəm] noun (解)空腸
-jell [dʒel] verb 1.兩個或更多的人 2.主意、想法、計劃等 3.(術語)膠凝；膠化；形成膠體
+jell [dʒel] verb (especially NAmE)1.(兩個或更多的人)聯手共事；結為一體 2.(主意、想法、計劃等)變得更清楚；顯得更明確；有效；起作用 3.(術語)(液體)膠凝；膠化；形成膠體
 jellied [ˈdʒelid] adjective (especially BrE)做成膠凍狀的
 jembe [ˈdʒembe] noun 1.(EAfrE)（長柄）鋤頭 2.金貝鼓（西非的一種傳統鼓） 3.西非打擊樂
 jemmy [ˈdʒemi] noun (BrE)短撬棍，鐵撬棍（竊賊撬門窗用）
@@ -6083,18 +6074,16 @@ jetfoil [ˈdʒetfɔɪl] noun 水翼噴射船；飛翼船
 jet-propelled  adjective 噴氣發動機推進的
 jetsam [ˈdʒetsəm] noun （尤指沖到岸邊的）船上投棄物
 jet-setter  noun 常乘飛機旅行的富豪
-jewelled [ˈdʒuːəld] adjective especially US飾以寶石的；鑲有寶石的
-jeweller [ˈdʒuːələr] noun 1.寶石鐘錶匠；寶石鐘錶商 2.珠寶鐘錶店
+jewelled [ˈdʒuːəld] adjective 飾以寶石的；鑲有寶石的
+jeweller [ˈdʒuːələr] noun 1.寶石鐘錶匠；寶石鐘錶商 2.jeweller's珠寶鐘錶店
 jib [dʒɪb] noun 1.艏三角帆；主帆前的小帆 2.（起重機的）懸臂，挺杆 verb (old-fashioned, informal)不願做；不肯接受
 jiffy [ˈdʒɪfi] noun (informal)一會兒；瞬間
-jiggered [ˈdʒɪɡərd] adjective 
 jiggery-pokery [ˌdʒɪɡəri ˈpoʊkəri] noun (informal) (especially BrE)欺騙行為；騙局；搗鬼
 jiko [ˈdʒiːkɔː] noun (EAfrE)績高爐（用金屬或黏土製作，燒煤炭或小木塊）
 jilbab [ˈdʒɪlbæb] noun 吉爾巴布（穆斯林女子穿的罩袍）
 jillaroo [ˌdʒɪləˈruː] noun (AustralE) (informal)（澳大利亞或新西蘭的）農場見習青年女工
 jilt [dʒɪlt] verb [often passive]jilt sb拋棄，遺棄（情人）
 jimmy [ˈdʒɪmi] noun (NAmE)（竊賊撬門窗用的）短撬棍，鐵撬棍
-jingo [ˈdʒɪŋɡoʊ] noun 
 jink [dʒɪŋk] verb (BrE) (informal)[intransitive](+ adv./prep.)急轉；（尤指）躲閃，閃開
 jinx [dʒɪŋks] noun [singular]jinx(on sb/sth)厄運；霉運；不祥之人（或物）
 jinxed [dʒɪŋkst] adjective (informal)倒霉的；不走運的
@@ -6108,21 +6097,21 @@ jobcentre [ˈdʒɑːbsentər] noun (BrE)（政府的）就業服務中心，職�
 job-hunt  verb (通常用於進行時)找工作；求職
 job-sharing  noun 工作分擔制（兩人分擔一份全職工作，報酬分攤）
 jobsworth [ˈdʒɑːbzwɜːrθ] noun (BrE) (informal, disapproving)刻板的監工；機械式工作的人
-jockstrap [ˈdʒɑːkstræp] noun especially in NAmE（男運動員用的）下體護身
+jockstrap [ˈdʒɑːkstræp] noun （男運動員用的）下體護身
 jocose [dʒəˈkoʊs] adjective (formal)幽默的；滑稽的
 jodhpurs [ˈdʒɑːdpərz] noun 馬褲
 joey [ˈdʒoʊi] noun 幼袋鼠；幼沙袋鼠；幼負鼠
-joggle [ˈdʒɑːɡl] verb (informal)[intransitive, transitive]joggle(sb/sth)（使）快速顛動，快速搖擺
+joggle [ˈdʒɑːɡl] verb (informal)joggle(sb/sth)（使）快速顛動，快速搖擺
 jogtrot [ˈdʒɑːɡtrɑːt] noun 勻速慢跑
-joined-up  adjective 1.（筆體）連寫的；草書的 2.明智而協調的
+joined-up  adjective (BrE)1.（筆體）連寫的；草書的 2.明智而協調的
 joiner [ˈdʒɔɪnər] noun 1.(BrE)細木工人 2.（組織、俱樂部等的）參加者，入會者，會員
 joinery [ˈdʒɔɪnəri] noun 細木工人的工作；細木工的製品
 jointed [ˈdʒɔɪntɪd] adjective 有關節的；有接縫的；活動接頭的
 jojoba [hoʊˈhoʊbə] noun 1.霍霍巴油（用美洲植物霍霍巴樹的蒴果製成，常用於化妝品） 2.霍霍巴樹
 joker [ˈdʒoʊkər] noun 1.愛開玩笑的人；愛說笑話的人 2.(informal)蠢貨；廢人 3.（某些紙牌遊戲中的）百搭，（大、小）王牌
 jokey [ˈdʒoʊki] adjective (informal)逗樂的；可笑的；滑稽的
-jol [dʒɔːl] noun 娛樂（或快活）時光；聚會 verb 開心地玩
-jotter [ˈdʒɑːtər] noun 1.便箋簿；便條簿；記事簿 2.(ScotE)練習簿；練習本
+jol [dʒɔːl] (SAfrE)(informal) noun 娛樂（或快活）時光；聚會 verb 開心地玩
+jotter [ˈdʒɑːtər] noun (BrE)1.便箋簿；便條簿；記事簿 2.(ScotE)練習簿；練習本
 jottings [ˈdʒɑːtɪŋz] noun 便條；簡短的筆記
 joule [dʒuːl] noun (物)焦耳（能量或功的單位）
 journalese [ˌdʒɜːrnəˈliːz] noun (usually disapproving)新聞文體；新聞筆調
@@ -6136,7 +6125,7 @@ joyriding [ˈdʒɔɪraɪdɪŋ] noun 用偷來的車兜風（常指開快車或�
 jubilee [ˈdʒuːbɪliː] noun （尤指 25 週年或 50 週年的）週年紀念，週年大慶，週年慶祝
 judder [ˈdʒʌdər] verb （劇烈地）震動，震顫
 judgemental [dʒʌdʒˈmentl] adjective 1.(disapproving)輕率評價的；動輒評頭論足的；動輒指責人的 2.(formal)判斷的；裁決的；判決的
-judicature [ˈdʒuːdɪkətʃər] noun 1.司法系統；審判制度 2.（統稱）審判人員
+judicature [ˈdʒuːdɪkətʃər] noun (律)1.司法系統；審判制度 2.（統稱）審判人員
 judo [ˈdʒuːdoʊ] noun (from Japanese)柔道
 jugful [ˈdʒʌɡfʊl] noun 一罐的量；一壺的量
 juggler [ˈdʒʌɡlər] noun 玩雜耍的人；耍把戲的人；變戲法的人
@@ -6144,10 +6133,10 @@ jugular [ˈdʒʌɡjələr] noun 頸靜脈
 juicer [ˈdʒuːsər] noun 1.榨汁機 2.(NAmE)榨汁器
 ju-jitsu [dʒuː ˈdʒɪtsuː] noun 柔術（日本柔道由此發展而來）
 juju [ˈdʒuːdʒuː] noun 1.（西非土著魔法中使用的）護符，物神 2.（西非土著的）魔法，法術 3.祖祖音樂（尼日利亞音樂，用吉他和鼓演奏）
-julep [ˈdʒuːlep] noun 1.甜藥酒；草藥飲料 2.
-jumpcut [ˈdʒʌmpkʌt] noun (術語)跳格剪輯；跳切
+julep [ˈdʒuːlep] noun 1.甜藥酒；草藥飲料 2.=mint julep
+jumpcut [ˈdʒʌmpkʌt] noun (術語)(電影)跳格剪輯；跳切
 jumped-up  adjective (BrE) (informal, disapproving)（尤因社會地位提高）妄自尊大的；自視甚高的
-jump-off  noun NAmE also加賽決勝負
+jump-off  noun (超越障礙賽馬運動)加賽決勝負
 jump-start  verb 1.用跨接引線啟動（汽車發動機） 2.全力啟動；加快開展
 jungli [ˈdʒʌŋɡli] adjective (IndE)粗野的；沒教養的
 junket [ˈdʒʌŋkɪt] noun (informal, disapproving)（政府官員的）公費旅遊
@@ -6160,14 +6149,14 @@ jute [dʒuːt] noun 黃麻纖維
 juvenilia [ˌdʒuːvəˈnɪliə] noun (formal)（統稱某作家或藝術家的）少年時代作品
 kabaddi [ˈkʌbədi] noun 卡巴迪（南亞運動比賽，每隊各有七人參加，在長方形沙地上舉行，運動員需屏氣追逐對手）
 kabuki [kəˈbuːki] noun (from Japanese)歌舞伎（日本傳統劇種，由男子表演）
-ka-ching  exclamation BrE also嘩啦（表示賺大錢）
+ka-ching  exclamation (informal)嘩啦（表示賺大錢）
 kaffeeklatsch [ˈkæfeɪklætʃ] noun (NAmE, from German)咖啡派對；咖啡敍談會
 kafir [ˈkæfər] noun 卡菲爾（穆斯林對非伊斯蘭教教徒的稱呼，含侮慢意）
 kaftan [ˈkæftæn] noun 1.（男式束腰帶）阿拉伯長袍 2.寬大長袖女袍
 kahuna [kəˈhuːnə] noun (NAmE) (informal)要人；負責人；大咖
 kai [kaɪ] noun (NZE) (informal)食物
-kaiser [ˈkaɪzər] noun 1.（舊時德國、奧地利或神聖羅馬帝國的）皇帝 2.(NAmE)王冠鬆脆小麪包
-kaizen [ˌkaɪˈzen] noun (商)（源自日本的公司經營模式的）持續改進
+kaiser [ˈkaɪzər] noun (from German)1.（舊時德國、奧地利或神聖羅馬帝國的）皇帝 2.(NAmE)王冠鬆脆小麪包
+kaizen [ˌkaɪˈzen] noun (from Japanese)(商)（源自日本的公司經營模式的）持續改進
 kajal [ˈkʌdʒəl] noun （南亞女子用的）黑色眼影，燈黑
 kakuro [ˌkɑːˈkʊroʊ] noun (from Japanese)數謎遊戲，數和（圖表中的白格所填數字之和等於黑格所給數字）
 kameez [kəˈmiːz] noun 克米茲（許多南亞人穿的及膝長袍）
@@ -6184,7 +6173,7 @@ karting [ˈkɑːrtɪŋ] noun 卡丁車比賽
 kasbah [ˈkæzbɑː] noun （北非城市高地的）城堡，城堡周圍地區
 katakana [ˌkætəˈkɑːnə] noun (from Japanese)（日語中的）片假名
 kazoo [kəˈzuː] noun 卡佐膜管，卡祖笛（兩端點有薄膜的短管，通過對着一個側孔哼鳴或吟唱）
-kebab [kɪˈbæb] noun especially in NAmE烤肉串
+kebab [kɪˈbæb] noun 烤肉串
 kedgeree [ˈkedʒəriː] noun 魚蛋燴飯
 keelhaul [ˈkiːlhɔːl] verb 1.(old use)（把水手）拖曳過船底（作為懲罰） 2.(humorous)重罰；怒斥
 keep-fit  noun (BrE)（集體）健身鍛煉，健身操
@@ -6203,7 +6192,7 @@ kerbstone [ˈkɜːrbstoʊn] noun (BrE)路緣石
 kerchief [ˈkɜːrtʃɪf] noun (old-fashioned)方頭巾；方圍巾
 kerfuffle [kərˈfʌfl] noun (BrE) (informal)（不必要的）騷動，混亂，喧鬧
 kestrel [ˈkestrəl] noun 紅隼（小猛禽）
-ketamine [ˈkiːtəmiːn] noun informal氯胺酮，K 粉（用作麻醉劑，也用作毒品）
+ketamine [ˈkiːtəmiːn] noun 氯胺酮，K 粉（用作麻醉劑，也用作毒品）
 ketch [ketʃ] noun 雙桅帆船
 kettledrum [ˈketldrʌm] noun 定音鼓；鍋鼓
 keyboarder [ˈkiːbɔːrdər] noun 操作鍵盤的人；鍵盤輸入員
@@ -6220,31 +6209,29 @@ khat [kɑːt] noun 阿拉伯茶葉（產於阿拉伯和非洲，有藥用）
 khazi [ˈkɑːzi] noun (old-fashioned) (BrE slang)廁所；茅坑
 kibbled [ˈkɪbld] adjective (穀粒)磨成粗粒的；粗磨的
 kibbutz [kɪˈbʊts] noun 基布茲，集體農場（以色列的共同生活、工作、決策和分配收入的合作農場或工廠）
-kibitz [ˈkɪbɪts] verb 1.(usually disapproving)（旁觀者）指手畫腳，多嘴多舌 2.閒聊
-kibosh [ˈkaɪbɑːʃ] noun 
-kick-ass  adjective 1.強橫的；粗暴的 2.極好的；非常成功的
+kibitz [ˈkɪbɪts] verb (NAmE) (informal)1.(usually disapproving)（旁觀者）指手畫腳，多嘴多舌 2.閒聊
+kick-ass  adjective (slang) (especially NAmE)1.強橫的；粗暴的 2.極好的；非常成功的
 kickball [ˈkɪkbɔːl] noun 踢球戲（按棒球規則進行的足球戲）
 kick-boxing  noun 散打；搏擊操
 kicking [ˈkɪkɪŋ] adjective (informal)充滿活力的；充滿刺激的；令人興奮的 noun （尤指對躺在地上的人連續的）狠踢，猛踹
 kick-off  noun 1.（足球賽的）開球，開賽 2.(informal)（活動的）開始，開幕
 kickstand [ˈkɪkstænd] noun （自行車或摩托車的）撑腳架，支架
 kick-start  verb 1.用腳踏啟動（摩托車） 2.促使…開始；使（項目）儘快啟動 noun 1.（摩托車的）腳踏啟動器 2.迅速開始（採取行動）；快速啟動
-kick-turn  noun 1.滑雪 2.倒板（使滑板前輪抬起所作的調頭）
+kick-turn  noun 1.(滑雪)踢轉（分別將兩塊滑雪板翹起轉向所作的調頭） 2.倒板（使滑板前輪抬起所作的調頭）
 kiddie [ˈkɪdi] noun (informal)小孩子；小傢伙
 kidology [kɪˈdɑːlədʒi] noun (especially BrE) (humorous)哄騙（術）；唬弄
 kidult [ˈkɪdʌlt] noun (informal)童心未泯的成人，大小孩（喜歡做適合兒童做的事或購買適合兒童的物品）
 kike [kaɪk] noun (taboo, slang) (especially NAmE)猶太佬；猶太鬼子
 kikoi [kɪˈkɔɪ] noun (EAfrE)基科伊厚花布（主要用作圍腰布或披肩）
 kilim [kiːˈliːm] noun （土耳其）基里姆地毯
-kilobit [ˈkɪləbɪt] noun 1.千比特（十進制計算機內存或數據的單位，等於 1 000 比特） 2.千比特（二進制計算機內存或數據的單位，等於 1 024 比特）
-kilobyte [ˈkɪləbaɪt] noun 1.千字節（十進制計算機內存或數據單位，等於 1 000 字節） 2.千字節（二進制計算機內存或數據單位，等於 1 024 字節）
+kilobit [ˈkɪləbɪt] noun 1.千比特（十進制計算機內存或數據的單位，等於 1 000 比特） 2.千比特（二進制計算機內存或數據的單位，等於 1 024 比特）
+kilobyte [ˈkɪləbaɪt] noun 1.千字節（十進制計算機內存或數據單位，等於 1 000 字節） 2.千字節（二進制計算機內存或數據單位，等於 1 024 字節）
 kilohertz [ˈkɪləhɜːrts] noun 千赫（茲）
 kilojoule [ˈkɪlədʒuːl] noun 千焦（耳）（食物能量單位）
-kilowatt [ˈkɪləwɑːt] noun 千瓦（電的功率計量單位，等於 1 000 瓦特）
+kilowatt [ˈkɪləwɑːt] noun 千瓦（電的功率計量單位，等於 1 000 瓦特）
 kilowatt-hour  noun 千瓦時；一度（電）
 kilt [kɪlt] noun （蘇格蘭傳統男式）短褶裙；女式蘇格蘭格呢短褶裙
 kilted [ˈkɪltɪd] adjective 身着蘇格蘭格呢褶裙的
-kilter [ˈkɪltər] noun 1.（與…）不一致，不同 2.不正常；失常
 kind-hearted  adjective 仁慈的；善良的；寬容的；好心的
 kindling [ˈkɪndlɪŋ] noun 引火柴；引火物
 kinesis [kɪˈniːsɪs] noun (術語)運動；動作
@@ -6261,7 +6248,7 @@ kinsfolk [ˈkɪnzfoʊk] noun (formal or old-fashioned)（統稱個人的）親�
 kiondo [ˈkjɑːndɑː] noun (EAfrE)（用劍麻繩等編的）長帶挎包，長帶提包
 kip [kɪp] noun (BrE) (informal)睡覺 verb (BrE) (informal)睡覺
 kipper [ˈkɪpər] noun （醃曬）煙熏鯡魚
-kirk [kɜːrk] noun 1.(ScotE)教堂 2.蘇格蘭教會
+kirk [kɜːrk] noun 1.(ScotE)教堂 2.the Kirk蘇格蘭教會
 kirpan [kɪrˈpɑːn] noun （錫克族男子佩帶的）聖刀
 kirsch [kɪrʃ] noun 櫻桃白蘭地；櫻桃酒
 kismet [ˈkɪzmet] noun (literary)命運；天命
@@ -6273,48 +6260,45 @@ kitchenette [ˌkɪtʃɪˈnet] noun 小廚房；套房裏用作廚房的一角
 kitchen-sink  adjective (戲劇、電影、小說等)生活化的；描寫普通人的生活的；揭示現實灰暗面的
 kitchenware [ˈkɪtʃɪnwer] noun （商店用語）廚房用具
 kitesurfing [ˈkaɪtsɜːrfɪŋ] noun 風箏衝浪（運動）
-kith [kɪθ] noun 
 kittenish [ˈkɪtnɪʃ] adjective (old-fashioned)(女人)搔首弄姿的；賣弄風情的
 kittiwake [ˈkɪtɪweɪk] noun 三趾鴴（海洋鷗類，營巢於懸崖）
-kitty [ˈkɪti] noun 1.(informal)共同湊集的一筆錢 2.紙牌遊戲等 3.(informal)貓咪；小貓
-kiwi [ˈkiːwiː] noun 1.(informal)新西蘭人 2.幾維（新西蘭鳥，喙長、翼短、無尾、不能飛） 3.
+kitty [ˈkɪti] noun 1.(informal)共同湊集的一筆錢 2.(紙牌遊戲等)全部賭注 3.(informal)貓咪；小貓
+kiwi [ˈkiːwiː] noun 1.(informal)新西蘭人 2.幾維（新西蘭鳥，喙長、翼短、無尾、不能飛） 3.=kiwi fruit
 klap [klʌp] verb (SAfrE) (informal)klap sb/sth打，擊（某人或某物）
 kleptomania [ˌkleptəˈmeɪniə] noun 偷竊狂；偷竊癖
 klick [klɪk] noun (NAmE) (informal)千米；公里
 kludge [kluːdʒ] noun (計)不成熟產品；蹩腳系統
 klutz [klʌts] noun (informal) (especially NAmE)木頭人；不靈巧的人；笨手笨腳的人
-km  abbreviation （書寫形式）千米，公里
-knacker [ˈnækər] verb 1.使筋疲力盡；使疲憊不堪 2.使受傷；破壞；損害
-knackered [ˈnækərd] adjective 1.筋疲力盡；疲憊不堪 2.舊（或破）得不能用了
+knacker [ˈnækər] verb (BrE) (slang)1.使筋疲力盡；使疲憊不堪 2.使受傷；破壞；損害
+knackered [ˈnækərd] adjective (BrE) (slang)1.筋疲力盡；疲憊不堪 2.舊（或破）得不能用了
 kneecap [ˈniːkæp] noun 膝蓋骨；髕骨 verb 用槍擊穿膝蓋骨，擊碎膝蓋骨（非法刑罰）
 knee-deep  adjective (figurative)沒膝的；齊膝深的
 knee-high  adjective 齊膝高的
 knee-jerk  adjective (disapproving)本能地做出的；未經思考做出的
 knee-length  adjective 長及膝部的
 knees-up  noun (BrE) (informal)喧鬧的社交集會；歡快的舞會
-knickerbockers [ˈnɪkərbɑːkərz] noun NAmE also（尤指舊時穿的膝下紮緊的）燈籠褲
-knickers [ˈnɪkərz] noun 1.(BrE)女式短襯褲 2.(NAmE)
+knickerbockers [ˈnɪkərbɑːkərz] noun （尤指舊時穿的膝下紮緊的）燈籠褲
+knickers [ˈnɪkərz] noun 1.(BrE)女式短襯褲 2.(NAmE)=knickerbockers
 knick-knack [ˈnɪk næk] noun (sometimes disapproving)（房子裏的）小裝飾物，小擺設
-knife-edge  noun 1.形勢等 2.人
-knifepoint [ˈnaɪfpɔɪnt] noun 
+knife-edge  noun 刀刃
 knighthood [ˈnaɪthʊd] noun （英國）爵士頭銜，騎士頭銜，爵士稱號，騎士稱號
 knightly [ˈnaɪtli] adjective (literary)由爵士（或騎士）組成的；爵士（或騎士）的；俠義的
 knitted [ˈnɪtɪd] adjective 編織的；針織的
 knitter [ˈnɪtər] noun 編織者；針織工
 knitwear [ˈnɪtwer] noun 針織衫；針織衣物
-knobbly [ˈnɑːbli] adjective especially NAmE有節的；多疙瘩的
+knobbly [ˈnɑːbli] adjective 有節的；多疙瘩的
 knockabout [ˈnɑːkəbaʊt] adjective (BrE)鬧劇的；喧鬧喜劇的
 knock-back  noun (informal)（尤指被人拒絕時受到的）挫折，挫傷，打擊
-knock-down  adjective 1.價格等 2.強有力的；用力的 noun 1.拳擊運動 2.足球
+knock-down  adjective 1.(價格等)低廉的 2.強有力的；用力的 noun 1.(拳擊運動)擊倒 2.(足球)凌空抽射（將高球踢到地上或給另一球員）
 knock-down-drag-out  adjective (NAmE) (informal)（打架或爭吵）激烈的，猛烈的
 knocker [ˈnɑːkər] noun 1.（固定在門上供敲門用的）門環 2.(informal)吹毛求疵的人；一味批評的人 3.(taboo, slang)（冒犯語）乳房，奶子
 knock-kneed  adjective 膝外翻的
 knock-on  adjective (especially BrE)使產生連鎖反應的
 knock-up  noun (BrE)（尤指網球的）賽前練習
-know-all  noun (BrE)自以為無所不知的人；百事通
-know-it-all  noun (especially NAmE)自以為無所不知的人；百事通
+know-all  noun (BrE)(informal, disapproving)自以為無所不知的人；百事通
+know-it-all  noun (especially NAmE)(informal, disapproving)自以為無所不知的人；百事通
 knuckle-dragger  noun (informal)（缺心眼兒的）莽漢，笨蛋
-knuckleduster [ˈnʌkldʌstər] noun NAmE also指節金屬套（用作武器）
+knuckleduster [ˈnʌkldʌstər] noun 指節金屬套（用作武器）
 knucklehead [ˈnʌklhed] noun (NAmE) (informal)笨蛋；傻瓜
 koala [koʊˈɑːlə] noun 樹袋熊；考拉；無尾熊
 kofta [ˈkɔːftə] noun 柯夫塔（用肉、魚或乾酪加香料壓碎調製成丸子的南亞菜肴）；柯夫塔丸子
@@ -6324,14 +6308,13 @@ koi [kɔɪ] noun 錦鯉（觀賞魚，源自日本）
 kombi [ˈkɑːmbi] noun (SAfrE)康比小客車（可乘坐約十人）
 kook [kuːk] noun (informal) (especially NAmE)怪人；狂人
 kookaburra [ˈkʊkəbɜːrə] noun 笑翠鳥（產於澳大利亞）
-kop [kɑːp] noun 1.(SAfrE) (informal)頭；腦袋 2.(尤用於地名)小山 3.(BrE)（尤指舊時足球隊主場的）主隊球迷看台
+kop [kɑːp] noun 1.(SAfrE) (informal)頭；腦袋 2.(SAfrE)(尤用於地名)小山 3.(BrE)（尤指舊時足球隊主場的）主隊球迷看台
 koppie [ˈkɑːpi] noun (SAfrE)小山；小丘
 kora [ˈkɔːrə] noun 科拉琴（西非 21 弦樂器，狀似豎琴）
 korfball [ˈkɔːrfbɔːl] noun 合球，荷蘭式籃球運動，科爾夫球（比賽雙方各由四男四女組隊）
 korma [ˈkɔːrmə] noun 奶油（或酸奶）浸肉（常加有杏仁的南亞菜肴或醬汁）
-kowtow [ˌkaʊˈtaʊ] verb (informal, disapproving)[intransitive]kowtow(to sb/sth)叩頭；磕頭；卑躬屈膝；唯命是從
-kph [ˌkeɪ piː ˈeɪtʃ] abbreviation 每小時所行千米（或公里）數；千米每小時
-kraal [krɑːl] noun 1.柵欄村莊（傳統的非洲茅屋村莊） 2.牲畜欄
+kowtow [ˌkaʊˈtaʊ] verb (informal, disapproving)kowtow(to sb/sth)叩頭；磕頭；卑躬屈膝；唯命是從
+kraal [krɑːl] noun (SAfrE)1.柵欄村莊（傳統的非洲茅屋村莊） 2.牲畜欄
 kraken [ˈkrɑːkən] noun （虛構的出沒於挪威附近的）北海巨妖
 krill [krɪl] noun 南極磷蝦；磷蝦
 kris [kriːs] noun （馬來或印度尼西亞的）波狀刃短劍，波形刀
@@ -6354,16 +6337,16 @@ labia [ˈleɪbiə] noun 陰唇
 labial [ˈleɪbiəl] noun (語音)唇音
 labiodental [ˌleɪbioʊˈdentl] noun (語音)唇齒音
 labiovelar [ˌleɪbioʊˈviːlər] noun (語音)圓唇軟腭音；唇化軟腭音
-laboured [ˈleɪbərd] adjective 1.呼吸 2.寫作、說話等
-labourer [ˈleɪbərər] noun especially US（尤指戶外的）體力勞動者，勞工，工人
-labouring [ˈleɪbərɪŋ] noun especially US體力勞動
-labour-intensive  adjective especially US(工作)勞動密集型的
-labour-saving  adjective especially US省力的；節省勞力的；降低勞動強度的
+laboured [ˈleɪbərd] adjective 1.(呼吸)緩慢而困難的 2.(寫作、說話等)不自然的；費力的；矯揉造作的
+labourer [ˈleɪbərər] noun （尤指戶外的）體力勞動者，勞工，工人
+labouring [ˈleɪbərɪŋ] noun 體力勞動
+labour-intensive  adjective (工作)勞動密集型的
+labour-saving  adjective 省力的；節省勞力的；降低勞動強度的
 laburnum [ləˈbɜːrnəm] noun 金鏈花（開懸垂黃花）
 lace-up  noun (especially BrE)繫帶鞋
 lacewing [ˈleɪswɪŋ] noun 草蛉（翅有網狀脈）
 lacking [ˈlækɪŋ] adjective 1.沒有；匱乏；缺乏；不足 2.不在場；得不到
-lacklustre [ˈlæklʌstər] adjective especially US無趣味的；單調的；枯燥乏味的
+lacklustre [ˈlæklʌstər] adjective 無趣味的；單調的；枯燥乏味的
 lactate [lækˈteɪt] verb (術語)(婦女或雌性動物)泌乳；哺乳
 lactobacillus [ˌlæktoʊbəˈsɪləs] noun (生)乳桿菌
 lactose [ˈlæktoʊs] noun (化)乳糖
@@ -6379,13 +6362,12 @@ lady-in-waiting  noun （女王或公主的）宮廷女侍，宮女，女侍臣
 ladykiller [ˈleɪdikɪlər] noun (old-fashioned or informal)專門勾引女子的男人；使女子傾心的男人
 ladylike [ˈleɪdilaɪk] adjective (old-fashioned)文靜的；溫文爾雅的；淑女似的
 ladyship [ˈleɪdiʃɪp] noun 1.（對女貴族的稱呼）夫人，小姐 2.(BrE) (informal)（對佯裝高貴的女子的用語）小姐，夫人
-lager [ˈlɑːɡər] noun 1.拉格啤酒，貯陳啤酒，窖藏啤酒（味淡，通常多泡沫） 2.一杯（或一罐、一瓶）拉格啤酒（或貯藏啤酒）
+lager [ˈlɑːɡər] noun (BrE)1.拉格啤酒，貯陳啤酒，窖藏啤酒（味淡，通常多泡沫） 2.一杯（或一罐、一瓶）拉格啤酒（或貯藏啤酒）
 lah [lɑː] noun (音)大調音階的第 6 音
 laird [lerd] noun （蘇格蘭）地主
 lairy [ˈleri] adjective (BrE) (informal)張揚的；旁若無人的
 lakeside [ˈleɪksaɪd] noun 湖邊；湖岸；湖畔
-lakh [læk] number (plural verb)十萬
-lam [læm] noun  verb 
+lakh [læk] number (IndE)(plural verb)十萬
 lama [ˈlɑːmə] noun 1.喇嘛（藏傳佛教高僧稱號） 2.喇嘛（西藏和蒙古的佛教僧侶）
 lambada [læmˈbɑːdə] noun 蘭巴達（源自巴西的快步舞，二人緊擁對方舞蹈）
 lambda [ˈlæmdə] noun 希臘字母表的第 11 個字母
@@ -6411,7 +6393,7 @@ landmine [ˈlændmaɪn] noun 地雷
 landslip [ˈlændslɪp] noun （通常為小規模的）崩塌，塌方，滑坡，地滑
 landward [ˈlændwərd] adjective 朝陸地的；向岸的
 langoustine [ˈlɑːŋɡʊstiːn] noun 挪威海螯蝦；挪威龍蝦
-langue [lɑːŋɡ] noun (語言)（作為特定群體內交際系統的）語言
+langue [lɑːŋɡ] noun (語言)(from French)（作為特定群體內交際系統的）語言
 lanolin [ˈlænəlɪn] noun 羊毛脂（用以製作護膚霜）
 lanthanum [ˈlænθənəm] noun 鑭
 lanyard [ˈlænjərd] noun 1.頸帶；腕帶 2.（蘋果播放器的）掛繩，頸繩 3.牽索；（繫船帆的）收緊索，帆牽
@@ -6420,15 +6402,15 @@ laparoscopy [ˌlæpəˈrɑːskəpi] noun (醫)腹腔鏡檢查
 laparotomy [ˌlæpəˈrɑːtəmi] noun (醫)剖腹手術；剖腹檢查
 lapdog [ˈlæpdɔːɡ] noun 1.（可攜帶的）寵物狗，叭兒狗 2.(disapproving)走狗
 lapwing [ˈlæpwɪŋ] noun 鳳頭麥雞
-larceny [ˈlɑːrsəni] noun (律)盜竊罪；偷盜；盜竊
+larceny [ˈlɑːrsəni] noun (律)(NAmE or old-fashioned, BrE)盜竊罪；偷盜；盜竊
 larch [lɑːrtʃ] noun 落葉松
 lardass [ˈlɑːrdæs] noun (informal) (especially NAmE offensive)（尤指被認為懶惰的）胖子
 largish [ˈlɑːrdʒɪʃ] adjective 相當大的
-largo [ˈlɑːrɡoʊ] adverb (指示語)緩慢而莊嚴地（的） noun 廣板（風格緩慢、莊嚴）
+largo [ˈlɑːrɡoʊ] (音)(from Italian)adverb, adjective(指示語)緩慢而莊嚴地（的） noun 廣板（風格緩慢、莊嚴）
 larkspur [ˈlɑːrkspɜːr] noun 飛燕草（高大花園植物，開藍色、粉紅或白色花）
 larney [ˈlɑːrni] adjective (SAfrE)很高檔的；昂貴的
 larrikin [ˈlærɪkɪn] noun (AustralE, NZE)不守規矩的人；無視規章制度的人
-laryngeal [ləˈrɪndʒiəl] adjective (生)喉的；喉音的
+laryngeal [ləˈrɪndʒiəl] adjective (生)(語音)喉的；喉音的
 laryngitis [ˌlærɪnˈdʒaɪtɪs] noun 喉炎
 larynx [ˈlærɪŋks] noun (解)喉
 lasagne [ləˈzænjə] noun 1.寬麪條 2.意大利千層麪（以多層寬麪條夾肉末、蔬菜和白汁製成）
@@ -6438,21 +6420,20 @@ lashing [ˈlæʃɪŋ] noun 1.(BrE) (informal)大量，許多（尤指食物和�
 lassi [ˈlæsi] noun （南亞）拉西酸奶奶昔
 last-ditch  adjective 作最後努力（或嘗試）的；孤注一擲的
 last-gasp  adjective 最後時刻做成（或取得）的；最後關頭的
-lat.  abbreviation （書寫形式）緯度
 latchkey [ˈlætʃkiː] noun （房屋等前門或大門的）碰鎖鑰匙
 latecomer [ˈleɪtkʌmər] noun 遲到者；來遲者
-latest [ˈleɪtɪst] adjective 最近的；最新的 noun (informal)最新事物；最新消息
+latest [ˈleɪtɪst] adjective 最近的；最新的 noun the latest(informal)最新事物；最新消息
 lath [læθ] noun 灰板條；板條；板筋
 lather [ˈlæðər] noun （皂液的）泡沫；皂沫 verb 1.給…塗上皂沫；用皂沫覆蓋 2.產生泡沫；起泡沫
 lathi [ˈlɑːtiː] noun (IndE)長而粗的棍子；（尤指）警棍
 latrine [ləˈtriːn] noun （營地等的）廁所；（尤指）茅坑，便坑
-latterly [ˈlætərli] adverb 1.最近；新近 2.在最後一段時間
+latterly [ˈlætərli] adverb (formal)1.最近；新近 2.在最後一段時間
 laudanum [ˈlɔːdənəm] noun 鴉片酊（舊時用以鎮痛、鎮靜及安眠）
 laudatory [ˈlɔːdətɔːri] adjective (formal)稱讚的；讚美的；頌揚的
 laughing [ˈlæfɪŋ] adjective 笑的；帶笑意的
 laughingly [ˈlæfɪŋli] adverb 1.帶笑地；笑着 2.（表示用詞）荒唐可笑
 laugh-out-loud  adjective (informal)非常滑稽的
-launderette [lɔːnˈdret] noun (both BrE)投幣式自助洗衣店
+launderette [lɔːnˈdret] noun (BrE)投幣式自助洗衣店
 lav [læv] noun (BrE) (informal)廁所
 lavage [ˈlævɪdʒ] noun (醫)灌洗（胃、腸等）
 lavatorial [ˌlævəˈtɔːriəl] adjective (especially BrE)粗俗的幽默（指粗俗地談論身體部位或上廁所等）
@@ -6466,13 +6447,13 @@ layaway [ˈleɪəweɪ] noun (NAmE)預付訂金購貨法（餘額結清後取貨�
 lay-by  noun 1.(BrE)路邊臨時停車處；路側停車帶 2.(AustralE, NZE, SAfrE)預付訂金購買
 layette [leɪˈet] noun 新生兒的全套用品
 lay-off  noun 1.（因工作不多的）解雇，裁員 2.歇工期；停工期
-lay-up  noun 1.籃球 2.高爾夫球
+lay-up  noun 1.(籃球)單手上籃 2.(高爾夫球)打點（將球送到較容易擊打的位置的一擊）
 laywoman [ˈleɪwʊmən] noun 女平信徒，在俗女教徒（非神職人員）
 laze [leɪz] verb 懶散；懶惰；偷懶
 lazybones [ˈleɪziboʊnz] noun (old-fashioned, informal)懶漢；懶蟲；懶骨頭
 lea [liː] noun (literary)草原；草地
-leaded [ˈledɪd] adjective 1.汽油、金屬等 2.鉛皮覆蓋的；鉛框的
-leaden [ˈledn] adjective 1.鉛灰色的 2.沉悶的；陰鬱的；遲鈍的；呆滯的
+leaded [ˈledɪd] adjective 1.(汽油、金屬等)加鉛的；含鉛的 2.鉛皮覆蓋的；鉛框的
+leaden [ˈledn] adjective (literary)1.鉛灰色的 2.沉悶的；陰鬱的；遲鈍的；呆滯的
 leaderless [ˈliːdərləs] adjective 無領導的
 lead-free [ˌled ˈfriː] adjective (汽油、塗料等)無鉛的
 lead-in [ˈliːd ɪn] noun （主題、故事、表演等的）引子，介紹，開場白
@@ -6480,8 +6461,8 @@ lead-off  adjective (NAmE)開頭的；起始的
 leafless [ˈliːfləs] adjective 無葉的
 lean-to [ˈliːntuːz] noun （搭在高大建築物、牆壁或柵欄上建的）單坡屋頂小房，披屋，披棚
 leapfrog [ˈliːpfrɔːɡ] noun 跳背遊戲（遊戲者輪流從其他彎背站立者身上跳過） verb 越級提升
-leaseback [ˈliːsbæk] noun US also售後回租（將地產出售後再租回）；售後回租契約
-leasehold [ˈliːshoʊld] adjective (especially BrE)租賃的；租用的 noun (especially BrE)（按租約使用房屋或土地的）租賃權
+leaseback [ˈliːsbæk] noun (律)售後回租（將地產出售後再租回）；售後回租契約
+leasehold [ˈliːshoʊld] adjective (especially BrE)(房產或土地)租賃的；租用的 noun (especially BrE)（按租約使用房屋或土地的）租賃權
 leaseholder [ˈliːshoʊldər] noun (especially BrE)租賃人；承租人；租借人
 leastways [ˈliːstweɪz] adverb (NAmE) (informal)至少；起碼
 leatherback [ˈleðərbæk] noun 稜皮龜；革龜
@@ -6489,7 +6470,7 @@ leatherette [ˌleðəˈret] noun 人造革；人造皮
 leaver [ˈliːvər] noun (常構成複合詞)離去者
 leave-taking  noun (formal)告別；告辭
 leavings [ˈliːvɪŋz] noun （不要的）剩餘物（尤指剩餘飯菜）
-lech [letʃ] noun 好色之徒；色鬼 verb 
+lech [letʃ] noun 好色之徒；色鬼 verb lech after sb(BrE)對某人生邪念；對某人起色心
 lecher [ˈletʃər] noun (disapproving)好色之徒；色鬼；淫棍
 lecherous [ˈletʃərəs] adjective (disapproving)好色的；淫蕩的
 lecithin [ˈlesɪθɪn] noun 卵磷脂，磷脂酰膽碱（用作食物添加劑）
@@ -6499,7 +6480,7 @@ lectureship [ˈlektʃərʃɪp] noun （英國大學的）講師職位
 lee [liː] noun 1.背風處；避風處 2.（酒瓶等容器中的）沉澱物，殘渣
 left-field  adjective (informal) (especially NAmE)出乎意料的；怪誕有趣的
 leftmost [ˈleftmoʊst] adjective 最左邊的；最左面的；最左的
-leftward [ˈleftwərd] adjective BrE also向左的；向左側的
+leftward [ˈleftwərd] adjective 向左的；向左側的
 left-winger  noun 1.左翼人士；左派成員 2.（體育比賽的）左邊鋒，左翼
 legalese [ˌliːɡəˈliːz] noun (informal)（深奧難懂的）法律術語，法律用語
 legalistic [ˌliːɡeˈlɪstɪk] adjective (disapproving)墨守法規的；條文主義的；死摳法律條文的
@@ -6507,7 +6488,7 @@ legal-size  adjective (NAmE)(紙張)法律文件尺寸的（寬 8½ 英寸或 21
 legate [ˈleɡət] noun 教宗使節
 legatee [ˌleɡəˈtiː] noun (律)遺產繼承人；受遺贈人
 legation [lɪˈɡeɪʃn] noun 1.公使館全體人員 2.公使館
-legato [lɪˈɡɑːtoʊ] adjective (音)連音的
+legato [lɪˈɡɑːtoʊ] adjective (音)(from Italian)連音的
 leggings [ˈleɡɪŋz] noun 1.女式緊身褲 2.護腿；綁腿；裹腿
 leggy [ˈleɡi] adjective (informal)(尤指女孩或婦女)腿長的
 legionary [ˈliːdʒəneri] noun 軍團士兵
@@ -6517,13 +6498,13 @@ legless [ˈleɡləs] adjective 1.無腿的 2.(BrE) (informal)醉醺醺的；爛�
 leg-pull  noun 愚弄
 legroom [ˈleɡruːm] noun （汽車、飛機、劇院等座位前的）供伸腿的空間，放腿處
 leguminous [lɪˈɡjuːmɪnəs] adjective (術語)豆科（植物）的
-leg-up  noun 1.用雙手托腳幫助（某人上馬、翻牆等） 2.幫助，援助（改善處境）
+leg-up  noun give sb a leg-up(BrE) (informal)1.用雙手托腳幫助（某人上馬、翻牆等） 2.幫助，援助（改善處境）
 legwork [ˈleɡwɜːrk] noun (informal)跑腿活兒；吃力不討好的活兒
-leisured [ˈliːʒərd] adjective 1.有空的；悠閒自在的 2.
+leisured [ˈliːʒərd] adjective 1.有空的；悠閒自在的 2.=leisurely
 leisurewear [ˈliːʒərwer] noun (尤用於商店和服裝公司)休閒服；便裝；休閒運動服
-leitmotif [ˈlaɪtmoʊtiːf] noun 1.(音)（音樂的）主旋律，主導主題 2.（書、藝術品等的）中心思想，主題，主旨
+leitmotif [ˈlaɪtmoʊtiːf] noun (from German)1.(音)（音樂的）主旋律，主導主題 2.（書、藝術品等的）中心思想，主題，主旨
 lekgotla [leˈxɑːtlə] noun (SAfrE)（政界人士或政府官員的）重要會議
-lekker [ˈlekər] adjective 好的；不錯的；味道好的 adverb 很；非常
+lekker [ˈlekər] (informal)adjective 好的；不錯的；味道好的 adverb 很；非常
 lemma [ˈlemə] noun 1.(術語)引理；輔助定理 2.(語言)詞根，詞元（詞的基本形式，如名詞單數或動詞的不定式形式）
 lemming [ˈlemɪŋ] noun 旅鼠（許多人認為旅鼠會集體從懸崖上跳下自殺）
 lemon-squeezer  noun (BrE)榨汁器
@@ -6534,7 +6515,7 @@ lensman [ˈlenzmən] noun （專職）攝影師
 lentigo [lenˈtaɪɡoʊ] noun (醫)雀斑痣；（尤指）老人斑
 lentil [ˈlentl] noun 小扁豆；兵豆
 leonine [ˈliːənaɪn] adjective (literary)像獅子一樣的；獅子般的
-leopard-crawl  verb (SAfrE)[intransitive]+ adv./prep.匍匐前進
+leopard-crawl  verb (SAfrE)[intransitive]+ adv./prep.(常用於士兵)匍匐前進
 leopardess [ˈlepərdes] noun 母豹
 leotard [ˈliːətɑːrd] noun （舞蹈演員、女性體育鍛煉者等穿的通常有袖的）緊身連衣褲
 leprechaun [ˈleprəkɔːn] noun （愛爾蘭傳說中像小矮人的）魔法精靈
@@ -6546,19 +6527,19 @@ lessor [leˈsɔːr] noun (律)出租人
 let-down  noun (informal)令人失望的事；失望；沮喪
 let-out  noun (BrE)逃脫的機會；漏洞
 let's [lets] short form 讓我們
-letterbox [ˈletərbaːks] noun  verb 寬銀幕模式播放
+letterbox [ˈletərbaːks] noun =widescreen  verb letterbox sth寬銀幕模式播放
 letterhead [ˈletərhed] noun 信頭（印於信箋上端的個人、公司或組織的名稱和地址）
-letter-perfect  adjective 1.準確無誤的；一字不差的；無訛的 2.BrE能背得一字不差的；能背得滾瓜爛熟的
+letter-perfect  adjective (NAmE)1.準確無誤的；一字不差的；無訛的 2.(BrE)能背得一字不差的；能背得滾瓜爛熟的
 letter-size  adjective (NAmE)(紙張)信紙尺寸的（寬 8½ 英寸或 215.9 毫米，長 11 英寸或 279.4 毫米）
 letting [ˈletɪŋ] noun (BrE)（房屋或其他財產的）出租期限
-let-up  noun [uncountable, singular]let-up(in sth)（一段時間內的）停止，減弱，減少強度
+let-up  noun let-up(in sth)（一段時間內的）停止，減弱，減少強度
 leukaemia [luːˈkiːmiə] noun (BrE)白血病
 level-headed  adjective 冷靜明智的；頭腦清醒的；（在困境中）能作出正確決策的
-leveller [ˈlevələr] noun especially US使人人平等的事（或局面）
+leveller [ˈlevələr] noun 使人人平等的事（或局面）
 levelly [ˈlevəli] adverb 冷靜地；平靜地；穩定地
 leveret [ˈlevərət] noun 小野兔；野兔幼崽
 leviathan [ləˈvaɪəθən] noun 1.里外雅堂，利韋亞坦（《聖經》中的怪獸） 2.(literary)龐然大物
-levitate [ˈlevɪteɪt] verb [intransitive, transitive]levitate(sth)（尤指用魔力或特別的精神力量）升空，空中飄浮，使升空，使飄浮
+levitate [ˈlevɪteɪt] verb levitate(sth)（尤指用魔力或特別的精神力量）升空，空中飄浮，使升空，使飄浮
 lexeme [ˈleksiːm] noun (語言)詞位（最小的意義單位）
 lexicography [ˌleksɪˈkɑːɡrəfi] noun 詞典編纂學；詞典編纂
 lexicology [ˌleksɪˈkɑːlədʒi] noun 詞彙學
@@ -6567,7 +6548,7 @@ ley [leɪ] noun 1.（被認為是沿古代踪跡的路線並具有超常力量�
 liaise [liˈeɪz] verb 1.(especially BrE)（與某人）聯絡，聯繫 2.做聯繫人；擔當聯絡員
 lib [lɪb] noun (informal)解放（全寫為 liberation，用於組織名稱）
 libation [laɪˈbeɪʃn] noun (formal)（舊時供奉神的）奠酒，祭酒
-libellous [ˈlaɪbələs] adjective especially US含有誹謗性文字的
+libellous [ˈlaɪbələs] adjective 含有誹謗性文字的
 libidinous [lɪˈbɪdɪnəs] adjective (formal)性慾強的；好色的；淫蕩的
 librettist [lɪˈbretɪst] noun （歌劇或音樂劇的）劇本作者，歌詞作者
 licensee [ˌlaɪsənˈsiː] noun 1.(BrE)售酒執照持有者 2.特許製作（或使用）…的人（或公司）
@@ -6575,7 +6556,7 @@ licentiate [laɪˈsenʃiət] noun (術語)持職業執照者
 lickety-split [ˌlɪkəti ˈsplɪt] adverb (NAmE) (old-fashioned, informal)急速地；立即
 licking [ˈlɪkɪŋ] noun (informal)（在戰爭、比賽等中的）慘敗，一敗塗地
 lickspittle [ˈlɪkspɪtl] noun (old-fashioned, disapproving)諂媚者；阿諛奉承者
-lidded [ˈlɪdɪd] adjective 1.容器 2.(literary)眼瞼低垂的；瞇縫着眼的
+lidded [ˈlɪdɪd] adjective 1.(容器)有蓋的 2.(literary)眼瞼低垂的；瞇縫着眼的
 lido [ˈliːdoʊ] noun (BrE)公共露天游泳池；海濱浴場；海濱水上運動場
 lidocaine [ˈlɪdəkeɪn] noun 利多卡因（局部麻醉藥）
 lied [liːd] noun (from German)利德（鋼琴伴奏的德國獨唱歌曲）
@@ -6590,13 +6571,13 @@ lifebuoy [ˈlaɪfbɔɪ] noun 救生帶；救生圈；救生衣
 life-enhancing  adjective 增加生活樂趣的
 life-giving  adjective (literary)賦予生命的；維持生命的
 lifer [ˈlaɪfər] noun (informal)終身囚犯；無期徒刑犯
-lifesaver [ˈlaɪfseɪvər] noun 1.救助物；救命物 2.(AustralE, NZE)
+lifesaver [ˈlaɪfseɪvər] noun 1.救助物；救命物 2.(AustralE, NZE)=lifeguard
 life-saving  adjective 救命的；救生的 noun （對溺水者的）救生術
 lifespan [ˈlaɪfspæn] noun 壽命；可持續年限；有效期
 lift-off  noun （航天器的）發射，起飛，升空
 ligate [laɪˈɡeɪt] verb (醫)ligate sth結紮，綁紮（動脈或血管等）
 ligger [ˈlɪɡər] noun (BrE) (informal)免費廣告活動常客
-light-coloured  adjective especially US淺色的；淡色的
+light-coloured  adjective 淺色的；淡色的
 lighted [ˈlaɪtɪd] adjective 1.點燃的；燃燒的 2.燈火通明的；燈光照亮的
 light-fingered  adjective (informal)慣扒竊的；慣偷的
 light-footed  adjective 腳步輕鬆的；步履輕盈的
@@ -6615,13 +6596,13 @@ limp-wristed  adjective (informal)娘娘腔的（含冒犯意，形容同性戀�
 linchpin [ˈlɪntʃpɪn] noun （組織、計劃等的）關鍵人物，關鍵事物
 linctus [ˈlɪŋktəs] noun (BrE)潤喉止咳糖漿；藥糖劑
 line-caught  adjective (魚)被釣到的
-line-out  noun 橄欖球
+line-out  noun (橄欖球)界外球；球出界
 linesman [ˈlaɪnzmən] noun 1.（足球等比賽中的）邊線裁判員，巡邊員，司線員 2.(BrE)架線工；線務員
 line-up  noun 1.陣容；陣式 2.節目安排；項目安排 3.(especially NAmE)辨認行列，列隊認人（把嫌疑人同其他人排在一起，讓目擊者辨認）
 ling [lɪŋ] noun 帚石楠（低矮灌木，生長在荒野裏）
 lingering [ˈlɪŋɡərɪŋ] adjective 拖延的；纏綿的；緩慢消失的；遲遲不去的
 liniment [ˈlɪnəmənt] noun （尤指油質、鎮痛的）搽劑，擦劑；鎮痛油
-linkman [ˈlɪŋkmæn] noun 1.聯繫人；中間人；居間人 2.（廣播或電視的）串聯主持人
+linkman [ˈlɪŋkmæn] noun (BrE)1.聯繫人；中間人；居間人 2.（廣播或電視的）串聯主持人
 link-up  noun 連接，聯繫（指兩事物如兩家公司或兩個廣播系統的結合）
 linnet [ˈlɪnɪt] noun 赤胸朱頂雀；麻籽雀
 linocut [ˈlaɪnoʊkʌt] noun 油氈浮雕圖案；油氈浮雕版印染品
@@ -6630,8 +6611,8 @@ lipase [ˈlaɪpeɪz] noun (化)脂（肪）酶
 lipoprotein [ˈlɪpəproʊtiːn] noun (生)脂蛋白
 liposome [ˈlɪpəsoʊm] noun 脂質體
 liposuction [ˈlɪpoʊsʌkʃn] noun 吸脂術；脂肪抽吸（術）
-lippy [ˈlɪpi] adjective (BrE) (informal)出言不遜的；冒犯頂撞的 noun (BrE) (informal)
-lip-read  verb [intransitive, transitive]lip-read(sb)觀唇辨意；唇讀
+lippy [ˈlɪpi] adjective (BrE) (informal)出言不遜的；冒犯頂撞的 noun (BrE) (informal)=lipstick
+lip-read  verb lip-read(sb)觀唇辨意；唇讀
 lipsalve [ˈlɪpsælv] noun (BrE)護唇膏；潤唇膏
 lip-sync [ˈlɪp sɪŋk] verb （與錄製歌曲等）對口形，對嘴
 liquidator [ˈlɪkwɪdeɪtər] noun 清算人；清盤人
@@ -6644,14 +6625,13 @@ lissom [ˈlɪsəm] adjective (literary)(人體)輕盈優美的；苗條的；裊
 listenable [ˈlɪsnəbl] adjective (informal)悅耳的；好聽的
 listeria [lɪˈstɪriə] noun 利斯特菌
 lithograph [ˈlɪθəɡræf] noun 平版印刷畫
-lithography [lɪˈθɑːɡrəfi] noun informal平版印刷術
+lithography [lɪˈθɑːɡrəfi] noun 平版印刷術
 lithology [lɪˈθɑːlədʒi] noun 岩性學；岩石學
 litigious [lɪˈtɪdʒəs] adjective (formal, disapproving)好訴訟的；愛打官司的
 litotes [laɪˈtoʊtiːz] noun (術語)曲言（用否定或較弱的語氣加強表示肯定）
-liveable [ˈlɪvəbl] adjective 1.BrE also適於居住的 2.生活 3.能對付；可處理 4.工資等
+liveable [ˈlɪvəbl] adjective 1.(房屋等)適於居住的 2.(生活)值得一過的 3.能對付；可處理 4.(工資等)足夠維持生活的
 lived-in  adjective (approving)(地方)長期有人居住而不顯陌生的；長期使用過的
-live-in [ˈlɪv ɪn] adjective 1.雇員 2.未婚同居者
-liven [ˈlaɪvn] verb 
+live-in [ˈlɪv ɪn] adjective 1.(雇員)住在工作場所的 2.未婚同居者
 liveried [ˈlɪvərid] adjective 1.(BrE)塗成專用顏色的 2.穿制服的；穿號衣的
 livery [ˈlɪvəri] noun 1.(BrE)（車輛、飛機等塗的）公司專用色彩 2.（尤指舊時僕人或官員的）制服
 liveware [ˈlaɪvwer] noun (informal)人件，活件（用計算機工作的人）
@@ -6665,7 +6645,7 @@ lobola [loʊˈboʊlə] noun (SAfrE)（非洲傳統文化中男方為娶親送給
 lobotomize [ləˈbɑːtəmaɪz] verb 1.為…施行腦葉切斷術 2.使遲鈍；使愚笨
 lobotomy [loʊˈbɑːtəmi] noun 腦葉切斷術
 located [ˈloʊkeɪtɪd] adjective 位於；坐落在
-locative [ˈlɑːkətɪv] adjective (語法)（名詞、代詞或形容詞）表示位置的，方位格的
+locative [ˈlɑːkətɪv] adjective (語法)(用於某些語言)（名詞、代詞或形容詞）表示位置的，方位格的
 locator [loʊˈkeɪtər] noun 定位器；定位系統
 loch [lɑːk] noun (蘇格蘭)湖；狹長的海灣
 lockable [ˈlɑːkəbl] adjective 可鎖定的；能鎖的
@@ -6675,32 +6655,30 @@ lock-in  noun (BrE)（酒吧或夜總會打烊後）留置顧客續飲
 lockjaw [ˈlɑːkdʒɔː] noun (old-fashioned, informal)破傷風
 lock-keeper  noun （運河或河流上的）船閘管理員
 locksmith [ˈlɑːksmɪθ] noun 鎖匠；修鎖工
-lockstep [ˈlɑːkstep] noun 1.(figurative)齊步走（步伐） 2.同生同變
+lockstep [ˈlɑːkstep] noun 1.(especially NAmE)齊步走（步伐） 2.同生同變
 lock-up  noun 1.拘留所；（短期關押犯人的）監獄 2.(BrE)（店主不住在內的）小商店；（不和其他建築物相連供出租的）車庫
-loco [ˈloʊkoʊ] noun (informal) adjective (slang) (especially NAmE)發瘋；發狂
+loco [ˈloʊkoʊ] noun (informal)=locomotive adjective (slang)(especially NAmE)發瘋；發狂
 locum [ˈloʊkəm] noun (BrE)代班醫生；代理牧師
 lodestar [ˈloʊdstɑːr] noun 1.北極星（海員藉以導航） 2.(formal)（某人行為或行動的）指導原則
 lodestone [ˈloʊdstoʊn] noun 天然磁石
 lodger [ˈlɑːdʒər] noun (especially BrE)租房人；房客
 loganberry [ˈloʊɡənberi] noun 洛根莓
-logarithm [ˈlɔːɡərɪðəm] noun informal對數
-logbook [ˈlɔːɡbʊk] noun 1.(BrE) (becoming old-fashioned)（交通工具，尤指小汽車的）行駛日誌 2.
-loggerheads [ˈlɔːɡərhedz] noun 
+logarithm [ˈlɔːɡərɪðəm] noun 對數
+logbook [ˈlɔːɡbʊk] noun 1.(BrE) (becoming old-fashioned)（交通工具，尤指小汽車的）行駛日誌 2.=log
 loggia [ˈloʊdʒə] noun (BrE)涼廊（敞向花園的房間或走廊）
 logician [ləˈdʒɪʃn] noun 邏輯學研究者；邏輯學家
 login [ˈlɔːɡɪn] noun 1.註冊，登錄，登入（通過鍵入名稱或詞進入計算機系統的操作） 2.登錄名；登入名稱
 logoff [ˈlɔːɡɔːf] noun （從計算機系統）退出，登出；註銷
 logogram [ˈlɔːɡəɡræm] noun (術語)詞符；語符；速記符
-logrolling [ˈlɔːɡroʊlɪŋ] noun 1.美國政治 2.水上滾木比賽（兩人同時站在浮於水面的圓木上設法轉動滾木使對方落水）
+logrolling [ˈlɔːɡroʊlɪŋ] noun 1.(美國政治)互投贊成票（促使議案通過） 2.水上滾木比賽（兩人同時站在浮於水面的圓木上設法轉動滾木使對方落水）
 loincloth [ˈlɔɪnklɔːθ] noun （某些熱帶國家男子的）纏腰布，遮羞布
-lollipop [ˈlɑːlipɑːp] noun also BrE, informal棒棒糖
+lollipop [ˈlɑːlipɑːp] noun 棒棒糖
 lollop [ˈlɑːləp] verb (informal) (especially BrE)[intransitive](+ adv./prep.)跌跌撞撞地走（或跑）
-lolly [ˈlɑːli] noun 1.(BrE) 2.(BrE) 3.(old-fashioned) (BrE)錢 4.(AustralE, NZE)糖果；糖塊兒
-long.  abbreviation （書寫形式）經度
+lolly [ˈlɑːli] noun 1.(BrE)=lollipop 2.(BrE)=ice lolly 3.(old-fashioned) (BrE)錢 4.(AustralE, NZE)糖果；糖塊兒
 longboard [ˈlɔːŋbɔːrd] noun 衝浪板
 longboat [ˈlɔːŋboʊt] noun （尤用於航海的）大划艇
 longbow [ˈlɔːŋboʊ] noun （舊時用於射箭的）長弓，大弓
-long-drawn-out  adjective less frequent持續很久的；拖長的
+long-drawn-out  adjective 持續很久的；拖長的
 longed-for  adjective 渴望的；期待已久的
 longhair [ˈlɔːŋher] noun 長毛貓
 longhand [ˈlɔːŋhænd] noun 普通書寫（非打字或速記）
@@ -6723,7 +6701,6 @@ loofah [ˈluːfə] noun （擦澡用的）絲瓜絡
 lookalike [ˈlʊkəlaɪk] noun (常用於人名後)長得極像（某人）的人
 look-and-say  noun 視讀法，直呼法（一種識字教學方法，根據對整詞的辨認而不是字母與發音的聯繫）
 looker [ˈlʊkər] noun (informal)美人；靚女
-look-in  noun 
 look-see  noun (informal) (especially NAmE)飛快一瞥
 loonie [ˈluːni] noun (CanE)加拿大元；一加元硬幣
 loony [ˈluːni] adjective (informal)發狂的；瘋狂的；怪異的；古怪的 noun (informal)狂人；瘋子；怪人
@@ -6731,7 +6708,7 @@ loopy [ˈluːpi] adjective 1.失去理智的；瘋狂的；奇怪的；怪異的
 loose-fitting  adjective (衣服)寬鬆的；肥大的
 loose-leaf  adjective (書、檔案等)活頁的
 loose-limbed  adjective (literary)(人)四肢柔軟靈活的
-lop [lɑːp] verb 1.砍掉；剪掉；修剪（樹枝） 2.削減；減少
+lop [lɑːp] verb 砍伐；剪（枝）
 lop-ears  noun 垂耳；耷拉耳
 loquat [ˈloʊkwɑːt] noun 枇杷
 lordly [ˈlɔːrdli] adjective 1.傲慢的；高傲的 2.宏偉的；堂皇的；貴族氣派的
@@ -6744,16 +6721,16 @@ loss-making  adjective (公司或生意)虧損的
 lossy [ˈlɔːsi] adjective (術語)（對數據或電能）有損的；有損耗的
 lotta [ˈlɑːtə]  (informal, non-standard)許多
 lotto [ˈlɑːtoʊ] noun 1.抽數碼賭博遊戲 2.彩票
-lotus [ˈloʊtəs] noun 1.蓮屬植物 2.蓮花圖案，荷花飾（尤用於古埃及藝術和建築） 3.古希臘故事
+lotus [ˈloʊtəs] noun 1.蓮屬植物 2.蓮花圖案，荷花飾（尤用於古埃及藝術和建築） 3.(古希臘故事)落拓棗，忘憂果（食後感到夢幻般的快樂輕鬆）
 louche [luːʃ] adjective (especially BrE) (formal)聲名不好卻有吸引力的
 loudhailer [ˌlaʊdˈheɪlər] noun (BrE)電子喇叭；擴音器
 loudmouth [ˈlaʊdmaʊθ] noun (informal)說話大聲大氣的人；喋喋不休的人
 lough [lɑːk] noun (愛爾蘭)湖；狹長的海灣
 lounger [ˈlaʊndʒər] noun (especially BrE)日光浴椅；日光浴牀
-louvre [ˈluːvər] noun especially US百葉窗板；百葉門；百葉窗
+louvre [ˈluːvər] noun 百葉窗板；百葉門；百葉窗
 lovebird [ˈlʌvbɜːrd] noun 1.情侶鸚鵡，愛情鳥（產於非洲） 2.(humorous)恩愛情侶；熱戀的戀人
-loved-up  adjective 1.（因服用違禁迷幻藥而）興奮的，激情勃發的 2.（對某人）充滿愛戀的
-love-in  noun 1.(old-fashioned)（20 世紀 60 年代嬉皮士的）愛情聚會 2.(disapproving)虛情假意的場合；假熱情
+loved-up  adjective (informal)1.（因服用違禁迷幻藥而）興奮的，激情勃發的 2.（對某人）充滿愛戀的
+love-in  noun (informal)1.(old-fashioned)（20 世紀 60 年代嬉皮士的）愛情聚會 2.(disapproving)虛情假意的場合；假熱情
 loveless [ˈlʌvləs] adjective 沒有愛的；無愛情的
 loveliness [ˈlʌvlinəs] noun (formal)美麗動人；漂亮可愛；楚楚動人
 lovelorn [ˈlʌvlɔːrn] adjective (literary)單相思的；失戀的
@@ -6764,10 +6741,10 @@ lovey-dovey [ˌlʌvi ˈdʌvi] adjective (informal)過於情意綿綿的
 lowball [ˈloʊbɔːl] verb (NAmE) (informal)lowball sth有意壓低估價；虛報低價
 low-born  adjective (old-fashioned or formal)出身低微的
 lowbrow [ˈloʊbraʊ] adjective (usually disapproving)無藝術文化修養的；對藝術文化無興趣的
-low-cal [ˌloʊ] adjective (informal)(食物和飲料)低熱量的
+low-cal [ˌloʊˈkæl] adjective (informal)(食物和飲料)低熱量的
 low-class  adjective 1.低劣的；低級的 2.社會地位低下的；下層社會的
 low-cut  adjective (連衣裙等)領口開得低的；袒胸露頸的
-low-down  adjective (informal)不公正的；不誠實的；欺詐的 noun (informal)真相；（尤指）重要事實
+low-down  adjective (informal)不公正的；不誠實的；欺詐的 noun the low-down(informal)真相；（尤指）重要事實
 low-end  adjective （產品）低檔的
 low-grade  adjective 1.質量差的；劣質的 2.(醫)不太嚴重的；輕度的
 low-impact  adjective 1.（動作）低力度的，低強度的 2.（尤指對環境）低衝擊的，負面影響小的
@@ -6780,21 +6757,21 @@ low-pitched  adjective (聲音)低沉的；低聲的
 low-profile  adjective 不引人注目的；不顯眼的；低調的；低姿態的
 low-ranking  adjective 初級的；位置不重要的
 low-rent  adjective (especially NAmE)劣質的；社會地位低的
-low-resolution [ˌloʊ] adjective (照片或計算機、電視屏幕影像)低分辨率的；低解析度的；低解像度的
-low-rise  adjective 1.建築物 2.牛仔褲等 noun 低層建築
+low-resolution  adjective (照片或計算機、電視屏幕影像)低分辨率的；低解析度的；低解像度的
+low-rise  adjective 1.(建築物)樓層少的；低層的 2.(牛仔褲等)低腰剪裁的 noun 低層建築
 low-risk  adjective 低風險的
 lox [lɑːks] noun (NAmE)熏鮭魚；熏大麻哈魚
 lozenge [ˈlɑːzɪndʒ] noun 1.(幾何)菱形 2.菱形糖果；（尤指）菱形含片藥物
 luckless [ˈlʌkləs] adjective 運氣不好的；不走運的；不幸的
 ludic [ˈluːdɪk] adjective (formal)頑皮的；愛開玩笑的
 ludo [ˈluːdoʊ] noun (BrE)盧多（一種用骰子和籌碼在棋盤上玩的遊戲，類似於美國的巴棋戲）
-luge [luːʒ] noun 1.短雪橇，平底雪橇（比賽用的單人仰卧雪橇） 2.短雪橇運動；平底雪橇運動
+luge [luːʒ] noun 1.短雪橇，平底雪橇（比賽用的單人仰卧雪橇） 2.the luge短雪橇運動；平底雪橇運動
 lugubrious [ləˈɡuːbriəs] adjective 陰鬱的；悲傷的
 lugworm [ˈlʌɡwɜːrm] noun 海蚯蚓，沙蠋（常用作釣餌）
 lumbago [lʌmˈbeɪɡoʊ] noun 腰痛
 lumberyard [ˈlʌmbərjɑːrd] noun (NAmE)木料場；貯木場
 luminance [ˈluːmɪnəns] noun (物)亮度
-luminescence [ˌluːmɪˈnesns] noun (術語)發光；光輝
+luminescence [ˌluːmɪˈnesns] noun (術語 or literary)發光；光輝
 lumme [ˈlʌmi] exclamation (old-fashioned) (BrE informal)（表示驚訝或感興趣）哎呀，啊
 lumpectomy [ˌlʌmˈpektəmi] noun （尤指女性乳房的）腫塊切除術
 lumpen [ˈlʌmpən] adjective (BrE) (literary)看起來笨重的；樣子愚蠢的
@@ -6818,10 +6795,10 @@ lute [luːt] noun 琉特琴，詩琴（撥弦樂器）
 lutenist [ˈluːtənɪst] noun 琉特琴（或詩琴）彈奏者
 lutetium [luːˈtiːʃiəm] noun 鑥（用於核工業）
 luv [lʌv] noun 1.(BrE)（love 用於非正式稱呼的拼寫法）親愛的，寶貝 2.（love 用於書信結尾等的非正式拼寫法）愛
-luvvy [ˈlʌvi] noun 1.(disapproving)演員；（尤指）表演造作的演員 2.
-luxuriantly [lʌɡˈʒʊriəntli] adverb 1.茂盛地；濃密地 2.尤指身體動作
-luxuriate [lʌɡˈʒʊrieɪt] verb 
-lychee [ˌlaɪˈtʃiː] noun especially in US荔枝
+luvvy [ˈlʌvi] noun (BrE) (informal)1.(disapproving)演員；（尤指）表演造作的演員 2.=lovey
+luxuriantly [lʌɡˈʒʊriəntli] adverb 1.茂盛地；濃密地 2.(尤指身體動作)舒適愉快地
+luxuriate [lʌɡˈʒʊrieɪt] verb luxuriate in sth 盡情享受；縱情享樂
+lychee [ˌlaɪˈtʃiː] noun 荔枝
 lychgate [ˈlɪtʃɡeɪt] noun 停柩門（教堂墓地入口處有頂蓋的大門）
 lye [laɪ] noun 鹼液
 lying-in  noun (old-fashioned)（舊時婦女產前產後的）卧牀期
@@ -6835,7 +6812,7 @@ lyricism [ˈlɪrɪsɪzəm] noun （詩歌、藝術、音樂等的）抒情
 lyricist [ˈlɪrɪsɪst] noun 歌詞作者
 ma [mɑː] noun (informal)母親；媽媽；媽
 ma'am [mæm] noun 1.(NAmE)（尊稱）女士，夫人 2.(BrE)（對女王或高級女警官、女軍官的敬稱）
-mac [mæk] noun old-fashioned雨衣；雨披
+mac [mæk] noun 1.(NAmE) (informal)（用於稱呼不知姓名的男子）老兄，老弟，夥計，哥們兒 2.(BrE)雨衣；雨披
 macadam [məˈkædəm] noun 柏油碎石路面
 macadamia [ˌmækəˈdeɪmiə] noun 澳洲堅果
 macaque [məˈkæk] noun 獼猴
@@ -7167,7 +7144,7 @@ microfilm [ˈmaɪkroʊfɪlm] noun 縮微膠捲
 microfinance [ˈmaɪkroʊfaɪnæns] noun 微金融（向無力使用銀行的窮人提供貸款和儲蓄服務的體系）
 microgram [ˈmaɪkroʊɡræm] noun 微克（重量單位）；百萬分之一克
 microlight [ˈmaɪkroʊlaɪt] noun (BrE)微型飛機
-micromanage [ˈmaɪkroʊmænɪdʒ] verb (especially NAmE) (disapproving)[transitive, intransitive]micromanage(sth)微觀管理，對…管頭管腳（尤指雇員的工作）
+micromanage [ˈmaɪkroʊmænɪdʒ] verb (especially NAmE) (disapproving)micromanage(sth)微觀管理，對…管頭管腳（尤指雇員的工作）
 micrometer [maɪkrɑːmɪtər] noun 1.(especially US) 2.螺旋測微器
 micrometre [ˈmaɪkroʊmiːtər] noun especially US微米（= 百萬分之一米）
 micro-organism  noun (術語)微生物
@@ -7305,7 +7282,7 @@ misconceive [ˌmɪskənˈsiːv] verb (formal)misconceive sth誤解；誤會
 misconceived [ˌmɪskənˈsiːvd] adjective 計劃不周的；判斷失誤的；欠考慮的
 misconstruction [ˌmɪskənˈstrʌkʃn] noun (formal)完全錯誤的理解；誤解
 misconstrue [ˌmɪskənˈstruː] verb (formal)misconstrue sth (as sth)誤解（某人的言行）
-miscount [ˌmɪsˈkaʊnt] verb [transitive, intransitive]miscount(sth)數錯
+miscount [ˌmɪsˈkaʊnt] verb miscount(sth)數錯
 misdemeanour [ˌmɪsdɪˈmiːnər] noun 1.(formal)不正當的行為；不檢點的行為 2.(律)
 misdiagnose [mɪsˈdaɪəɡnoʊz] verb misdiagnose sth (as sth)誤診；錯誤判斷
 misdial [ˌmɪsˈdaɪəl] verb NAmE[intransitive, transitive]misdial(sth)撥錯（電話號碼）
@@ -7313,7 +7290,7 @@ misdirect [ˌmɪsdəˈrekt] verb 1.誤用；使用不當 2.指錯方向；引錯
 misfile [ˌmɪsˈfaɪl] verb misfile sth歸錯（文檔）
 misfire [ˌmɪsˈfaɪər] verb 1.計劃或笑話 2.發動機 3.槍等
 misgovern [ˌmɪsˈɡʌvərn] verb misgovern sth對（國家）治理不善（或失當）
-mishear [ˌmɪsˈhɪr] verb [transitive, intransitive]mishear(sb)|mishear what…誤聽；聽錯
+mishear [ˌmɪsˈhɪr] verb mishear(sb)|mishear what…誤聽；聽錯
 mishit [ˌmɪsˈhɪt] verb (體育比賽)誤擊；把（球）打歪
 mishmash [ˈmɪʃmæʃ] noun (informal, usually disapproving)混雜物（或樣式等）；雜燴
 misjudge [ˌmɪsˈdʒʌdʒ] verb 1.形成錯誤認識；錯看 2.對（時間、距離等）判斷錯誤
@@ -7364,7 +7341,7 @@ moggie [ˈmɑːɡi] noun (BrE) (informal)貓
 mohair [ˈmoʊher] noun 安哥拉山羊毛毛線（或織物）；馬海毛毛線（或織物）
 moi [mwɑː] exclamation (humorous) (from French)（賓格）我
 moire [mwɑːr] noun 波紋絲綢
-moisturize [ˈmɔɪstʃəraɪz] verb [transitive, intransitive]moisturize(sth)使皮膚濕潤；（用脂膏）滋潤
+moisturize [ˈmɔɪstʃəraɪz] verb moisturize(sth)使皮膚濕潤；（用脂膏）滋潤
 mojo [ˈmoʊdʒoʊ] noun 1.魔力 2.符咒（袋）；護身符 3.（人的）魅力
 molder [ˈmoʊldər] verb (especially US)腐爛；腐朽
 molehill [ˈmoʊlhɪl] noun 鼹丘（由鼹鼠挖洞扒出的泥土堆成）
@@ -8198,12 +8175,12 @@ overarm [ˈoʊvərɑːrm] adverb (especially BrE)肩上投球（投球時舉手�
 overawe [ˌoʊvərˈɔː] verb [usually passive]overawe sb使極為敬畏；使膽怯
 overbalance [ˌoʊvərˈbæləns] verb (especially BrE)[intransitive, transitive]overbalance(sb/sth)（使）失去平衡，摔倒
 overbite [ˈoʊvərbaɪt] noun (術語)覆咬合；上包齒
-overbook [ˌoʊvərˈbʊk] verb [transitive, intransitive]overbook(sth)超額預訂（飛機座位或旅館客房）
+overbook [ˌoʊvərˈbʊk] verb overbook(sth)超額預訂（飛機座位或旅館客房）
 overbridge [ˈoʊvərbrɪdʒ] noun 天橋；上跨橋
 overburden [ˌoʊvərˈbɜːrdn] verb [usually passive]overburden sb/sth (with sth)使負擔過重
 overcapacity [ˌoʊvərkəˈpæsəti] noun (商)生產能力過剩
 overcautious [ˌoʊvərˈkɔːʃəs] adjective 過於謹慎的；過分小心的
-overcharge [ˌoʊvərˈtʃɑːrdʒ] verb [transitive, intransitive]overcharge(sb) (for sth)多收（某人的）錢
+overcharge [ˌoʊvərˈtʃɑːrdʒ] verb overcharge(sb) (for sth)多收（某人的）錢
 overcompensate [ˌoʊvərˈkɑːmpenseɪt] verb [intransitive]overcompensate(for sth) (by doing sth)過度補償（為糾正某事而做得過分）；矯枉過正
 overconfident [ˌoʊvərˈkɑːnfɪdənt] adjective 過分自信的；自負的
 overcook [ˌoʊvərˈkʊk] verb overcook sth煮得過熟；煮得過久
@@ -8212,7 +8189,7 @@ overcrowding [ˌoʊvərˈkraʊdɪŋ] noun 過度擁擠；擁擠的狀況
 overdeveloped [ˌoʊvərdɪˈveləpt] adjective 發育過度的；過於發達的
 overdog [ˈoʊvərdɔːɡ] noun (disapproving)（尤指不公正地）佔上風者，佔優勢者
 overdraft [ˈoʊvərdræft] noun 透支額；透支安排
-overdraw [ˌoʊvərˈdrɔː] verb (especially BrE)[transitive, intransitive]overdraw(sth)透支
+overdraw [ˌoʊvərˈdrɔː] verb (especially BrE)overdraw(sth)透支
 overdrawn [ˌoʊvərˈdrɔːn] adjective 1.人 2.銀行賬戶
 overdressed [ˌoʊvərˈdrest] adjective (usually disapproving)穿着太正式的；打扮過分的
 overdub [ˌoʊvərˈdʌb] verb overdub sb把（錄音）配到原帶上；叠錄
@@ -8223,7 +8200,7 @@ overexpose [ˌoʊvərɪkˈspoʊz] verb 1.使（膠片等）曝光過度 2.對…
 overextended [ˌoʊvərɪkˈstendɪd] adjective 承擔過多工作；開支過大
 overfeed [ˈoʊvərfiːd] verb overfeed sb/sth給…餵食過度
 overfishing [ˌoʊvərˈfɪʃɪŋ] noun 捕撈過度
-overfly [ˌoʊvərˈflaɪ] verb [transitive, intransitive]overfly(sth)飛越；飛過
+overfly [ˌoʊvərˈflaɪ] verb overfly(sth)飛越；飛過
 overfond [ˌoʊvərˈfɑːnd] adjective overfond of sb/sth（對…）過於喜歡，過分喜愛
 overgarment [ˈoʊvərɡɑːrmənt] noun (formal)罩袍；大衣
 overgeneralize [ˌoʊvərˈdʒenrəlaɪz] verb 做過分概括的陳述；說話過於籠統
@@ -8250,7 +8227,7 @@ overpay [ˌoʊvərˈpeɪ] verb [usually passive]overpay sb付款過多；多付�
 overplay [ˌoʊvərˈpleɪ] verb overplay sth過分強調；過分重視
 overpopulated [ˌoʊvərˈpɑːpjuleɪtɪd] adjective (國家或城市)人口過多的
 overprint [ˌoʊvərˈprɪnt] verb overprint A (on B)|overprint B with A（在印刷品上）套印，加印
-overproduce [ˌoʊvərprəˈduːs] verb [transitive, intransitive]overproduce(sth)過多地生產；過度生產
+overproduce [ˌoʊvərprəˈduːs] verb overproduce(sth)過多地生產；過度生產
 overprotective [ˌoʊvərprəˈtektɪv] adjective 過分保護的；袒護的；溺愛有加的
 overqualified [ˌoʊvərˈkwɔːlɪfaɪd] adjective （對某職位而言）資歷過高的
 overrate [ˌoʊvərˈreɪt] verb [usually passive]overrate sb/sth對…評價過高；高估
@@ -8260,7 +8237,7 @@ oversensitive [ˌoʊvərˈsensɪtɪv] adjective 過於敏感的；愛生氣的�
 oversexed [ˌoʊvərˈsekst] adjective 性慾過盛的
 overshoe [ˈoʊvərʃuː] noun 套鞋，罩鞋（在雨天時或為保護地板而穿）
 overshoot [ˌoʊvərˈʃuːt] verb 1.超過，越過（預定地點） 2.超過（原計劃）；突破（預計費用）
-oversimplify [ˌoʊvərˈsɪmplɪfaɪ] verb [transitive, intransitive]oversimplify(sth)陳述過於簡略；說明過於簡單化
+oversimplify [ˌoʊvərˈsɪmplɪfaɪ] verb oversimplify(sth)陳述過於簡略；說明過於簡單化
 oversleep [ˌoʊvərˈsliːp] verb 睡過頭；睡得太久
 overspend [ˌoʊvərˈspend] verb 花錢過多；比（預計的）花得多；超支
 overspill [ˈoʊvərspɪl] noun (BrE)遷出城市的過剩人口
@@ -9599,7 +9576,7 @@ readjust [ˌriːəˈdʒʌst] verb 1.重新適應；再適應 2.稍作改變；�
 readmit [ˌriːədˈmɪt] verb 1.重新接納；允許再次加入 2.再次接收…住院
 read-out  noun (計)讀出
 read-through  noun （劇組排演之前的）對台詞
-re-advertise  verb [transitive, intransitive]re-advertise(sth)再做廣告；再登（招聘）廣告
+re-advertise  verb re-advertise(sth)再做廣告；再登（招聘）廣告
 ready-mixed  adjective 預拌的；預先調製的
 ready-to-wear  adjective (衣服)標準尺寸的；現成的
 realia [reɪˈɑːliə] noun 實物教具（用於教學的日常用品）
@@ -9621,7 +9598,7 @@ rearmost [ˈrɪrmoʊst] adjective (formal)最靠後的；最後面的
 rearward [ˈrɪrwərd] adjective (formal)後面的；後部的
 reawaken [ˌriːəˈweɪkən] verb reawaken sth勾起，喚起，再次引發（感情、回憶等）
 rebirthing [ˌriːˈbɜːrθɪŋ] noun 呼吸重生法，再生療法（通過控制呼吸重新體驗出生的心理療法）
-reboot [ˌriːˈbuːt] verb (計)[transitive, intransitive]reboot(sth)重新啟動
+reboot [ˌriːˈbuːt] verb (計)reboot(sth)重新啟動
 rebrand [ˌriːˈbrænd] verb rebrand sth/yourself重塑…的形象（如通過改變名稱或廣告）；將…重塑
 receivable [rɪˈsiːvəbl] adjective (商)應收款的
 receivables [rɪˈsiːvəblz] noun (商)應收款項
@@ -9664,11 +9641,11 @@ redcurrant [ˌredˈkɜːrənt] noun 紅醋栗
 redecorate [ˌriːˈdekəreɪt] verb （用塗料或壁紙）重新裝飾，再次裝修
 redeemable [rɪˈdiːməbl] adjective redeemable(against sth)可兌換的；可交換的
 redeploy [ˌriːdɪˈplɔɪ] verb 調配；重新部署
-redevelop [ˌriːdɪˈveləp] verb [transitive, intransitive]redevelop(sth)改造；重新建設
+redevelop [ˌriːdɪˈveləp] verb redevelop(sth)改造；重新建設
 red-eye  noun 1.(informal) (especially NAmE)夜間航班；紅眼夜航 2.（因使用閃光燈照相而在照片上出現的）紅眼
 red-faced  adjective 臉色漲紅的；紅臉的
 redial [ˈriːdaɪəl] verb 1.按鍵逐一重撥（電話號碼） 2.按鍵自動重撥（電話號碼）；按重撥鍵 noun 1.自動重撥功能 2.自動重撥按鈕；重撥鍵
-redistrict [ˌriːˈdɪstrɪkt] verb (US)[transitive, intransitive]redistrict(sth)（把…）重新劃區
+redistrict [ˌriːˈdɪstrɪkt] verb (US)redistrict(sth)（把…）重新劃區
 redo [ˌriːˈduː] verb redo sth重做；換一種方式做
 redouble [ˌriːˈdʌbl] verb redouble sth加倍；增加；加強
 redoubt [rɪˈdaʊt] noun 1.(literary)藏身之所；堡壘 2.掩體；防禦工事
@@ -9687,7 +9664,7 @@ ref. [ref] abbreviation 文件編號（尤用於商業文件分類）
 referable [rɪˈfɜːrəbl] adjective (formal)referable to sth可與…相關的
 refiner [rɪˈfaɪnər] noun 從事精煉加工的人（或公司）；煉製者
 refit [ˌriːˈfɪt] verb refit sth整修；給…安裝新配件；改裝
-reflate [ˌriːˈfleɪt] verb (經)[transitive, intransitive]reflate(sth)通貨再膨脹，通貨復脹（增加貨幣供應以刺激對商品等的需求）
+reflate [ˌriːˈfleɪt] verb (經)reflate(sth)通貨再膨脹，通貨復脹（增加貨幣供應以刺激對商品等的需求）
 reflectance [rɪˈflektəns] noun (物)（光的）反射比
 reflectivity [ˌriːflekˈtɪvɪti] noun (物)（材料對光或輻射的）反射率
 reflexive [rɪˈfleksɪv] adjective （詞或詞形）反身的
@@ -9722,7 +9699,7 @@ reignite [ˌriːɪɡˈnaɪt] verb (figurative)（使）重新燃燒；再點燃
 reiki [ˈreɪki] noun (from Japanese)靈氣療法（通過觸摸向人體內輸送能量）
 reinsurance [ˌriːɪnˈʃʊrəns] noun (財)再保險，分保保險（指一保險公司向其他公司購買保險以減少索賠損失）
 reinterpret [ˌriːɪnˈtɜːrprɪt] verb reinterpret sth重新解釋；重新詮釋
-reinvest [ˌriːɪnˈvest] verb [transitive, intransitive]reinvest(sth)再投資；把（利潤）用於再投資
+reinvest [ˌriːɪnˈvest] verb reinvest(sth)再投資；把（利潤）用於再投資
 reissue [ˌriːˈɪʃuː] verb 重新發行；再版 noun 再版書；重新發行的唱片（或其他錄製品）
 rejig [ˌriːˈdʒɪɡ] verb (BrE)更改；重新安排；重新佈置
 relaunch [ˌriːˈlɔːntʃ] verb relaunch sth重新推出；重新發佈
@@ -9785,7 +9762,7 @@ resister [rɪˈzɪstər] noun 抵制者；抗拒者；反抗者
 resistible [rɪˈzɪstəbl] adjective 可抵制的；可抗拒的
 resistive [rɪˈzɪstɪv] adjective 1.抗…的；耐…的 2.(物)電阻的
 resistor [rɪˈzɪstər] noun (物)電阻器
-resit [ˌriːˈsɪt] verb (BrE)(also re·take)[transitive, intransitive]resit(sth)重考；（通常指）補考
+resit [ˌriːˈsɪt] verb (BrE)(also re·take)resit(sth)重考；（通常指）補考
 resize [ˌriːˈsaɪz] verb resize sth改變（尤指計算機圖像等）的大小
 reskill [ˌriːˈskɪl] verb [intransitive, transitive]reskill(sb)（為新工作）學習新技能；教（某人）新技能
 resonator [ˈrezəneɪtər] noun (術語)共鳴器；共鳴箱
@@ -9797,7 +9774,7 @@ responsibly [rɪˈspɑːnsəbli] adverb 明事理地；認真負責地；可信�
 respray [ˌriːˈspreɪ] verb respray sth再噴漆；再噴塗
 rested [ˈrestɪd] adjective 休息後精力恢復（或精神振作）的
 restful [ˈrestfl] adjective 閒適寧靜的；使人感到悠閒的
-restock [ˌriːˈstɑːk] verb [transitive, intransitive]restock(sth) (with sth)更新（舊物品）；補充（貨源）；再補給
+restock [ˌriːˈstɑːk] verb restock(sth) (with sth)更新（舊物品）；補充（貨源）；再補給
 restorer [rɪˈstɔːrər] noun 做修復工作的人
 restring [ˌriːˈstrɪŋ] verb restring sth給（樂器或球拍）重新裝弦
 resultative [rɪˈzʌltətɪv] adjective (語法)(動詞、連詞或從句)表示結果的；結果性的；結果格的
@@ -9841,7 +9818,7 @@ revivalist [rɪˈvaɪvəlɪst] noun 推動復興者；復興運動倡導者
 revivify [ˌriːˈvɪvɪfaɪ] verb (formal)revivify sth使獲得新生；使復活；使再生；使恢復健康
 revocation [ˌrevəˈkeɪʃn] noun (formal)（法律等的）撤銷，廢除
 revolting [rɪˈvoʊltɪŋ] adjective 令人作嘔的；極其討厭的
-rewind [ˌriːˈwaɪnd] verb [transitive, intransitive]rewind(sth)重繞（磁帶等）；倒帶；倒片
+rewind [ˌriːˈwaɪnd] verb rewind(sth)重繞（磁帶等）；倒帶；倒片
 rewire [ˌriːˈwaɪər] verb rewire sth給（建築物或設備）換新電線
 reword [ˌriːˈwɜːrd] verb reword sth改寫；修改措辭
 rewritable [ˌriːˈraɪtəbl] adjective (計)可重寫的
@@ -9880,7 +9857,7 @@ ridged [rɪdʒd] adjective (物體或地區)有隆凸線條的；有埂子的
 riff-raff [ˈrɪf ræf] noun (disapproving)賤民；不三不四的下等人
 rifleman [ˈraɪflmən] noun （配備步槍的）步兵
 right-angled  adjective 直角的；有直角的
-right-click  verb [transitive, intransitive]right-click sth|right-click(on sth)用鼠標右鍵點擊；右擊
+right-click  verb right-click sth|right-click(on sth)用鼠標右鍵點擊；右擊
 right-handed  adjective 1.慣用右手的 2.供右手使用的
 right-hander  noun 1.慣用右手的人 2.右手的一擊
 rightist [ˈraɪtɪst] noun 右派人士；右翼分子
@@ -10268,7 +10245,7 @@ scraping [ˈskreɪpɪŋ] noun 刮屑；削片
 scrapyard [ˈskræpjɑːrd] noun (BrE)（堆放舊汽車、舊機器等的）廢品場
 screamingly [ˈskriːmɪŋli] adverb 極其；十足地
 scree [skriː] noun 碎石坡；岩屑堆
-screen-print  verb [transitive, intransitive]screen-print(sth)絲網壓印
+screen-print  verb screen-print(sth)絲網壓印
 screenshot [ˈskriːnʃɑːt] noun (計)屏幕截圖，屏幕快照，螢幕快點（用於展示程序運行方式）
 screwball [ˈskruːbɔːl] noun (informal) (especially NAmE)怪人；狂人
 screwcap [ˈskruːkæp] noun （尤指酒瓶的）螺旋蓋，螺紋蓋
@@ -10495,7 +10472,7 @@ sensationalism [senˈseɪʃənəlɪzəm] noun (disapproving)（指行文或報�
 sensationalize [senˈseɪʃənəlaɪz] verb (disapproving)sensationalize sth故作聳人聽聞地誇張；大肆渲染
 sentencer [ˈsentənsər] noun (formal)宣判人
 sentimentalist [ˌsentɪˈmentəlɪst] noun (sometimes disapproving)好感傷者；多愁善感的人
-sentimentalize [ˌsentɪˈmentəlaɪz] verb (disapproving)[transitive, intransitive]sentimentalize(sth)帶着感情色彩描述好的方面
+sentimentalize [ˌsentɪˈmentəlaɪz] verb (disapproving)sentimentalize(sth)帶着感情色彩描述好的方面
 sepal [ˈsepl] noun (術語)萼片
 separable [ˈsepərəbl] adjective 1.可分開的；可分隔的；可分離的 2.(語法)可分離的；可分開的；可分的
 separates [ˈseprəts] noun （可與其他不同衣服搭配穿的）單件衣服
@@ -11016,7 +10993,7 @@ softener [ˈsɔːfnər] noun 1.（硬水）軟化器 2.（衣物的）柔順劑
 soft-hearted  adjective 有同情心的；心腸軟的；熱心腸的
 softie [ˈsɔːfti] noun (informal)有同情心的人；心腸軟的人；熱心腸的人
 softly-softly  adjective (BrE) (informal)(做事方式)細緻耐心的
-soft-pedal  verb US also[transitive, intransitive]soft-pedal(on) sth低調處理；降低…的調門；對…輕描淡寫
+soft-pedal  verb US alsosoft-pedal(on) sth低調處理；降低…的調門；對…輕描淡寫
 soft-shoe  noun 軟鞋踢踏舞 verb 1.跳軟鞋踢踏舞 2.躡手躡腳地走；悄悄地移動
 soft-soap  verb (informal)soft-soap sb（為讓某人做某事）說好聽的，奉承，灌迷魂湯；勸誘
 softwood [ˈsɔːftwʊd] noun 軟質木，軟木（如松木）
@@ -11214,7 +11191,7 @@ spray-on  adjective (especially BrE)噴霧式的；噴塗式的
 spreadeagled [ˌspredˈiːɡld] adjective (BrE)四肢攤開
 spreader [ˈspredər] noun 塗抹用具；塗抹器；散佈機
 springbok [ˈsprɪŋbɑːk] noun 1.跳羚（產於非洲南部，個頭兒小，能跳得很高） 2.跳羚隊（南非國家橄欖球隊）
-spring-clean  verb [transitive, intransitive]spring-clean(sth)徹底打掃（房屋等）
+spring-clean  verb spring-clean(sth)徹底打掃（房屋等）
 spring-loaded  adjective 彈簧承載的；彈頂的
 springy [ˈsprɪŋi] adjective 1.有彈性（或彈力）的 2.矯健的；有活力的
 sprinkles [ˈsprɪŋklz] noun (NAmE)（裝飾糕點等用的）着色珠子糖，糖屑
@@ -11505,7 +11482,7 @@ subheading [ˌsʌbˈhedɪŋ] noun 小標題；子標題
 subhuman [ˌsʌbˈhjuːmən] adjective (disapproving)非人的；不齒於人類的；不適合人類的
 subjectivism [səbˈdʒektɪvɪzəm] noun (哲)主觀主義；主觀論
 subjunctive [səbˈdʒʌŋktɪv] noun (語法)虛擬式；虛擬語氣
-sublet [ˌsʌbˈlet] verb [transitive, intransitive]sublet(sth) (to sb)轉租，分租（租來的物業）
+sublet [ˌsʌbˈlet] verb sublet(sth) (to sb)轉租，分租（租來的物業）
 submariner [sʌbˈmærɪnər] noun 潛艇水兵
 submersible [səbˈmɜːrsəbl] adjective NAmE also水下使用的 noun 可潛船；潛水器
 subnormal [ˌsʌbˈnɔːrml] adjective 1.(術語)低於正常的；正常值以下的；偏低的 2.(sometimes offensive)低能的；弱智的
@@ -11651,7 +11628,7 @@ survivable [sərˈvaɪvəbl] adjective (事故或經歷)可幸免於難的；可
 survivalist [sərˈvaɪvəlɪst] noun 求生訓練學員，戶外生存受訓者（為防備險惡狀況而學習戶外求生技能）
 suspender [səˈspendər] noun 1.(BrE)吊襪帶 2.(NAmE)吊褲帶；背帶
 suspiciously [səˈspɪʃəsli] adverb 1.懷疑地；有疑心地 2.令人懷疑地；形跡（或神色等）可疑地 3.以懷疑的態度；不信任地
-suss [sʌs] verb (BrE) (informal)[transitive, intransitive]suss(sb/sth) (out)|suss that…|suss how, what, etc…意識到；認識到；發現
+suss [sʌs] verb (BrE) (informal)suss(sb/sth) (out)|suss that…|suss how, what, etc…意識到；認識到；發現
 sussed [sʌst] adjective (BrE) (informal)有（處世）經驗而不易上當的；門檻精的
 sutra [ˈsuːtrə] noun 1.（梵文的）箴言，格言，經 2.（佛教或耆那教的）修多羅，經
 suzerainty [ˈsuːzəreɪnti] noun (formal)宗主權
@@ -12671,7 +12648,7 @@ undated [ˌʌnˈdeɪtɪd] adjective 1.未註日期的 2.日期不明的；時間
 undeclared [ˌʌndɪˈklerd] adjective 未承認的；未聲明的；未申報的
 undefended [ˌʌndɪˈfendɪd] adjective 1.不設防的；不加防禦的 2.無抗辯的；不作辯護的
 undefined [ˌʌndɪˈfaɪnd] adjective 未闡明的；未限定的
-undelete [ˌʌndɪˈliːt] verb (計)[transitive, intransitive]undelete(sth)取消刪除；恢復（已刪除的文件等）
+undelete [ˌʌndɪˈliːt] verb (計)undelete(sth)取消刪除；恢復（已刪除的文件等）
 undemanding [ˌʌndɪˈmɑːndɪŋ] adjective 1.不費力的；不費神的；輕鬆容易的 2.人
 undemonstrative [ˌʌndɪˈmɑːnstrətɪv] adjective 喜怒不形於色的；不流露感情的
 underachieve [ˌʌndərəˈtʃiːv] verb （尤指學習上）未發揮水平，未展現實力
@@ -12840,7 +12817,7 @@ uninvited [ˌʌnɪnˈvaɪtɪd] adjective 未經要求的；未獲邀請的；不
 uninviting [ˌʌnɪnˈvaɪtɪŋ] adjective 無吸引力的；不誘人的
 uninvolved [ˌʌnɪnˈvɑːlvd] adjective （尤指感情方面）不投入的，不相關的
 unionist [ˈjuːniənɪst] noun 1. 2.統一主義者，統一派（主張北愛爾蘭繼續為英國的一部份） 3.（美國內戰時期的）合眾國擁護者，合眾派成員
-unionize [ˈjuːniənaɪz] verb [transitive, intransitive]unionize(sth)組織（或成立）工會；加入工會
+unionize [ˈjuːniənaɪz] verb unionize(sth)組織（或成立）工會；加入工會
 unisex [ˈjuːnɪseks] adjective 男女皆宜的；不分性別的
 united [juˈnaɪtɪd] adjective 1.國家 2.人或群體 3.（用於團隊和公司名稱）
 universally [ˌjuːnɪˈvɜːrsəli] adverb 1.全體地；一致地；共同地 2.到處；隨時隨地；在各種情況下
@@ -13027,7 +13004,7 @@ upsell [ˈʌpsel] verb (商)向上端推銷（指勸說顧客購買更多或更�
 upsetting [ʌpˈsetɪŋ] adjective 令人不快（或憂慮、苦惱）的
 upshift [ˈʌpʃɪft] verb (NAmE)換高擋（開車等加速）
 upsilon [ˈʊpsɪlɑːn] noun 希臘字母表的第 20 個字母
-upskill [ˈʌpskɪl] verb (商)[transitive, intransitive]upskill(sb)（使）提高技能；（使）學習新技能
+upskill [ˈʌpskɪl] verb (商)upskill(sb)（使）提高技能；（使）學習新技能
 upstanding [ˌʌpˈstændɪŋ] adjective (formal)正直的；正派的；誠實的
 upswell [ˈʌpswel] noun (formal)[singular]upswell of sth（尤指感覺的）增加，上漲，上湧
 upswept [ˈʌpswept] adjective 向上彎曲的；向上傾斜的
@@ -13118,7 +13095,7 @@ venomous [ˈvenəməs] adjective 1.蛇等 2.(formal)惡毒的；惡意的；充�
 ventricle [ˈventrɪkl] noun 1.心室 2.（體內的）室，腔；（尤指）腦室
 ventriloquism [venˈtrɪləkwɪzəm] noun 腹語術，口技（嘴唇不動、聲音像來自他人的發聲技巧）
 venturesome [ˈventʃərsəm] adjective (formal or literary)大膽的；好冒險的
-verbalize [ˈvɜːrbəlaɪz] verb (formal)[transitive, intransitive]verbalize(sth)用言語（或文字）表達
+verbalize [ˈvɜːrbəlaɪz] verb (formal)verbalize(sth)用言語（或文字）表達
 verbena [vɜːrˈbiːnə] noun 馬鞭草（庭院花卉，花鮮豔）
 verdure [ˈvɜːrdjər] noun (literary)青葱的草木；鬱鬱葱葱的植物
 verger [ˈvɜːrdʒər] noun (especially BrE)教堂司事
@@ -13230,7 +13207,7 @@ wader [ˈweɪdər] noun 1.涉禽；涉水鳥 2.（涉水捕魚等穿的）高筒
 wadi [ˈwɑːdi] noun （中東和北非僅在雨後才有水的）乾谷，乾河谷
 wafer-thin  adjective 很薄的
 waged [weɪdʒd] adjective 1.人 2.工作 3.工薪族；（統稱）拿工資的人
-waggle [ˈwæɡl] verb (informal)[transitive, intransitive]waggle(sth)（使）上下移動，來回擺動
+waggle [ˈwæɡl] verb (informal)waggle(sth)（使）上下移動，來回擺動
 wagonload [ˈwæɡənloʊd] noun 貨車車廂載荷；馬車載荷
 wagtail [ˈwæɡteɪl] noun 鶺鴒（走動時長尾上下擺動）
 wah-wah [ˈwɑː wɑː] noun (音)（尤指吉他等電子樂器發出的）“哇哇”音響效果
