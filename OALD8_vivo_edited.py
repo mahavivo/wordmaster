@@ -7937,18 +7937,17 @@ odontology [ˌoʊdɑːnˈtɑːlədʒi] noun 牙科學
 odourless [ˈoʊdərləs] adjective 無氣味的
 oedema [ɪˈdiːmə] noun (BrE)(醫)水腫
 o'er [ɔːr] adverb (old use)在…上面；越過
-oesophagus [iˈsɑːfəɡəs] noun (BrE)食道；食管
+oesophagus [iˈsɑːfəɡəs] noun (BrE)(解)食道；食管
 oestrogen [ˈestrədʒən] noun (BrE)雌激素
-oestrus [ˈestrəs] noun (BrE)（雌性動物的）動情期
-off-air  adjective 廣播及電視
-offal [ˈɔːfl] noun US also（食用的）動物內臟
-off-centre  adverb especially US不居中（的）
+oestrus [ˈestrəs] noun (BrE)(術語)（雌性動物的）動情期
+off-air  adjective (廣播及電視)不在廣播中的
+offal [ˈɔːfl] noun （食用的）動物內臟
+off-centre  adverb 不居中（的）
 offcut [ˈɔːfkʌt] noun (especially BrE)下腳料；邊角材料
 offertory [ˈɔːfərtɔːri] noun 1.祭品（奉獻給上帝的餅和酒） 2.獻金（禮拜中收集的捐款）
 office-holder  noun 官員；公務員；高級職員
 officialdom [əˈfɪʃldəm] noun (disapproving)官僚；當官的人
 officialese [əˌfɪʃəˈliːz] noun (disapproving)官場用語（複雜而難以理解）
-offing [ˈɔːfɪŋ] noun 
 off-licence  noun (BrE)外賣酒店
 offline [ˌɔːfˈlaɪn] adjective (計)未聯機的；未連線的；脫機的；離線的
 offload [ˌɔːfˈloʊd] verb 把（擔子等）轉移（給別人）；減輕（負擔）；卸（包袱）
@@ -7960,7 +7959,7 @@ off-ramp  noun (NAmE, SAfrE)（高速公路等的）出口匝道
 off-roader  noun 1.越野車 2.越野賽車手
 off-screen  adjective 真實的；生活中的；非屏幕上的
 offshoring [ˌɔːfˈʃɔːrɪŋ] noun （公司的）離岸外包業務，外包國外業務
-offside [ˌɔːfˈsaɪd] adjective 1.US also（足球、曲棍球等體育運動中）越位的 2.(BrE)（車輛）外側的，右側的 noun 1.US also（足球、曲棍球等體育運動中的）越位 2.(BrE)（車輛的）外側，遠側，右側
+offside [ˌɔːfˈsaɪd] adjective 1.（足球、曲棍球等體育運動中）越位的 2.(BrE)（車輛）外側的，右側的 noun 1.（足球、曲棍球等體育運動中的）越位 2.(BrE)（車輛的）外側，遠側，右側
 offsider [ɔːfˈsaɪdər] noun (AustralE, NZE) (informal)同事；工友；幫手
 off-street  adjective 不在大街上的；大街以外的；路外的；後街的
 off-the-grid  adjective (especially NAmE)不入網的（不使用公用輸電網、煤氣輸送網、自來水網等）
@@ -7997,19 +7996,18 @@ oldster [ˈoʊldstər] noun (informal)老人；老者
 old-world  adjective (approving)古式的；非現代的
 ole [oʊl] adjective （用於書面英語，代表有些人說 old 一詞的方式）老的
 oleander [ˌoʊliˈændər] noun 夾竹桃
-ollie [ˈɑːli] noun 滑板運動
+ollie [ˈɑːli] noun (滑板運動)豚跳（一腳猛踩滑板後部的帶板起跳）
 ology [ˈɑːlədʒi] noun (informal, humorous)學科
 ombudsman [ˈɑːmbʊdzmən] noun 政府巡查員，巡視官，申訴專員（政府處理民眾訴願的官員）
 omega [oʊˈmeɡə] noun 歐米加（希臘字母表的最後一個字母）
-omelette [ˈɑːmlət] noun NAmE also煎蛋捲，攤雞蛋（常加入奶酪、肉和蔬菜）
+omelette [ˈɑːmlət] noun 煎蛋捲，攤雞蛋（常加入奶酪、肉和蔬菜）
 omicron [ˈɑːməkrɑːn] noun 希臘字母表的第 15 個字母
 omnibus [ˈɑːmnɪbəs] noun 1.(BrE)（廣播、電視）綜合節目 2.（若干種作品的）彙編，選集 3.(old-fashioned)公共汽車 adjective (NAmE)綜合性的；選編的
 omnidirectional [ˌɑːmnɪdəˈrekʃənl] adjective (術語)（接收或發射信號）全向的
 omnivore [ˈɑːmnɪvɔːr] noun 雜食動物；雜食的人
-on-air  adjective 用於廣播及電視
+on-air  adjective (用於廣播及電視)正在播放
 on-board  adjective 1.在船（或飛機、車）上的 2.(計)主板（控制）的；板上的
 on-call   (especially NAmE)(醫生、警察等)（尤指緊急情況下）隨叫隨到的
-once-over  noun 1.匆匆打量；隨便看一眼 2.匆匆打掃
 on-demand  adjective 按需的；隨選即行提供的
 one-liner  noun (informal)小笑話；俏皮話；風趣的話
 oneness [ˈwʌnnəs] noun (formal)一體；一致；和諧
@@ -8023,17 +8021,17 @@ one-to-one  adjective 1.一對一的；僅限兩人之間的 2.一一對應的�
 one-upmanship [wʌnˈʌpmənʃɪp] noun (disapproving)取巧佔上風的伎倆
 one-woman  adjective 一個女人做的；由一個女人控制的
 on-field  adjective 運動場上的
-on-off  adjective 1.開關 2.關係
+on-off  adjective 1.(開關)開 – 關的；雙位的；通斷的；離合的 2.(關係)斷斷續續的；間斷的
 onomastics [ˌɑːnəˈmæstɪks] noun （人名等）專有名稱詞源學；專名學
 onomatopoeia [ˌɑːnəˌmætəˈpiːə] noun (術語)象聲；擬聲；擬聲法
 on-ramp  noun (NAmE, SAfrE)（高速公路等的）駛進匝道，駛進坡道
 onrush [ˈɑːnrʌʃ] noun 猛然向前；突如其來
 on-screen  adjective 1.屏幕上的；熒屏的；影視的 2.扮演的；屏幕上的；非現實生活的
-onshore [ˈɑːnʃɔːr] adjective 1.陸上的 2.風
-onside [ˌɑːnˈsaɪd] adjective 足球、曲棍球等
+onshore [ˈɑːnʃɔːr] adjective 1.陸上的 2.(風)吹向陸地的；向岸的
+onside [ˌɑːnˈsaɪd] adjective (足球、曲棍球等)未越位；非越位
 on-street  adjective (停車設施)街邊的；路邊的
 ontology [ɑːnˈtɑːlədʒi] noun 1.本體論；存在論 2.(計)本體（一個主題下不同概念及類別）
-onwards [ˈɑːnwərdz] adverb 1.從（某時）起一直 2.(formal)向前；前往
+onwards [ˈɑːnwərdz] adverb (especially BrE)1.from… onwards從（某時）起一直 2.(formal)向前；前往
 onyx [ˈɑːnɪks] noun 縞瑪瑙
 oodles [ˈuːdlz] noun (old-fashioned, informal)[plural]oodles(of sth)大量；很多
 oo-er [ˌuːˈɜːr] exclamation (humorous)（表示驚訝，尤指對性方面）啊呦，哎呀
@@ -8051,20 +8049,20 @@ open-plan  adjective 開放式的；敞開式的；未隔間的
 open-source  adjective (計)（軟件）開放源代碼的，提供源程序的，開放原始碼的
 open-toed  adjective (鞋)露趾的
 open-top  adjective (BrE)(機動車)敞篷的
-operable [ˈɑːpərəbl] adjective 1.運作的；可實行的；可使用的 2.醫療狀況
+operable [ˈɑːpərəbl] adjective 1.運作的；可實行的；可使用的 2.(醫療狀況)可以動手術的
 operand [ˈɑːpərænd] noun (數)操作數；運算數；運算元
 ophthalmic [ɑːfθælmɪk] adjective (醫)眼科的；與眼睛有關的
 ophthalmologist [ˌɑːfθælˈmɑːlədʒɪst] noun 眼科醫生
 ophthalmology [ˌɑːfθælˈmɑːlədʒi] noun 眼科學
-opossum [əˈpɑːsəm] noun AustralE, NZE or NAmE, informal負鼠（產於美洲或澳大利亞的小動物，在樹上生活，攜幼崽於母獸育兒袋中）
+opossum [əˈpɑːsəm] noun 負鼠（產於美洲或澳大利亞的小動物，在樹上生活，攜幼崽於母獸育兒袋中）
 opportunism [ˌɑːpərˈtuːnɪzəm] noun (disapproving)機會主義
 opportunist [ˌɑːpərˈtuːnɪst] adjective (often disapproving)機會主義的；投機的；見風轉舵的
 oppressed [əˈprest] adjective 1.被壓迫的；受迫害的 2.被壓迫者
 opprobrium [əˈproʊbriəm] noun (formal)（眾人的）譴責，責難，抨擊
-optician [ɑːpˈtɪʃn] noun 1.(both BrE)眼鏡商；驗光師 2.眼鏡商店 3.光學儀器製造者
-optometrist [ɑːpˈtɑːmətrɪst] noun BrE also眼鏡商；驗光師
+optician [ɑːpˈtɪʃn] noun 1.(BrE)眼鏡商；驗光師 2.眼鏡商店 3.光學儀器製造者
+optometrist [ɑːpˈtɑːmətrɪst] noun 眼鏡商；驗光師
 optometry [ɑːpˈtɑːmətri] noun 驗光；視力測定
-opt-out  noun 1.（英國學校、醫院從地方當局財政管轄的）退出，脫離 2.不參與協議的決定
+opt-out  noun （常用作形容詞)1.（英國學校、醫院從地方當局財政管轄的）退出，脫離 2.不參與協議的決定
 oralism [ˈɔːrəlɪzəm] noun 口語教學法（教聾人通過講話和唇讀來交際）
 orangeade [ˌɔːrɪndʒˈeɪd] noun 1.橙汁飲料；橘子汁；橙汁汽水 2.一杯橙汁汽水
 orangery [ˈɔːrɪndʒəri] noun 柑橘暖房
@@ -8075,7 +8073,7 @@ ordinal [ˈɔːrdənl] noun 序數詞（如第一、第二等）
 ordinand [ˈɔːrdɪnænd] noun 待領聖職的人；領聖秩者
 ordinate [ˈɔːrdɪnət] noun (數)縱坐標
 ordure [ˈɔːrdʒər] noun (formal)（人或動物的）糞；大便
-organdie [ˈɔːrɡəndi] noun NAmE also蟬翼紗（細薄而稍硬的棉布，用於製作禮服）
+organdie [ˈɔːrɡəndi] noun 蟬翼紗（細薄而稍硬的棉布，用於製作禮服）
 organ-grinder  noun (humorous)手搖風琴手；手搖風琴演奏者
 organist [ˈɔːrɡənɪst] noun 風琴演奏者；風琴手
 organophosphate [ˌɔːrɡənoʊˈfɑːsfeɪt] noun 有機磷酸酯
@@ -8084,7 +8082,7 @@ orgasmic [ɔːrˈɡæzmɪk] adjective 性高潮的；似性高潮的
 orgiastic [ˌɔːrdʒiˈæstɪk] adjective (formal)縱慾的；放縱的；放蕩的
 oriel [ˈɔːriəl] noun (建)突出主體牆外的建築；凸肚窗
 orientalist [ˌɔːriˈentəlɪst] noun 東方學專家；東方學者
-orienteering [ˌɔːriənˈtɪrərɪŋ] noun 定向運動，定向越野野外定向（利用指南針和地圖，徒步穿越曠野的運動）
+orienteering [ˌɔːriənˈtɪrərɪŋ] noun 定向運動，定向越野，野外定向（利用指南針和地圖，徒步穿越曠野的運動）
 origami [ˌɔːrɪˈɡɑːmi] noun 日本摺紙藝術
 oriole [ˈɔːrioʊl] noun 1.擬黃鸝（產於北美洲，雄鳥毛色黑與橘黃間隔，雌鳥黃綠色） 2.黃鸝（產於歐洲，雄鳥毛色鮮黃，雙翼黑色）
 ormolu [ˈɔːrməluː] noun 仿金銅；金色銅；銅鋅錫合金
@@ -8093,18 +8091,18 @@ orogeny [ɔːˈrɑːdʒəni] noun (地)造山運動（地層褶皺形成山脈�
 orographic [ˌɔːrəˈɡræfɪk] adjective (地)山嶽（位置）的；山形的
 orthodontist [ˌɔːrθəˈdɑːntɪst] noun 正齒醫生；矯形牙醫
 orthography [ɔːrˈθɑːɡrəfi] noun (formal)（文字的）拼寫體系，拼寫法
-orthopaedics [ˌɔːrθəˈpiːdɪks] noun especially US矯形外科；整形外科學
+orthopaedics [ˌɔːrθəˈpiːdɪks] noun 矯形外科；整形外科學
 oryx [ˈɔːrɪks] noun 大羚羊（有長角）
 oscillator [ˈɑːsɪleɪtər] noun (物)振盪器
 oscilloscope [əˈsɪləskoʊp] noun (物)示波器；示波管
 osier [ˈoʊʒər] noun 青剛柳；杞柳；柳樹
 osmium [ˈɑːzmiəm] noun 鋨
 osprey [ˈɑːspreɪ] noun 鶚；魚鷹
-ostentatious [ˌɑːstenˈteɪʃəs] adjective 1.(disapproving)擺闊的；鋪張的；浮華的 2.(disapproving)炫耀的；賣弄的；夸示的 3.舉動
+ostentatious [ˌɑːstenˈteɪʃəs] adjective 1.(disapproving)擺闊的；鋪張的；浮華的 2.(disapproving)炫耀的；賣弄的；夸示的 3.(舉動)誇張的；招搖的
 osteoarthritis [ˌɑːstioʊɑːrˈθraɪtɪs] noun (醫)骨關節炎
 osteopath [ˈɑːstiəpæθ] noun 骨療醫師；整骨醫士
 osteopathy [ˌɑːstiˈɑːpəθi] noun 骨療學；整骨術
-ostler [ˈɑːslər] noun NAmE also（昔日客棧的）馬夫
+ostler [ˈɑːslər] noun （昔日客棧的）馬夫
 other-worldly  adjective 超脫世俗的；斷絕塵緣的；超凡入聖的；出世的
 otitis [oʊˈtaɪtɪs] noun (醫)耳炎
 ottoman [ˈɑːtəmən] noun 褥榻，箱式凳（箱子式的坐凳，有軟墊）
@@ -8127,7 +8125,7 @@ outflank [ˌaʊtˈflæŋk] verb 1.包抄；側翼包圍 2.（尤指出其不意�
 outgoings [ˈaʊtɡoʊɪŋz] noun (BrE)開支；經常性費用
 out-group  noun 外群體；外團體
 outgun [ˌaʊtˈɡʌn] verb (figurative)[often passive]outgun sb/sth（軍事上）勝過，超過
-outmanoeuvre [ˌaʊtməˈnuːvər] verb especially USoutmanoeuvre sb/sth比…高明；比…技高一籌
+outmanoeuvre [ˌaʊtməˈnuːvər] verb outmanoeuvre sb/sth比…高明；比…技高一籌
 out-of-pocket  adjective （小額商務費用）墊付的
 out-of-state  adjective (US)外州的；州外的
 out-of-the-way  adjective 偏僻的；偏遠的
@@ -8135,7 +8133,7 @@ out-of-town  adjective 1.城外的；郊野的 2.外地的；外來的
 out-of-work  adjective 失業的；下崗的
 outplacement [ˈaʊtpleɪsmənt] noun (商)新工作安排；（對失業人員的）安置
 outplay [ˌaʊtˈpleɪ] verb outplay sb（技勝一籌）戰勝，擊敗
-outpoint [ˌaʊtˈpɔɪnt] verb outpoint sb以點數取勝
+outpoint [ˌaʊtˈpɔɪnt] verb outpoint sb(尤用於拳擊運動)以點數取勝
 outrank [ˌaʊtˈræŋk] verb outrank sb（在職銜、質量等上）超過，在…之上
 outrider [ˈaʊtraɪdər] noun （要人座車周圍的）騎士護衞，摩托護衞
 outrigger [ˈaʊtrɪɡər] noun 舷外托架；有舷外托架的小船
@@ -8149,7 +8147,7 @@ out-take  noun （電影的）不選用鏡頭，不合格鏡頭
 out-there  adjective (NAmE) (informal)（人）特立獨行的；（想法）吸引他人矚目的，讓人耳目一新的；自成一格的
 outvote [ˌaʊtˈvoʊt] verb [usually passive]outvote sb/sth得票超過
 outwith [ˌaʊtˈwɪθ] preposition (ScotE)在…外面
-outwork [ˈaʊtwɜːrk] noun (商)外包活；家庭承攬的活
+outwork [ˈaʊtwɜːrk] noun (商)(BrE)外包活；家庭承攬的活
 outworking [ˈaʊtwɜːrkɪŋ] noun (商)本單位外的工作
 outworn [ˈaʊtwɔːrn] adjective 過時的；陳腐的；無用的
 ouzo [ˈuːzoʊ] noun 茴香烈酒（希臘產，通常兌水飲用）
@@ -8157,13 +8155,13 @@ ovenproof [ˈʌvnpruːf] adjective 適於烤箱內用的；耐熱的
 oven-ready  adjective (食物)已調製好的；加工過的；可直接入爐的
 ovenware [ˈʌvnwer] noun 烤箱器皿；烤盤
 overachieve [ˌoʊvərəˈtʃiːv] verb 1.學習（或工作）得比預期好；取得比預期好的成績 2.過於努力；過於進取
-overact [ˌoʊvərˈækt] verb (disapproving)[intransitive, transitive]overact(sth)舉止過火；表現做作；（尤指）表演過火
-overactive [ˌoʊvərˈæktɪv] adjective 1.器官或身體部位 2.想像力
+overact [ˌoʊvərˈækt] verb (disapproving)overact(sth)舉止過火；表現做作；（尤指）表演過火
+overactive [ˌoʊvərˈæktɪv] adjective 1.(器官或身體部位)過度活動的 2.(想像力)過於活躍的；（尤指）想入非非的
 overage [ˌoʊvərˈeɪdʒ] adjective 超齡的；年齡過大的
-overambitious [ˌoʊvəræmˈbɪʃəs] adjective 1.人 2.計劃、任務等
+overambitious [ˌoʊvəræmˈbɪʃəs] adjective 1.(人)進取心過強的；野心過大的 2.(計劃、任務等)所需投入過大的，目標過高的（因而成功機會甚微）
 overarm [ˈoʊvərɑːrm] adverb (especially BrE)肩上投球（投球時舉手過肩）
 overawe [ˌoʊvərˈɔː] verb [usually passive]overawe sb使極為敬畏；使膽怯
-overbalance [ˌoʊvərˈbæləns] verb (especially BrE)[intransitive, transitive]overbalance(sb/sth)（使）失去平衡，摔倒
+overbalance [ˌoʊvərˈbæləns] verb (especially BrE)overbalance(sb/sth)（使）失去平衡，摔倒
 overbite [ˈoʊvərbaɪt] noun (術語)覆咬合；上包齒
 overbook [ˌoʊvərˈbʊk] verb overbook(sth)超額預訂（飛機座位或旅館客房）
 overbridge [ˈoʊvərbrɪdʒ] noun 天橋；上跨橋
@@ -8171,7 +8169,7 @@ overburden [ˌoʊvərˈbɜːrdn] verb [usually passive]overburden sb/sth (with s
 overcapacity [ˌoʊvərkəˈpæsəti] noun (商)生產能力過剩
 overcautious [ˌoʊvərˈkɔːʃəs] adjective 過於謹慎的；過分小心的
 overcharge [ˌoʊvərˈtʃɑːrdʒ] verb overcharge(sb) (for sth)多收（某人的）錢
-overcompensate [ˌoʊvərˈkɑːmpenseɪt] verb [intransitive]overcompensate(for sth) (by doing sth)過度補償（為糾正某事而做得過分）；矯枉過正
+overcompensate [ˌoʊvərˈkɑːmpenseɪt] verb overcompensate(for sth) (by doing sth)過度補償（為糾正某事而做得過分）；矯枉過正
 overconfident [ˌoʊvərˈkɑːnfɪdənt] adjective 過分自信的；自負的
 overcook [ˌoʊvərˈkʊk] verb overcook sth煮得過熟；煮得過久
 overcritical [ˌoʊvərˈkrɪtɪkl] adjective 過分挑剔的；吹毛求疵的
@@ -8180,11 +8178,10 @@ overdeveloped [ˌoʊvərdɪˈveləpt] adjective 發育過度的；過於發達�
 overdog [ˈoʊvərdɔːɡ] noun (disapproving)（尤指不公正地）佔上風者，佔優勢者
 overdraft [ˈoʊvərdræft] noun 透支額；透支安排
 overdraw [ˌoʊvərˈdrɔː] verb (especially BrE)overdraw(sth)透支
-overdrawn [ˌoʊvərˈdrɔːn] adjective 1.人 2.銀行賬戶
+overdrawn [ˌoʊvərˈdrɔːn] adjective 1.(人)已透支；有透支 2.(銀行賬戶)被透支的
 overdressed [ˌoʊvərˈdrest] adjective (usually disapproving)穿着太正式的；打扮過分的
 overdub [ˌoʊvərˈdʌb] verb overdub sb把（錄音）配到原帶上；叠錄
-over-egg  verb 
-overemphasis [ˌoʊvərˈemfəsɪs] noun [uncountable, singular]overemphasis(on sth)過分強調；過於重視
+overemphasis [ˌoʊvərˈemfəsɪs] noun overemphasis(on sth)過分強調；過於重視
 overexcited [ˌoʊvərɪkˈsaɪtɪd] adjective 過度興奮的；興奮得忘乎所以的
 overexpose [ˌoʊvərɪkˈspoʊz] verb 1.使（膠片等）曝光過度 2.對…報道過頻
 overextended [ˌoʊvərɪkˈstendɪd] adjective 承擔過多工作；開支過大
@@ -8200,17 +8197,17 @@ overground [ˈoʊvərɡraʊnd] adverb (BrE)在地面上；高出地面
 overgrowth [ˈoʊvərɡroʊθ] noun (術語)增生；瘋長
 overhasty [ˌoʊvərˈheɪsti] adjective 過於匆忙的；過急的；過於草率的
 overheads [ˈoʊvərhedz] noun (especially BrE)經費；營運費用；經常性開支
-overheat [ˌoʊvərˈhiːt] verb 1.變得過熱；使過熱 2.國家經濟
+overheat [ˌoʊvərˈhiːt] verb 1.變得過熱；使過熱 2.(國家經濟)發展過熱，過於活躍（以致物價高漲）
 overindulge [ˌoʊvərɪnˈdʌldʒ] verb 1.過多地享用（尤指食物或飲料） 2.過分放任；過於縱容
-overinflated [ˌoʊvərɪnˈfleɪtɪd] adjective 1.價格或價值 2.誇張的；誇大的；言過其實的 3.過度充氣的
+overinflated [ˌoʊvərɪnˈfleɪtɪd] adjective 1.(價格或價值)過高的；過於高漲的 2.誇張的；誇大的；言過其實的 3.過度充氣的
 overkill [ˈoʊvərkɪl] noun (disapproving)過猶不及；做得過火的事
 overland [ˈoʊvərlænd] adjective 橫跨陸地的；通過陸路的
 overleaf [ˌoʊvərˈliːf] adverb 在（書頁等的）背面；在後面
-overlie [ˌoʊvərˈlaɪ] verb (術語)[intransitive, transitive]overlie(sth)叠加於；置於…上面
+overlie [ˌoʊvərˈlaɪ] verb (術語)overlie(sth)叠加於；置於…上面
 overlong [ˌoʊvərˈlɔːŋ] adjective (BrE)過長的
 overlord [ˈoʊvərlɔːrd] noun （尤指舊時的）領主，莊主，大王
 overmanned [ˌoʊvərˈmænd] adjective (公司、辦公室等)人浮於事的；人員過多的
-overmuch [ˌoʊvərˈmʌtʃ] adverb (BrE)很多；過多；非常
+overmuch [ˌoʊvərˈmʌtʃ] adverb (BrE)(尤與否定動詞連用)很多；過多；非常
 over-optimistic  adjective 1.過分樂觀的 2.期望過高的；過於樂觀的
 overpass [ˈoʊvərpæs] noun (NAmE)高架橋；跨線橋；立交橋
 overpay [ˌoʊvərˈpeɪ] verb [usually passive]overpay sb付款過多；多付報酬
@@ -8238,7 +8235,7 @@ overstock [ˌoʊvərˈstɑːk] verb 1.庫存過多（貨物）；進（貨）過
 overstretch [ˌoʊvərˈstretʃ] verb (especially BrE)overstretch sb/sth/yourself（使）勉強維持，硬撑着，超負荷運轉
 oversubscribed [ˌoʊvərsəbˈskraɪbd] adjective （活動、服務等）供不應求的，未能達到需求量的
 overtax [ˌoʊvərˈtæks] verb 1.使用過度；（使）超負荷工作 2.（對人或機構）課稅過重，多收稅款
-over-the-counter  adjective 1.藥品 2.(商)
+over-the-counter  adjective 1.(藥品)無需處方可買到的；非處方的 2.(商)(NAmE)(股票及證券)場外交易的
 overtired [ˌoʊvərˈtaɪərd] adjective 勞累過度（而煩躁）的
 overtrain [ˌoʊvərˈtreɪn] verb (運動員)過度訓練
 overvalue [ˌoʊvərˈvæljuː] verb (商)[often passive]overvalue sth估計過高；過於重視
@@ -8256,12 +8253,12 @@ ovum [ˈoʊvəm] noun (生)卵；卵子；卵細胞
 ow [aʊ] exclamation （表示疼痛）哎呦
 owlet [ˈaʊlət] noun 鴞類幼體；小型貓頭鷹
 owlish [ˈaʊlɪʃ] adjective 似貓頭鷹的；儒雅的
-own-brand  adjective (both BrE)自有品牌的（指產品以商店自定的品牌出售）
+own-brand  adjective (BrE)自有品牌的（指產品以商店自定的品牌出售）
 owner-occupied  adjective (房子等)房主自用的
 owner-occupier  noun 住自家房屋者；房屋自用者
 owt [aʊt] pronoun (BrE, dialect) (informal)任何事物；任何東西
 oxbow [ˈɑːksboʊ] noun (術語)河道曲流灣；牛軛湖
-oxford [ˈɑːksfərd] noun 1.(especially NAmE)牛津鞋（一種繫鞋帶的皮鞋） 2.
+oxford [ˈɑːksfərd] noun 1.(especially NAmE)牛津鞋（一種繫鞋帶的皮鞋） 2.=oxford cloth
 oxidant [ˈɑːksɪdənt] noun (化)氧化劑
 oxtail [ˈɑːksteɪl] noun 牛尾肉（通常用於做湯）
 oxter [ˈɑːkstər] noun (BrE, dialect) (informal)胳肢窩；腋窩
