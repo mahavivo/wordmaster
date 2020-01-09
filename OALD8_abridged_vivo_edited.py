@@ -10133,9 +10133,9 @@ scabies [ˈskeɪbiːz] noun 疥瘡；疥蟎病
 scalar [ˈskeɪlər] adjective (數)(量)純量的；標量的；無向量的
 scalawag [ˈskæləwæɡ] noun (NAmE)調皮搗蛋的人，淘氣鬼（尤指兒童）
 scally [ˈskæli] noun (尤用於英國西北部利物浦)調皮搗蛋的男孩；行為不端（或滋事）的年輕男子
-scallywag [ˈskæliwæɡ] noun (BrE)調皮搗蛋的人，淘氣鬼（尤指兒童）
+scallywag [ˈskæliwæɡ] noun (BrE informal)調皮搗蛋的人，淘氣鬼（尤指兒童）
 scalper [ˈskælpər] noun (NAmE)（音樂會、體育比賽等以高價）倒賣門票者，票販子
-scaly [ˈskeɪli] adjective 皮膚
+scaly [ˈskeɪli] adjective (皮膚)有鱗屑的
 scampi [ˈskæmpi] noun (BrE)炸大蝦
 scandalize [ˈskændəlaɪz] verb scandalize sb（以出格行為）使震驚，使憤慨
 scandalmonger [ˈskændlmʌŋɡər] noun (disapproving)散佈醜聞者
@@ -10143,7 +10143,7 @@ scandium [ˈskændiəm] noun 鈧
 scansion [ˈskænʃn] noun (術語)（詩行的）韻律
 scapula [ˈskæpjʊlə] noun (解)肩胛（骨）
 scarab [ˈskærəb] noun 聖甲蟲；聖甲蟲雕飾物
-scaredy-cat [ˈskerdi] noun US also（兒童用語）膽小鬼
+scaredy-cat [ˈskerdi kæt] noun US also（兒童用語）膽小鬼
 scaremonger [ˈskermʌŋɡər] noun (disapproving)散佈恐怖消息的人；製造恐慌的人；危言聳聽的人
 scarify [ˈskerɪfaɪ] verb 1.翻鬆（草地等） 2.劃破（尤指皮膚）
 scarper [ˈskɑːrpər] verb (BrE) (informal)逃跑；溜號
@@ -10154,7 +10154,7 @@ scattergun [ˈskætərɡʌn] adjective (BrE)（處事）雜亂無章的，亂無
 scatty [ˈskæti] adjective (BrE) (informal)健忘的；傻乎乎的
 scene-of-crime  adjective (BrE)犯罪現場的；作案現場的
 scentless [ˈsentləs] adjective 無氣味的
-sceptre [ˈseptər] noun US（象徵王權的）節杖，權杖
+sceptre [ˈseptər] noun （象徵王權的）節杖，權杖
 schemer [ˈskiːmər] noun (disapproving)搞陰謀的人；施詭計的人
 scheming [ˈskiːmɪŋ] adjective (formal)慣搞陰謀的；詭計多端的；狡詐的
 scherzo [ˈskertsoʊ] noun (from Italian)諧謔曲
@@ -10162,11 +10162,11 @@ schilling [ˈʃɪlɪŋ] noun 奧地利先令（2002 年為歐元所取代）
 schist [ʃɪst] noun 片岩
 schizoid [ˈskɪtsɔɪd] adjective (術語)精神分裂般的；類精神分裂症的；（患）精神分裂症的
 schizophrenic [ˌskɪtsəˈfrenɪk] noun 精神分裂症患者 adjective 1.患精神分裂症的 2.(informal)反覆無常的；自相矛盾的
-schlep [ʃlep] verb 1.（勞神耗時或不情願地）去，趕往 2.搬，抬，拖，拉（重物）
+schlep [ʃlep] verb (informal) (especially NAmE)1.（勞神耗時或不情願地）去，趕往 2.搬，抬，拖，拉（重物）
 schlock [ʃlɑːk] noun (NAmE) (informal)低檔貨；便宜貨
 schmaltz [ʃmɔːlts] noun (informal, disapproving)過分感傷
 schmo [ʃmoʊ] noun (NAmE) (informal, disapproving)笨蛋；傻瓜
-schmooze [ʃmuːz] verb (informal) (especially NAmE)[intransitive, transitive]schmooze(with) sb（尤指為利用某人而）閒談，閒聊
+schmooze [ʃmuːz] verb (informal) (especially NAmE)schmooze(with) sb（尤指為利用某人而）閒談，閒聊
 schmuck [ʃmʌk] noun (informal, disapproving) (especially NAmE)傻瓜；笨蛋；蠢貨
 schnapps [ʃnæps] noun (from German)（穀物釀製的）烈酒
 schnauzer [ʃnaʊzər] noun 髯狗；雪納瑞犬；史納沙犬
@@ -10177,28 +10177,28 @@ schoolie [ˈskuːli] noun (AustralE)即將畢業的中學生
 school-leaver  noun (BrE)（尤指待業的）中學畢業生，離校生
 schoolmarm [ˈskuːlmɑːrm] noun (disapproving) (especially NAmE)（嚴厲）女教師
 schoolroom [ˈskuːlruːm] noun (old-fashioned)教室
-schwa [ʃwɑː] noun (語音)非重讀央元音，混元音，輕母音（如 about 中的 a 或 moment 中的 e 所發的音）；音標符號/æpartialː/
+schwa [ʃwɑː] noun (語音)非重讀央元音，混元音，輕母音（如 about 中的 a 或 moment 中的 e 所發的音）；音標符號/ə/
 sciatic [saɪˈætɪk] adjective (解)坐骨的；坐骨神經的
 sciatica [saɪˈætɪkə] noun 坐骨神經痛
 scientism [ˈsaɪəntɪzəm] noun 1.科學思維；科學方法；科學態度 2.科學至上主義；唯科學主義
 scimitar [ˈsɪmɪtər] noun （多為東方人所用的）短彎刀
-scintilla [sɪnˈtɪlə] noun (通常用於否定句)[singular]scintilla(of sth)一星半點；毫厘
+scintilla [sɪnˈtɪlə] noun (formal)(通常用於否定句)scintilla(of sth)一星半點；毫厘
 scintillating [ˈsɪntɪleɪtɪŋ] adjective 才情洋溢的；妙趣橫生的
 sclera [ˈsklɪrə] noun (解)鞏膜
 scofflaw [ˈskɔːflɔː] noun (NAmE) (informal)無視法律的人
 scoliosis [ˌskoʊliˈoʊsɪs] noun (醫)脊柱側凸；脊柱側彎
 scone [skɑːn] noun 烤餅，司康餅（常抹黃油、果醬、奶油等，有時內夾乾果）
 scooped [skuːpt] adjective (連衣裙等的領子)低而圓的；深圓的
-scorcher [ˈskɔːrtʃər] noun 1.大熱天 2.(主要用於報章)精彩的擊球（或射門等）
+scorcher [ˈskɔːrtʃər] noun (informal)1.大熱天 2.(BrE)(主要用於報章)精彩的擊球（或射門等）
 scoreless [ˈskɔːrləs] adjective (體育比賽)雙方均未得分的；零比零的
-scoreline [ˈskɔːrlaɪn] noun (BrE)（體育比賽的）最終比分，最終結果
+scoreline [ˈskɔːrlaɪn] noun (BrE)(主要用於報章)（體育比賽的）最終比分，最終結果
 scot-free  adverb (informal)逃脫懲罰；逍遙法外
 scourer [ˈskaʊərər] noun （用以擦洗鍋的）金屬絲球，塑料絲球
 scouting [ˈskaʊtɪŋ] noun 童子軍活動；童子軍組織
 scoutmaster [ˈskaʊtmæstər] noun 男童子軍團長（由成年人擔任）
-scrabble [ˈskræbl] verb (especially BrE)[intransitive]scrabble(around/about) (for sth)|+ adv./prep.忙亂地找；翻找；亂抓；亂動
-scraggy [ˈskræɡi] adjective (disapproving)骨瘦如柴的；面黃肌瘦的
-scram [skræm] verb (通常用於命令)走開；滾
+scrabble [ˈskræbl] verb (especially BrE)scrabble(around/about) (for sth)|+ adv./prep.忙亂地找；翻找；亂抓；亂動
+scraggy [ˈskræɡi] adjective (disapproving)(人或動物)骨瘦如柴的；面黃肌瘦的
+scram [skræm] verb (old-fashioned, informal)(通常用於命令)走開；滾
 scrambler [ˈskræmblər] noun 擾頻器；倒頻器
 scraper [ˈskreɪpər] noun 刮刀；刮削器；鏟子
 scrapheap [ˈskræphiːp] noun 廢物堆；（尤指）廢金屬堆
@@ -10207,7 +10207,7 @@ scraping [ˈskreɪpɪŋ] noun 刮屑；削片
 scrapyard [ˈskræpjɑːrd] noun (BrE)（堆放舊汽車、舊機器等的）廢品場
 screamingly [ˈskriːmɪŋli] adverb 極其；十足地
 scree [skriː] noun 碎石坡；岩屑堆
-screen-print  verb screen-print(sth)絲網壓印
+screen-print  verb 絲網壓印
 screenshot [ˈskriːnʃɑːt] noun (計)屏幕截圖，屏幕快照，螢幕快點（用於展示程序運行方式）
 screwball [ˈskruːbɔːl] noun (informal) (especially NAmE)怪人；狂人
 screwcap [ˈskruːkæp] noun （尤指酒瓶的）螺旋蓋，螺紋蓋
@@ -10223,12 +10223,12 @@ scriptwriter [ˈskrɪptraɪtər] noun （電影、電視劇、廣播劇的）劇
 scrofula [ˈskrɔːfjʊlə] noun （尤指舊時）瘰癧（病毒導致腺體腫脹，一種結核病）
 scrote [skroʊt] noun (BrE) (informal)混蛋（對男子的辱罵）
 scrotum [ˈskroʊtəm] noun 陰囊
-scrounge [skraʊndʒ] verb (informal, disapproving)白要；白拿 noun 
+scrounge [skraʊndʒ] verb (informal, disapproving)白要；白拿 
 scrubber [ˈskrʌbər] noun 1.(BrE) (informal)婊子；淫蕩女人 2.（刷洗用的）刷子
-scrubby [ˈskrʌbi] adjective 1.長滿灌木和矮樹的；灌木叢生的 2.樹
+scrubby [ˈskrʌbi] adjective 1.長滿灌木和矮樹的；灌木叢生的 2.(樹)低矮的；矮小的
 scruff [skrʌf] noun (BrE) (informal)邋遢的人
-scrum [skrʌm] noun 1.formal（橄欖球的）並列爭球 2.（橄欖球）並列爭球的全體前鋒 3.(especially BrE)相互擁擠的人群
-scrummage [ˈskrʌmɪdʒ] noun (formal) verb (體)（橄欖球的）並列爭球
+scrum [skrʌm] noun 1.（橄欖球的）並列爭球 2.（橄欖球）並列爭球的全體前鋒 3.(especially BrE)相互擁擠的人群
+scrummage [ˈskrʌmɪdʒ] noun (formal)=scrum verb (體)（橄欖球的）並列爭球
 scrummy [ˈskrʌmi] adjective (BrE) (informal)味道極好的；美味的
 scrumpy [ˈskrʌmpi] noun (BrE)（尤指產於英格蘭西部的）烈性蘋果酒
 scrunch-dry  verb scrunch-dry sth用手擠乾（頭髮）以使鬆散鬈曲
@@ -10241,17 +10241,17 @@ sculler [ˈskʌlər] noun 划雙槳者；雙槳賽艇運動員
 scullery [ˈskʌləri] noun 洗滌室（老房子中設在廚房旁，洗滌餐具用）
 sculling [ˈskʌlɪŋ] noun 雙槳賽艇比賽
 sculptress [ˈskʌlptrəs] noun 女雕刻家；女雕塑家
-sculptured [ˈskʌlptʃərd] adjective 1.人、物形象 2.(approving)線條清晰美觀的
+sculptured [ˈskʌlptʃərd] adjective 1.(人、物形象)雕刻的；雕塑的 2.(approving)(人體部位)線條清晰美觀的
 scumbag [ˈskʌmbæɡ] noun (slang, offensive)討厭的人；卑鄙小人
-scunge [skʌndʒ] noun 1.污垢；塵土 2.討厭的人 3.吝嗇鬼；摳門的人
-scungy [ˈskʌndʒi] adjective 1.骯髒的；污穢的 2.吝嗇的；摳門的
+scunge [skʌndʒ] noun (AustralE, NZE) (informal)1.污垢；塵土 2.討厭的人 3.吝嗇鬼；摳門的人
+scungy [ˈskʌndʒi] adjective (AustralE, NZE) (informal)1.骯髒的；污穢的 2.吝嗇的；摳門的
 scupper [ˈskʌpər] verb (BrE) (informal)scupper sth使泡湯；使成泡影
 scuttlebutt [ˈskʌtlbʌt] noun (NAmE) (slang)流言蜚語；謠言
 scuzzy [ˈskʌzi] adjective (informal) (especially NAmE)骯髒討厭的；邋遢的
 seabed [ˈsiːbed] noun 海底；海牀
 seabird [ˈsiːbɜːrd] noun 海鳥
 seaboard [ˈsiːbɔːrd] noun 沿海地區；海濱
-seaborgium [ˈsiːˈbɔːrɡiəm] noun （放射性化學元素）
+seaborgium [ˈsiːˈbɔːrɡiəm] noun 𨭎（放射性化學元素）
 seaborne [ˈsiːbɔːrn] adjective 海運的
 seafarer [ˈsiːferər] noun (old-fashioned or formal)水手；海員
 seafront [ˈsiːfrʌnt] noun （城鎮的）濱海區，面海地區
@@ -10259,14 +10259,14 @@ seagoing [ˈsiːɡoʊɪŋ] adjective (船隻)遠洋航行的
 seagrass [ˈsiːɡræs] noun 海草
 sea-green  adjective （像海水似的）淡藍綠色的；海綠色的
 sealant [ˈsiːlənt] noun 密封劑；密封膠；防滲漏劑
-sealer [ˈsiːlər] noun 1. 2.捕獵海豹者
+sealer [ˈsiːlər] noun 1.=sealant 2.捕獵海豹者
 sealift [ˈsiːlɪft] noun （尤指緊急）海上運輸，海上補給
 sealing [ˈsiːlɪŋ] noun 海豹捕獵
 sealskin [ˈsiːlskɪn] noun 海豹皮（用作衣料）
 seamanship [ˈsiːmənʃɪp] noun 航海術；船舶駕駛術
 seamed [siːmd] adjective 1.有（接）縫的 2.(literary)佈滿皺紋的
 seance [ˈseɪɑːns] noun 降神會（設法和亡靈說話）
-seaplane [ˈsiːpleɪn] noun NAmE also水上飛機
+seaplane [ˈsiːpleɪn] noun 水上飛機
 seaport [ˈsiːpɔːrt] noun 海港城市
 searchable [ˈsɜːrtʃəbl] adjective (計算機數據庫或網絡)可搜尋的；可檢索的
 searcher [ˈsɜːrtʃər] noun 1.搜索者；查找者 2.(計)檢索工具；搜索軟件；搜索引擎；搜尋器
@@ -10283,16 +10283,15 @@ seaward [ˈsiːwərd] adjective 向海的；朝海的
 seaway [ˈsiːweɪ] noun 海道（大型海輪可航行的通海河道）
 seaworthy [ˈsiːwɜːrði] adjective (船舶)適宜航海的；能出海的
 sebaceous [sɪˈbeɪʃəs] adjective (生)分泌脂質的
-seborrhoea [ˌsebəˈriːə] noun NAmE皮脂溢；皮脂漏
+seborrhoea [ˌsebəˈriːə] noun 皮脂溢；皮脂漏
 sebum [ˈsiːbəm] noun 皮脂
 sec [sek] noun (informal)片刻；霎時
-sec.  abbreviation 秒
 secateurs [ˌsekəˈtɜːrz] noun (BrE)整枝剪；修枝剪
 secessionist [sɪˈseʃənɪst] adjective 贊成（或參與）脫離活動的；奉行分離主義的
 second-class  adjective 1.(disapproving)次要的；無足輕重的 2.（質量、標準等）二流的，次等的 3.（車廂、船艙等）二等的 4.第二類的（英國郵件等級，投遞較第一類慢，郵資也較低） 5.第二類的（美國郵件等級，用於投遞報刊） 6.二級優等的（英國大學學位）
 second-degree  adjective 1.(especially NAmE)第二等級（謀殺、人身侵犯或入室盜竊等罪） 2.二度（燒傷）
 seconder [ˈsekəndər] noun 附議者；贊成者
-second-generation  adjective 1.（移民後裔等）第二代的 2.產品、技術等
+second-generation  adjective 1.（移民後裔等）第二代的 2.(產品、技術等)第二代的（更先進或改進了的）
 second-guess  verb 1.猜測；預言 2.(especially NAmE)事後批評（或品評）；耍事後聰明
 second-rate  adjective 二流的；平庸的；普通的
 second-string  adjective (especially NAmE)(通常指運動隊隊員)替補的
@@ -10308,12 +10307,12 @@ seducer [sɪˈduːsər] noun 誘姦者
 seductress [sɪˈdʌktrəs] noun 勾引男人的女人
 seedbed [ˈsiːdbed] noun 1.苗牀 2.（某事物發展的）有利環境；溫牀
 seedcorn [ˈsiːdkɔːrn] noun 1.糧種 2.有遠大前程的人（或事物）；日後有用的人（或事物）
-seeded [ˈsiːdɪd] adjective 1.尤指網球運動員 2.果實
+seeded [ˈsiːdɪd] adjective 1.(尤指網球運動員)確定為種子選手的 2.(果實)去籽的；去核的
 seedless [ˈsiːdləs] adjective (果實)無籽的；無核的
 seedsman [ˈsiːdzmən] noun 種農；種子商
 seepage [ˈsiːpɪdʒ] noun 滲；滲透；滲液
 seersucker [ˈsɪrsʌkər] noun 縐條紋薄織物；泡泡紗
-see-saw  noun 1.NAmE also蹺蹺板 2.拉鋸局面（指來回往復，起伏不斷） verb （局勢、意見、感情等）搖擺不定，不斷反覆，交替
+see-saw  noun 1.蹺蹺板 2.拉鋸局面（指來回往復，起伏不斷） verb （局勢、意見、感情等）搖擺不定，不斷反覆，交替
 see-through  adjective (織物)薄至透明的；透視的
 segmentation [ˌseɡmenˈteɪʃn] noun (術語)分割；劃分；分割成（或劃分成）的部份
 segregationist [ˌseɡrɪˈɡeɪʃənɪst] adjective （性別、種族、宗教）隔離主義的
@@ -10322,8 +10321,7 @@ selectee [sɪˌlekˈtiː] noun 1.選中的人；人選 2.(NAmE)選徵合格的�
 selectional [sɪˈlekʃənl] adjective (語言)（正規語言中單詞對搭配詞）選擇的，限制的
 selector [sɪˈlektər] noun 1.(BrE)（運動隊隊員的）選拔人 2.選擇器；轉換器；換擋器
 selenium [səˈliːniəm] noun 硒（化學元素，用於製造電氣設備和有色玻璃，人體缺此元素可致抑鬱等病）
-self- [self] combining form (構成名詞和形容詞)自身的；對自身；由自身
-self-abuse  noun 1.自我傷害；自殘；自虐 2.(old-fashioned)
+self-abuse  noun 1.自我傷害；自殘；自虐 2.(old-fashioned)=masturbation
 self-access  noun 自主學習法（由學生自選材料並自學）
 self-actualization  noun 自我實現（利用自身技能取得盡可能大的成就）
 self-addressed  adjective （信封）寫明回郵地址的
@@ -10337,7 +10335,7 @@ self-assessment  noun 1.自我評估（或評價） 2.(BrE)自行估稅
 self-assured  adjective 自信的；胸有成竹的
 self-build  noun (BrE)自己建造住房；自己建造的住房
 self-catering  adjective (BrE)（度假方式）可自炊的，可下廚煮食的
-self-centred  adjective especially US自我中心的；只考慮自己的
+self-centred  adjective (disapproving)自我中心的；只考慮自己的
 self-confessed  adjective 自己承認的；自己坦白的
 self-confident  adjective 自信的
 self-congratulation  noun (usually disapproving)沾沾自喜；自鳴得意
@@ -10350,12 +10348,12 @@ self-defence  noun 1.自衞；自我保護 2.自衞術；防身術
 self-delusion  noun 自我欺騙
 self-denial  noun 克己；（宗教）棄絕自己
 self-deprecating  adjective 自我貶低的；自謙的
-self-destruct  verb (figurative)(尤指機器等)自毀；自爆
+self-destruct  verb (尤指機器等)自毀；自爆
 self-destruction  noun 自毀
 self-development  noun （在性格、能力方面的）自我發展，自我提高
 self-discipline  noun 自律能力；自我約束能力
 self-discovery  noun 自我發現；尋找自我
-self-drive  adjective 1.租車人自行駕駛的 2.自駕（遊）的
+self-drive  adjective (BrE)1.租車人自行駕駛的 2.自駕（遊）的
 self-educated  adjective 自我教育的；自學的；自修的
 self-effacing  adjective 謙遜的；不求聞達的
 self-examination  noun 1.自省；反省 2.（對身體的）自我檢查
@@ -10400,16 +10398,16 @@ self-supporting  adjective 資金自給的；經濟獨立的
 self-taught  adjective 自學的；自修的
 self-willed  adjective (disapproving)任性的；固執的；倔強的
 selkie [ˈselki] noun (蘇格蘭傳說)海豹人
-sell-off  noun 1.(BrE)（國有企業的）出售 2.(商)（證券）拋售
+sell-off  noun 1.(BrE)（國有企業的）出售 2.(NAmE)(商)（證券）拋售
 sellotape [ˈseləteɪp] verb (BrE)sellotape sth (to sth)用透明膠帶粘貼
 sell-out  noun 1.滿座的演出（或比賽等） 2.違反諾言；違背原則
 seltzer [ˈseltzər] noun 塞爾茲（含汽）礦泉水
-selvedge [ˈselvɪdʒ] noun especially in NAmE（布的）織邊；布邊
+selvedge [ˈselvɪdʒ] noun （布的）織邊；布邊
 semaphore [ˈseməfɔːr] noun 旗語 verb 打旗語；（用其他類似的信號系統）發信號
-semi [ˈsemi] noun 1.(BrE) (informal)半獨立式住宅 2.(NAmE) 3.
+semi [ˈsemi] noun 1.(BrE) (informal)半獨立式住宅 2.(NAmE)=semi-trailer 3.=semi-final
 semi-arid  adjective (術語)(土地或氣候)半乾旱的
 semi-automatic  adjective (槍)半自動的
-semibreve [ˈsemibriːv] noun (BrE)全音符
+semibreve [ˈsemibriːv] noun (BrE)(音)全音符
 semicircle [ˈsemisɜːrkl] noun 1.(幾何)半圓 2.半圓弧線 3.半圓形
 semicolon [ˈsemikoʊlən] noun 分號
 semi-detached  adjective (住宅)半獨立式的
@@ -10418,15 +10416,15 @@ seminarian [ˌsemɪˈneriən] noun 神學院學生；修生
 semiotics [ˌsemiˈɑːtɪks] noun 符號學
 semi-precious  adjective (珠寶)次貴重的；半寶石的
 semi-professional  adjective （音樂家或運動員）半職業的
-semiquaver [ˈsemikweɪvər] noun (BrE)十六分音符
+semiquaver [ˈsemikweɪvər] noun (BrE)(音)十六分音符
 semi-skilled  adjective (工人)半熟練的
 semi-skimmed  adjective (BrE)(奶)半脂的
-semitone [ˈsemitoʊn] noun (BrE)半音
+semitone [ˈsemitoʊn] noun (BrE)(音)半音
 semi-trailer  noun (NAmE)半掛車；半拖車
 semivowel [ˈsemivaʊəl] noun (語音)半元音
 semolina [ˌseməˈliːnə] noun 1.麥糝，粗麪粉（用以製作意大利麪食和甜食） 2.粗麪粉布丁
 semtex [ˈsemteks] noun 塞姆汀塑膠炸藥（常用於非法製造炸彈）
-sending-off  noun (BrE)（嚴重犯規）罰出場外
+sending-off  noun (BrE)（嚴重犯規）(足球)罰出場外
 send-off  noun (informal)送行；送別
 send-up  noun (informal)（為取笑的）滑稽模仿
 senescence [sɪˈnesns] noun (術語)衰老
@@ -10436,7 +10434,7 @@ sentencer [ˈsentənsər] noun (formal)宣判人
 sentimentalist [ˌsentɪˈmentəlɪst] noun (sometimes disapproving)好感傷者；多愁善感的人
 sentimentalize [ˌsentɪˈmentəlaɪz] verb (disapproving)sentimentalize(sth)帶着感情色彩描述好的方面
 sepal [ˈsepl] noun (術語)萼片
-separable [ˈsepərəbl] adjective 1.可分開的；可分隔的；可分離的 2.(語法)可分離的；可分開的；可分的
+separable [ˈsepərəbl] adjective 1.可分開的；可分隔的；可分離的 2.(語法)(短語動詞)可分離的；可分開的；可分的
 separates [ˈseprəts] noun （可與其他不同衣服搭配穿的）單件衣服
 separator [ˈsepəreɪtər] noun 分離器；分選機
 sepia [ˈsiːpiə] noun 1.烏賊墨顏料（或墨汁） 2.深褐色
@@ -10446,7 +10444,7 @@ septet [sepˈtet] noun 1.七重奏樂團；七重唱組合 2.七重奏（曲）�
 septicaemia [ˌseptɪˈsiːmiə] noun (BrE)敗血病；敗血症
 septuagenarian [ˌseptʃuədʒəˈneriən] noun (formal)*70 至 79 歲的人
 septum [ˈseptəm] noun (解)人類隔膜；（動植物）隔片，隔壁
-sepulchre [ˈseplkər] noun US（在岩石上鑿出或用石頭砌成的）墳墓，墓穴
+sepulchre [ˈseplkər] noun (old use)（在岩石上鑿出或用石頭砌成的）墳墓，墓穴
 sequencer [ˈsiːkwənsər] noun 音序器；編曲機
 sequestered [sɪˈkwestərd] adjective (literary)(地方)僻靜的；隱蔽的；與外界隔絕的
 seraph [ˈserəf] noun 撒拉弗，色辣芬（基督教中級別最高的天使）
@@ -10461,15 +10459,15 @@ serviette [ˌsɜːrviˈet] noun (BrE)餐巾；餐巾紙
 servitor [ˈsɜːrvɪtər] noun (old use)男僕；男侍從
 servo [ˈsɜːrvoʊ] noun (術語)（機器的）伺服傳動裝置
 set-aside  noun 退耕補貼制度，退耕地（由政府補貼，鼓勵農民退耕部份耕地）
-seth [seɪt] noun 1.商人；銀行家 2.富人；有錢人 3.塞斯（表示社會地位高的頭銜）
+seth [seɪt] noun (IndE)1.商人；銀行家 2.富人；有錢人 3.塞斯（表示社會地位高的頭銜）
 sett [set] noun 貛穴
 setter [ˈsetər] noun 1.蹲伏獵狗，塞特種獵犬（體大毛長，有幾個品種） 2.(常構成複合詞)制訂者；規定者；安排者
 set-to  noun (informal) (especially BrE)打架；爭吵
 set-up  noun 1.組織；機構；建制；體制 2.陷害；栽贓
-sevak [ˈseɪvæk] noun 1.男僕；男傭 2.男社會福利工作者；男社工
+sevak [ˈseɪvæk] noun (IndE)1.男僕；男傭 2.男社會福利工作者；男社工
 seventh [ˈsevnθ] ordinal number 第七 noun 七分之一
-severally [ˈsevrəli] adverb (律)各自；分別
-sevika [ˈseɪvɪkə] noun 1.女僕；女傭 2.女社會福利工作者；女社工
+severally [ˈsevrəli] adverb (formal or 律)各自；分別
+sevika [ˈseɪvɪkə] noun (IndE)1.女僕；女傭 2.女社會福利工作者；女社工
 sewerage [ˈsuːərɪdʒ] noun 排水系統；污水處理
 sexagenarian [ˌseksədʒəˈneriən] noun *60 到 69 歲的人； 60 幾歲的人
 sexless [ˈseksləs] adjective 1.無性（別）的 2.性冷淡的；無性行為的
@@ -10485,9 +10483,9 @@ shadow-box  verb （尤指訓練時與假想對手）做空拳攻防練習
 shag [ʃæɡ] noun 1.馬合煙（濃味粗煙絲） 2.鸕鷀 3.(BrE) (taboo, slang)性交 verb (BrE) (taboo, slang)和…性交 adjective （地毯等）長絨的
 shagged [ʃæɡd] adjective (BrE) (taboo, slang)疲憊不堪；很累
 shah [ʃɑː] noun 沙（舊時伊朗國王的稱號）
-shakedown [ˈʃeɪkdaʊn] noun 1.勒索；敲詐 2.徹底搜查 3.（交通工具的）試用，試航，試飛
+shakedown [ˈʃeɪkdaʊn] noun (NAmE) (informal)1.勒索；敲詐 2.徹底搜查 3.（交通工具的）試用，試航，試飛
 shaken [ˈʃeɪkən] adjective 震驚；煩惱；恐懼
-shake-out  noun 1.經濟衰退；經濟蕭條 2.
+shake-out  noun 1.經濟衰退；經濟蕭條 2.=shake-up
 shaking [ˈʃeɪkɪŋ] noun 搖動；抖動；顫動
 shallows [ˈʃæloʊz] noun （河海的）淺水處，淺灘
 shalom [ʃəˈloʊm] exclamation （希伯來語，見面或告別時說）祝你平安
@@ -10498,11 +10496,10 @@ shambolic [ʃæmˈbɑːlɪk] adjective (BrE) (informal)混亂的；沒有次序�
 shamefaced [ˌʃeɪmˈfeɪst] adjective 面帶愧色的；羞慚的；慚愧的
 shaming [ˈʃeɪmɪŋ] adjective 令人羞愧的
 shamrock [ˈʃæmrɑːk] noun 三葉草（愛爾蘭的國花）
-shandy [ˈʃændi] noun 1.香迪啤酒（摻檸檬汁的啤酒） 2.一杯（或一罐）香迪啤酒
+shandy [ˈʃændi] noun (especially BrE)1.香迪啤酒（摻檸檬汁的啤酒） 2.一杯（或一罐）香迪啤酒
 shanghai [ˌʃæŋˈhaɪ] verb (old-fashioned, informal)shanghai sb (into doing sth)誆騙；強迫
 shan't [ʃænt] short form 不會；不應該
-shapeless [ˈʃeɪpləs] adjective 1.無定形的；不成形的；樣子不好看的 2.結構混亂的；條理不清的
--share  combining form 1.(BrE)（構成名詞）分攤，分擔 2.(especially BrE)（構成動詞）共用，合用
+shapeless [ˈʃeɪpləs] adjective (often disapproving)1.無定形的；不成形的；樣子不好看的 2.結構混亂的；條理不清的
 sharecropper [ˈʃerkrɑːpər] noun (especially NAmE)佃農
 shareholding [ˈʃerhoʊldɪŋ] noun 持股；持股量
 share-out  noun (BrE)分配；分配額；份額
@@ -10518,7 +10515,7 @@ shaven [ˈʃeɪvn] adjective 剃光的；刮乾淨的
 s/he  pronoun 他╱她（主語既可為女性又可為男性時可用於書面）
 shears [ʃɪrz] noun 大剪刀（用來修剪灌木、樹籬等）
 shearwater [ˈʃɪrwɔːtər] noun 剪水鸌，水薙鳥（常沿海浪波谷滑翔）
-shebang [ʃɪˈbæŋ] noun 
+shebang [ʃɪˈbæŋ] noun the whole sheˈbang(informal)整個事情；這一切
 shebeen [ʃɪˈbiːn] noun (informal)（尤指愛爾蘭、蘇格蘭和南非的）無執照酒館，非法售酒處
 she-devil  noun 狠毒的女人；女惡魔
 shedload [ˈʃedloʊd] noun (BrE) (informal)shedload(of sth)大量（金錢等）；許多
@@ -10540,7 +10537,7 @@ shelving [ˈʃelvɪŋ] noun 架子；擱板；做架子的材料
 she-male  noun (informal)（尤指做妓女的）變性女子
 shenanigans [ʃɪˈnænɪɡənz] noun (informal)詭計；惡作劇；耍手腕；鬼把戲
 shepherdess [ˌʃepərˈdes] noun (old-fashioned)女牧羊人；牧羊女
-sherbet [ˈʃɜːrbət] noun 1.(BrE)果味汽水粉糖 2.(NAmE) (becoming old-fashioned)
+sherbet [ˈʃɜːrbət] noun 1.(BrE)果味汽水粉糖 2.(NAmE) (becoming old-fashioned)=sorbet
 sherwani [ʃɜːrˈwɑːni] noun （南亞男裝）高領及膝外套
 shifty [ˈʃɪfti] adjective (informal)看着不可靠的；賊眉鼠眼的；顯得心裏有鬼的
 shiitake [ʃɪˈtɑːki] noun (from Japanese)香菇；花菇；冬菇
@@ -10552,9 +10549,8 @@ shiner [ˈʃaɪnər] noun (informal)（被打成的）青腫眼眶
 shingled [ˈʃɪnɡld] adjective (房頂、建築物等)蓋木瓦的
 shingles [ˈʃɪŋɡlz] noun (醫)帶狀疱疹
 shingly [ˈʃɪŋɡli] adjective (海灘)遍佈卵石的
-shinny [ˈʃɪni] verb (NAmE) noun （尤指兒童玩的）簡化冰上曲棍球運動
+shinny [ˈʃɪni] verb (NAmE)shin/shinny up/down sth(informal)爬 noun （尤指兒童玩的）簡化冰上曲棍球運動
 shinty [ˈʃɪnti] noun 簡化曲棍球（蘇格蘭運動，每隊 12 人）
--ship  suffix 1.狀態；性質；品質 2.地位；資格；職位 3.技藝；技能 4.集體
 shipboard [ˈʃɪpbɔːrd] adjective 船上發生的
 shipbuilder [ˈʃɪpbɪldər] noun 造船工人；造船公司
 shipload [ˈʃɪploʊd] noun 船隻運載量
@@ -10562,7 +10558,7 @@ shipmate [ˈʃɪpmeɪt] noun 同船船員
 shipowner [ˈʃɪpoʊnər] noun 船主；船東
 shipper [ˈʃɪpər] noun （船運貨物的）託運人，發貨人
 ship-to-shore  adjective （指通訊）由船至岸的
-shire [ˈʃaɪər] noun 1.(old use)郡（現在用於英國部份郡名，如 Hampshire、Yorkshire） 2.英格蘭中部幾個郡
+shire [ˈʃaɪər] noun (BrE)1.(old use)郡（現在用於英國部份郡名，如 Hampshire、Yorkshire） 2.the Shires英格蘭中部幾個郡
 shirtsleeve [ˈʃɜːrtsliːv] noun 襯衫的袖子
 shirty [ˈʃɜːrti] adjective (BrE) (informal)shirty(with sb)生氣；動怒；發脾氣
 shite [ʃaɪt] exclamation (BrE) (taboo, slang)（shit 的變體）屎，糞便
@@ -10573,17 +10569,17 @@ shithouse [ˈʃɪthaʊs] noun (taboo, slang)廁所；衞生間
 shit-scared  adjective (taboo, slang)嚇破膽；嚇得屁滾尿流
 shitty [ˈʃɪti] adjective 1.令人厭惡的；非常糟糕的 2.不公平的；不厚道的；卑劣的
 shivery [ˈʃɪvəri] adjective 顫抖的，戰慄的，哆嗦的（因寒冷、恐懼、患病等）
-shocker [ˈʃɑːkər] noun 1.令人震驚的電影（或新聞、人） 2.質量低劣的東西
+shocker [ˈʃɑːkər] noun (informal)1.令人震驚的電影（或新聞、人） 2.質量低劣的東西
 shock-headed  adjective (人)頭髮濃密蓬亂的
 shock-horror  adjective 意欲令人震驚（或憤怒）的；令人髮指的
 shockproof [ˈʃɑːkpruːf] adjective 防震的
 shod [ʃɑːd] adjective (literary)穿着…鞋的
 shoebox [ˈʃuːbɑːks] noun 1.鞋盒 2.(disapproving)（尤指千篇一律的）小平房，鞋盒式住房
 shoehorn [ˈʃuːhɔːrn] noun 鞋拔 verb 把…硬塞進
-shoelace [ˈʃuːleɪs] noun NAmE also鞋帶
+shoelace [ˈʃuːleɪs] noun 鞋帶
 shoemaker [ˈʃuːmeɪkər] noun 鞋匠；製鞋工人
 shoeshine [ˈʃuːʃaɪn] noun (especially NAmE)擦鞋（生意）
-shoestring [ˈʃuːstrɪŋ] noun (NAmE) adjective (informal)用錢極少的
+shoestring [ˈʃuːstrɪŋ] noun (NAmE)=shoelace adjective (informal)用錢極少的
 shogun [ˈʃoʊɡən] noun （舊時的）日本將軍
 shonky [ˈʃɔːŋki] adjective (AustralE, NZE) (informal)不誠實的；不合法的
 shoo [ʃuː] verb （尤指發出噓聲並揮手）趕走，轟走 exclamation （表示趕小孩或動物走的聲音）噓，去
@@ -10598,8 +10594,8 @@ shophouse [ˈʃɑːphaʊs] noun 店屋（東南亞兼作住房的門面房）
 shoplot [ˈʃɑːplɑːt] noun (SEAsianE)商店佔地面積
 shop-soiled  adjective (BrE)(商品)在商店擺放舊了的
 short-arse  noun (BrE)矮子
-shortbread [ˈʃɔːrtbred] noun BrE also黃油甜酥餅乾；牛油甜酥餅
-shortcake [ˈʃɔːrtkeɪk] noun 1.(BrE) 2.水果奶油酥餅
+shortbread [ˈʃɔːrtbred] noun 黃油甜酥餅乾；牛油甜酥餅
+shortcake [ˈʃɔːrtkeɪk] noun 1.(BrE)=shortbread 2.水果奶油酥餅
 short-change  verb 1.少找給（某人）零錢 2.虧待；剋扣
 short-circuit  verb 1.（使）短路 2.（做事）抄近路，走捷徑
 shortening [ˈʃɔːrtnɪŋ] noun （製作油酥點心用的）起酥油
@@ -10608,13 +10604,13 @@ short-handed  adjective 人手不足
 short-haul  adjective （尤指空運）短途運輸的
 shorthorn [ˈʃɔːrthɔːrn] noun 短角牛
 shortlist [ˈʃɔːrtlɪst] noun 入圍名單 verb (BrE)把…列入入圍名單
-short-range  adjective 1.武器 2.計劃等
+short-range  adjective 1.(武器)短程的；近程的 2.(計劃等)短期的；近期的
 short-sighted  adjective 1.(especially BrE)近視的 2.目光短淺的；無遠見的
 short-staffed  adjective 人員配備不足；人手短缺
 short-stay  adjective (BrE)(地方)臨時停留的；暫住的
 short-termism  noun 只注重短期效益的思維方式
 shorty [ˈʃɔːrti] noun (informal)矮子
-shotmaking [ˈʃɑːtmeɪkɪŋ] noun 高爾夫球、網球等
+shotmaking [ˈʃɑːtmeɪkɪŋ] noun (高爾夫球、網球等)（冒險）準確擊球
 shot-put  noun 推鉛球
 shoulder-high  adjective 齊肩高的
 shoulder-length  adjective (尤指頭髮)齊肩的
@@ -10634,7 +10630,7 @@ show-off  noun (informal, disapproving)愛炫耀的人；喜歡賣弄的人
 showpiece [ˈʃoʊpiːs] noun （供展示用的）優質樣品
 showplace [ˈʃoʊpleɪs] noun 風景名勝；古跡名勝；遊覽勝地
 show-stopper  noun (informal)受到陣陣鼓掌喝彩的節目
-showtime [ˈʃoʊtaɪm] noun (figurative) (NAmE)開演時間
+showtime [ˈʃoʊtaɪm] noun (NAmE)開演時間
 shredder [ˈʃredər] noun 切碎機；（尤指）碎紙機
 shrew [ʃruː] noun 1.鼩鼱（形似鼠，吻長） 2.(old-fashioned)潑婦；悍婦
 shrewish [ˈʃruːɪʃ] adjective (old-fashioned)(女人)脾氣壞且愛爭吵的
@@ -10647,18 +10643,16 @@ shroud-waving  noun (BrE)揮裹屍布示警（告誡政府不增加投入會對�
 shrubby [ˈʃrʌbi] adjective (植物)像灌木的；灌木狀的
 shrunken [ˈʃrʌŋkən] adjective 皺縮的；乾枯的
 shtetl [ˈʃtetl] noun （東歐舊時的）猶太小鎮（或小村）
-shtick [ʃtɪk] noun 1.（獨特的）幽默風格；（某演員的）表演手法 2.特長；擅長的本領
-shtook [ʃtʊk] noun 
-shtum [ʃtʊm] noun 
+shtick [ʃtɪk] noun (especially NAmE)1.（獨特的）幽默風格；（某演員的）表演手法 2.特長；擅長的本領
 shtup [ʃtʊp] verb (NAmE) (slang)shtup sb（與某人）發生性關係
 shucks [ʃʌks] exclamation (old-fashioned) (NAmE informal)（表示窘迫或失望）
 shuffleboard [ˈʃʌflbɔːrd] noun 推移板遊戲（用推杆將圓盤推至推移板上的不同得分區）
-shufti [ˈʃʊfti] noun 
+shufti [ˈʃʊfti] noun have a shufti (at sth)(BrE) (informal)（對…）掃一眼；瞥
 shush [ʃʊʃ] exclamation （叫別人安靜）噓 verb （尤指通過“噓”聲或把手指豎在嘴唇上）要某人安靜，噓
 shut-eye  noun (informal)睡眠
 shut-in  noun (NAmE)因病（或殘疾）外出困難的人；卧病在家的人
 shutterbug [ˈʃʌtərbʌɡ] noun (NAmE) (informal)攝影迷；攝影愛好者
-shuttlecock [ˈʃʌtlkɑːk] noun NAmE also羽毛球
+shuttlecock [ˈʃʌtlkɑːk] noun 羽毛球
 shyster [ˈʃaɪstər] noun (informal) (especially NAmE)奸詐的律師；不擇手段的人；卑鄙小人
 sib [sɪb] noun (生)胞親
 sickbay [ˈsɪkbeɪ] noun （船上或學校等的）病室，保健室
@@ -10667,7 +10661,7 @@ sickie [ˈsɪki] noun (BrE) (informal)稱病缺勤；假病假
 sicko [ˈsɪkoʊ] noun (informal) (especially NAmE)從病態行為取樂的人；（精神）變態者
 sickout [ˈsɪkaʊt] noun (NAmE)集體稱病罷工
 sickroom [ˈsɪkruːm] noun 病房；病室
-sideburn [ˈsaɪdbɜːrn] noun BrE also（男子的）鬢角
+sideburn [ˈsaɪdbɜːrn] noun （男子的）鬢角
 sidecar [ˈsaɪdkɑːr] noun （摩托車的）跨斗，邊車
 side-foot  verb side-foot sth用腳內側踢，側腳踢（球）
 sidelight [ˈsaɪdlaɪt] noun 1.意外線索；側面瞭解的情況；間接消息 2.(BrE)（車輛前面的）側燈
@@ -10686,7 +10680,7 @@ siesta [siˈestə] noun （尤指在氣候炎熱的國家的）午睡，午休
 sievert [ˈsiːvərt] noun (物)希沃特（輻射劑量當量單位）
 sifter [ˈsɪftər] noun 1.(NAmE)（麪粉）篩子；羅 2.撒…瓶（蓋上有許多小孔，用於撒麪粉等粉狀物或糖）
 sightless [ˈsaɪtləs] adjective (literary)看不見的；盲的
-sight-read  verb [intransitive, transitive]sight-read(sth)視奏，視唱（事先沒有練習，直接看着樂譜演奏或演唱）
+sight-read  verb sight-read(sth)視奏，視唱（事先沒有練習，直接看着樂譜演奏或演唱）
 sigma [ˈsɪɡmə] noun 希臘字母表的第 18 個字母
 signage [ˈsaɪnɪdʒ] noun (術語)（統稱）標誌，標識，標記
 signalman [ˈsɪɡnəlmən] noun 1.（鐵路上的）信號員，信號工 2.（軍隊的）信號兵，通信兵
@@ -10694,7 +10688,7 @@ signboard [ˈsaɪnbɔːrd] noun （商店、旅館等的）招牌，告示牌，
 signification [ˌsɪɡnɪfɪˈkeɪʃn] noun (語言)（尤指詞或短語的）含義，意思，意義
 signified [ˈsɪɡnɪfaɪd] noun (語言)所指（語言符號的意義）
 signing [ˈsaɪnɪŋ] noun 1.簽署；簽字 2.(BrE)（運動隊、唱片公司或電影公司的）簽約受聘者，簽約受雇者 3.簽約聘用，簽約雇用（安排某人加入運動隊、唱片公司或電影公司） 4.手勢語的使用
-signpost [ˈsaɪnpoʊst] noun (figurative)路標 verb 1.設置路標 2.介紹（論證、講話等的）要點
+signpost [ˈsaɪnpoʊst] noun 路標 verb (BrE)1.設置路標 2.介紹（論證、講話等的）要點
 signwriter [ˈsaɪnraɪtər] noun 畫招牌者；畫廣告者
 silage [ˈsaɪlɪdʒ] noun 青貯飼料
 silencer [ˈsaɪlənsər] noun 1.(BrE)（發動機的）消音器 2.（槍支的）消音器
@@ -10705,8 +10699,8 @@ silverback [ˈsɪlvərbæk] noun 銀背大猩猩（背部有白色或銀白色�
 silverfish [ˈsɪlvərfɪʃ] noun 蠹魚，衣魚（蛀食織物、紙張等的小蟲）
 silvertail [ˈsɪlvərteɪl] noun (AustralE) (informal)名人；要人；有社會地位的人
 sim [sɪm] noun (informal)模擬電腦（或電子）遊戲
-similitude [sɪˈmɪlɪtuːd] noun (formal)[uncountable]相似；類似；相仿
-simpatico [sɪmˈpætɪkoʊ] adjective 1.人 2.人
+similitude [sɪˈmɪlɪtuːd] noun (formal)相似；類似；相仿
+simpatico [sɪmˈpætɪkoʊ] adjective (informal) (from Spanish)1.(人)和善的；討人喜歡的 2.(人)志趣相投的
 simple-minded  adjective (disapproving)智力低下的；愚蠢的；頭腦簡單的
 simplex [ˈsɪmpleks] noun (語言)簡單詞；單純詞
 simsim [ˈsɪmsɪm] noun （東非用語）芝麻
@@ -10714,7 +10708,7 @@ simulacrum [ˌsɪmjuˈleɪkrəm] noun (formal)假象；模擬物；幻影
 simulcast [ˈsɪmlkɑːst] verb simulcast sth（電台和電視）聯播；（電台的調幅台和調頻台）聯播
 sine [saɪn] noun (數)正弦
 sinewy [ˈsɪnjuːi] adjective (人或動物)肌肉發達的；矯健的；強健的
-singalong [ˈsɪŋəlɔːŋ] noun BrE also眾人自娛歌唱會
+singalong [ˈsɪŋəlɔːŋ] noun 眾人自娛歌唱會
 singing [ˈsɪŋɪŋ] noun 唱歌；歌唱
 single-breasted  adjective (上衣)單排扣的
 single-decker  noun 單層公共汽車
@@ -10725,7 +10719,7 @@ singlet [ˈsɪŋɡlət] noun (BrE)背心；無袖汗衫；運動背心
 singleton [ˈsɪŋɡltən] noun 1.（所提及的）單項物，單個的人 2.單身男子（或女子） 3.（非孿生的）單生兒，單生幼畜
 single-use  adjective 供一次使用的
 singly [ˈsɪŋɡli] adverb 單個地；單獨地；一個一個地
-sing-song  noun 1.(BrE) 2.聲音起伏的說話腔調 adjective 說話音調起伏的
+sing-song  noun 1.(BrE)=singalong 2.聲音起伏的說話腔調 adjective 說話音調起伏的
 singularly [ˈsɪŋɡjələrli] adverb (formal)非常；特別；異常地
 sinker [ˈsɪŋkər] noun （釣絲或漁網上的）鉛錘，墜子
 sinkhole [ˈsɪŋkhoʊl] noun (地)落水洞（在地面下，雨水長期滲落形成）
@@ -10736,7 +10730,7 @@ sirloin [ˈsɜːrlɔɪn] noun 牛裏脊肉；牛上腰肉
 sirocco [sɪˈrɑːkoʊ] noun 西洛哥風（從非洲吹到歐洲南部的熱風）
 sis [sɪs] noun (informal)（用於直接稱呼）姐姐，妹妹
 sisal [ˈsaɪsl] noun 西沙爾麻，劍麻（用同名熱帶植物製成的纖維，用於製繩、織地毯等）
-sissy [ˈsɪsi] noun BrE also柔弱（或怯懦）的男孩；女孩子氣的男孩
+sissy [ˈsɪsi] noun (informal, disapproving)柔弱（或怯懦）的男孩；女孩子氣的男孩
 sisterhood [ˈsɪstərhʊd] noun 1.（志同道合者之間的）姐妹情誼 2.婦女團體；修女會
 sisterly [ˈsɪstərli] adjective 姐妹的；姐妹般的
 sitar [sɪˈtɑːr] noun 西塔爾（源自南亞形似吉他的弦樂器）
@@ -10758,7 +10752,7 @@ skedaddle [skɪˈdædl] verb (informal, humorous)匆忙離去，溜走（尤指�
 skelm [skelm] noun (SAfrE)地痞；流氓；無賴；不可信任的人
 sketchbook [ˈsketʃbʊk] noun 素描簿；速寫冊；寫生本
 skewbald [ˈskjuːbɔːld] adjective (馬)白花斑的（通常不帶黑色）
-skewed [skjuːd] adjective 1.信息 2.偏向（或偏重）…的 3.偏的；斜的；歪的
+skewed [skjuːd] adjective 1.(信息)歪曲的；有偏頗的；不準確的 2.偏向（或偏重）…的 3.偏的；斜的；歪的
 skew-whiff  adjective (BrE) (informal)偏的；斜的；歪的
 skidpan [ˈskɪdpæn] noun （供駕車者練習控制車輛打滑的）轉向試驗場
 skiffle [ˈskɪfl] noun 即興搖滾樂（流行於 20 世紀 50 年代，結合了爵士樂和民間音樂）
@@ -10780,7 +10774,7 @@ skua [ˈskjuːə] noun 賊鷗（褐色掠食性海鳥）
 skulduggery [skʌlˈdʌɡəri] noun (old-fashioned or humorous)陰謀詭計；花招；欺騙
 skulk [skʌlk] verb (disapproving)[intransitive]+ adv./prep.潛伏；偷偷摸摸地走動；鬼鬼祟祟地活動
 skullcap [ˈskʌlkæp] noun （多為猶太男子所戴的）無簷小圓帽，無簷便帽；（天主教主教、樞機主教等所戴的）主教帽
-skunkweed [ˈskʌŋkwiːd] noun slang強效大麻
+skunkweed [ˈskʌŋkwiːd] noun 強效大麻
 skunkworks [ˈskʌŋkwɜːrkz] noun (NAmE) (informal)（大公司從事科研和新產品開發的）實驗室，科研部門，研發部門
 sky-blue  adjective 天藍色的；蔚藍色的
 skybox [ˈskaɪbɑːks] noun (NAmE)（體育場的）貴賓看台
@@ -10791,12 +10785,12 @@ skylark [ˈskaɪlɑːrk] noun 雲雀
 skywards [ˈskaɪwərdz] adverb 向天空；朝天空
 slacker [ˈslækər] noun (informal, disapproving)偷懶的人；怠惰的人
 slacks [slæks] noun (old-fashioned or NAmE, formal)便褲；寬鬆的長褲
-slam-dunk  verb slam-dunk sth扣籃
+slam-dunk  verb slam-dunk sth(籃球)扣籃
 slammer [ˈslæmər] noun 1.(slang)監獄 2.龍舌蘭雞尾酒（加檸檬汽水等）
 slangy [ˈslæŋi] adjective 充滿俚語的
 slanted [ˈslæntɪd] adjective 1.傾斜的；歪斜的 2.有傾向性的；有偏向性的
 slanting [ˈslæntɪŋ] adjective 不直的；不平的；斜的；歪的
-slap-happy  adjective 1.嘻嘻哈哈的；什麼都不放在心上的；大大咧咧的 2.(especially NAmE)
+slap-happy  adjective 1.嘻嘻哈哈的；什麼都不放在心上的；大大咧咧的 2.(especially NAmE)=punch-drunk
 slaphead [ˈslæphed] noun (BrE) (informal)稀髮佬；禿子
 slapper [ˈslæpər] noun (BrE) (slang)蕩婦；淫婦
 slapstick [ˈslæpstɪk] noun 打鬧劇；粗俗滑稽劇
@@ -10810,20 +10804,20 @@ slattern [ˈslætərn] noun (old-fashioned)邋遢的女人
 slaty [ˈsleɪti] adjective 1.深灰色的；石板色的 2.含板岩的；石板似的
 slave-driver  noun (disapproving)殘酷的監工；逼迫他人拚命幹活兒的人
 slavish [ˈsleɪvɪʃ] adjective (disapproving)無獨創性的；盲從的；照搬的
-sleaze [sliːz] noun 1.（尤指政客或商人的）舞弊，欺詐，違法行為 2.（尤指涉及性行為的）污穢，骯髒，烏煙瘴氣 3.especially in NAmE奸徒；卑鄙的人；下流坯
+sleaze [sliːz] noun 1.（尤指政客或商人的）舞弊，欺詐，違法行為 2.（尤指涉及性行為的）污穢，骯髒，烏煙瘴氣 3.(especially in NAmE)奸徒；卑鄙的人；下流坯
 sledging [ˈsledʒɪŋ] noun 1.(BrE)滑雪橇 2.（板球運動中為分散對手注意力的）辱罵
-sleepover [ˈsliːpoʊvər] noun NAmE also（兒童或年輕人在某人家玩樂並過夜的）聚會
+sleepover [ˈsliːpoʊvər] noun （兒童或年輕人在某人家玩樂並過夜的）聚會
 sleepwalk [ˈsliːpwɔːk] verb 夢遊
 sleepyhead [ˈsliːpihed] noun (informal)（稱呼沒睡醒的人）懶鬼，瞌睡蟲
 sleuth [sluːθ] noun (old-fashioned or humorous)偵探
 sleuthing [ˈsluːθɪŋ] noun 偵查，調查（犯罪案件或神秘事件）
 slimeball [ˈslaɪmbɔːl] noun (informal)令人反感的人；卑劣的人
-slimline [ˈslɪmlaɪn] adjective 1.式樣小巧的；薄型的 2.(BrE)低糖的
+slimline [ˈslɪmlaɪn] adjective 1.式樣小巧的；薄型的 2.(BrE)(飲料)低糖的
 slimmer [ˈslɪmər] noun (BrE)減肥者；減輕體重者
 slimming [ˈslɪmɪŋ] noun (BrE)減肥；減輕體重
 slingback [ˈslɪŋbæk] noun 露跟女鞋（後幫為窄帶）
 slingshot [ˈslɪŋʃɑːt] noun (NAmE)彈弓
-slinky [ˈslɪŋki] adjective 1.女式服裝 2.動作或聲音
+slinky [ˈslɪŋki] adjective 1.(女式服裝)緊身而性感的；身體線條畢現的 2.(動作或聲音)裊娜的；婀娜多姿的；柔媚的；柔美的
 slip-on  noun 無帶（或無扣）便鞋
 slippered [ˈslɪpərd] adjective 穿拖鞋的；穿便鞋的
 slipstream [ˈslɪpstriːm] noun （高速行駛的交通工具後面的）滑流，低壓氣穴
@@ -10832,23 +10826,23 @@ slipway [ˈslɪpweɪ] noun （造船或修船的）船台，滑台，滑道
 slit-eyed  adjective 細長眼的（常用以描述東亞人，含冒犯意）
 slithery [ˈslɪðəri] adjective 滑溜溜的；滑行的；跌跌撞撞地滑行的
 slitty-eyed [ˌslɪti ˈaɪd] adjective (offensive)細長眼的（常用以描述東亞人，含冒犯意）
-slob [slɑːb] noun (informal, disapproving)懶惰而邋遢的人 verb 
+slob [slɑːb] noun (informal, disapproving)懶惰而邋遢的人 verb slob around/out(BrE) (informal)遊手好閒；無所事事
 sloe [sloʊ] noun 黑刺李（果）
 sloganeering [ˌsloʊɡəˈnɪrɪŋ] noun (disapproving)標語口號的使用
 sloop [sluːp] noun 單桅帆船
-slop [slɑːp] verb 1.液體 2.倒出；使潑出；使濺灑 1.休息；放鬆；偷懶 2.（在水、泥等裏）趟來趟去，走動 noun 1.泔水；（倒掉的）剩飯菜 2.污水；髒水
+slop [slɑːp] verb 1.(液體)晃盪；（常指）溢出，濺出 2.倒出；使潑出；使濺灑 noun 1.泔水；（倒掉的）剩飯菜 2.污水；髒水
 sloshed [slɑːʃt] adjective (informal)喝醉的
 slothful [ˈsloʊθfl] adjective (formal)懶散的；怠惰的
-slotted [ˈslɑːtɪd] adjective 1.有窄縫的；帶扁口的；開槽的 2.螺絲釘
-slouchy [slaʊtʃi] adjective 1.(disapproving)懶散的；垂肩弓背的；佝僂的 2.(approving)鬆沓沓的；軟搭搭的
-slowcoach [ˈsloʊkoʊtʃ] noun (BrE)動作遲緩的人
-slowpoke [ˈsloʊpoʊk] noun (NAmE)動作遲緩的人
+slotted [ˈslɑːtɪd] adjective (術語)1.有窄縫的；帶扁口的；開槽的 2.(螺絲釘)槽頭的，一字形槽口的（非十字形的）
+slouchy [slaʊtʃi] adjective 1.(disapproving)懶散的；垂肩弓背的；佝僂的 2.(approving)(衣服)鬆沓沓的；軟搭搭的
+slowcoach [ˈsloʊkoʊtʃ] noun (BrE)(informal)動作遲緩的人
+slowpoke [ˈsloʊpoʊk] noun (NAmE)(informal)動作遲緩的人
 slow-witted  adjective 腦子反應慢的；頭腦遲鈍的
 slow-worm  noun 慢缺肢蜥，盲蛇蜥（生活在歐洲的無腿爬行動物）
 slub [slʌb] noun （毛線或線的）粗節，糙粒
 slugfest [ˈslʌɡfest] noun (informal) (especially NAmE)爭吵；對罵
 slumlord [ˈslʌmlɔːrd] noun (NAmE) (informal)（收取高額租金的）貧民窟房東
-slumped [slʌmpt] adjective [not usually before noun]slumped(against/over sth)（因睡着或昏迷等）彎着身子坐，伏
+slumped [slʌmpt] adjective slumped(against/over sth)（因睡着或昏迷等）彎着身子坐，伏
 slurry [ˈslɜːri] noun （由水和動物糞便、土、煤末或水泥混合而成的）泥漿，稀泥
 smacker [ˈsmækər] noun 1.(informal)出聲的吻；響吻 2.(slang)*1 英鎊； 1 美元
 smacking [ˈsmækɪŋ] noun (especially BrE)（打）一個巴掌；（用巴掌）一頓揍
@@ -10858,7 +10852,6 @@ smallholding [ˈsmɔːlhoʊldɪŋ] noun 一小塊耕地
 smallish [ˈsmɔːlɪʃ] adjective 相當小的；頗小的
 small-minded  adjective (disapproving)狹隘的；固執己見的；心胸狹窄的；目光短淺的
 small-time  adjective (informal, disapproving)(常指罪犯)不太重要的；不高明的
-smarten [ˈsmɑːrtn] verb 
 smartish [ˈsmɑːrtɪʃ] adjective (informal) (especially BrE)很快的（地）；迅速的（地）
 smarts [smɑːrts] noun (NAmE) (informal)智慧；聰明才智
 smash-and-grab  adjective (BrE)砸櫥窗搶劫的
@@ -10866,12 +10859,12 @@ smasher [ˈsmæʃər] noun (old-fashioned) (BrE informal)很好的人；很漂�
 smash-up  noun (informal)嚴重撞車事故
 smelt [smelt] verb smelt sth熔煉；提煉（金屬）
 smelter [ˈsmeltər] noun 熔爐
-smidgen [ˈsmɪdʒən] noun (informal)[singular]smidgen(of sth)少量；一點點
-smiley [ˈsmaɪli] noun 1.笑臉圖（用表示） 2.微笑符（例如用:-) 表示）
+smidgen [ˈsmɪdʒən] noun (informal)smidgen(of sth)少量；一點點
+smiley [ˈsmaɪli] noun 1.笑臉圖（用☺表示） 2.微笑符（例如用:-) 表示）
 smilingly [ˈsmaɪlɪŋli] adverb 微笑着
-smithereens [ˌsmɪðəˈriːnz] noun 
+smithereens [ˌsmɪðəˈriːnz] noun smash, blow, etc. sth to smithereens(informal)把某物砸（或打等）得粉碎
 smithy [ˈsmɪθi] noun 鐵匠鋪
-smitten [ˈsmɪtn] adjective 1.(especially humorous)突然愛上；一下子愛上 2.痛感；備受…的煎熬
+smitten [ˈsmɪtn] adjective 1.(especially humorous)突然愛上；一下子愛上 2.smitten with/by sth痛感；備受…的煎熬
 smocking [ˈsmɑːkɪŋ] noun （衣服的）褶襇，縮褶
 smoke-free  adjective 無人吸煙的；禁止吸煙的
 smokeless [ˈsmoʊkləs] adjective 1.（燃燒時）不產生煙的，無煙的 2.不冒煙的；無煙的
@@ -10883,8 +10876,8 @@ smoothie [ˈsmuːði] noun 1.(informal)體面而圓通的男人；八面玲瓏�
 smooth-talking  adjective (usually disapproving)花言巧語的；巧舌如簧的
 s'more [smɔːr] noun (NAmE)棉花糖巧克力夾心餅（用兩塊全麥餅乾夾棉花軟糖和巧克力製作而成）
 smorgasbord [ˈsmɔːrɡəsbɔːrd] noun (from Swedish)自助餐
-smoulder [ˈsmoʊldər] verb 1.(figurative)（無明火地）陰燃，悶燃 2.(formal)（感情）鬱積，壓在心頭
-smudgy [ˈsmʌdʒi] adjective 1.有髒痕的；有污跡的 2.圖畫、字跡等
+smoulder [ˈsmoʊldər] verb 1.（無明火地）陰燃，悶燃 2.(formal)（感情）鬱積，壓在心頭
+smudgy [ˈsmʌdʒi] adjective 1.有髒痕的；有污跡的 2.(圖畫、字跡等)模糊不清的
 smutty [ˈsmʌti] adjective (informal)(小說、圖片和言語)淫穢的；下流的；猥褻的
 snaffle [ˈsnæfl] verb (BrE) (informal)snaffle sth（尤指搶先）攫取，偷竊
 snafu [snæˈfuː] noun (NAmE) (informal)（一切均未按計劃發生的）混亂局面
@@ -10899,38 +10892,38 @@ snarf [snɑːrf] verb (informal) (especially NAmE)snarf sth很快地吃（或喝
 snarky [ˈsnɑːrki] adjective (NAmE) (informal)尖銳批評的；諷刺挖苦的
 snarl-up  noun (BrE) (informal)交通阻塞
 snatcher [ˈsnætʃər] noun (常構成複合詞)搶劫者
-snazzy [ˈsnæzi] adjective (informal)漂亮而時髦的；吸引人的
+snazzy [ˈsnæzi] adjective (informal)(服裝、汽車等)漂亮而時髦的；吸引人的
 sneaker [ˈsniːkər] noun (NAmE)運動鞋；便鞋
 sniffle [ˈsnɪfl] verb （尤指因哭泣或患感冒）抽鼻子 noun 抽鼻子（聲）
 sniffy [ˈsnɪfi] adjective (informal)sniffy(about sth)（對…）輕視，不屑一顧
 snifter [ˈsnɪftər] noun 1.(especially NAmE)白蘭地酒杯 2.(old-fashioned) (BrE informal)少量烈酒
 snigger [ˈsnɪɡər] verb (BrE)竊笑；暗笑 noun (BrE)竊笑；暗笑
 snippy [ˈsnɪpi] adjective (NAmE) (informal)粗野無禮的；盛氣凌人的
-snit [snɪt] noun 
-snivelling [ˈsnɪvlɪŋ] adjective especially US哭哭啼啼的；愛哭訴的
+snit [snɪt] noun be in a snit(NAmE)氣惱；生悶氣
+snivelling [ˈsnɪvlɪŋ] adjective (disapproving)哭哭啼啼的；愛哭訴的
 snobbery [ˈsnɑːbəri] noun (disapproving)勢利態度（或行為）；自以為優越的態度（或行為）
-snog [snɑːɡ] verb (BrE) (informal)（尤指長時間地）接吻
+snog [snɑːɡ] verb (BrE) (informal)(兩個人)（尤指長時間地）接吻
 snood [snuːd] noun （女用）束髮網
-snooker [ˈsnuːkər] noun 1.斯諾克（供兩人打的落袋枱球，打球人用球杆打白色母球，按一定順序撞 15 個紅球和 6 個其他顏色的球入袋） 2.（斯諾克比賽中的）障礙球 verb 1.斯諾克比賽 2.(BrE) (informal)阻撓；使落空 3.(NAmE) (informal)欺騙；使上當
-snoot [snuːt] noun 1.（人的）鼻子 2.(disapproving)鼻子朝天的人（瞧不起別人）；勢利眼
-snooty [ˈsnuːti] adjective informal傲慢的；目中無人的
-snorkelling [ˈsnɔːrkəlɪŋ] noun especially US帶呼吸管潛水；浮潛
+snooker [ˈsnuːkər] noun 1.斯諾克（供兩人打的落袋枱球，打球人用球杆打白色母球，按一定順序撞 15 個紅球和 6 個其他顏色的球入袋） 2.（斯諾克比賽中的）障礙球 verb 1.(斯諾克比賽)設障礙球 2.(BrE) (informal)阻撓；使落空 3.(NAmE) (informal)欺騙；使上當
+snoot [snuːt] noun (NAmE) (informal)1.（人的）鼻子 2.(disapproving)鼻子朝天的人（瞧不起別人）；勢利眼
+snooty [ˈsnuːti] adjective (disapproving)傲慢的；目中無人的
+snorkelling [ˈsnɔːrkəlɪŋ] noun 帶呼吸管潛水；浮潛
 snot [snɑːt] noun (informal)鼻涕（有人認為是粗俗用語）
-snotty [ˈsnɑːti] adjective 1. 2.流鼻涕的；滿是鼻涕的
+snotty [ˈsnɑːti] adjective 1.=snooty 2.流鼻涕的；滿是鼻涕的
 snowbird [ˈsnoʊbɜːrd] noun (NAmE) (informal)到溫暖地帶過冬的人；（尤指美國北方或加拿大到南方過冬的）候鳥老人
 snow-blind  adjective 雪盲的
 snowblower [ˈsnoʊbloʊər] noun 吹雪機
 snowboarding [ˈsnoʊbɔːrdɪŋ] noun 滑雪板運動
-snowbound [ˈsnoʊbaʊnd] adjective 1.人或車輛 2.道路或建築物
+snowbound [ˈsnoʊbaʊnd] adjective 1.(人或車輛)被雪困住的 2.(道路或建築物)被雪封住的
 snow-capped  adjective (literary)(山)頂部被雪覆蓋的
-snow-covered  adjective literary被雪覆蓋的
+snow-covered  adjective 被雪覆蓋的
 snowdrop [ˈsnoʊdrɑːp] noun 雪花蓮（早春開白花）
 snowfield [ˈsnoʊfiːld] noun 雪原（終年積雪的地區）
 snowline [ˈsnoʊlaɪn] noun 雪線
 snowplough [ˈsnoʊplaʊ] noun 雪犁，掃雪機（用以清除公路或鐵路上的積雪） verb （滑雪時）犁式制動，犁式滑降
 snow-white  adjective 雪白的
 snuffbox [ˈsnʌfbɑːks] noun 鼻煙盒
-snuffle [ˈsnʌfl] verb 1.（因感冒或哭泣）鼻子呼哧出聲，抽鼻子 2.哧哧地嗅 noun less frequent抽鼻子（聲）；嗅；嗅東西時發出的呼哧聲
+snuffle [ˈsnʌfl] verb 1.（因感冒或哭泣）鼻子呼哧出聲，抽鼻子 2.哧哧地嗅 noun 抽鼻子（聲）；嗅；嗅東西時發出的呼哧聲
 soaking [ˈsoʊkɪŋ] adjective 濕透的；濕淋淋的
 soapbox [ˈsoʊpbɑːks] noun （多指戶外的）臨時演講台
 soapstone [ˈsoʊpstoʊn] noun 皂石（質軟，用作裝飾材料）
