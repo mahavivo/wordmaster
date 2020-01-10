@@ -10948,7 +10948,7 @@ softener [ˈsɔːfnər] noun 1.（硬水）軟化器 2.（衣物的）柔順劑
 soft-hearted  adjective 有同情心的；心腸軟的；熱心腸的
 softie [ˈsɔːfti] noun (informal)有同情心的人；心腸軟的人；熱心腸的人
 softly-softly  adjective (BrE) (informal)(做事方式)細緻耐心的
-soft-pedal  verb US alsosoft-pedal(on) sth低調處理；降低…的調門；對…輕描淡寫
+soft-pedal  verb soft-pedal(on) sth低調處理；降低…的調門；對…輕描淡寫
 soft-shoe  noun 軟鞋踢踏舞 verb 1.跳軟鞋踢踏舞 2.躡手躡腳地走；悄悄地移動
 soft-soap  verb (informal)soft-soap sb（為讓某人做某事）說好聽的，奉承，灌迷魂湯；勸誘
 softwood [ˈsɔːftwʊd] noun 軟質木，軟木（如松木）
@@ -10958,7 +10958,7 @@ solarium [səˈleriəm] noun 日光浴室；日光室
 soldiering [ˈsoʊldʒərɪŋ] noun 軍旅生活；行伍生涯；當兵
 soldierly [ˈsoʊldʒərli] adjective 有軍人氣質的；英武的
 soldiery [ˈsoʊldʒəri] noun (old-fashioned)（尤指某種類型的）軍隊，隊伍
-solecism [ˈsɑːlɪsɪzəm] noun 1.語言錯誤；語病 2.失禮；粗俗的舉止（或話語）
+solecism [ˈsɑːlɪsɪzəm] noun (formal)1.語言錯誤；語病 2.失禮；粗俗的舉止（或話語）
 solemnize [ˈsɑːləmnaɪz] verb (formal)solemnize sth舉行（宗教儀式，尤指婚禮）
 solenoid [ˈsɑːlənɔɪd] noun (物)螺線管（通電時產生磁場）
 sol-fa  noun (音)（歌唱教學的）首調唱名法
@@ -10968,17 +10968,16 @@ solipsism [ˈsɑːlɪpsɪzəm] noun (哲)唯我論
 solitaire [ˈsɑːləter] noun 1.(BrE)單人跳棋 2.(NAmE)單人紙牌遊戲 3.獨粒寶石；獨粒寶石首飾
 solvency [ˈsɑːlvənsi] noun 無債務；不負債
 solver [ˈsɑːlvər] noun （問題的）解決者；（困難局面的）處理者
-sombre [ˈsɑːmbər] adjective 1.昏暗的；陰沉的；暗淡的 2.陰鬱的；沮喪的
+sombre [ˈsɑːmbər] adjective (BrE)1.昏暗的；陰沉的；暗淡的 2.陰鬱的；沮喪的
 sombrero [sɑːmˈbreroʊ] noun 墨西哥闊邊帽
--some  suffix 1.(構成形容詞)引起（或易於）…的 2.(構成名詞)…人（或…個）一組
-somersault [ˈsʌmərsɔːlt] noun (figurative)翻滾；空翻；筋斗 verb 做翻滾；做空翻
+somersault [ˈsʌmərsɔːlt] noun 翻滾；空翻；筋斗 verb 做翻滾；做空翻
 sommer [ˈsɑːmə] adverb (SAfrE) (informal)只是；僅僅
 songbook [ˈsɔːŋbʊk] noun 歌曲集；歌本
 songsmith [ˈsɔːŋsmɪθ] noun (informal)寫流行曲的人
-songster [ˈsɔːŋstər] noun 1.（報章上有時用以表示 singer）歌手，歌唱家 2.鳴禽
+songster [ˈsɔːŋstər] noun (old-fashioned)1.（報章上有時用以表示 singer）歌手，歌唱家 2.鳴禽
 songstress [ˈsɔːŋstrəs] noun （報章上有時用以表示 woman singer）女歌手，女歌唱家
 sonny [ˈsʌni] noun (old-fashioned)（年長者對年輕男子或男孩的稱呼）孩子
-sook [suːk] noun 1.膽小鬼；懦夫 2.用奶瓶餵養的小牛
+sook [suːk] noun (informal) (AustralE, NZE, CanE)1.膽小鬼；懦夫 2.用奶瓶餵養的小牛
 soother [ˈsuːðər] noun (CanE)橡皮奶頭；塑料奶頭；奶嘴
 soothsayer [ˈsuːθseɪər] noun (old use)占卜者；預言者
 sooty [ˈsʊti] adjective 1.沾滿煤煙子的 2.煤煙子一樣黑的；炭黑色的
@@ -10996,32 +10995,32 @@ sou [suː] noun (old-fashioned) (BrE informal)一點錢；一文錢
 sough [saʊ] verb (literary)(尤指風)作沙沙聲；作颯颯聲
 souk [suːk] noun （阿拉伯國家的）露天市場
 soul-destroying  adjective (工作或任務)非常枯燥的；十分單調的；消磨精神的
-soulless [ˈsoʊlləs] adjective 1.事物或處所 2.人
+soulless [ˈsoʊlləs] adjective 1.(事物或處所)沒有生氣的；呆板的；乏味的 2.(人)不懂感情的；淡漠的
 soulmate [ˈsoʊlmeɪt] noun 知心朋友；知己
 soul-searching  noun 反省；內省
 soundalike [ˈsaʊndəlaɪk] noun 聲音很像名人的人
 soundcheck [ˈsaʊndtʃek] noun （對錄音或音響設備的）校音
 soundless [ˈsaʊndləs] adjective 無聲的；寂靜的
 soundproof [ˈsaʊndpruːf] adjective 隔音的
-soupy [ˈsuːpi] adjective 1.湯似的；羹一般的 2.空氣 3.(informal)過於傷感的；太多愁善感的
+soupy [ˈsuːpi] adjective 1.湯似的；羹一般的 2.(空氣)潮濕難忍的；陰濕的 3.(informal)過於傷感的；太多愁善感的
 sourcebook [ˈsɔːrsbʊk] noun （有關某專題的）原始資料集，緒論資料集
 sourdough [ˈsaʊərdoʊ] noun 酸麪糰；發麪麪包
 sour-faced  adjective (人)臉色陰沉的；顯得不高興的
 sourpuss [ˈsaʊərpʊs] noun (informal)陰鬱的人；整天繃着臉的人；性情乖戾的人
 sousaphone [ˈsuːzəfoʊn] noun 蘇薩大號，蘇沙低音號（美國行進樂隊用）
-soused [saʊst] adjective 1.魚 2.(old-fashioned, informal)喝醉的
+soused [saʊst] adjective 1.(魚)醃製的 2.(old-fashioned, informal)喝醉的
 southbound [ˈsaʊθbaʊnd] adjective 南行的；向南的
-south-east  noun 東南；東南方；東南地區
-south-easterly  adjective 1.東南方的；向東南的；東南部的 2.風
+south-east  noun (BrE)東南；東南方；東南地區
+south-easterly  adjective 1.東南方的；向東南的；東南部的 2.(風)從東南吹來的
 south-eastern  adjective 東南的；東南方向的
 south-eastwards  adverb 向東南；朝東南
-southerly [ˈsʌðərli] adjective 1.南方的；向南的；南部的 2.風 noun 南風
+southerly [ˈsʌðərli] adjective 1.南方的；向南的；南部的 2.(風)從南方吹來的 noun 南風
 southerner [ˈsʌðərnər] noun 南方人
 southernmost [ˈsʌðərnmoʊst] adjective 最南的；最南端的；最南部的
 southpaw [ˈsaʊθpɔː] noun (informal) (especially NAmE)（尤指拳擊等運動中）慣用左手的人，左撇子
 southwards [ˈsaʊθwərdz] adverb 向南；朝南
 south-west  noun 西南；西南方；西南地區
-south-westerly  adjective 1.西南方的；向西南的；西南部的 2.風
+south-westerly  adjective 1.西南方的；向西南的；西南部的 2.(風)從西南吹來的
 south-western  adjective 西南的；西南方向的
 south-westwards  adverb 向西南；朝西南
 souvlaki [suːˈvlæki] noun 希臘肉串
@@ -11042,7 +11041,7 @@ spanner [ˈspænər] noun (BrE)扳手；扳子；扳鉗
 sparkler [ˈspɑːrklər] noun 煙花棒
 sparky [ˈspɑːrki] adjective (BrE) (informal)生氣勃勃的；充滿活力的；有意思的
 sparrowhawk [ˈspæroʊhɔːk] noun 雀鷹
-spastic [ˈspæstɪk] adjective 1.(醫)患痙攣性麻痺症的，痙攣性麻痺症引起的（此詞現常被認為有冒犯意） 2.(informal)（有時兒童用以罵人愚蠢）笨拙的，無能的
+spastic [ˈspæstɪk] adjective 1.(醫 or old-fashioned)患痙攣性麻痺症的，痙攣性麻痺症引起的（此詞現常被認為有冒犯意） 2.(informal)（有時兒童用以罵人愚蠢）笨拙的，無能的
 spay [speɪ] verb (術語)spay sth切除雌獸的卵巢；劁（雌獸）
 spaza [ˈspɑːzə] noun (SAfrE)（尤指黑人城鎮的）家庭雜貨店，街頭小店
 speakeasy [ˈspiːkiːzi] noun （美國 20 世紀 20、30 年代禁酒期間）非法經營的酒店
@@ -11061,7 +11060,7 @@ speechifying [ˈspiːtʃɪfaɪɪŋ] noun (informal, disapproving)煞有介事的
 speech-writer  noun 演說稿撰寫員
 speedboat [ˈspiːdboʊt] noun 快艇
 speedometer [ˈspiːˈdɑːmɪtər] noun informal（車輛的）速度計
-speed-read  verb [intransitive, transitive]speed-read(sth)快速閱讀，速讀（注意大意）
+speed-read  verb speed-read(sth)快速閱讀，速讀（注意大意）
 speedster [ˈspiːdstər] noun 1.快速駕駛者；飆車者 2.高速運轉的機器；快速行駛的車輛
 speedway [ˈspiːdweɪ] noun 1.(BrE)（摩托車）賽車運動 2.(NAmE)（汽車或摩托車的）賽車跑道
 speedwell [ˈspiːdwel] noun 婆婆納（開鮮豔藍色或粉白色花的野生植物）
@@ -11079,10 +11078,9 @@ spheroid [ˈsfɪrɔɪd] noun (術語)球（狀）體；扁球體；橢球體
 sphincter [ˈsfɪŋktər] noun (解)括約肌
 sphinx [sfɪŋks] noun 斯芬克斯，獅身人面像（古埃及石像；在希臘神話中，斯芬克斯說話慣用謎語）
 spic [spɪk] noun (taboo, slang) (especially NAmE)西班牙語區的人（如墨西哥人或波多黎各人，有強烈冒犯意）
-spick [spɪk] adjective 
 spidery [ˈspaɪdəri] adjective （像蛛腿一樣）細長的
 spiel [ʃpiːl] noun (informal, usually disapproving)油嘴滑舌的游說；一長串招徠生意的套話
-spiff [spɪf] verb 
+spiff [spɪf] verb spiff up |spiff sb/sth↔up(NAmE) (informal)把…收拾得整齊漂亮；打扮；裝扮
 spiffing [ˈspɪfɪŋ] adjective (BrE) (old-fashioned, informal)極好的；很棒的
 spiffy [ˈspɪfi] adjective (NAmE) (informal)漂亮而時髦的
 spigot [ˈspɪɡət] noun 1.(術語)（龍頭中的）塞，栓 2.(US)（尤指戶外的）龍頭
@@ -11165,7 +11163,6 @@ sputum [ˈspjuːtəm] noun (醫)（尤指因疾病而咳出的）痰
 spyglass [ˈspaɪɡlæs] noun 小型望遠鏡
 spyhole [ˈspaɪhoʊl] noun （門上的）觀察孔，貓眼兒
 spymaster [ˈspaɪmæsər] noun 間諜組織的首腦；間諜頭子
-sq  abbreviation especially in NAmE平方（用於度量）
 squaddie [ˈskwɑːdi] noun (BrE) (slang)新兵蛋子；列兵
 squally [ˈskwɔːli] adjective (天氣)有狂風的；颳颮的
 square-bashing  noun (BrE) (informal)（士兵的）隊列訓練
@@ -11181,14 +11178,13 @@ squidgy [ˈskwɪdʒi] adjective (informal) (especially BrE)濕軟易擠壓的
 squiffy [ˈskwɪfi] adjective (BrE) (informal)微醉的
 squiggle [ˈskwɪɡl] noun （寫或畫的）彎彎曲曲的線條；潦草的筆跡
 squillion [ˈskwɪljən] noun (informal, often humorous)無數；萬千
-squire [ˈskwaɪər] noun 1.（舊時英格蘭的）鄉紳，大地主 2.BrE informal or humorous（男子對另一男子的友好稱呼）先生 3.（舊時騎士的）扈從
+squire [ˈskwaɪər] noun 1.（舊時英格蘭的）鄉紳，大地主 2.(BrE informal or humorous)（男子對另一男子的友好稱呼）先生 3.（舊時騎士的）扈從
 squirearchy [ˈskwaɪərɑːrki] noun （英格蘭舊時的）地主階層，鄉紳階層
 squirrelly [ˈskwɜːrəli] adjective 1.無法保持安靜的；靜不下來的 2.瘋狂的；發瘋的
-squish [skwɪʃ] verb 1.（被）壓壞，擠壞 2.發吧唧聲；發吱嘎聲
+squish [skwɪʃ] verb (informal)1.（被）壓壞，擠壞 2.發吧唧聲；發吱嘎聲
 squishy [ˈskwɪʃi] adjective (informal)濕軟的；黏乎乎的
-squit [skwɪt] noun 1.(offensive)小人物；無名小卒；無足輕重的人 2.(informal)
-st  abbreviation (BrE)英石（英國重量單位）
-stabbing [ˈstæbɪŋ] noun 持刀（或其他利器）傷人事件 adjective 疼痛
+squit [skwɪt] noun (BrE)1.(offensive)小人物；無名小卒；無足輕重的人 2.(informal)the squits=diarrhoea
+stabbing [ˈstæbɪŋ] noun 持刀（或其他利器）傷人事件 adjective (疼痛)突然而劇烈的；刀刺似的
 stabilizer [ˈsteɪbəlaɪzər] noun 1.穩定裝置；（飛機的）安定面；（船舶的）減搖裝置 2.(BrE)（兒童自行車後輪兩側的）穩定輪 3.(術語)穩定劑
 stableman [ˈsteɪblmæn] noun 飼養馬的人；馬倌；馬夫
 stablemate [ˈsteɪblmeɪt] noun 1.同一馬廐的馬（尤指賽馬） 2.同機構的人（或產品）；同事；同夥
@@ -11210,7 +11206,7 @@ stanchion [ˈstæntʃən] noun (formal)（用以支撑的）杆，支柱
 standard-bearer  noun 旗手；領袖
 stand-down  noun 停工休息期；（尤指士兵的）休整期
 standee [stænˈdiː] noun (NAmE, ScotE)站立者；站立乘客；站票觀眾
-standing [ˈstændɪŋ] adjective 1.(BrE)長期存在的；永久性的；常設的 2.站着進行的 noun 1.地位；級別；身分；名聲 2.持續時間 3.（運動員或運動隊比賽成績的）排名，名次
+standing [ˈstændɪŋ] adjective 1.長期存在的；永久性的；常設的 2.站着進行的 noun 1.地位；級別；身分；名聲 2.持續時間 3.（運動員或運動隊比賽成績的）排名，名次
 stand-off  noun stand-off(between A and B)（雙方）僵持局面
 stand-offish [ˌstænd ˈɔːfɪʃ] adjective (informal)冷淡的；冷漠的；不友好的
 standpipe [ˈstændpaɪp] noun 豎管（用於在戶外公共場所供水）
@@ -11237,7 +11233,7 @@ statesmanlike [ˈsteɪtsmənlaɪk] adjective 具有政治家風範的；像政�
 statesmanship [ˈsteɪtsmənʃɪp] noun 政治才能；治國才幹
 statesperson [ˈsteɪtspɜːrsn] noun 政治家
 statin [ˈstætɪn] noun 膽固醇合成酶抑制劑；他汀
-stationer [ˈsteɪʃənər] noun 1.文具商 2.文具店
+stationer [ˈsteɪʃənər] noun (especially BrE)1.文具商 2.stationer's 文具店
 stationmaster [ˈsteɪʃnmæstər] noun (BrE)（火車站）站長
 statism [ˈsteɪtɪzəm] noun 中央集權制
 stative [ˈsteɪtɪv] adjective (語言)(動詞)表示狀態的
@@ -11246,7 +11242,6 @@ statuette [ˌstætʃuˈet] noun 小雕像；小塑像
 stay-at-home  noun (informal, often disapproving)不愛出門的人；戀家的人 adjective 全職照顧家庭的
 staycation [ˌsteɪˈkeɪʃn] noun 居家假；宅假；不出城度假
 stayer [ˈsteɪər] noun (BrE)有持久力的人；有耐力的動物（尤指賽馬）
-stead [sted] noun 
 steakhouse [ˈsteɪkhaʊs] noun 牛排餐館
 stealthy [ˈstelθi] adjective 偷偷摸摸的；不聲張的；秘密的
 steamboat [ˈstiːmboʊt] noun 汽船；輪船
@@ -11255,7 +11250,7 @@ steamship [ˈstiːmʃɪp] noun 汽船；輪船
 steed [stiːd] noun (literary or humorous)坐騎
 steelworker [ˈstiːlwɜːrkər] noun 煉鋼工人
 steelworks [ˈstiːlwɜːrks] noun 煉鋼廠
-steepen [ˈstiːpən] verb [intransitive, transitive]steepen(sth)（使）變陡
+steepen [ˈstiːpən] verb steepen(sth)（使）變陡
 steeplechase [ˈstiːpltʃeɪs] noun 1.越野障礙賽馬 2.障礙賽跑
 steeplechaser [ˈstiːpltʃeɪsər] noun 參加越野障礙賽馬的馬；障礙賽跑選手
 steeplejack [ˈstiːpldʒæk] noun 高空作業工人（粉刷或修理高塔、大煙囪等）
@@ -11263,7 +11258,7 @@ steerage [ˈstɪrɪdʒ] noun （舊時客輪的）統艙，大艙
 stegosaur [ˈsteɡəsɔːr] noun 劍龍（背部有三角形骨板的恐龍）
 stein [staɪn] noun (from German)飾花大啤酒杯（多為陶質，常帶蓋）
 stemware [ˈstemwer] noun (術語)有腳玻璃器皿
-stenographer [stəˈnɑːɡrəfər] noun informal速記員
+stenographer [stəˈnɑːɡrəfər] noun (especially NAmE)速記員
 stent [stent] noun (醫)（防止栓塞等而植入的）血管支架
 stepbrother [ˈstepbrʌðər] noun 繼兄，繼弟（繼母與其前夫或繼父與其前妻所生的兒子）
 stepchild [ˈsteptʃaɪld] noun 繼子；繼女
@@ -11274,15 +11269,15 @@ stepney [ˈstepni] noun (IndE)（汽車）備用輪胎
 step-parent  noun 繼母；繼父
 stepsister [ˈstepsɪstər] noun 繼姐，繼妹（繼母與其前夫或繼父與其前妻所生的女兒）
 stepson [ˈstepsʌn] noun 繼子
-stepwise [ˈstepwaɪz] adjective 1.逐步的；逐漸的 2.(音)（按音階）級進的
-stereoscopic [ˌsteriəˈskɑːpɪk] adjective 1.(術語)有立體視覺的 2.圖畫、照片等
+stepwise [ˈstepwaɪz] adjective 1.逐步的；逐漸的 2.(音)(旋律)（按音階）級進的
+stereoscopic [ˌsteriəˈskɑːpɪk] adjective 1.(術語)有立體視覺的 2.(圖畫、照片等)有立體效果的
 sterilizer [ˈsterəlaɪzər] noun 消毒器；滅菌器
 sternum [ˈstɜːrnəm] noun (解)胸骨
 steroid [ˈsterɔɪd] noun 類固醇；甾族化合物
 stetson [ˈstetsn] noun (BrE)斯特森高頂寬邊帽；牛仔帽
 stevedore [ˈstiːvədɔːr] noun 碼頭工人；碼頭裝卸工
 stewed [stuːd] adjective (茶)（因久泡）太釅的，泡苦了的
-stickability [ˌstɪkəˈbɪləti] noun 1.NAmE also持之以恆的能力；忍耐力 2.網站
+stickability [ˌstɪkəˈbɪləti] noun (informal)1.持之以恆的能力；忍耐力 2.(網站)（使訪客長期感興趣的）吸引力
 stickball [ˈstɪkbɔːl] noun 棍球（用棍擊橡膠球，類似於棒球的非正式運動）
 stick-in-the-mud  noun (informal, disapproving)守舊的人；墨守成規的人
 stickleback [ˈstɪklbæk] noun 刺魚
