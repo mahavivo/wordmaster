@@ -78,8 +78,8 @@ acrostic [əˈkrɔːstɪk] noun 離合詩，離合詩體（各行的某些字，
 acrylamide [əˈkrɪləmaɪd] noun 丙烯酰胺（工業用物質，也見於高溫烹調的食物，可致癌）
 actinium [ækˈtɪniəm] noun 錒（放射性化學元素）
 actionable [ˈækʃənəbl] adjective 可予起訴的；可提起訴訟的
-# action-packed  adjective 充滿令人興奮的活動的
-# actor-manager  noun 演員兼劇團總監
+action-packed  adjective 充滿令人興奮的活動的
+actor-manager  noun 演員兼劇團總監
 actualize [ˈæktʃuəlaɪz] verb actualize sth實現；使發生
 actuary [ˈæktʃueri] noun 精算師（以研究事故、火災、死亡等發生的頻率為依據，為保險公司計算保險風險和保險費）
 acupressure [ˈækjupreʃər] noun 指壓（源於日本的一種治療方式，以手指按壓身體特定部位）
@@ -89,9 +89,9 @@ adagio [əˈdɑːdʒioʊ] noun (音)柔板樂章；柔板
 adamantine [ˌædəˈmæntaɪn] adjective (literary)堅韌的；剛勁的
 adaptor [əˈdæptər] noun 1.（電器設備的）轉接器，適配器 2.(BrE)（供多個設備連接電源的）多頭插頭，多功能插頭
 adder [ˈædər] noun 蝰蛇，寬蛇（英國僅有的一種毒蛇，背部有菱形斑）
-# add-in  noun 1.附加程序；外加程序；附加程式 2.=expansion card
+add-in  noun 1.附加程序；外加程序；附加程式 2.=expansion card
 addled [ˈædld] adjective 1.(old-fashioned)頭腦糊塗的；昏庸的 2.(BrE)腐壞的；變質的
-# add-on  noun 附加物；附加裝置
+add-on  noun 附加物；附加裝置
 addressable [əˈdresəbl] adjective 1.(問題或情況)可處理的；可解決的；可對付的 2.(計)可尋址的；可定址的
 addressee [ˌædreˈsiː] noun 收信人；收件人
 adductor [əˈdʌktər] noun (解)內收肌
@@ -201,17 +201,17 @@ airhead [ˈerhed] noun (informal, disapproving)笨蛋；傻瓜
 airily [ˈerəli] adverb (formal)無憂無慮地；無所謂地
 airless [ˈerləs] adjective 沒有新鮮空氣的；沒有一絲風的；空氣沉悶的
 airlift [ˈerlɪft] noun 空運；空投 verb 空運，空投（人員或物資）
-# airmail [ˈermeɪl] noun 航空郵遞
+airmail [ˈermeɪl] noun 航空郵遞
 airmiss [ˈermɪs] noun (BrE)空中險情；飛機險撞
 airplay [ˈerpleɪ] noun （唱片、歌手或某種音樂等的）電台播送時間
 airship [ˈerʃɪp] noun 飛艇；飛船
 airsick [ˈersɪk] adjective 暈機
-# airspeed [ˈerspiːd] noun （飛機的）空速
-# airstream [ˈerstriːm] noun （尤指強烈的）氣流
+airspeed [ˈerspiːd] noun （飛機的）空速
+airstream [ˈerstriːm] noun （尤指強烈的）氣流
 airtime [ˈertaɪm] noun 1.（廣播或電視節目的）播放時間 2.（移動電話計費的）通話時間
-# air-to-air  adjective 空對空的
-# air-to-ground  adjective 空對地的；從飛機對地面的
-# air-to-surface  adjective 空對面的；從飛機對海面（或地面）的
+air-to-air  adjective 空對空的
+air-to-ground  adjective 空對地的；從飛機對地面的
+air-to-surface  adjective 空對面的；從飛機對海面（或地面）的
 airworthy [ˈerwɜːrði] adjective (飛行器)適航的
 airy-fairy  adjective (BrE) (informal, disapproving)模糊的；不現實的；不切實際的
 aitch [eɪtʃ] noun 字母 H
@@ -259,7 +259,7 @@ all-or-nothing  adjective （只可能出現兩種極端局面）全贏或全輸
 allosaurus [ˌæləˈsɔːrəs] noun 異特龍（大型恐龍）
 allotrope [ˈælətroʊp] noun (化)同素異形體
 all-over  adjective 遍佈表面的
-# all-party  adjective 所有政黨的；各黨派的；跨黨派的
+all-party  adjective 所有政黨的；各黨派的；跨黨派的
 all-powerful  adjective 有無上權力的；擁有全權的
 all-round  adjective 1.全面的；多方面的 2.(人)全能的；多才多藝的
 all-rounder  noun (BrE)多才多藝者；全才；通才
@@ -412,7 +412,7 @@ antiproton [ˈæntiproʊtɑːn] noun (物)反質子（與質子質量相同，�
 antiquarian [ˌæntɪˈkweriən] adjective （尤指書籍）古文物的，古文物研究（或收藏、經營）的 noun 古文物研究者（或收藏家、經營者）
 antiquark [ˈæntikwɑːrk] noun (物)反夸克
 antiretroviral [ˌæntiˌretroʊˈvaɪrəl] adjective 抗逆轉錄病毒的；抗反轉錄病毒的
-# anti-tank  adjective (武器)反坦克的
+anti-tank  adjective (武器)反坦克的
 antitrust [ˌæntiˈtrʌst] adjective (法律)反托拉斯的；反壟斷的
 antiviral [ˌæntiˈvaɪrəl] adjective (藥)抗病毒的
 antivirus [ˈæntivaɪrəs] adjective (計)查殺病毒的；殺毒的
@@ -445,7 +445,7 @@ apportion [əˈpɔːrʃn] verb (formal)分配；分攤；分派
 apposition [ˌæpəˈzɪʃn] noun (語法)同位
 approachable [əˈproʊtʃəbl] adjective 1.和藹可親的；易理解的 2.可接近的；能達到的
 appropriacy [əˈproʊpriəsi] noun 1.適合性；恰當性 2.(語言)（詞語等的）得體；恰當用詞
-# approving [əˈpruːvɪŋ] adjective 贊成的；同意的
+approving [əˈpruːvɪŋ] adjective 贊成的；同意的
 approximant [əˈprɑːksɪmənt] noun 1.(語音)近似音；無擦通音；無摩擦延續音 2.(數)逼近式
 appurtenance [əˈpɜːrtɪnəns] noun (formal or humorous)附屬物；附加物
 apse [æps] noun （教堂東端的）半圓形小室
@@ -831,7 +831,7 @@ barramundi [ˌbærəˈmʌndi] noun 尖吻鱸（見於澳大利亞和東南亞河
 barrel-chested  adjective (男子)胸肌發達的；胸圍寬大的
 barrette [bæˈret] noun (NAmE)（裝飾性）小髮夾
 barrio [ˈbɑːrioʊ] noun 1.（西班牙或西班牙語國家的）區 2.(US)（美國城市中說西班牙語的人聚居的）西語區
-# barroom [ˈbɑːruːm] noun 酒吧間
+barroom [ˈbɑːruːm] noun 酒吧間
 barrow [ˈbæroʊ] noun 1.(BrE)兩輪流動售貨車（售賣水果、蔬菜等） 2.古墳；古塚 3.=wheelbarrow
 basalt [bəˈsɔːlt] noun 玄武岩（深色的火山岩）
 baseboard [ˈbeɪsbɔːrd] noun (NAmE)踢腳板；壁腳板
@@ -849,9 +849,9 @@ bassoonist [bəˈsuːnɪst] noun 大管演奏者；巴松管手
 bastardize [ˈbæstərdaɪz] verb (formal)bastardize sth拙劣地仿造；假冒
 batchmate [ˈbætʃmeɪt] noun (IndE)同年級同學（或同窗）；同批同學（或同窗）
 bathed [beɪðd] adjective 1.(literary)被（光線）覆蓋；沐浴着（光線） 2.汗流浹背；淚流滿面
-# bathhouse [ˈbæθhaʊs] noun 1.澡堂；公共浴室 2.(NAmE)（游泳處的）更衣室
+bathhouse [ˈbæθhaʊs] noun 1.澡堂；公共浴室 2.(NAmE)（游泳處的）更衣室
 bathos [ˈbeɪθɑːs] noun (formal)(寫作或演講)突降（嚴肅的內容突然變得荒謬，常非出自本意）
-# bathwater [ˈbæθwɔːtər] noun 洗澡水
+bathwater [ˈbæθwɔːtər] noun 洗澡水
 batik [bəˈtiːk] noun 巴蒂克印花法；蠟防印花法；蠟染；蠟防印花布
 batman [ˈbætmən] noun (BrE)勤務兵；傳令兵
 batsman [ˈbætsmən] noun (板球)擊球手
@@ -872,7 +872,7 @@ bazoom [bəˈzuːm] noun (informal) (especially NAmE)（女人的）乳房，奶
 beachcomber [ˈbiːtʃkoʊmər] noun 海灘拾荒者（或尋寶的人）
 beachfront [ˈbiːtʃfrʌnt] noun (especially NAmE)濱海區；濱河區；濱湖區；濱水區
 beachhead [ˈbiːtʃhed] noun （軍隊的）灘頭堡，灘頭陣地
-# beachwear [biːtʃwer] noun (尤用於商店)沙灘服裝
+beachwear [biːtʃwer] noun (尤用於商店)沙灘服裝
 beading [ˈbiːdɪŋ] noun 1.串珠狀緣飾 2.（衣服上的）串珠飾
 beady [ˈbiːdi] adjective (BrE)(眼睛)小圓珠般而亮晶晶的；機警的
 beady-eyed  adjective (informal)機警地盯着的；目光銳利的
@@ -913,7 +913,7 @@ bedclothes [ˈbedkloʊðz] noun 牀上用品；寢具；鋪蓋
 beddy-byes [ˈbedi baɪz] noun (BrE)（兒語）牀牀，睏睏牀
 bedevil [bɪˈdevl] verb bedevil sb/sth長期攪擾
 bedfellow [ˈbedfeloʊ] noun （常指意外的）夥伴，同伴，相伴之物
-# bedhead [ˈbedhed] noun 牀頭
+bedhead [ˈbedhed] noun 牀頭
 bedjacket [ˈbeddʒækɪt] noun 牀上用短上衣（坐起時披）
 bedlinen [ˈbedlɪnɪn] noun 牀單及枕套
 bedpan [ˈbedpæn] noun （卧牀病人用的）便盆
@@ -955,7 +955,7 @@ bell-ringer  noun 教堂的業餘敲鐘人
 bellyache [ˈbelieɪk] noun (informal)腹痛；肚子疼 verb (informal)無端地猛發牢騷
 bellyflop [ˈbeliflɑːp] noun (informal)跳水時肚子先落水
 below-the-fold  adjective （報紙版面、網頁等）居於下端的，位置不明顯的，第一眼看不到的
-# belted [ˈbeltɪd] adjective 繫着帶子的
+belted [ˈbeltɪd] adjective 繫着帶子的
 beltway [ˈbeltweɪ] noun (US)（尤指環繞華盛頓特區的）環行路，環路
 beluga [bəˈluːɡə] noun 1.白鯨 2.歐洲鰉，歐鰉（大型鱘魚） 3.鱘魚魚子醬
 benchwarmer [ˈbentʃwɔːrmər] noun (NAmE) (informal)（運動隊的）板凳隊員，替補隊員
@@ -1094,7 +1094,7 @@ birdseed [ˈbɜːrdsiːd] noun 鳥食種籽
 birdsong [ˈbɜːrdsɔːŋ] noun （婉轉動聽的）鳥鳴
 birdwatcher [ˈbɜːrdwɑːtʃər] noun informal觀鳥者（在自然環境中觀察並鑒定鳥類，作為一種愛好）
 biretta [bɪˈretə] noun （羅馬天主教神職人員所戴的）四角帽，禮節帽，方形帽
-# birthing [ˈbɜːrθɪŋ] noun 分娩；生產
+birthing [ˈbɜːrθɪŋ] noun 分娩；生產
 birthmark [ˈbɜːrθmɑːrk] noun 胎記；胎痣
 birthstone [ˈbɜːrθstoʊn] noun 誕生石（表示出生月份或星座的半寶石）
 birthweight [ˈbɜːrθweɪt] noun （嬰兒的）出生體重
@@ -1124,7 +1124,7 @@ blab [blæb] verb (informal)blab(to sb) (about sth)|blab(sth) (to sb)（向某�
 blabber [ˈblæbər] verb (informal)blabber(on) (about sth)說蠢話；胡扯；瞎說
 blabbermouth [ˈblæbərmaʊθ] noun (informal, disapproving)多嘴多舌的人；碎嘴子
 blackamoor [ˈblækəmɔːr] noun (old use, taboo)（含冒犯意）黑人；黑鬼
-# blackberrying [ˈblækberiɪŋ] noun 採集黑莓
+blackberrying [ˈblækberiɪŋ] noun 採集黑莓
 blackbird [ˈblækbɜːrd] noun 1.烏鶇（見於歐洲，雄鳥黑羽黃喙，雌鳥棕色） 2.黑鸝（見於北美洲）
 blackcurrant [ˌblækˈkɜːrənt] noun 黑茶藨子；黑加侖子
 blackface [ˈblækfeɪs] noun 1.黑面羊；黑臉羊 2.（演員用）黑油彩，黑臉化妝品
@@ -1230,7 +1230,7 @@ blusher [ˈblʌʃər] noun 胭脂
 blustery [ˈblʌstəri] adjective (天氣)狂風大作的
 boathook [ˈboʊthʊk] noun 撑篙（一端有鈎，用於推拉船隻）
 boathouse [ˈboʊthaʊs] noun 船庫
-# boatman [ˈboʊtmən] noun 靠小船營生的人；擺渡者；小船出租人
+boatman [ˈboʊtmən] noun 靠小船營生的人；擺渡者；小船出租人
 boatyard [ˈboʊtjɑːrd] noun 造船廠；修船廠；船塢
 bobbed [bɑːbd] adjective (頭髮)齊而短的
 bobber [ˈbɑːbər] noun 1.（釣魚用的）浮子，浮標 2.(BrE)乘大雪橇的人
@@ -1404,7 +1404,7 @@ brainy [ˈbreɪni] adjective (informal)十分聰明的
 braise [breɪz] verb braise sth燉
 bramble [ˈbræmbl] noun 1.(especially BrE)黑莓灌木 2.(BrE)=blackberry
 branded [ˈbrændɪd] adjective (產品)名牌的
-# branding [ˈbrændɪŋ] noun 品牌創建
+branding [ˈbrændɪŋ] noun 品牌創建
 brasserie [ˌbræsəˈriː] noun 法式（廉價）餐館
 brassica [ˈbræsɪkə] noun 芥屬植物（包括甘藍、油菜及芥菜類）
 bravo [ˌbrɑːˈvoʊ] exclamation (becoming old-fashioned)（喝彩聲、叫好聲）好哇
@@ -1420,7 +1420,7 @@ breaded [ˈbredɪd] adjective 裹着麪包屑的
 breadfruit [ˈbredfruːt] noun 麪包果（皮厚個大，煮熟似麪包）
 breadline [ˈbredlaɪn] noun 1.只能勉強維持生計的收入水平；貧困線 2.(NAmE)（舊時）等待領取救濟食品的隊伍
 breadstick [ˈbredstɪk] noun 1.棍子麪包；餅乾棒 2.小棍狀烤麪包
-# breakable [ˈbreɪkəbl] adjective 會碎的；易碎的
+breakable [ˈbreɪkəbl] adjective 會碎的；易碎的
 breakage [ˈbreɪkɪdʒ] noun 1.破碎物品 2.毀壞；損壞
 breakbeat [ˈbreɪkbiːt] noun 1.碎拍（組成舞曲節奏的一系列鼓點） 2.碎拍舞曲（如嘻哈音樂）
 break-dancing  noun 霹靂舞（摻入雜技動作，常在街頭表演）
@@ -1608,7 +1608,7 @@ buster [ˈbʌstər] noun 1.(NAmE) (informal)（稱呼不喜歡的男子） 2.(�
 bustier [ˈbʌstieɪ] noun （露臂肩的）緊身女胸衣
 bust-up  noun 1.激烈的爭吵；憤怒的爭執 2.關係的結束；破裂
 busty [ˈbʌsti] adjective (informal)(女子)胸部豐滿的
-# busway [ˈbʌsweɪ] noun (BrE)公共汽車專用路；公交專用道
+busway [ˈbʌsweɪ] noun (BrE)公共汽車專用路；公交專用道
 busybody [ˈbɪzibɑːdi] noun (disapproving)好事的人
 busywork [ˈbɪziwɜːrk] noun (NAmE)消磨時間的工作
 butane [ˈbjuːteɪn] noun 丁烷
@@ -1735,7 +1735,7 @@ canyoning [ˈkænjənɪŋ] noun 懸崖跳水運動
 capacitance [kəˈpæsɪtəns] noun (物)1.電容，電容量（系統貯存電荷的能力） 2.電容率（電荷和電位變化之比值）
 capacitor [kəˈpæsɪtər] noun (物)電容器
 caparisoned [kəˈpærɪsnd] adjective （馬等）披掛裝飾的；披掛馬衣的
-# caped [keɪpt] adjective 穿披肩的；披斗篷的
+caped [keɪpt] adjective 穿披肩的；披斗篷的
 capercaillie [ˌkæpərˈkeɪli] noun 大松雞
 capital-intensive  adjective (企業、行業等)資本密集的
 capoeira [ˌkæpʊˈeɪrə] noun 卡波埃拉（一種巴西運動，類似於舞蹈和武術）
@@ -1929,8 +1929,8 @@ chancer [ˈtʃænsər] noun (BrE) (informal)投機者；鑽門子的人
 chancery [ˈtʃænsəri] noun 1.(律)（英國）高等法院的大法官法庭 2.(especially BrE)公共檔案館；公共檔案室 3.（美國）衡平法院 4.大使館（或領事館）辦公處
 chancy [ˈtʃænsi] adjective (informal)有風險的；不確定的
 chandler [ˈtʃændlər] noun 船用雜貨商（或雜貨店）
-# changeable [ˈtʃeɪndʒəbl] adjective 可能變化的；易變的；常變的
-# changed [tʃeɪndʒd] adjective (人或情況)與以前截然不同的；變化大的；已變的
+changeable [ˈtʃeɪndʒəbl] adjective 可能變化的；易變的；常變的
+changed [tʃeɪndʒd] adjective (人或情況)與以前截然不同的；變化大的；已變的
 changeless [ˈtʃeɪndʒləs] adjective (formal)永遠不變的；永恆的
 changeling [ˈtʃeɪndʒlɪŋ] noun (literary)（尤指童話中被仙女）偷換後留下的孩童
 changeover [ˈtʃeɪndʒoʊvər] noun （系統或工作方法的）改變，轉變，更換
@@ -1950,7 +1950,7 @@ chapped [tʃæpt] adjective (皮膚或唇)（尤指因風吹或天冷而）皸�
 chaps [tʃæps] noun （牛仔等騎馬時穿的）皮護腿套褲，皮套褲
 charabanc [ˈʃærəbæŋ] noun (old-fashioned) (BrE)（舊時尤用於遊覽的）旅遊車，遊覽車
 characterful [ˈkærəktərfl] adjective 很有趣且富有特色的
-# characterless [ˈkærəktərləs] adjective 無特徵的；無個性的；平凡的
+characterless [ˈkærəktərləs] adjective 無特徵的；無個性的；平凡的
 charbroil [ˈtʃɑːrbrɔɪl] verb charbroil sth炭烤，炭炙（肉等食物）
 chard [tʃɑːrd] noun 莙薘菜；牛皮菜；葉甜菜
 chargeable [ˈtʃɑːrdʒəbl] adjective 1.(一筆錢)應支付的；應償付的 2.(正常收入或其他所得)應徵稅的
@@ -1975,7 +1975,7 @@ chauvinism [ˈʃoʊvɪnɪzəm] noun 1.沙文主義 2.=male chauvinism
 chauvinist [ˈʃoʊvɪnɪst] noun 1.=male chauvinist 2.沙文主義者
 chav [tʃæv] noun (BrE) (slang)趕浪頭的年輕人
 cheapen [ˈtʃiːpən] verb 1.使喪失威信；使貶低 2.降低…的價格 3.使貶值；貶低
-# cheaply [ˈtʃiːpli] adverb 便宜地；廉價地；低廉地
+cheaply [ˈtʃiːpli] adverb 便宜地；廉價地；低廉地
 cheapo [ˈtʃiːpoʊ] adjective (informal, disapproving)價廉質劣的
 cheapskate [ˈtʃiːpskeɪt] noun (informal, disapproving)小氣鬼；守財奴
 checkbox [ˈtʃekbɑːks] noun BrE also（計算機屏幕上的）複選框
@@ -2003,7 +2003,7 @@ cheroot [ʃəˈruːt] noun （兩端開口的）雪茄煙
 cherry-pick  verb cherry-pick(sb/sth)篩選；精選
 cherub [ˈtʃerəb] noun 1.(藝術)小天使（常被繪為有翅膀的胖男孩） 2.(informal)可愛的小孩；乖小孩
 chervil [ˈtʃɜːrvɪl] noun 細葉芹，有喙歐芹（葉用作調料）
-# chessboard [ˈtʃesbɔːrd] noun 國際象棋棋盤；西洋棋棋盤
+chessboard [ˈtʃesbɔːrd] noun 國際象棋棋盤；西洋棋棋盤
 chessman [ˈtʃesmæn] noun 國際象棋棋子；西洋棋棋子
 chesterfield [ˈtʃestərfiːld] noun 1.切斯特菲爾德長沙發（扶手和靠背同高） 2.(CanE)長沙發
 chesty [ˈtʃesti] adjective (informal) (especially BrE)患胸部疾病的；有胸部疾病徵兆的
@@ -2181,14 +2181,14 @@ clematis [ˈklemətɪs] noun 鐵線蓮，轉子蓮（開白、紫或粉紅色花
 clementine [ˈkleməntiːn] noun 小柑橘
 clerestory [ˈklɪrstɔːri] noun (建)（大教堂中在高於周圍屋頂的牆壁上開的）天窗，高側窗
 clergywoman [ˈklɜːrdʒiwʊmən] noun （女）聖職人員，神職人員
-# clickable [ˈklɪkəbl] adjective (計)（文本或圖像）可點擊的
+clickable [ˈklɪkəbl] adjective (計)（文本或圖像）可點擊的
 clickstream [ˈklɪkstriːm] noun 點擊流路徑（個人瀏覽網站的記錄）
 client-server  adjective (計)(計算機系統)客戶服務器的；客戶伺服器的
 cliffhanger [ˈklɪfhæŋər] noun （故事、電影、競賽等扣人心弦的）懸念
 clifftop [ˈklɪftɑːp] noun 懸崖頂
 climatology [ˌklaɪməˈtɑːlədʒi] noun 氣候學
 climbdown [ˈklaɪmdaʊn] noun (BrE)認錯；（爭論中）改變立場，讓步
-# climbing [ˈklaɪmɪŋ] noun 登山運動；攀岩活動
+climbing [ˈklaɪmɪŋ] noun 登山運動；攀岩活動
 clime [klaɪm] noun (literary or humorous)（具有某種氣候的）地區，地帶；氣候帶
 clincher [ˈklɪntʃər] noun (informal)起決定性作用的事實（或話語、事情）
 cline [klaɪn] noun 漸變群（群體中相鄰的兩個成員相差無幾，但第一個和最後一個之間差異極明顯）
@@ -2296,7 +2296,7 @@ col [kɑːl] noun (術語)（山脈中兩個山峰之間的）山口
 cold-calling  noun 銷售商品的電話
 cold-hearted  adjective 冷酷無情的；無同情心的；不仁慈的
 coldie [ˈkoʊldi] noun (AustralE) (informal)一罐（或一瓶）冰鎮啤酒
-# coldness [ˈkoʊldnəs] noun 1.冷淡；冷漠；不友好的舉止 2.冷；寒冷
+coldness [ˈkoʊldnəs] noun 1.冷淡；冷漠；不友好的舉止 2.冷；寒冷
 cold-shoulder  verb cold-shoulder sb冷待；冷落；慢待
 coleslaw [ˈkoʊlslɔː] noun 涼拌菜絲（用生圓白菜、胡蘿蔔、洋葱等切絲與蛋黃醬攪拌而成）
 coley [ˈkoʊli] noun 綠青鱈（產於北大西洋）
@@ -2304,7 +2304,7 @@ colic [ˈkɑːlɪk] noun （尤指嬰兒的）急性腹痛，腹絞痛
 colitis [kəˈlaɪtɪs] noun (醫)結腸炎
 collapsible [kəˈlæpsəbl] adjective 可摺叠的；可套縮的
 collarless [ˈkɑːlərləs] adjective 無領的
-# collectable [kəˈlektəbl] adjective 值得收藏（或收集、採集）的
+collectable [kəˈlektəbl] adjective 值得收藏（或收集、採集）的
 collectivism [kəˈlektɪvɪzəm] noun 集體主義；（一切農場、工商企業都歸政府或全民所有的）公有制
 collectivize [kəˈlektɪvaɪz] verb [often passive]collectivize sth使公有化，使集體化（將若干私營農場、工業企業等合併，使之歸集體或政府所有）
 collectorate [kəˈlektərət] noun 1.（一些南亞國家的）地方行政長官轄區，行政區 2.地方行政長官辦公室
@@ -2489,7 +2489,7 @@ contrastive [kənˈtræstɪv] adjective (語言)作對比研究的
 contretemps [ˈkɑːntrətɑː̃] noun from French formal or humorous不幸事情；令人難堪的齟齬
 contributory [kənˈtrɪbjətɔːri] adjective 1.促成的；促進的；起作用的 2.需要受益人付錢的
 contrivance [kənˈtraɪvəns] noun 1.(usually disapproving)非自然之物；人工產物；矯揉造作 2.精巧（或複雜）的裝置；專用工具 3.計謀；圈套；採用計謀（或圈套）
-# controllable [kənˈtroʊləbl] adjective 可控制（或管理、操縱、支配）的
+controllable [kənˈtroʊləbl] adjective 可控制（或管理、操縱、支配）的
 contusion [kənˈtuːʒn] noun (醫)挫傷
 conurbation [ˌkɑːnɜːrˈbeɪʃn] noun (formal)（有衞星城鎮的）大都市，集合城市
 convalescence [ˌkɑːnvəˈlesns] noun 康復期；恢復期；康復
@@ -2587,7 +2587,7 @@ cottager [ˈkɑːtɪdʒər] noun (BrE)（尤指舊時的）住農舍者，村民
 cottaging [ˈkɑːtɪdʒɪŋ] noun (BrE) (slang)（男性同性戀者）在公共衞生間尋找性伴侶
 cottonmouth [ˈkɑːtnmaʊθ] noun 棉口蛇，水蝮蛇（毒蛇，生活於美國水濱）
 couchette [kuːˈʃet] noun （列車上的）摺叠式卧鋪
-# coughing [ˈkɔːfɪŋ] noun 咳嗽
+coughing [ˈkɔːfɪŋ] noun 咳嗽
 coulis [kuːˈliː] noun (from French)稀果醬
 coulomb [ˈkuːlɑːm] noun (物)庫侖（電量單位）
 counselling [ˈkaʊnsəlɪŋ] noun 咨詢；輔導
@@ -2832,7 +2832,7 @@ cutup [ˈkʌtʌp] noun (NAmE) (informal)（引人注意和逗笑的）活寶，�
 cwtch [kʊtʃ] verb (WelshE)cwtch(sb)（被）緊緊擁抱
 cyan [ˈsaɪən] noun (術語)藍綠色，青色（用於印刷）
 cybercafe [ˈsaɪbərkæfeɪ] noun 網吧；網咖
-# cybercrime [ˈsaɪbərkraɪm] noun 網絡犯罪；網路犯罪
+cybercrime [ˈsaɪbərkraɪm] noun 網絡犯罪；網路犯罪
 cybernaut [ˈsaɪbərnɔːt] noun 1.虛擬現實體驗者；虛擬實境體驗者 2.網絡用戶；網民；網路使用者
 cybernetics [ˌsaɪbərˈnetɪks] noun 控制論，神經機械學（對信息傳遞和控制的科學研究，尤涉及人和動物大腦與機器和電子裝置的比較）
 cyberpunk [ˈsaɪbərpʌŋk] noun 電腦科幻小說，電腦叛客（以受科技與電腦所控制的虛構未來世界為背景）
@@ -2876,7 +2876,7 @@ damsel [ˈdæmzl] noun (old use)少女；姑娘；閨女
 damselfly [ˈdæmzlflaɪ] noun 豆娘
 damson [ˈdæmzn] noun 西洋李子（果實呈紫色，類似李子）
 dan [dæn] noun 1.（空手道或柔道的）段 2.入段的空手道（或柔道）選手
-# dancing [ˈdænsɪŋ] noun 跳舞；舞蹈
+dancing [ˈdænsɪŋ] noun 跳舞；舞蹈
 dandified [ˈdændɪfaɪd] adjective (old-fashioned, disapproving)(男子)講究衣着和外表的；好打扮的；油頭粉面的
 dandle [ˈdændl] verb (old-fashioned)dandle sb搖逗（放在膝上的孩子）
 dandruff [ˈdændrʌf] noun 頭皮屑
@@ -3069,7 +3069,7 @@ deuce [duːs] noun 1.(網球)局末平分 2.(NAmE)二點的紙牌 3.(old-fashion
 deuced [djuːst] adjective (old use)（強調生氣、失望、驚訝等感情）非常的，極其的
 deurmekaar [ˌdjɜːrməˈkɑːr] adjective (SAfrE) (informal)混亂的；迷惑的
 deuterium [djuːˈtɪriəm] noun (化)氘，重氫（氫的同位素）
-# developing [dɪˈveləpɪŋ] adjective (國家、社會等)發展中的
+developing [dɪˈveləpɪŋ] adjective (國家、社會等)發展中的
 devilish [ˈdevəlɪʃ] adjective 1.殘忍邪惡的；惡毒的 2.魔鬼似的，惡魔似的（但具吸引力）
 devilishly [ˈdevəlɪʃli] adverb (old-fashioned)極其；非常
 devilled [ˈdevld] adjective (BrE)用辣味濃湯燉的
@@ -3177,7 +3177,7 @@ disambiguate [ˌdɪsæmˈbɪɡjueɪt] verb (術語)disambiguate sth消除歧義
 disapprobation [ˌdɪsˌæprəˈbeɪʃn] noun (formal)（對不道德的人或事）反對，不認可
 disapproving [ˌdɪsəˈpruːvɪŋ] adjective 不贊成的；表示反對的；不以為然的
 disassembler [ˌdɪsəˈsemblər] noun (計)反彙編程序；反組譯器
-# disbelieve [ˌdɪsbɪˈliːv] verb (不用於進行時)不信；懷疑
+disbelieve [ˌdɪsbɪˈliːv] verb (不用於進行時)不信；懷疑
 discernment [dɪˈsɜːrnmənt] noun (formal, approving)識別能力；洞察力
 disciplinarian [ˌdɪsəplɪˈneriən] noun 嚴格紀律信奉者；嚴格執行紀律者
 discoloration [ˌdɪsˌkʌləˈreɪʃn] noun 1.變色；褪色 2.變色處；褪色處
@@ -3543,7 +3543,7 @@ earbud [ˈɪrbʌd] noun 耳塞
 eardrum [ˈɪrdrʌm] noun 耳膜；鼓膜
 earful [ˈɪrfʊl] noun (informal)長時間的投訴（或牢騷）
 earhole [ˈɪrhoʊl] noun (informal)耳孔
-# earl [ɜːrl] noun 伯爵
+earl [ɜːrl] noun 伯爵
 earliest [ˈɜːrliɪst] noun the earliest 最早；最早時間
 earmuffs [ˈɪrmʌfs] noun （尤指禦寒用的）耳罩，耳套，護耳
 earnings-related  adjective (BrE)(付款等)與收入掛鈎的；按收益計算的
@@ -3570,12 +3570,12 @@ easy-care  adjective (衣服或布料)免熨燙的
 easy-peasy [ˌiːzi ˈpiːzi] adjective (BrE) (informal)(尤為兒語)簡單得很；容易極了
 eatable [ˈiːtəbl] adjective 可吃的；可食用的
 eat-in  adjective (廚房)可供用餐的
-# eating [ˈiːtɪŋ] noun 吃；飲食
+eating [ˈiːtɪŋ] noun 吃；飲食
 eats [iːts] noun (informal)（尤指聚會上的）小吃
 eaves [iːvz] noun 屋簷
-# e-book  noun 電子書
+e-book  noun 電子書
 ebullient [ɪˈbʌliənt] adjective (formal)充滿自信的；精力充沛的；熱情洋溢的
-# e-cash  noun 電子現金（互聯網付費和收費系統）
+e-cash  noun 電子現金（互聯網付費和收費系統）
 ecclesiastic [ɪˌkliːziˈæstɪk] noun (formal)（基督教）教士，聖職人員
 echidna [ɪˈkɪdnə] noun 針鼴，針食蟻獸（澳大拉西亞長吻食蟻獸）
 echinacea [ˌekɪˈneɪsiə] noun 松果菊屬植物，紫錐菊（類似雛菊，據信有助於身體自瘉及抗感染）
@@ -3752,7 +3752,7 @@ entropy [ˈentrəpi] noun 1.(術語)無序狀態測量法 2.(物)熵（系統或
 entry-level  adjective 1.(產品)適合初級用戶的；入門級的 2.(工作)（公司中）最初級的
 enuresis [ˌenjʊˈriːsɪs] noun (醫)遺尿（症）；（尤指兒童）尿牀
 eolian [iːˈoʊliən] adjective (NAmE)(術語)風的；風成的
-# e-pal  noun 網友（通過電子郵件交流）
+e-pal  noun 網友（通過電子郵件交流）
 epaulette [ˈepəlet] noun (especially BrE)（尤指軍服上的）肩章，肩飾
 ephemera [ɪˈfemərə] noun 只在短期內有用的事物
 epicene [ˈepɪsiːn] adjective 1.(formal)兼具男女兩性特徵的；缺乏性特徵的 2.(語法)(詞)通性的
@@ -3794,7 +3794,7 @@ erudition [ˌeruˈdɪʃn] noun (formal)博學；學問
 eruptive [ɪˈrʌptɪv] adjective 火山爆發的；火山噴發的
 escalope [ɪˈskɑːləp] noun 薄肉片（常裹以麪包屑油炸）
 escapade [ˌeskəˈpeɪd] noun （常指危險或愚蠢的）冒險行為，惡作劇
-# escaped [ɪˈskeɪpt] adjective 逃跑了的
+escaped [ɪˈskeɪpt] adjective 逃跑了的
 escapee [ɪˌskeɪˈpiː] noun (formal)逃亡者；脫逃的動物；（尤指）逃犯
 escapologist [ˌeskəˈpɑːlədʒɪst] noun 擅長表演從捆紮的繩索（或箱子等）中脫身的魔術演員；脫逃術表演者
 escarpment [ɪˈskɑːrpmənt] noun 陡坡；懸崖；峭壁
@@ -3810,14 +3810,14 @@ ester [ˈestər] noun (化)酯（由有機酸和乙醇形成的芳香物質）
 estrangement [ɪˈstreɪndʒmənt] noun (formal)疏遠（的一段時間）；分居（期）
 estrus [ˈestrəs] noun (NAmE)(術語)（雌性動物的）動情期
 eta [ˈiːtə] noun 希臘字母表的第 7 個字母
-# e-tailing  noun 網上零售；網路零售
+e-tailing  noun 網上零售；網路零售
 eth [eð] noun (語音)*/æethː/音符號（古英語中用以表示/æthetaː/和/æethː/音的字母，後寫作 th）。
 ethane [ˈiːθeɪn] noun (化)乙烷（無色無味的可燃氣體）
 ethnocentric [ˌeθnoʊˈsentrɪk] adjective 種族（或民族）中心主義的；種族（或民族）優越感的
 ethyl [ˈeθɪl] adjective (化)含乙基的
 ethylene [ˈeθɪliːn] noun (化)乙烯
 ethyne [ˈeθaɪn] noun 乙炔
-# e-ticket  noun 電子票
+e-ticket  noun 電子票
 etiolated [ˈiːtiəleɪtɪd] adjective 1.(生)（植物因吸收光線不足而）黃化的 2.(formal)無力的；虛弱的
 eugenics [juːˈdʒenɪks] noun 優生學；人種改良學
 eunuch [ˈjuːnək] noun 1.閹人；太監 2.(formal)無權力（或影響）的人
@@ -3916,7 +3916,7 @@ eyewash [ˈaɪwɔːʃ] noun (old-fashioned, informal)空話；假話；口惠
 eye-watering  adjective (informal) (especially BrE)（高得）難以想像的；令人心痛的；催人落淚的
 eyewear [ˈaɪwer] noun (formal)（隱形）眼鏡
 eyrie [ˈɪri] noun 1.（在岩石高處築的）猛禽巢，鷹巢 2.（尤指難以接近的）高處的房屋
-# e-zine  noun 電子雜誌
+e-zine  noun 電子雜誌
 fabulist [ˈfæbjəlɪst] noun (formal)寓言作家；講故事的人
 fabulously [ˈfæbjələsli] adverb (formal)極其；非常
 facelift [ˈfeɪslɪft] noun 1.去皺整容手術；面部拉皮手術 2.（建築物、地方的）翻新，整修
@@ -3937,7 +3937,7 @@ fagged [fæɡd] adjective (BrE) (informal)筋疲力盡；累得要死
 faggot [ˈfæɡət] noun 1.(BrE)烤肉丸；炸肉丸 2.(NAmE)=fag 3.柴把；柴捆
 fah [fɑː] noun (音)大調音階的第 4 音
 fah-fee  noun (SAfrE)推筒子，押寶（一種對所選點數押錢賭博的遊戲）
-# failed [feɪld] adjective 失敗的；不成功的
+failed [feɪld] adjective 失敗的；不成功的
 fain [feɪn] adverb (old use)欣然；樂意地
 faint-hearted  adjective 膽怯的；怯懦的
 faintness [ˈfeɪntnəs] noun 眩暈；昏厥
@@ -4077,7 +4077,7 @@ fighter-bomber  noun 戰鬥轟炸機
 figured [ˈfɪɡjərd] adjective (術語)飾以圖案的
 figure-hugging  adjective (衣服)緊身的；包身的；烘托線條的
 figure-skating  noun 花樣滑冰；花式溜冰
-# filename [ˈfaɪlneɪm] noun (計)文件名；檔案名
+filename [ˈfaɪlneɪm] noun (計)文件名；檔案名
 fillip [ˈfɪlɪp] noun (formal)[singular]a fillip(to/for sth)起推動作用的人（或事物）
 fill-up  noun （汽車）加滿油
 film-goer  noun (especially BrE)（經常）上電影院的人；愛看電影者
@@ -4330,7 +4330,7 @@ forethought [ˈfɔːrθɔːt] noun 深謀遠慮
 forewarn [fɔːrˈwɔːrn] verb (formal)[often passive]forewarn sb (of sth)|forewarn sb that…預先警告；事先告誡
 forfend [fɔːrˈfend] verb 1.(NAmE)防止；阻止 2.(old use)防止；擋開
 forget-me-not  noun 勿忘我，勿忘草（野生，開藍花）
-# forgivable [fərˈɡɪvəbl] adjective 可原諒的；可寬恕的
+forgivable [fərˈɡɪvəbl] adjective 可原諒的；可寬恕的
 forked [fɔːrkt] adjective 叉狀的（形如字母 Y）
 forkful [ˈfɔːrkfʊl] noun 一叉子（的量）
 formaldehyde [fɔːrˈmældɪhaɪd] noun 1.甲醛 2.(術語)福爾馬林；甲醛水溶液
@@ -4356,7 +4356,7 @@ four-by-four  noun 四輪驅動汽車
 four-dimensional  adjective 四維的（包括長、寬、高和時間）；四度空間的
 four-square  adjective 1.(建築物)方形堅固的；方方正正的 2.(人)堅決果斷的；堅定不移的
 four-stroke  adjective (術語)(發電機或機動車)四衝程的
-# fourth [fɔːrθ] ordinal number 第四 noun (especially NAmE)=quarter
+fourth [fɔːrθ] ordinal number 第四 noun (especially NAmE)=quarter
 fourthly [ˈfɔːrθli] adverb （用於列舉）第四
 four-wheeler  noun (NAmE)四輪摩托車（常用於娛樂）
 foxed [fɑːkst] adjective 1.困惑的；迷惑不解的 2.(舊書書頁或圖片)佈滿褐色斑點的
@@ -5046,7 +5046,7 @@ hairband [ˈherbænd] noun 束髮帶；髮箍
 hairbrush [ˈherbrʌʃ] noun 髮刷；毛刷
 hairdryer [ˈherdraɪər] noun （吹乾頭髮的）吹風機
 hairgrip [ˈherɡrɪp] noun (BrE)髮夾
-# hairless [ˈherləs] adjective 無髮的；無毛的；禿的
+hairless [ˈherləs] adjective 無髮的；無毛的；禿的
 hairnet [ˈhernet] noun 髮網
 hairpiece [ˈherpiːs] noun （使頭髮看上去更長或更濃密的）假髮
 hairpin [ˈherpɪn] noun 1.髮夾 2.=hairpin bend
@@ -5344,7 +5344,7 @@ high-born  adjective (old-fashioned or formal)出身高貴的
 highboy [ˈhaɪbɔɪ] noun (NAmE)（帶抽屜的）高腳衣櫃
 high-class  adjective 1.極好的；高級的 2.上流社會的
 high-definition  adjective (術語)高清晰度的；高分辨率的
-# higher [ˈhaɪər] adjective 高等級的；級別較高的；較重要的
+higher [ˈhaɪər] adjective 高等級的；級別較高的；較重要的
 higher-up  noun (informal)上級；上司；長官
 highfalutin [ˌhaɪfəˈluːtɪn] adjective (informal)裝模作樣的；浮誇的；做作的
 high-flown  adjective (usually disapproving)(語言和思想)浮誇的；故弄玄虛的；說大話的
@@ -11940,7 +11940,7 @@ third-rate  adjective 劣質的；三等的；三流的
 thistledown [ˈθɪsldaʊn] noun 薊種子冠毛
 thither [ˈðɪðər] adverb (old use)到那裏；向那裏
 thorax [ˈθɔːræks] noun 1.(解)胸；胸腔 2.（昆蟲的）胸，胸部
-thorium [ˈθɔːriəm] noun （放射性化學元素）
+thorium [ˈθɔːriəm] noun 釷（放射性化學元素）
 thoroughbred [ˈθɜːroʊbred] noun 純種動物，良種動物（尤指馬）
 thoroughgoing [ˌθɜːroʊˈɡoʊɪŋ] adjective 1.徹底的；仔細的 2.完全的；全面的；徹底的
 thoughtcrime [ˈθɔːtkraɪm] noun 思想罪（被認為社會不接受或構成犯罪的想法或觀點）
@@ -11951,7 +11951,7 @@ thrashing [ˈθræʃɪŋ] noun 1.棒打；毆打；痛打 2.(informal)（比賽�
 threaded [ˈθredɪd] adjective (術語)(螺釘等)有螺紋的
 threadworm [ˈθredwɜːrm] noun 線蟲；蟯蟲
 three-cornered  adjective 1.三角形的；有三個角的；三隅的 2.有三人參加的；有三個組的
-three-peat  noun (NAmE)（尤指在同一個體育比賽中的）第三次獲勝，三連冠，三連霸
+three-peat  noun (NAmE)(尤用於報章)（尤指在同一個體育比賽中的）第三次獲勝，三連冠，三連霸
 threepence [ˌθriːˈpens] noun (BrE)（舊時的）三便士
 three-piece  adjective (BrE)三件一套的；由三部份組成的
 three-quarter  adjective 四分之三的
@@ -11963,9 +11963,9 @@ thrice [θraɪs] adverb (old use or formal)三次；三倍
 throaty [ˈθroʊti] adjective 聲音低沉的；嘶啞的
 thrombosis [θrɑːmˈboʊsɪs] noun (醫)血栓形成
 throughput [ˈθruːpʊt] noun (術語)（某一時期內的）生產量，接待人數
-throwaway [ˈθroʊəweɪ] adjective 1.脫口而出的；順嘴說出的；開玩笑的 2.貨品等
+throwaway [ˈθroʊəweɪ] adjective 1.脫口而出的；順嘴說出的；開玩笑的 2.(貨品等)用後丟棄的；一次性使用的
 thrower [ˈθroʊər] noun 投擲者；投手
-throw-in  noun 足球和橄欖球
+throw-in  noun (足球和橄欖球)擲界外球；擲邊線球
 thrush [θrʌʃ] noun 1.鶇（一種背部為褐色、胸部有褐色斑點的鳥） 2.鵝口瘡；真菌性口炎 3.(BrE)唸珠菌陰道炎
 thruster [ˈθrʌstər] noun 助力器；（尤指航天器的）推進器，加速器
 thruway [ˈθruːweɪ] noun (NAmE)（用於某些跨州或州際高速公路的名稱中）過境道路，直達道路
@@ -11974,7 +11974,7 @@ thulium [ˈθuːliəm] noun 銩
 thumbprint [ˈθʌmprɪnt] noun 拇指紋印
 thumbscrew [ˈθʌmskruː] noun 拇指夾（舊時的一種刑具）
 thumbsuck [ˈθʌmsʌk] noun (SAfrE) (informal, often disapproving)猜測；估計
-thumbtack [ˈθʌmtæk] noun (both NAmE)圖釘
+thumbtack [ˈθʌmtæk] noun (NAmE)圖釘
 thumping [ˈθʌmpɪŋ] adjective (informal)很大的；巨大的
 thunderbolt [ˈθʌndərboʊlt] noun 雷電；霹靂
 thunderbox [ˈθʌndərbɑːks] noun (old-fashioned) (BrE informal)（簡易）便桶，馬桶
@@ -11985,7 +11985,7 @@ thundery [ˈθʌndəri] adjective (天氣)有雷的；可能要打雷的
 thwack [θwæk] verb thwack sb/sth重擊；拍打；使勁打
 thymus [ˈθaɪməs] noun (解)胸腺
 thyself [ðaɪˈself] pronoun (old use or dialect)（用作第二人稱單數反身代詞）你自己
-ti [tiː] noun (NAmE)(BrE te)/tiː;NAmEtiː/noun大調音階的第 7 音
+ti [tiː] noun (NAmE)(音)大調音階的第 7 音
 tiara [tiˈɑːrə] noun 冠狀頭飾（女子用，如公主在正式場合戴的鑲有寶石的王冠式頭飾）
 tibia [ˈtɪbiə] noun (解)脛骨
 ticketed [ˈtɪkɪtɪd] adjective 須憑票入場的
@@ -11993,7 +11993,7 @@ ticketing [ˈtɪkɪtɪŋ] noun 售票
 tickety-boo [ˌtɪkəti ˈbuː] adjective (old-fashioned) (BrE informal)非常好；妥當
 tick-tock [ˌtɪk ˈtɑːk] noun （大時鐘的）滴答聲
 ticky-tacky [ˌtɪki ˈtæki] noun (NAmE) (informal)廉價劣質建築材料
-tic-tac-toe [ˈtoʊ] noun (NAmE)井字遊戲，圈叉遊戲（二人輪流在井字形九格中畫 O 或 X，先將三個 O 或 X 連成一線者為勝）
+tic-tac-toe [ˌtɪk tæk ˈtoʊ] noun (NAmE)井字遊戲，圈叉遊戲（二人輪流在井字形九格中畫 O 或 X，先將三個 O 或 X 連成一線者為勝）
 tiddler [ˈtɪdlər] noun (BrE) (informal)小魚
 tiddly [ˈtɪdli] adjective 1.微醉的；有醉意的 2.微小的
 tiddlywinks [ˈtɪdliwɪŋks] noun 挑圓片遊戲（用大圓片壓小圓片的邊緣使其彈入杯狀容器）
@@ -12001,17 +12001,17 @@ tideline [ˈtaɪdlaɪn] noun （海灘上的）漲潮線
 tidemark [ˈtaɪdmɑːrk] noun 1.（海灘上的）高潮痕 2.(BrE) (informal)（污水在浴缸內側留下的一圈）垢痕
 tidewater [ˈtaɪdwɔːtər] noun 1.(NAmE)濱海地區；沿海低地 2.潮水
 tidings [ˈtaɪdɪŋz] noun (old-fashioned or humorous)消息；音訊；音信
-tiebreak [ˈtaɪbreɪk] noun (BrE)平分決勝局；搶七局
+tiebreak [ˈtaɪbreɪk] noun (BrE)(網球)平分決勝局；搶七局
 tiebreaker [ˈtaɪbreɪkər] noun 1.(NAmE)平分決勝局；搶七局 2.平分決勝比賽；（競賽中比分相同時附加的）決勝負問題
 tied [taɪd] adjective (BrE)(房屋)只租給雇工居住的
 tie-dye  verb tie-dye sth紮染（織物）
 tie-in  noun （與新上演的電影或電視節目等）相關的產品，有關的書籍，有聯繫的玩具
-tiepin [ˈtaɪpɪn] noun NAmE also領帶扣針；領帶別針
+tiepin [ˈtaɪpɪn] noun 領帶扣針；領帶別針
 tiered [tɪrd] adjective 1.成排的；分層的 2.(構成複合詞)…層的；…排的；…級的
 tie-up  noun 1.(BrE)（兩家公司的）聯合，合作 2.(BrE)聯繫；關係；關聯 3.(especially NAmE)停頓；停滯不前
 tiffin [ˈtɪfɪn] noun (old-fashioned or IndE)簡易飯菜；（尤指）午餐
 tigerish [ˈtaɪɡərɪʃ] adjective 像虎的；兇猛有力的
-tight-arse  noun 1.(BrE)吝嗇鬼；鐵公雞 2.(BrE)拘謹的人；拘泥的人
+tight-arse  noun (informal, disapproving)1.(BrE)吝嗇鬼；鐵公雞 2.(BrE)拘謹的人；拘泥的人
 tight-fisted  adjective 吝嗇的；小氣的
 tight-fitting  adjective 緊身的；貼身的
 tight-knit  adjective (家族或社區)關係密切的；緊密團結的
@@ -12023,10 +12023,10 @@ tilapia [tɪˈlɑːpiə] noun 羅非魚，吳郭魚
 tilde [ˈtɪldə] noun 1.腭化符號（~）（置於某些語言的字母和國際音標中某些元音符號之上，表示發音方法） 2.波浪號，代字號（在本詞典詞條的某些義項內用以代表首詞）
 tiler [ˈtaɪlər] noun 磚瓦匠；鋪瓦工；貼磚工
 tiling [ˈtaɪlɪŋ] noun 1.瓷磚面；地磚面；瓦屋頂 2.蓋瓦；貼瓷磚；鋪地磚
-tillage [ˈtɪlɪdʒ] noun 1.耕地（包括整地和土壤中耕） 2.耕地
+tillage [ˈtɪlɪdʒ] noun (old-fashioned)1.耕地（包括整地和土壤中耕） 2.耕地
 tiller [ˈtɪlər] noun （小船的）舵柄
 timbered [ˈtɪmbərd] adjective 木製的；木結構的
-time-honoured  adjective especially US古老而受到尊重的；歷史悠久的；由來已久的
+time-honoured  adjective 古老而受到尊重的；歷史悠久的；由來已久的
 timekeeper [ˈtaɪmkiːpər] noun （工作或運動比賽等的）時間記錄員，計時員
 timekeeping [ˈtaɪmkiːpɪŋ] noun 1.（尤指上班的）準時，守時 2.計時
 time-lapse  adjective (攝影)延時拍攝的
@@ -12039,7 +12039,7 @@ time-saving  adjective 節省時間的；省時的
 timescale [ˈtaɪmskeɪl] noun （事情發生或完成所需要的）一段時間，期限
 time-server  noun (disapproving)等待時間過去的人（離職或退休前苟且偷安）；混日子的人
 timeshare [ˈtaɪmʃer] noun 1.分時使用度假房的辦法 2.分時使用的度假房
-time-wasting  noun 1.浪費時間 2.(BrE)（比賽接近結束時為阻止對手得分的）拖延時間
+time-wasting  noun 1.浪費時間 2.(BrE)(體育運動)（比賽接近結束時為阻止對手得分的）拖延時間
 time-worn  adjective 陳舊的；陳腐的；日久用壞的
 timpani [ˈtɪmpəni] noun informal（管弦樂隊的）定音鼓
 tincture [ˈtɪŋktʃər] noun (術語)酊；酊劑
@@ -12050,7 +12050,7 @@ tingly [ˈtɪŋɡli] adjective 引起（或感到）輕微刺痛的
 tinkle [ˈtɪŋkl] noun 1.丁零聲；噹啷響 2.(old-fashioned) (BrE informal)電話通話 3.(BrE) (informal)撒尿；小便 verb （使）發出叮噹聲，丁零響
 tinned [tɪnd] adjective (BrE)(食物)罐裝的
 tinnitus [ˈtɪnɪtəs] noun (醫)耳鳴
-tinny [ˈtɪni] adjective 1.（聲音）尖細的，尖聲尖氣的，如金屬片碰撞聲般的 2.有金屬味的 noun (AustralE, NZE) (informal)一罐啤酒
+tinny [ˈtɪni] adjective (especially BrE) (disapproving)1.（聲音）尖細的，尖聲尖氣的，如金屬片碰撞聲般的 2.有金屬味的 noun (AustralE, NZE) (informal)一罐啤酒
 tinplate [ˈtɪnpleɪt] noun 鍍錫鐵皮；馬口鐵
 tinpot [ˈtɪnpɑːt] adjective (BrE) (disapproving)(尤指領導人或政府)無足輕重的；不起作用的
 tinsel [ˈtɪnsl] noun （尤指聖誕節時裝飾用的）光片，金屬箔，金屬絲
@@ -12063,13 +12063,13 @@ tipsy [ˈtɪpsi] adjective (informal)微醉的；略有醉意的
 tip-top  adjective (informal)極好的；頭等的；一流的
 tip-up  adjective (座位)（無人坐時）自動上翻的，自動收起的
 titbit [ˈtɪtbɪt] noun 1.小片食物 2.花絮；趣聞；佚事
-titch [tɪtʃ] noun BrE informal often humorous（用於談論或稱呼）小不點兒，娃兒
+titch [tɪtʃ] noun (BrE informal often humorous)（用於談論或稱呼）小不點兒，娃兒
 titchy [ˈtɪtʃi] adjective (BrE) (informal)很小的
 tithe [taɪð] noun 1.（舊時按固定比例給教會的）什一稅 2.（現在某些教友按收入的十分之一給基督教教會的）什一捐獻
 titillate [ˈtɪtɪleɪt] verb (often disapproving)使興奮；煽情；煽動情慾
 titivate [ˈtɪtɪveɪt] verb titivate sth打扮；裝扮；裝點
 titled [ˈtaɪtld] adjective 有頭銜的；有爵位的
-title-holder  noun 1.冠軍；冠軍得主 2.(術語)法定所有人；合法所有人
+title-holder  noun 1.冠軍；冠軍得主 2.(術語)(NAmE)法定所有人；合法所有人
 titrate [taɪˈtreɪt] verb (化)titrate sth滴定測量（液體中的物質）
 titter [ˈtɪtər] verb （尤指緊張或尷尬地）傻笑，嗤嗤地笑，竊笑
 tittle-tattle [ˈtɪtl tætl] noun (informal, disapproving)閒聊；蜚短流長；張家長李家短
@@ -12080,11 +12080,11 @@ toadstool [ˈtoʊdstuːl] noun 傘菌；毒菌；毒蕈；毒蘑菇
 toastie [ˈtoʊsti] noun (BrE)烤三明治；吐司三明治
 toastmaster [ˈtoʊstmæstər] noun 宴會主持人；致祝酒辭的人
 toasty [ˈtoʊsti] adjective (especially NAmE)暖烘烘的；溫暖舒適的
-tobacconist [təˈbækənɪst] noun 1.煙草店老闆；煙草商 2.煙草店
+tobacconist [təˈbækənɪst] noun 1.煙草店老闆；煙草商 2.tobacconist's 煙草店
 toboggan [təˈbɑːɡən] noun 長雪橇；平底長雪橇 verb 坐長雪橇滑行
 toccata [təˈkɑːtə] noun 托卡塔（用鍵盤樂器演奏的樂曲，其中有的樂段難度很大，以顯示演奏者的技藝）
 tocsin [ˈtɑːksɪn] noun (old use)警鐘；警戒信號
-tod [tɑːd] noun 
+tod [tɑːd] noun on your tod(old-fashioned) (BrE informal)獨自；單獨
 toddle [ˈtɑːdl] verb 1.（幼兒學步時）搖搖擺擺地走，蹣跚行走 2.(informal)步行；去
 toddy [ˈtɑːdi] noun 托迪酒（用烈酒加熱水、糖或香料等調配而成）
 todger [ˈtɑːdʒər] noun (BrE) (informal)陰莖
@@ -12096,17 +12096,15 @@ toe-tapping  adjective (informal)(音樂)歡快的；輕鬆明快的
 toey [ˈtoʊi] adjective (AustralE, NZE) (informal)（人或動物）神經緊張的，焦急不安的，躁動的
 toff [tɑːf] noun (BrE) (informal)紈絝子弟；花花公子
 toffee [ˈtɔːfi] noun 太妃糖；乳脂糖
-toffee apple  noun (BrE)太妃蘋果（外塗奶油乳脂，用籤子插起）
 toffee-nosed  adjective (old-fashioned) (BrE informal)勢利眼的；妄自尊大的；目空一切的
-tog [tɑːɡ] noun 1.(informal, becoming old-fashioned)（尤指專用的）衣服，服裝 2.托格（顯示羽絨被褥等保暖性的熱阻計量單位） verb 
+tog [tɑːɡ] noun (BrE)1.(informal, becoming old-fashioned)（尤指專用的）衣服，服裝 2.托格（顯示羽絨被褥等保暖性的熱阻計量單位） verb be togged out/up (in sth)(informal)穿着（適合某種活動或場合）的服裝
 toga [ˈtoʊɡə] noun 托加袍（古羅馬市民穿的寬鬆大袍）
 togetherness [təˈɡeðərnəs] noun （尤指家庭或朋友的）和睦相處，親密無間，團結友愛
 toggle [ˈtɑːɡl] noun 1.（大衣或袋子等上木質或塑料的）栓扣釘，棒形鈕扣，套索扣 2.(計)轉換鍵；切換鍵 verb (計)（兩種狀態之間）切換，轉換
-toggle switch  noun 1.撥動開關；扳扭開關；肘節開關 2.(計)
 toiletries [ˈtɔɪlətriz] noun （香皂、牙膏等）洗漱用品
 toilet-train  verb [usually passive]toilet-train sb訓練（幼兒）上廁所
 toils [tɔɪlz] noun (formal or literary)牢籠；羅網
-toing [ˈtuːɪŋ] noun 1.來回運動；往返旅行；來來往往 2.翻來覆去地做（或討論）；忙亂；折騰
+toing [ˈtuːɪŋ] noun toing and froing 1.來回運動；往返旅行；來來往往 2.翻來覆去地做（或討論）；忙亂；折騰
 toke [toʊk] noun (informal)吸一口（大麻煙）
 tokenism [ˈtoʊkənɪzəm] noun (disapproving)裝點門面；表面文章；敷衍了事；應付差事
 tokoloshe [ˈtɑːkəlɑːʃ] noun (SAfrE)托克洛希（傳說中能趁人睡眠時進行傷害的邪惡精靈）
@@ -12128,7 +12126,7 @@ tongue-in-cheek  adjective 言不由衷的；隨便說說的；開玩笑的
 tongue-tied  adjective （因害羞或緊張）張口結舌的，說不出話來的
 tongue-twister  noun 繞口令
 tonify [ˈtoʊnɪfaɪ] verb tonify sth（通過鍛煉或塗特殊的護膚霜等）提高肌肉張力
-tonne [tʌn] noun 公噸（等於 1 000 公斤）
+tonne [tʌn] noun 公噸（等於 1 000 公斤）
 tonsil [ˈtɑːnsl] noun 扁桃體
 tonsillectomy [ˌtɑːnsəˈlektəmi] noun (醫)扁桃體切除術
 tonsillitis [ˌtɑːnsəˈlaɪtɪs] noun 扁桃體炎
@@ -12139,11 +12137,11 @@ toolkit [ˈtuːlkɪt] noun 1.（裝在箱子或包裏的）一套工具；工具
 toolmaker [ˈtuːlmeɪkər] noun （尤指工業用）工具製造者，工具製造廠
 toonie [ˈtuːni] noun (CanE)兩加元硬幣
 toot [tuːt] noun （喇叭、哨子等發出的）嘟嘟聲 verb (especially BrE)（汽車喇叭）發出短促尖銳的聲音，發出嘟嘟聲
-toothache [ˈtuːθeɪk] noun (BrE)牙痛
+toothache [ˈtuːθeɪk] noun 牙痛
 toothed [tuːθt] adjective 1.(術語)有齒的 2.(構成複合詞)有…齒的
 toothsome [ˈtuːθsəm] adjective (humorous)(食物)美味的；可口的
 toothy [ˈtuːθi] adjective （笑時）露齒的，多齒的
-tootle [ˈtuːtl] verb 1.信步；閒逛；遛達；不慌不忙地開車 2.吹奏（樂器）
+tootle [ˈtuːtl] verb (informal)1.信步；閒逛；遛達；不慌不忙地開車 2.吹奏（樂器）
 tootsies [ˈtʊtsɪz] noun (informal)腳趾；腳
 topaz [ˈtoʊpæz] noun 黃玉
 top-class  adjective 頭等的；第一流的；頂級的
@@ -12151,7 +12149,7 @@ topcoat [ˈtɑːpkoʊt] noun 1.（油漆等的）外塗層 2.(old-fashioned)大�
 top-end  adjective 最高檔的；最昂貴級的；最高級的
 top-flight  adjective 第一流的；最高檔的；最佳的；最成功的
 top-grossing  adjective 賺錢最多的；收入最高的
-top-heavy  adjective 1.上部過重的；頭重腳輕的 2.組織
+top-heavy  adjective 1.上部過重的；頭重腳輕的 2.(組織)高級職員過多的；將多兵少的
 top-hole  adjective (old-fashioned) (BrE informal)極好的；很棒的
 topi [ˈtoʊpi] noun 遮陽帽；通草帽
 topiary [ˈtoʊpieri] noun 林木造型藝術；綠雕塑術
@@ -12166,7 +12164,7 @@ topsail [ˈtɑːpseɪl] noun 上桅帆
 top-shelf  adjective 1.(BrE)含色情內容的 2.(especially NAmE)一流的
 topside [ˈtɑːpsaɪd] noun (BrE)牛上股肉
 topspin [tɑːpspɪn] noun (體)（球的）上旋
-top-up  noun 1.附加付款 2.(informal)（重新斟滿杯子的）補充飲料
+top-up  noun (BrE)1.附加付款 2.(informal)（重新斟滿杯子的）補充飲料
 toque [toʊk] noun 1.托克小女帽；無邊女帽 2.(CanE)絨線保暖帽，絨線無邊帽（有時頂部飾絨球）
 tor [tɔːr] noun （尤指英格蘭西南部的）突岩
 torchlight [ˈtɔːrtʃlaɪt] noun 手電筒光；火炬的光亮
@@ -12174,7 +12172,7 @@ toreador [ˈtɔːriədɔːr] noun （西班牙等地、尤指騎馬的）鬥牛�
 tormentor [tɔːrˈmentər] noun (formal)折磨人的人；折磨者
 torsion [ˈtɔːrʃn] noun (術語)（物體等一端固定的）扭轉
 torte [ˈtɔːrtə] noun 奶油巧克力水果大蛋糕
-tortoiseshell [ˈtɔːrtəsʃel] noun 1.龜甲；龜板；玳瑁殼 2.NAmE also（毛色為黃褐黑白相間的）家貓 3.（翅膀帶黃褐色斑點的）蛺蝶
+tortoiseshell [ˈtɔːrtəsʃel] noun 1.龜甲；龜板；玳瑁殼 2.（毛色為黃褐黑白相間的）家貓 3.（翅膀帶黃褐色斑點的）蛺蝶
 tortured [ˈtɔːrtʃərd] adjective 遭受重創的；飽受煎熬的
 tosa [ˈtoʊsə] noun 土佐鬥犬
 tosh [tɑːʃ] noun (old-fashioned) (BrE slang)胡說；廢話
@@ -12192,7 +12190,7 @@ touchpaper [ˈtʌtʃpeɪpər] noun （焰火的）火硝紙，導火紙
 touch-type  verb （不看鍵盤）按指法打字；盲打
 touch-up  noun 潤色；修飾；裝點
 touchy-feely  adjective (informal, usually disapproving)露骨地表示情感的
-toughie [ˈtʌfi] noun 1.堅定勇敢的人；無畏的人 2.艱難的選擇；難題
+toughie [ˈtʌfi] noun (informal)1.堅定勇敢的人；無畏的人 2.艱難的選擇；難題
 tough-minded  adjective 堅定理智的；堅强面對現實的
 touristy [ˈtʊrɪsti] adjective (informal, disapproving)吸引很多遊客的；為吸引遊客設計的
 towelling [ˈtaʊəlɪŋ] noun (BrE)毛巾布；毛巾料
@@ -12210,7 +12208,7 @@ tracing [ˈtreɪsɪŋ] noun 描摹；摹圖；描圖
 trackball [ˈtrækbɔːl] noun (計)軌跡球；跟踪球；光標運動球
 tracksuit [ˈtræksuːt] noun （運動練習時或作便衣穿的）寬鬆暖和的衣褲；運動服
 tractor-trailer  noun (NAmE)牽引式掛車；鉸接式卡車；載重拖車
-trad [træd] noun less frequent傳統爵士樂（有 20 世紀 20 年代的風格、固定的節奏及和聲，可即興發揮）
+trad [træd] noun 傳統爵士樂（有 20 世紀 20 年代的風格、固定的節奏及和聲，可即興發揮）
 tradable [ˈtreɪdəbl] adjective (術語)可買賣的；可交易的
 trade-in  noun 折舊貼換交易；以舊折價換新；折價舊物
 tradesman [ˈtreɪdzmən] noun 1.上門推銷商；送貨員 2.(especially BrE)售貨的商人；店主 3.(especially NAmE)工匠；手藝人
@@ -12218,26 +12216,26 @@ tradespeople [ˈtreɪdzpiːpl] noun 1.（統稱）商人，商店主人 2.手藝
 trade-up  noun 賣次買好；以次換好的買賣
 trading [ˈtreɪdɪŋ] noun 貿易；經商；營業；交易
 traditionalism [trəˈdɪʃənəlɪzəm] noun 傳統主義（認為傳統習俗比現代思想對社會更重要）
-tragedian [trəˈdʒiːdiən] noun 1.悲劇作家 2.悲劇演員
+tragedian [trəˈdʒiːdiən] noun (formal)1.悲劇作家 2.悲劇演員
 tragicomedy [ˌtrædʒiˈkɑːmədi] noun 1.悲喜劇；悲喜劇作品 2.悲喜交加的事情（或局面）
 trailblazer [ˈtreɪlbleɪzər] noun 創始人；先驅；拓荒者；開路先鋒
 trainman [ˈtreɪnmən] noun (NAmE)列車員；乘務員
-trainspotter [ˈtreɪnspɑːtər] noun 1.（作為業餘愛好）收集機車號碼的人 2.(disapproving)過分注重細節的人
+trainspotter [ˈtreɪnspɑːtər] noun (BrE)1.（作為業餘愛好）收集機車號碼的人 2.(disapproving)過分注重細節的人
 traitorous [ˈtreɪtərəs] adjective (formal)背叛的；叛國的；賣國的
 tramlines [ˈtræmlaɪnz] noun 1.電車軌道 2.(BrE)（網球或羽毛球雙打時）球場兩側的加線
 trampoline [ˈtræmpəliːn] noun 蹦牀，跳牀，彈牀（體操器械） verb 在蹦牀上彈跳
 tramway [ˈtræmweɪ] noun 有軌電車軌道
 tranche [trɑːnʃ] noun (財)（款額或股份的）一份，一部份
-tranny [ˈtræni] noun 1.變性者；易性癖者；易裝癖者 2.(especially BrE)晶體管收音機；電晶體收音機 3.幻燈片；透明正片
-tranquillize [ˈtræŋkwəlaɪz] verb (both BrE)tranquillize sb/sth（尤指用鎮定劑）使平靜，使安定
-tranquillizer [ˈtræŋkwəlaɪzər] noun (both BrE)安定藥；鎮靜劑
+tranny [ˈtræni] noun (informal)1.變性者；易性癖者；易裝癖者 2.(especially BrE)晶體管收音機；電晶體收音機 3.幻燈片；透明正片
+tranquillize [ˈtræŋkwəlaɪz] verb (BrE)tranquillize sb/sth（尤指用鎮定劑）使平靜，使安定
+tranquillizer [ˈtræŋkwəlaɪzər] noun (BrE)安定藥；鎮靜劑
 transceiver [trænˈsiːvər] noun 無線電收發兩用機
 transcontinental [ˌtrænzˌkɑːntɪˈnentl] adjective 橫貫大陸的；穿越大陸的
 transept [ˈtrænsept] noun (建)（十字形教堂的）耳堂
 transferable [trænsˈfɜːrəbl] adjective 可轉移的；可調動的；可轉讓的；可轉錄的；可中轉的
 transferral [trænsˈfɜːrəl] noun 轉移；調動；轉換
 transgender [trænzˈdʒendər] adjective 變性（者）的；易性癖（者）的；易裝癖（者）的
-transgenic [ˌtrænzˈdʒenɪk] adjective 植物或動物 noun 1.轉基因學；轉基因（做法） 2.轉基因植物（或動物）
+transgenic [ˌtrænzˈdʒenɪk] adjective (植物或動物)轉基因的 noun 1.轉基因學；轉基因（做法） 2.轉基因植物（或動物）
 transhumance [trænzˈhjuːməns] noun (術語)季節遷移（畜牧形式）
 transitive [ˈtrænsətɪv] adjective (語法)(動詞)及物的
 transitivity [ˌtrænsəˈtɪvəti] noun (語法)（動詞的）及物性
@@ -12248,22 +12246,22 @@ transpiration [ˌtrænspɪˈreɪʃn] noun (生)蒸騰作用，蒸散作用（植
 transponder [trænsˈpɑːndər] noun (術語)發射機應答器；詢問機；轉發器
 transportable [trænˈspɔːrtəbl] adjective 可運輸；可運送；可輸送
 transporter [trænˈspɔːrtər] noun 大型載重運輸車
-transsexual [trænzˈsekʃuəl] noun informal易性癖者；（經外科手術後的）變性人
+transsexual [trænzˈsekʃuəl] noun 易性癖者；（經外科手術後的）變性人
 transubstantiation [ˌtrænsəbˌstænʃiˈeɪʃn] noun 實體變換，體變（指麪餅和葡萄酒經祝聖後變成基督的體血，只留下餅酒的外形）
 transverse [ˈtrænzvɜːrs] adjective (術語)橫（向）的；橫斷的；橫切的
-transvestite [trænzˈvestaɪt] noun informal有異性裝扮癖的人，易裝癖者（尤指男性）
+transvestite [trænzˈvestaɪt] noun 有異性裝扮癖的人，易裝癖者（尤指男性）
 trapdoor [ˈtræpdɔːr] noun 地板門；（天花板上的）活板門，通風門，活動天窗
-trapezium [trəˈpiːziəm] noun 1.(BrE)梯形 2.(NAmE)不規則四邊形
-trapezoid [ˈtræpəzɔɪd] noun 1.(BrE)不規則四邊形 2.(NAmE)梯形
+trapezium [trəˈpiːziəm] noun (幾何)1.(BrE)梯形 2.(NAmE)不規則四邊形
+trapezoid [ˈtræpəzɔɪd] noun (幾何)1.(BrE)不規則四邊形 2.(NAmE)梯形
 trashy [ˈtræʃi] adjective (informal)蹩腳的；無價值的
 trattoria [ˌtrætəˈriːə] noun (from Italian)意大利餐館（或便餐店）
 travelator [ˈtrævəleɪtər] noun （尤指機場的）自動人行道
-travelled [ˈtrævld] adjective 1.人 2.路等
+travelled [ˈtrævld] adjective (通常構成複合詞)1.(人)有過…次旅行的；到過…地方的 2.(路等)（常有人或不常有人）走的
 traveller [ˈtrævələr] noun 1.旅行者；旅遊者；旅客；遊客 2.(BrE)（尤指結隊而行的）漂泊者
 travelling [ˈtrævəlɪŋ] adjective 1.(BrE)旅行的；巡迴的；流動的 2.旅行用的 noun 旅行
-travelogue [ˈtrævəlɔːɡ] noun NAmE also旅行紀錄片；旅遊廣播節目；遊記
+travelogue [ˈtrævəlɔːɡ] noun 旅行紀錄片；旅遊廣播節目；遊記
 travel-sick  adjective (BrE)暈車的；暈船的；暈機的
-treacle [ˈtriːkl] noun 1.NAmE（製糖時產生的）糖漿，糖蜜 2.
+treacle [ˈtriːkl] noun (BrE)1.（製糖時產生的）糖漿，糖蜜 2.=golden syrup
 treacly [ˈtriːkli] adjective 1.(BrE)像糖漿的；糖蜜似的 2.虛情假意的；過分多情的
 treadle [ˈtredl] noun （尤指舊時驅動機器的）踏板
 treble [ˈtrebl] noun 1.（音樂或音響系統的）高音，高音部 2.童聲高音；唱高音的男童歌手 3.高音聲部 4.(BrE)三連勝 verb （使）成三倍，增加兩倍 determiner 三倍的；三重的 adjective 高音的；高聲的
@@ -12279,20 +12277,20 @@ trendsetter [ˈtrendsetər] noun (often approving)新潮倡導者；創新風的
 trespasser [ˈtrespəsər] noun 不法進入者
 trestle [ˈtresl] noun （放置桌面等成對的）支架，條凳
 trews [truːz] noun （尤指格子呢的）褲子，短褲
-trey [treɪ] noun 籃球
-triage [triːˈɑːʒ] noun 醫院
+trey [treɪ] noun (籃球)三分球
+triage [triːˈɑːʒ] noun (醫院)患者鑒別分類；傷員鑒別分類；治療類選法
 triangulation [traɪˌæŋɡjuˈleɪʃn] noun (術語)（通常在地圖上做的）三角測量，三角定位
 tribalism [ˈtraɪbəlɪzəm] noun 1.部落習性；種族意識；部落主義 2.部落制度
 tri-band  adjective （手機）三頻的
 tribespeople [ˈtraɪbzpiːpl] noun 部落成員
-trice [traɪs] noun 
+trice [traɪs] noun in a trice 轉眼之間；彈指一揮間；瞬息間
 triceps [ˈtraɪseps] noun 三頭肌
 triceratops [traɪˈserətɑːps] noun 三角（恐）龍
 trichology [trɪˈkɑːlədʒi] noun 毛髮學；髮理學
 trickle-down  noun 下層受惠論，滴漏理論（富人愈富應能惠及窮人）
 tricksy [ˈtrɪksi] adjective (informal, usually disapproving)過於精密的
-tricolour [ˈtraɪkʌlər] noun US三色旗（尤指法國和愛爾蘭的國旗）
-tricycle [ˈtraɪsɪkl] noun informal三輪腳踏車
+tricolour [ˈtraɪkʌlər] noun 三色旗（尤指法國和愛爾蘭的國旗）
+tricycle [ˈtraɪsɪkl] noun 三輪腳踏車
 triennial [traɪˈeniəl] adjective 每三年一次的；每三年的
 trier [ˈtraɪər] noun 工作盡心盡力的人；勤勤懇懇的人
 trigger-happy  adjective (informal, disapproving)以開槍為樂的；好鬥的；愛動武的；動輒開槍的
@@ -12305,10 +12303,10 @@ trill [trɪl] noun 1.（人的）顫聲，短促尖聲；（鳥的）啼囀，�
 trilobite [ˈtraɪləbaɪt] noun 三葉蟲（生活於幾百萬年前的小型海洋生物，已成化石）
 trimaran [ˈtraɪməræn] noun 三體帆船
 trimmer [ˈtrɪmər] noun （樹叢、花草、樹籬的）修剪機
-trinity [ˈtrɪnəti] noun 1.基督教 2.(formal)三人小組；三件一套；三合一
+trinity [ˈtrɪnəti] noun 1.(基督教)三位一體（聖父、聖子及聖靈合為上帝 2.(formal)三人小組；三件一套；三合一
 tripartite [traɪˈpɑːrtaɪt] adjective (formal)有三部份的；涉及三人的；三方參加的
 tripe [traɪp] noun 1.食用牛肚（或豬肚）；百葉 2.(informal)廢話；胡說；拙劣的文章
-triplicate [ˈtrɪplɪkət] noun 1.做過三次 2.文件
+triplicate [ˈtrɪplɪkət] noun in triplicate 1.做過三次 2.(文件)一式三份
 tripper [ˈtrɪpər] noun (BrE)（短程）旅遊者
 triptych [ˈtrɪptɪk] noun (術語)三連畫；三聯雕刻；（尤指）三摺聖像畫
 tripwire [ˈtrɪpwaɪər] noun 絆索；絆網
@@ -12319,18 +12317,18 @@ triumphal [traɪˈʌmfl] adjective 慶祝成功（或勝利）的；凱旋的
 triumphalism [traɪˈʌmfəlɪzəm] noun (disapproving)耀武揚威；揚揚得意
 triumvirate [traɪˈʌmvərət] noun (formal)三人領導小組；三人統治集團；三方執政集團
 trivet [ˈtrɪvɪt] noun （墊熱菜盤等用的）金屬架
-triviality [ˌtrɪviˈæləti] noun 1.瑣事；小事 2.微不足道；瑣碎；無足輕重
+triviality [ˌtrɪviˈæləti] noun (disapproving)1.瑣事；小事 2.微不足道；瑣碎；無足輕重
 trochee [ˈtroʊkiː] noun (術語)（詩的）揚抑格，長短格
 trog [trɑːɡ] noun (BrE) (informal)不受歡迎的人；呆子
 troglodyte [ˈtrɑːɡlədaɪt] noun （尤指史前時期的）穴居人
 troika [ˈtrɔɪkə] noun (formal)三人領導小組；三頭政治；三鉅頭；三國集團
 troilism [ˈtrɔɪlɪzəm] noun 三方性愛
 trolleybus [ˈtrɑːlibʌs] noun (BrE)無軌電車
-trollop [ˈtrɑːləp] noun 1.蕩婦；娼婦 2.邋遢的女人；懶婆娘
+trollop [ˈtrɑːləp] noun (old-fashioned, offensive)1.蕩婦；娼婦 2.邋遢的女人；懶婆娘
 trombone [trɑːmˈboʊn] noun 長號；伸縮長號
 trombonist [trɑːmˈboʊnɪst] noun 長號手
 troopship [ˈtruːpʃɪp] noun 部隊運輸船；運兵船
-trophic [ˈtroʊfɪk] adjective 1.營養的；營養有關的 2.荷爾蒙或其作用
+trophic [ˈtroʊfɪk] adjective (生)1.營養的；營養有關的 2.(荷爾蒙或其作用)引起其他荷爾蒙（或物質）分泌的；有分泌作用的
 tropism [ˈtroʊpɪzəm] noun (生)（生物的）向性
 troposphere [ˈtroʊpəsfɪr] noun (術語)對流層（大氣的最低層，在地球表面和 6 至 10 公里上空之間）
 trotter [ˈtrɑːtər] noun 1.（尤指煮熟供食用的）豬蹄，豬腳 2.（受過快步馬賽訓練的）快步馬
@@ -12345,8 +12343,8 @@ true-blue  adjective 1.(BrE)（英國）堅決支持保守黨的，忠於保守�
 true-life  adjective 真人真事的；確有其事的；寫實的
 trug [trʌɡ] noun （裝園藝用具、植物等的）淺筐
 trumpeter [ˈtrʌmpɪtər] noun 號手；號兵；小號吹奏者
-truncheon [ˈtrʌntʃən] noun (both especially BrE)警棍
-trundle [ˈtrʌndl] verb 1.（使緩慢、轟鳴地）移動，滾動 2.人
+truncheon [ˈtrʌntʃən] noun (especially BrE)警棍
+trundle [ˈtrʌndl] verb 1.（使緩慢、轟鳴地）移動，滾動 2.(人)沉重緩慢地走
 trusteeship [trʌˈstiːʃɪp] noun 1.受託人職責 2.託管（聯合國委託某一國家管理某一地區）；託管地區
 try-and-buy  adjective (尤指計算機程序和設備)先試後買的
 tryst [trɪst] noun (literary or humorous)（情人的）約會，幽會
@@ -12354,11 +12352,10 @@ tsar [zɑːr] noun 1.沙皇（舊時俄國皇帝的稱號） 2.(構成複合詞)
 tsarina [zɑːˈriːnə] noun （舊時俄國的）女沙皇，沙皇皇后
 tsarism [ˈzɑːrɪzəm] noun （1917 年之前的）俄國沙皇政體
 tsotsi [ˈtsɑːtsi] noun (SAfrE)黑人少年犯
-tsp  abbreviation 一茶匙（的量）
 tuba [ˈtuːbə] noun 大號（低音銅管樂器）
 tubal [ˈtuːbl] adjective (醫)輸卵管的
 tubby [ˈtʌbi] adjective (informal)(人)矮胖的
-tubercle [ˈtuːbəkl] noun 1.(解)結節；疣粒；小塊莖 2.(醫)（肺）結核結節
+tubercle [ˈtuːbəkl] noun 1.(解)(生)結節；疣粒；小塊莖 2.(醫)（肺）結核結節
 tub-thumping  noun (BrE) (disapproving)慷慨激昂的演講；大吹大擂的宣揚
 tucker [ˈtʌkər] noun (AustralE, NZE) (informal)食物
 tufted [ˈtʌftɪd] adjective 成束的；成簇的；叢生的；簇生的
@@ -12381,15 +12378,15 @@ turbocharger [ˈtɜːrboʊtʃɑːrdʒər] noun 渦輪增壓器；透平增壓器
 turbojet [ˈtɜːrboʊdʒet] noun 1.渦輪噴氣發動機 2.渦輪噴氣飛機
 turboprop [ˈtɜːrboʊprɑːp] noun 1.渦輪螺旋槳發動機 2.渦輪螺旋槳飛機
 turbot [ˈtɜːrbət] noun 大菱鮃（產於歐洲的一種可食用比目魚）
-turd [tɜːrd] noun 1.糞塊；糞球；糞團 2.臭狗屎（對不喜歡的人的冒犯語）
+turd [tɜːrd] noun (taboo, slang)1.糞塊；糞球；糞團 2.臭狗屎（對不喜歡的人的冒犯語）
 turista [tuˈrɪstə] noun (NAmE) (informal)（外地）旅行者腹瀉；水土不服造成的腹瀉
 turmeric [ˈtɜːrmərɪk] noun 薑黃根粉（用作烹飪調料，尤用於做咖喱）
-turnabout [ˈtɜːrnəbaʊt] noun [singular]turnabout(in sth)突變；一百八十度的大轉彎；變卦
+turnabout [ˈtɜːrnəbaʊt] noun turnabout(in sth)突變；一百八十度的大轉彎；變卦
 turnkey [ˈtɜːrnkiː] adjective (尤指計算機系統)交鑰匙的；完整並可立即使用的
 turn-off  noun 1.岔道；支路 2.(informal)掃興的人（或事）；厭煩的人（或事）；引不起性慾的人（或物）
 turn-on  noun (informal)引起性慾的人（或物）
 turnstile [ˈtɜːrnstaɪl] noun 旋轉柵門（常設於公共建築、體育場等入口處）
-turn-up  noun 1.NAmE（褲腳的）外翻邊，外捲邊 2.(informal)奇異的事；意想不到的事
+turn-up  noun (BrE)1.（褲腳的）外翻邊，外捲邊 2.(informal)奇異的事；意想不到的事
 turreted [ˈtɜːrətɪd] adjective 有塔樓的；有角樓的
 tussock [ˈtʌsək] noun （比周圍的草密而高的）草叢
 tut [tʌt] exclamation （作書面語或口語，表示不贊成的咂嘴聲）嘖嘖
@@ -12398,19 +12395,19 @@ tutti-frutti [ˌtuːti ˈfruːti] noun 什錦水果冰淇淋
 tutu [ˈtuːtuː] noun 芭蕾舞裙
 twain [tweɪn] number (old use)二
 twang [twæŋ] noun 1.鼻音（通常指方言） 2.（樂器等的）撥弦聲 verb 彈撥；（使）發出彈撥聲，發出嘣的一聲
-twat [twɑːt] noun 1.討厭鬼；蠢材 2.屄
+twat [twɑːt] noun (taboo, slang) (especially BrE)1.討厭鬼；蠢材 2.屄
 twee [twiː] adjective (BrE) (informal, disapproving)矯揉造作的；花裏胡哨的；故作多情的
 tweedy [ˈtwiːdi] adjective 1.粗花呢製的；像粗花呢的 2.(BrE) (informal, often disapproving)（經常身穿呢子衣服）鄉紳的，鄉紳派頭的
-tween [twiːn] noun especially BrE*10 至 12 歲之間的少年
-tweener [twiːnər] noun 1. 2.介乎兩者之間的人（或事物）
-tweet [twiːt] noun 1.（小鳥的）唧啾，吱喳 2.運用推特社交網絡發送的信息 verb 
+tween [twiːn] noun *10 至 12 歲之間的少年
+tweener [twiːnər] noun 1.=tween 2.介乎兩者之間的人（或事物）
+tweet [twiːt] noun 1.（小鳥的）唧啾，吱喳 2.運用推特社交網絡發送的信息 verb =twitter
 tweeter [ˈtwiːtər] noun （音響系統的）高頻揚聲器
 tweezers [ˈtwiːzərz] noun 鑷子；小夾鉗
 twelvemonth [ˈtwelvmʌnθ] noun (old use)十二個月；一年
 twelve-note  adjective (音)十二音體系的
 twenty-first  noun (informal) (especially BrE)*21 歲生日； 21 歲生日慶典
 twerp [twɜːrp] noun (old-fashioned, informal)笨蛋；討厭鬼
-twiddle [ˈtwɪdl] verb 1.抱手旋弄大拇指 2.（等待之際）無所事事 noun 1.(BrE)擰；轉動 2.（圖案等的）修飾性曲線，螺旋形線條；（樂曲的）裝飾音
+twiddle [ˈtwɪdl] verb (BrE)（常因緊張或無聊）旋弄，擺弄，捻弄（物件） noun 1.(BrE)擰；轉動 2.（圖案等的）修飾性曲線，螺旋形線條；（樂曲的）裝飾音
 twiddly [ˈtwɪdli] adjective (BrE) (informal)瑣碎的；繁雜的
 twilit [ˈtwaɪlɪt] adjective (literary)暮色蒼茫的；昏暗朦朧的
 twill [twɪl] noun 斜紋布
@@ -12421,16 +12418,16 @@ twister [ˈtwɪstər] noun (NAmE) (informal)旋風；龍捲風
 twisty [ˈtwɪsti] adjective (尤指道路)彎彎曲曲的；蜿蜒曲折的
 twit [twɪt] noun (informal) (especially BrE)笨蛋；傻瓜；討厭鬼
 twitcher [twɪtʃər] noun (BrE) (informal)觀鳥癡，賞鳥迷（熱衷發現和觀賞珍稀鳥類）
-twitchy [ˈtwɪtʃi] adjective 1.神經緊張的；焦急的；焦慮不安的 2.抽搐的；抽動的；痙攣的
-twitter [ˈtwɪtər] verb 1.（鳥）唧啾，吱喳，啁啾 2.(especially BrE)唧唧喳喳地說話 3.運用推特社交網絡發送信息 noun 1.（鳥的）唧啾聲，吱吱叫聲 2.(informal)興奮；緊張；激動 3.
+twitchy [ˈtwɪtʃi] adjective (informal)1.神經緊張的；焦急的；焦慮不安的 2.抽搐的；抽動的；痙攣的
+twitter [ˈtwɪtər] verb 1.（鳥）唧啾，吱喳，啁啾 2.(especially BrE)唧唧喳喳地說話 3.運用推特社交網絡發送信息 noun 1.（鳥的）唧啾聲，吱吱叫聲 2.(informal)興奮；緊張；激動 3.=tweet
 'twixt [twɪkst] preposition (old use)在…中間；在…之間
 two-bit  adjective (informal) (especially NAmE)不好的；微不足道的；不重要的
-two-edged  adjective 1.刃、刀等 2.有好壞兩種含義（或結果）的；雙關的；有利有弊的
+two-edged  adjective 1.(刃、刀等)雙刃的；雙鋒的 2.有好壞兩種含義（或結果）的；雙關的；有利有弊的
 two-faced  adjective (informal, disapproving)兩面派的；言行不一的；陰一套陽一套的
 two-handed  adjective 用雙手的；需要雙手的
 two-hander  noun (especially BrE)雙人物戲劇
 twonk [twɑːŋk] noun (BrE) (slang)傻瓜；笨蛋
-twopenny [ˈtʌpəni] adjective informal值兩舊便士的
+twopenny [ˈtʌpəni] adjective (BrE)值兩舊便士的
 two-piece  noun 兩件一套的衣服；兩件式
 two-ply  adjective (毛線、木材或其他材料)雙股的；雙層的
 two-seater  noun 雙座車輛（或飛機、傢具）
@@ -12439,18 +12436,18 @@ two-star  adjective 1.（質量）兩星級的 2.(NAmE)（軍銜）兩星的
 two-step  noun 兩步舞；兩步舞曲
 two-stroke  adjective (發動機或車輛)二衝程的
 two-tone  adjective 兩色的；雙音的
-tyke [taɪk] noun 1.小孩子；小淘氣；小調皮鬼 2.(BrE)約克郡人
+tyke [taɪk] noun (informal)1.小孩子；小淘氣；小調皮鬼 2.(BrE)約克郡人
 tympanum [ˈtɪmpənəm] noun (解)鼓膜；耳膜
 typecast [ˈtaɪpkæst] verb [usually passive]typecast sb (as sth)讓（演員）總演同一類型的角色
 typeface [ˈtaɪpfeɪs] noun （印刷用的）字體
 typescript [ˈtaɪpskrɪpt] noun （打印出的）文稿，文件；打字稿
 typesetter [ˈtaɪpsetər] noun 排字工人；排字機；排字公司
 typewritten [ˈtaɪprɪtn] adjective （用打字機或計算機）打字的，打印的
-typhoid [ˈtaɪfɔɪd] noun less frequent傷寒
+typhoid [ˈtaɪfɔɪd] noun 傷寒
 typhus [ˈtaɪfəs] noun 斑疹傷寒
 typographer [taɪˈpɑːɡrəfər] noun 印刷工人；排字工
 typography [taɪˈpɑːɡrəfi] noun 印刷術；排印；版面設計
-tyrannical [tɪˈrænɪkl] adjective formal暴君的；專橫的；殘暴的
+tyrannical [tɪˈrænɪkl] adjective 暴君的；專橫的；殘暴的
 tyrannize [ˈtɪrənaɪz] verb 對…施行暴政；專橫地對待
 tyrannosaur [tɪˈrænəsɔːr] noun 霸王龍
 ubuntu [ʊˈbʊntʊ] noun (SAfrE)班圖精神，社團關愛精神（生活在集體中，大家必須分享物品並互相關心）
