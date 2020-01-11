@@ -11293,7 +11293,7 @@ stillborn [ˈstɪlbɔːrn] adjective 1.死產的 2.失敗的；夭折的
 stingray [ˈstɪŋreɪ] noun 刺魟（大型扁寬海魚，尾部有尖刺）
 stinker [ˈstɪŋkər] noun (informal)討厭的人；棘手的事
 stinking [ˈstɪŋkɪŋ] adjective 1.臭的；發惡臭的；十分難聞的 2.(informal) (especially BrE)很糟糕的；令人討厭的 3.(BrE) (informal)憤怒不已的；氣急敗壞的 adverb (informal, usually disapproving)極其；非常
-stinky [ˈstɪŋki] adjective 1.發惡臭的；十分難聞的 2.令人厭惡的；糟糕透頂的
+stinky [ˈstɪŋki] adjective (informal)1.發惡臭的；十分難聞的 2.令人厭惡的；糟糕透頂的
 stipendiary [staɪˈpendieri] noun （英國）受薪治安法官
 stir-crazy  adjective (informal) (especially NAmE)（因遭囚禁而）精神失常的
 stirrer [ˈstɜːrər] noun (BrE) (informal, disapproving)喜歡製造事端的人；（尤指）好撥弄是非者
@@ -11336,7 +11336,7 @@ stooped [stuːpt] adjective 1.弓背站立（或行走）的 2.曲背的
 stopcock [ˈstɑːpkɑːk] noun （調節管道流量的）旋塞，活栓
 stopgap [ˈstɑːpɡæp] noun 權宜之計；臨時替代的東西
 stop-go  adjective 1.走走停停的 2.（形容經濟政策）先緊縮後刺激的
-stopover [ˈstɑːpoʊvər] noun NAmE also中途停留
+stopover [ˈstɑːpoʊvər] noun 中途停留
 stopwatch [ˈstɑːpwɑːtʃ] noun （賽跑等記時用的）秒錶，跑錶，碼錶
 store-bought  adjective (NAmE)從商店買的（而非家裏做的）
 store-brand  adjective (US)店家商標的，自有品牌的（指產品以商店自定的品牌出售）
@@ -11353,7 +11353,7 @@ stowage [ˈstoʊɪdʒ] noun （船或飛機上）存放物品處
 strafe [streɪf] verb strafe sth低空掃射（或轟炸）
 straggler [ˈstræɡlər] noun 掉隊者；落在最後的人（或動物）
 straggly [ˈstræɡli] adjective 蔓生的；雜亂地蔓延的
-straight-arm  verb (both NAmE)straight-arm sb伸直手臂擋開（對手）
+straight-arm  verb (NAmE)straight-arm sb(體育運動)伸直手臂擋開（對手）
 straight-faced  adjective 繃着臉的；忍住不笑的
 straitened [ˈstreɪtnd] adjective (formal)經濟拮据的；窮困的；經濟狀況惡化的
 straitjacket [ˈstreɪtdʒækɪt] noun 1.約束衣，緊身衣（有時用以束縛精神病患者） 2.(disapproving)束縛；桎梏；約束
@@ -11361,19 +11361,19 @@ strait-laced [ˌstreɪt ˈleɪst] adjective (disapproving)（在道德行為上�
 strangled [ˈstræŋɡld] adjective (哭聲、說話聲等)哽塞的；哽咽的；頓住的
 stranglehold [ˈstræŋɡlhoʊld] noun 1.掐脖子；卡脖子 2.壓制；束縛
 strangler [ˈstræŋɡlər] noun 扼（或勒、掐）死人者
-strangulated [ˈstræŋɡjuleɪtɪd] adjective 1.(醫)絞窄性的 2.(formal)嗓子被扼住似的，哽塞的（通常由於恐懼或擔憂）
+strangulated [ˈstræŋɡjuleɪtɪd] adjective 1.(醫)(身體一部份)絞窄性的 2.(formal)(聲音)嗓子被扼住似的，哽塞的（通常由於恐懼或擔憂）
 strapless [ˈstræpləs] adjective (尤指連衣裙或胸罩)無肩帶的；無吊帶的
 strapped [stræpt] adjective (informal)缺錢的；手頭緊的
-strappy [ˈstræpi] adjective (informal)有帶子的
+strappy [ˈstræpi] adjective (informal)(鞋或衣服)有帶子的
 stratus [ˈstreɪtəs] noun (術語)層雲
 stravaig [strəˈveɪɡ] verb (IrishE, ScotE)[intransitive](+ adv./prep.)遊蕩；徘徊；漫步
 streaker [ˈstriːkər] noun 裸奔者
 streaky [ˈstriːki] adjective (BrE)有條紋（或條痕）的
 streetboard [ˈstriːtbɔːrd] noun 街頭蛇行滑板（用短橫杆連接兩塊腳踏板構成，下有輪子）
 streetwalker [ˈstriːtwɔːkər] noun (old-fashioned)街頭拉客的妓女
-streetwise [ˈstriːtwaɪz] adjective NAmE also適應都市生活的；有都市人的精明勁兒的
+streetwise [ˈstriːtwaɪz] adjective (informal)適應都市生活的；有都市人的精明勁兒的
 streptococcus [ˌstreptəˈkɑːkəs] noun (醫)鏈球菌
-stressed [strest] adjective 1.informal焦慮不安；心力交瘁 2.音節 3.(術語)受壓的；受應力的
+stressed [strest] adjective 1.焦慮不安；心力交瘁 2.(音節)重讀的 3.(術語)受壓的；受應力的
 stress-timed  adjective (語音)(語言)重音節拍的（如英語）
 stretcher-bearer  noun 抬擔架者
 stretchy [ˈstretʃi] adjective 有彈性的
@@ -11383,7 +11383,7 @@ strike-bound  adjective 因罷工而停頓的
 strike-breaker  noun 破壞罷工者；頂替罷工者工作的人
 stringer [ˈstrɪŋər] noun 特約記者
 stripling [ˈstrɪplɪŋ] noun (old-fashioned or humorous)年輕男子；小伙子
-stripped-down  adjective 1.只保留最基本特徵的；精簡的；簡約的 2.機器或車輛
+stripped-down  adjective 1.只保留最基本特徵的；精簡的；簡約的 2.(機器或車輛)拆卸的；拆開的
 striptease [ˈstrɪptiːz] noun 脫衣舞
 strobe [stroʊb] noun 頻閃閃光燈（尤用於迪斯科舞廳）
 strobing [ˈstroʊbɪŋ] noun (術語)頻閃，殘影（有時出現於電視圖像條紋中的突然抖動或閃光）
@@ -11396,28 +11396,27 @@ strong-willed  adjective 意志堅強的；堅持己見的
 strontium [ˈstrɑːntiəm] noun 鍶
 strop [strɑːp] noun (BrE) (informal)惱怒；懊惱
 strophe [ˈstroʊfi] noun (術語)詩節
-stroppy [ˈstrɑːpi] adjective (BrE) (informal)動輒生氣的；性情暴躁的；易怒難處的
-structuralism [ˈstrʌktʃərəlɪzəm] noun 文學、語言及社會科學
+stroppy [ˈstrɑːpi] adjective (BrE) (informal)(人)動輒生氣的；性情暴躁的；易怒難處的
+structuralism [ˈstrʌktʃərəlɪzəm] noun (文學、語言及社會科學)結構主義（認為任何一篇文字為一結構體系，其各個部份只有在相互關係中才有意義）
 strudel [ˈstruːdl] noun (from German)果餡捲（餅）
 strumpet [ˈstrʌmpɪt] noun (old use, disapproving)妓女；婊子；淫婦
 strychnine [ˈstrɪkniːn] noun 士的寧；馬錢子鹼
-stuck [stʌk] adjective 1.動不了；無法移動；卡住；陷住 2.陷（入）；困（於） 3.被難住；答不上來；卡殼 4.不知所措；（為某事）犯愁 5.(informal)擺脫不了；甩不掉
+stuck [stʌk] adjective 1.動不了；無法移動；卡住；陷住 2.陷（入）；困（於） 3. stuck(on sth)被難住；答不上來；卡殼 4. stuck(for sth)不知所措；（為某事）犯愁 5. stuck with sb/sth(informal)擺脫不了；甩不掉
 stuck-up  adjective (informal, disapproving)自命不凡的；趾高氣揚的
-studded [ˈstʌdɪd] adjective 1.用飾釘裝飾的 2.佈滿（或有很多）…的
+studded [ˈstʌdɪd] adjective 1.用飾釘裝飾的 2. studded with sth佈滿（或有很多）…的
 studentship [ˈstuːdəntʃɪp] noun (BrE)學位後研修生資格（學生獲得學位後在大學繼續學習研究）；學位後研修生獎學金
 studious [ˈstuːdiəs] adjective 勤奮的；好學的；用功的
 studiously [ˈstuːdiəsli] adverb 刻意地；成心
 studmuffin [ˈstʌdmʌfɪn] noun (informal) (especially NAmE)性感的男人
 stultifying [ˈstʌltɪfaɪɪŋ] adjective (formal)乏味得使人呆滯的；使人思維遲鈍的
 stumpy [ˈstʌmpi] adjective (disapproving)短而粗的
-stunner [ˈstʌnər] noun 1.魅力十足的女子（或人）；絕妙的事物 2.令人震驚的事情（如新聞等）
+stunner [ˈstʌnər] noun (informal)1.魅力十足的女子（或人）；絕妙的事物 2.令人震驚的事情（如新聞等）
 stupefying [ˈstuːpɪfaɪɪŋ] adjective 1.使人思維不清的；令人神志不清的 2.駭人的；令人震驚的
-sty [staɪ] noun 1. 2.麥粒腫；瞼腺炎
+sty [staɪ] noun 1.=pigsty 2.麥粒腫；瞼腺炎
 stylistics [staɪˈlɪstɪks] noun 文體學；風格學
 styptic [ˈstɪptɪk] adjective (醫)能止血的
 suasive [ˈsweɪsɪv] adjective (語言)(動詞)表勸說的；說服的
 suave [swɑːv] adjective (尤指男子)精明練達的；圓滑的
-sub- [sʌb] prefix 1.(構成名詞和形容詞)在…以下；少於；低於；亞於；次於 2.(構成名詞和形容詞)在…下面（或底下） 3.(構成動詞和名詞)分支；分部；分
 subaltern [səˈbɔːltərn] noun （英國）陸軍中尉
 sub-aqua  adjective (BrE)水下運動的
 subatomic [ˌsʌbəˈtɑːmɪk] adjective (物)亞原子的；比原子小的；原子內的
@@ -11427,14 +11426,14 @@ subcontinent [ˌsʌbˈkɑːntɪnənt] noun 次大陸（尤指包括印度、巴�
 subcontract [ˌsʌbˈkɑːntrækt] verb 分包；轉包 noun 分包合同；轉包合同
 subcutaneous [ˌsʌbkjuˈteɪniəs] adjective (術語)皮下的
 subdirectory [ˈsʌbdərektəri] noun (計)子目錄
-subeditor [ˌsʌbˈedɪtər] noun informal助理編輯；審校人
+subeditor [ˌsʌbˈedɪtər] noun (BrE)助理編輯；審校人
 subheading [ˌsʌbˈhedɪŋ] noun 小標題；子標題
 subhuman [ˌsʌbˈhjuːmən] adjective (disapproving)非人的；不齒於人類的；不適合人類的
 subjectivism [səbˈdʒektɪvɪzəm] noun (哲)主觀主義；主觀論
 subjunctive [səbˈdʒʌŋktɪv] noun (語法)虛擬式；虛擬語氣
 sublet [ˌsʌbˈlet] verb sublet(sth) (to sb)轉租，分租（租來的物業）
 submariner [sʌbˈmærɪnər] noun 潛艇水兵
-submersible [səbˈmɜːrsəbl] adjective NAmE also水下使用的 noun 可潛船；潛水器
+submersible [səbˈmɜːrsəbl] adjective 水下使用的 noun 可潛船；潛水器
 subnormal [ˌsʌbˈnɔːrml] adjective 1.(術語)低於正常的；正常值以下的；偏低的 2.(sometimes offensive)低能的；弱智的
 subnotebook [ˌsʌbˈnoʊtbʊk] noun 小型筆記本電腦；小筆電
 subpar [ˌsʌbˈpɑːr] adjective (especially NAmE)不到一般（或預期）水平的；低於標準的
@@ -11447,8 +11446,8 @@ subsidiarity [səbˌsɪdiˈerɪti] noun 輔助原則，輔從原則（中央權�
 subsoil [ˈsʌbsɔɪl] noun 底土；心土
 subsonic [ˌsʌbˈsɑːnɪk] adjective 亞音速的；亞音速飛行的
 substation [ˈsʌbsteɪʃn] noun 變電站；變電所
-substructure [ˈsʌbstrʌktʃər] noun (figurative)基礎；下部結構；下層建築
-subtend [səbˈtend] verb (幾何)subtend sth對向（弧或角）
+substructure [ˈsʌbstrʌktʃər] noun 基礎；下部結構；下層建築
+subtend [səbˈtend] verb (幾何)subtend sth(直線或弦)對向（弧或角）
 subtotal [ˈsʌbtoʊtl] noun 部份和；小計
 subtropical [ˌsʌbˈtrɑːpɪkl] adjective 亞熱帶的；副熱帶的
 subtropics [ˌsʌbˈtrɑːpɪks] noun 亞熱帶；副熱帶
@@ -11460,14 +11459,14 @@ succour [ˈsʌkər] noun (literary)救助；救援；幫助 verb (literary)救�
 succubus [ˈsʌkjʊbəs] noun (literary)（傳說與睡眠中的男子交媾的）女妖精
 such-and-such  pronoun (informal)（指沒有明確說出的事物）某
 suchlike [ˈsʌtʃlaɪk] pronoun 諸如此類的事物
-suckle [ˈsʌkl] verb 1.(old-fashioned)給…餵奶；給…哺乳 2.嬰兒或幼獸
+suckle [ˈsʌkl] verb 1.(old-fashioned)給…餵奶；給…哺乳 2.(嬰兒或幼獸)吸奶；吃奶
 suckling [ˈsʌklɪŋ] noun (old-fashioned)乳兒；乳獸
 sucrose [ˈsuːkroʊs] noun (化)蔗糖
 sudoku [ˌsuˈdoʊkuː] noun 數獨遊戲（九個大方格中各有九個小方格，要求在空格中填數字一到九，且縱、橫排各不重複）
 suds [sʌdz] noun 1.肥皂泡沫 2.(old-fashioned) (NAmE informal)啤酒
 suet [ˈsuːɪt] noun （牛、羊等腎周圍的）板油
-sufferance [ˈsʌfərəns] noun 
-sufficiency [səˈfɪʃnsi] noun (formal)[singular]sufficiency(of sth)足量；充足
+sufferance [ˈsʌfərəns] noun on sufferance 經勉強同意；由於（某人的）寬容
+sufficiency [səˈfɪʃnsi] noun (formal) sufficiency(of sth)足量；充足
 suffix [ˈsʌfɪks] noun (語法)後綴，詞尾（加在詞尾，用以構成新詞，如 quickly 中的 -ly 或 sadness 中的 -ness）
 suffocating [ˈsʌfəkeɪtɪŋ] adjective 1.令人呼吸困難的；悶的；使人窒息的 2.起扼制作用的；壓制的；束縛性的
 suffragan [ˈsʌfrəɡən] noun 教區隸屬主教
@@ -11481,14 +11480,14 @@ suggestible [səˈdʒestəbl] adjective 易受他人影響的
 suitably [ˈsuːtəbli] adverb 1.合適地；適宜地；適當地 2.如你所料地；自然
 suited [ˈsuːtɪd] adjective 1.合適；適宜；適當 2.般配的 3.穿西裝的；穿…套裝的
 suiting [ˈsuːtɪŋ] noun 西服毛料
-sulphate [ˈsʌlfeɪt] noun (BrE)硫酸鹽
-sulphide [ˈsʌlfaɪd] noun (BrE)硫化物
+sulphate [ˈsʌlfeɪt] noun (BrE)(化)硫酸鹽
+sulphide [ˈsʌlfaɪd] noun (BrE)(化)硫化物
 sultana [sʌlˈtænə] noun 1.(BrE)無核小葡萄乾（用於糕點等） 2.蘇丹女眷（指后妃、王太后、姊妹或女兒）
 sultanate [ˈsʌltəneɪt] noun 1.蘇丹的職位 2.蘇丹統治的領土 3.蘇丹的統治時期
 summery [ˈsʌməri] adjective 夏季的；夏季特有的；適合夏季的
 summing-up  noun 1.（審理結束前法官向陪審團作的）證據概述 2.總結；概括
 sumo [ˈsuːmoʊ] noun 相撲
-sump [sʌmp] noun 1.集水坑；污水坑 2.NAmE also（發動機下面的）集油槽，油底殼
+sump [sʌmp] noun 1.集水坑；污水坑 2.（發動機下面的）集油槽，油底殼
 sun-baked  adjective 1.曬得乾硬的 2.太陽曝曬的；烈日下的
 sunbathe [ˈsʌnbeɪð] verb 沐日光浴；曬太陽
 sunbeam [ˈsʌnbiːm] noun （一束）陽光
@@ -11519,18 +11518,18 @@ superabundance [ˌsuːpərəˈbʌndəns] noun (formal)過多；過剩
 superannuation [ˌsuːpərˌænjuˈeɪʃn] noun (especially BrE)（通常由原雇主發的）退休金，養老金
 superbug [ˈsuːpərbʌɡ] noun 超級細菌（抗生素不能輕易殺死）
 supercenter [ˈsuːpərsentə(r)] noun (US)超大購物中心（尤指食品雜貨超市）
-supercharged [ˈsuːpərtʃɑːrdʒd] adjective 1.發動機 2.(informal)異常強烈的；格外強勁的；特別有效的
+supercharged [ˈsuːpərtʃɑːrdʒd] adjective 1.(發動機)（用增壓器）增壓的，提高功率的 2.(informal)異常強烈的；格外強勁的；特別有效的
 superconductivity [ˌsuːpərˌkɑːndʌkˈtɪvəti] noun (物)超導（電）性
 superconductor [ˈsuːpərkəndʌktər] noun (物)超導體
 supercontinent [ˈsuːpərkɑːntɪnənt] noun (地)超大陸（存在於幾百萬年之前，如岡瓦納古陸或勞亞古陸）
 super-duper [ˌsuːpər ˈduːpər] adjective (old-fashioned, informal)極好的；特好的
 superego [ˌsuːpərˈiːɡoʊ] noun (心)超我
-superfine [ˈsuːpərfaɪn] adjective 1.極輕的；極細的 2.質量極高的；特級的
+superfine [ˈsuːpərfaɪn] adjective (術語)1.極輕的；極細的 2.質量極高的；特級的
 superfood [ˈsuːpərfuːd] noun 超級食品（一些人認為有益健康且可防病的食品）
 superglue [ˈsuːpərɡluː] noun 強力膠
 supergrass [ˈsuːpərɡræs] noun (BrE) (informal)（為求得寬大處理）向警方告密的罪犯
 supergroup [ˈsuːpərɡruːp] noun （尤指成員已在其他樂隊出名的）超級搖滾樂隊
-superheated [ˌsuːpərˈhiːtɪd] adjective 1.液體 2.氣體
+superheated [ˌsuːpərˈhiːtɪd] adjective (物)1.(液體)過熱的（加壓加熱至超過沸點而未變成氣體） 2.(氣體)過熱的（加熱至超過飽和點）
 superheavyweight [ˌsuːpərˈheviweɪt] noun 超重量級拳擊手（體重為 91 公斤或以上）
 superman [ˈsuːpərmæn] noun 有非凡才能的人；超人
 supermax [ˈsuːpərmæks] noun (especially NAmE)頂級監獄（防備極為森嚴、為極危險的犯人設立的監獄）
@@ -11563,7 +11562,7 @@ surcoat [ˈsɜːrkoʊt] noun 蘇爾外套（舊時的無袖鎧甲罩衣）
 sure-fire  adjective (informal)必定成功的；肯定會發生的
 sure-footed  adjective 1.腳步穩的；不會摔倒的 2.沉着的；穩健的
 sureness [ˈʃʊrnəs] noun 沉着自信；胸有成竹；有把握；確信不疑
-surety [ˈʃʊrəti] noun 1.保證金 2.保證人；擔保人
+surety [ˈʃʊrəti] noun (律)1.保證金 2.保證人；擔保人
 surface-to-air  adjective (尤指導彈)地對空的；艦對空的
 surface-to-surface  adjective (尤指導彈)地（或艦）對地（或艦）的
 surfactant [sɜːrˈfæktənt] noun 1.(術語)表面活性劑（減少液體表面張力，常形成氣泡） 2.(醫)肺表面活性物質（維持肺部良好工作、防止呼吸困難）
@@ -11576,7 +11575,7 @@ surrogacy [ˈsɜːrəɡəsi] noun 代孕
 surtax [ˈsɜːrtæks] noun （對超過一定金額的收入徵收的）附加稅
 survivable [sərˈvaɪvəbl] adjective (事故或經歷)可幸免於難的；可幸存的
 survivalist [sərˈvaɪvəlɪst] noun 求生訓練學員，戶外生存受訓者（為防備險惡狀況而學習戶外求生技能）
-suspender [səˈspendər] noun 1.(BrE)吊襪帶 2.(NAmE)吊褲帶；背帶
+suspender [səˈspendər] noun 1.(BrE)吊襪帶 2. suspenders(NAmE)吊褲帶；背帶
 suspiciously [səˈspɪʃəsli] adverb 1.懷疑地；有疑心地 2.令人懷疑地；形跡（或神色等）可疑地 3.以懷疑的態度；不信任地
 suss [sʌs] verb (BrE) (informal)suss(sb/sth) (out)|suss that…|suss how, what, etc…意識到；認識到；發現
 sussed [sʌst] adjective (BrE) (informal)有（處世）經驗而不易上當的；門檻精的
@@ -11588,7 +11587,7 @@ swagman [ˈswæɡmæn] noun (AustralE, NZE) (old use)背着行囊四處找工作
 swain [sweɪn] noun (old use or humorous)情郎
 swami [ˈswɑːmi] noun (亦用作稱號)印度教宗教教師
 swampland [ˈswɑːmplænd] noun 沼澤地
-swanky [ˈswæŋki] adjective (especially BrE)擺闊的；時髦且豪華的
+swanky [ˈswæŋki] adjective (especially BrE)(informal, approving)擺闊的；時髦且豪華的
 swansong [ˈswɑːnsɔːŋ] noun （藝術家、音樂家等）最後的作品；（演員的）告別演出；（運動員的）告別比賽
 sward [swɔːrd] noun (literary)草地；草皮
 swash [swɔːʃ] noun (術語)（浪頭拍岸後的）沖激，濺潑，掃浪
@@ -11597,10 +11596,10 @@ swatch [swɑːtʃ] noun （織物的小塊）樣品；布樣
 swearing [ˈswerɪŋ] noun 詛咒語；罵人的話；髒話
 swearing-in  noun 宣誓就職
 sweatband [ˈswetbænd] noun （紮在頭上或手腕上的）吸汗帶
-sweatpants [ˈswetpænts] noun informal（厚長）運動褲
-sweatsuit [ˈswetsuːt] noun informal（長袖）運動服
-sweeper [ˈswiːpər] noun 1.打掃者；清掃者；清潔工 2.清掃器；清潔器 3.(BrE)自由中衞
-sweepstake [ˈswiːpsteɪk] noun NAmE also賭金全贏制
+sweatpants [ˈswetpænts] noun (especially NAmE)（厚長）運動褲
+sweatsuit [ˈswetsuːt] noun (NAmE)（長袖）運動服
+sweeper [ˈswiːpər] noun 1.打掃者；清掃者；清潔工 2.清掃器；清潔器 3.(BrE)(足球)自由中衞
+sweepstake [ˈswiːpsteɪk] noun 賭金全贏制
 sweet-and-sour  adjective (食物)甜酸的；糖醋的
 sweetbread [ˈswiːtbred] noun （食用的小牛或羊的）胸腺，胰臟
 sweetcorn [ˈswiːtkɔːrn] noun (BrE)（甜）玉米粒
@@ -11608,28 +11607,28 @@ sweetish [ˈswiːtɪʃ] adjective 有點甜的；帶甜味的
 sweetmeat [ˈswiːtmiːt] noun (old use)糖果；甜食；蜜餞；果脯
 sweet-talk  verb (disapproving)sweet-talk sb (into sth/into doing sth)對…甜言蜜語；給…灌迷魂湯
 swelter [ˈsweltər] verb 熱得難受
-swept-back  adjective 1.頭髮 2.機翼
+swept-back  adjective 1.(頭髮)往後梳的；往後紮的 2.(機翼)後掠的；後彎的
 swimmingly [ˈswɪmɪŋli] adverb (informal)順利地；順順當當地
 swimwear [ˈswɪmwer] noun 游泳衣；泳裝
 swineherd [ˈswaɪnhɜːrd] noun (old use)養豬的人；豬倌
-swingeing [ˈswɪndʒɪŋ] adjective 1.巨額的；嚴重的；巨大的 2.尖銳的；猛烈的
-swinger [ˈswɪŋər] noun 1.時髦活躍的人物 2.性開放者；濫交者
+swingeing [ˈswɪndʒɪŋ] adjective (BrE)1.巨額的；嚴重的；巨大的 2.尖銳的；猛烈的
+swinger [ˈswɪŋər] noun (old-fashioned, informal)1.時髦活躍的人物 2.性開放者；濫交者
 swing-wing  adjective （飛機）可變後掠翼的
-switchback [ˈswɪtʃbæk] noun 1.（公路或鐵路坡道上的）之字形路線；（公路或鐵路的）不斷起伏的路線 2.(NAmE)（陡坡路上的）急轉彎，180 度的轉彎 3.(old-fashioned) (BrE)
+switchback [ˈswɪtʃbæk] noun 1.（公路或鐵路坡道上的）之字形路線；（公路或鐵路的）不斷起伏的路線 2.(NAmE)（陡坡路上的）急轉彎，180 度的轉彎 3.(old-fashioned) (BrE)=roller coaster
 switchblade [ˈswɪtʃbleɪd] noun (especially NAmE)彈簧刀
 switchboard [ˈswɪtʃbɔːrd] noun （電話的）交換機，交換台，總機
-switch-hitter  noun 棒球
+switch-hitter  noun (棒球)能左右開弓的擊球手
 switchover [ˈswɪtʃoʊvə(r)] noun （制度、方法、政策等的）轉變，轉換
 swizz [swɪz] noun (BrE) (informal)騙局；令人失望的事
 swoosh [swuːʃ] verb [intransitive]+ adv./prep.嗖嗖地迅速移動
 swordplay [ˈsɔːrdpleɪ] noun 1.擊劍；劍術 2.機智的巧辯
 swordsman [ˈsɔːrdzmən] noun （通常與形容詞連用）劍客，劍手
 swordsmanship [ˈsɔːrdzmənʃɪp] noun 劍術
-sworn [swɔːrn] adjective 1.（尤指在法庭上）宣過誓的，宣誓證明的 2.不共戴天的仇敵
+sworn [swɔːrn] adjective 1.（尤指在法庭上）宣過誓的，宣誓證明的 2. sworn enemies不共戴天的仇敵
 swot [swɑːt] noun (BrE)只知一味用功學習的人；書呆子 verb (BrE) (informal)（尤指為準備考試）刻苦學習，用功
 sycamore [ˈsɪkəmɔːr] noun 1.(especially BrE)西卡莫；西卡莫槭；假挪威槭 2.(especially NAmE)（美國）懸鈴木 3.西卡莫木材
 syllabary [ˈsɪləberi] noun (術語)音節文字；音節表
-syllabic [sɪˈlæbɪk] adjective 1.音節的；分音節的 2.輔音
+syllabic [sɪˈlæbɪk] adjective (語音)1.音節的；分音節的 2.(輔音)成音節的
 syllable-timed  adjective (語音)(語言)有規則音節節拍的；音節定速的
 syllabub [ˈsɪləbʌb] noun (BrE)乳酒凍（用奶油加糖、葡萄酒、果汁等拌製）
 syllogism [ˈsɪlədʒɪzəm] noun (術語)三段論（由兩個前提得出結論的推理方法，如“凡人必有一死；我是人；所以我必有一死。”）
@@ -11660,7 +11659,7 @@ taarab [ˈtɑːrʌb] noun 塔拉勃樂（受阿拉伯和印度音樂影響的東
 tabard [ˈtæbərd] noun 褡伯坎肩，搭肩衫（由前後兩片組成，無領無袖）
 tabbouleh [təˈbuːleɪ] noun 塔博勒色拉，麥粒番茄色拉（阿拉伯菜，用碎麥粒和切碎的番茄、洋葱和香草調製而成）
 tabby [ˈtæbi] noun 斑貓（毛皮灰色或褐色，帶有深色斑條或斑點）
-tabernacle [ˈtæbərnækl] noun 1.（某些基督教派的）禮拜堂，會堂 2.會幕，帳棚神幕（古代猶太人在沙漠旅途中用作聖所）
+tabernacle [ˈtæbərnækl] noun 1.（某些基督教派的）禮拜堂，會堂 2. the tabernacle會幕，帳棚神幕（古代猶太人在沙漠旅途中用作聖所）
 tabla [ˈtæblə] noun 塔布拉雙鼓（用於南亞音樂中的成對小手鼓，通常作為伴奏樂器）
 tablature [ˈtæblətʃər] noun 奏法記譜法（根據演奏者的手指位置記譜）；奏法樂譜；古記譜法
 tableland [ˈteɪbllænd] noun 台地；高原
@@ -11669,7 +11668,7 @@ tabor [ˈteɪbər] noun 塔波鼓
 tabular [ˈtæbjələr] adjective 表格式的；列成表的；製成表的
 tachograph [ˈtækəɡræf] noun （機動車的）測速計，里程表
 tachometer [tæˈkɑːmɪtər] noun 轉速計，轉速表（車輛發動機用）
-tackie [ˈtæki] noun 1.膠底便鞋；運動鞋 2.(informal)輪胎
+tackie [ˈtæki] noun (SAfrE)1.膠底便鞋；運動鞋 2.(informal)輪胎
 tackler [ˈtæklər] noun (BrE)（某些體育運動的）阻截隊員
 tactician [tækˈtɪʃn] noun 有策略的人；手段高明的人
 tactless [ˈtæktləs] adjective 言行不得體的；得罪人的；不圓通的；沒策略的
@@ -11683,13 +11682,13 @@ tailbone [ˈteɪlboʊn] noun 尾骨；尾椎
 tailcoat [ˈteɪlkoʊt] noun 燕尾服；男子晚禮服
 tailgate [ˈteɪlɡeɪt] noun 1.（卡車的）後攔板，後擋板 2.（三門或五門轎車的）尾門，艙蓋式後背門 verb 1.(informal) (especially NAmE)緊跟（另一車輛）行駛 2.(NAmE)旅行野餐（打開轎車艙蓋式後背門就餐）
 tailoring [ˈteɪlərɪŋ] noun 1.裁剪式樣；裁縫手藝 2.（男裝）裁縫業，成衣活
-tailor-made  adjective 1.特製的；專門設置的；非常合適的 2.衣服
+tailor-made  adjective 1.特製的；專門設置的；非常合適的 2.(衣服)訂做的
 tailpiece [ˈteɪlpiːs] noun 1.（文章結尾的）附加部份，續補部份 2.(音)（弦樂器的）繫弦板
 tailplane [ˈteɪlpleɪn] noun （飛機的）橫尾翼，水平尾翼
 tailspin [ˈteɪlspɪn] noun 1.（飛機的）尾旋，尾螺旋 2.惡化的局勢；慌亂；混亂；失控
 tailwind [ˈteɪlwɪnd] noun 順風
 taipan [ˈtaɪpæn] noun 1.大班（舊時對中國洋行老闆的稱呼） 2.太潘蛇（產於澳大利亞，毒性劇烈）
-takeaway [ˈteɪkəweɪ] noun 1.外賣餐館 2.外賣的飯菜；外賣食物
+takeaway [ˈteɪkəweɪ] noun (BrE)1.外賣餐館 2.外賣的飯菜；外賣食物
 takedown [ˈteɪkdaʊn] noun 1.（摔跤中的）摔倒 2.(informal)（警方的）抓捕行動，臨檢，突檢
 take-off  noun 1.(figurative)（飛機的）起飛 2.起跳 3.（對他人言行的）滑稽模仿
 take-up  noun （福利等的）領受率
@@ -11720,7 +11719,7 @@ tankard [ˈtæŋkərd] noun （通常為金屬的）單柄大酒杯，啤酒杯
 tankini [ˌtæŋˈkiːni] noun 袒基尼（兩件套泳裝，包括無袖短上衣和比基尼下褲）
 tanner [ˈtænər] noun 鞣皮工；硝皮匠；製革工人
 tannery [ˈtænəri] noun 鞣皮廠；皮革廠
-tannie [ˈtʌni] noun 1.姑媽；姨媽；伯母；（用作稱呼）大媽，大娘 2.(sometimes disapproving)婦人；（尤指）古板的女人
+tannie [ˈtʌni] noun (SAfrE) (informal)1.姑媽；姨媽；伯母；（用作稱呼）大媽，大娘 2.(sometimes disapproving)婦人；（尤指）古板的女人
 tannin [ˈtænɪn] noun 單寧；單寧酸；鞣質
 tantalum [ˈtæntələm] noun 鉭
 tantra [ˈtæntrə] noun 1.坦陀羅（古印度教或佛教的經文） 2.坦陀羅神秘修煉；密教修行
@@ -11728,10 +11727,10 @@ tapas [ˈtæpəs] noun (from Spanish)塔帕斯（酒吧中和飲料一起供應�
 tape-record  verb tape-record sth用磁帶錄製
 tapescript [ˈteɪpskrɪpt] noun 錄音文本
 tapeworm [ˈteɪpwɜːrm] noun 縧蟲
-tap-in  noun 體育運動
+tap-in  noun (體育運動)近距離輕鬆進球；輕撥入籃
 tapioca [ˌtæpiˈoʊkə] noun 木薯澱粉
 tapir [ˈteɪpər] noun 貘（生活在中南美洲和東南亞的長鼻豬狀動物）
-tap-penalty  noun 橄欖球
+tap-penalty  noun (橄欖球)輕踢罰球
 taproot [ˈtæpruːt] noun （植物的）直根，主根
 taramasalata [ˌtærəməsəˈlɑːtə] noun (BrE)希臘紅魚子泥色拉；魚子醬
 tarantula [təˈræntʃələ] noun 塔蘭托毒蛛
@@ -11752,9 +11751,9 @@ tat [tæt] noun (BrE) (informal)劣質貨
 ta-ta [ˌtæ ˈtɑː] exclamation (BrE) (informal)再見
 tatami [təˈtɑːmi] noun (from Japanese)榻榻米（燈芯草日本地蓆）
 tater [ˈteɪtər] noun (slang)土豆；馬鈴薯；洋芋
-tatters [ˈtætərz] noun 1.破爛不堪；破破爛爛 2.被毀壞的；破敗的；坍塌的
+tatters [ˈtætərz] noun 破爛的衣服；破衣爛布
 tattie [ˈtæti] noun (ScotE) (informal)馬鈴薯；土豆；洋芋
-tattletale [ˈtætlteɪl] noun (NAmE)向大人告另一個孩子狀的小孩；小告密者
+tattletale [ˈtætlteɪl] noun (NAmE)(informal, disapproving)向大人告另一個孩子狀的小孩；小告密者
 tattooist [tæˈtuːɪst] noun 紋身師；刺青師
 tau [tɔː] noun 希臘字母表的第 19 個字母
 taupe [toʊp] noun 褐灰色
@@ -11765,13 +11764,12 @@ tax-deferred  adjective (NAmE)延遲納稅的；延稅的
 taxidermist [ˈtæksɪdɜːrmɪst] noun 動物標本剝製師
 taxidermy [ˈtæksɪdɜːrmi] noun 動物標本剝製術（將動物充填以支撑物，以表現出其生前外形）
 taxiway [ˈtæksiweɪ] noun （飛機的）滑行道
-taxman [ˈtæksmæn] noun 1.(informal)稅務部門；稅務機關 2.收稅員；稅務員
+taxman [ˈtæksmæn] noun 1. the taxman(informal)稅務部門；稅務機關 2.收稅員；稅務員
 tayberry [ˈteɪberi] noun 泰莓（黑莓和懸鈎子的雜交果實）
-tbsp  abbreviation 一餐匙，一湯匙（的量）
 te [tiː] noun (BrE)大調音階的第 7 音
 teacake [ˈtiːkeɪk] noun (BrE)茶點餅（扁平狀，常含有乾果）
-teacart [ˈtiːkɑːrt] noun (both US)茶車；上菜車
-teachable [ˈtiːtʃəbl] adjective 1.科目 2.人
+teacart [ˈtiːkɑːrt] noun (US)茶車；上菜車
+teachable [ˈtiːtʃəbl] adjective 1.(科目)適於教學的；可傳授的 2.(人)可教的；能學的；善學的
 teach-in  noun （以時事等為題的）宣講會，座談會
 teakettle [ˈtiːketl] noun 燒水壺
 teal [tiːl] noun 1.水鴨；短頸野鴨 2.(especially NAmE)藍綠色
@@ -11789,8 +11787,8 @@ teat [tiːt] noun 1.(BrE)奶嘴；橡膠乳頭 2.（雌獸的）乳頭，奶頭
 teatime [ˈtiːtaɪm] noun (BrE)（下午或傍晚的）用茶點的時間
 techie [ˈteki] noun (informal)科技通；科技迷；（尤指）電腦通，電腦迷
 technetium [tekˈniːʃɪəm] noun 鍀
-technicolour [ˈteknɪkʌlər] noun especially US鮮豔的色彩；五彩繽紛
-technikon [ˈteknɪkɑːn] noun informal技術學院；職業技術大學
+technicolour [ˈteknɪkʌlər] noun (informal)鮮豔的色彩；五彩繽紛
+technikon [ˈteknɪkɑːn] noun (SAfrE)技術學院；職業技術大學
 techno [ˈteknoʊ] noun 泰克諾音樂（一種節奏快、通常無歌聲相伴的電子舞曲）
 technobabble [ˈteknoʊbæbl] noun (informal, disapproving)技術囈語（普通人難以理解）
 technocracy [tekˈnɑːkrəsi] noun 技術專家治國制度；技術專家政治
@@ -11813,18 +11811,18 @@ telegenic [ˌtelɪˈdʒenɪk] adjective （人）適於拍攝電視的，適於�
 telegraphic [ˌtelɪˈɡræfɪk] adjective 電報的；電報發送的
 telegraphy [təˈleɡrəfi] noun 電報通訊術
 telekinesis [ˌtelɪkɪˈniːsɪs] noun 心靈致動；心靈遙感
-telemark [ˈtelɪmɑːrk] noun 滑雪或跳台滑雪
-telemarketing [ˈtelimɑːrkɪtɪŋ] noun BrE also電話銷售；電話推銷
+telemark [ˈtelɪmɑːrk] noun (滑雪或跳台滑雪)弓步式轉彎；弓步單橇向前着地
+telemarketing [ˈtelimɑːrkɪtɪŋ] noun 電話銷售；電話推銷
 telematics [ˌtelɪˈmætɪks] noun 計算機信息通訊（學）；遠程信息處理（學）；遠程資訊
 telemeter [ˈtelimiːtər] noun (術語)遙測裝置；遙測儀
 telemetry [təˈlemətri] noun (術語)遙測術；遠距離測量術
 teleology [ˌtiːliˈɑːlədʒi] noun (哲)目的論（認為事物的發生和發展都是為了達到一定目的）
 teleoperate [ˌteliˈɑːpəreɪt] verb teleoperate sth (from sth)遠程操縱，遙控（機器）
-telepathic [ˌtelɪˈpæθɪk] adjective 1.用傳心術的；心靈感應的 2.人
+telepathic [ˌtelɪˈpæθɪk] adjective 1.用傳心術的；心靈感應的 2.(人)會傳心術的；有心靈感應的
 telepathy [təˈlepəθi] noun 傳心術；通靈術；心靈感應
 telephony [təˈlefəni] noun 電話通訊
-teleport [ˈtelipɔːrt] verb [intransitive, transitive]teleport(sb/sth)（通常見於科幻作品）（被）遠距離傳送
-teleprinter [ˈteliprɪntər] noun NAmE also電傳打印機
+teleport [ˈtelipɔːrt] verb teleport(sb/sth)（通常見於科幻作品）（被）遠距離傳送
+teleprinter [ˈteliprɪntər] noun 電傳打印機
 teleprompter [ˈteliprɑːmptər] noun (especially NAmE)電子提詞器，自動提示器，講詞提示板（尤用於電視講話時向說話人提示講詞）
 telesales [ˈteliseɪlz] noun (BrE)電話銷售；電話推銷
 teleshopping [ˈteliʃɑːpɪŋ] noun 電話（或電視）購物
@@ -11837,7 +11835,7 @@ telex [ˈteleks] noun 1.電傳系統 2.電傳；用戶電報 3.(informal)電傳�
 tell-all  adjective (書或報刊上的訪談錄等)坦白的，和盤托出的（通常指名人）
 telling-off  noun (BrE) (informal)（尤指對兒童的）責備，責罵，數落，嗔怪
 tellurium [teˈlʊriəm] noun 碲
-telly [ˈteli] noun 1.電視機 2.電視節目
+telly [ˈteli] noun (BrE) (informal)1.電視機 2.電視節目
 telnet [ˈtelnet] noun (計)遠程登陸系統，遠程登陸接線（允許用戶使用主機數據和程序）
 temblor [ˈtemblər] noun (NAmE)地震
 tempera [ˈtempərə] noun 蛋彩畫顏料（用顏料與雞蛋和水調和而成）；蛋彩畫法
@@ -11851,23 +11849,22 @@ tender-hearted  adjective 善良的；心腸軟的；有惻隱之心的
 tenderize [ˈtendəraɪz] verb tenderize sth使（肉）變嫩；使（肉）變軟
 tenner [ˈtenər] noun (BrE) (informal)十英鎊；十英鎊鈔票
 tenon [ˈtenən] noun (術語)雄榫；凸榫；榫舌
-tenpin [ˈtenpɪn] noun 1.（十柱保齡球戲中的）瓶形滾柱，木瓶 2.(NAmE)
+tenpin [ˈtenpɪn] noun 1.（十柱保齡球戲中的）瓶形滾柱，木瓶 2.(NAmE)=tenpin bowling
 tensor [ˈtensər] noun (解)張肌
 tented [ˈtentɪd] adjective 由帳篷組成的；帳篷狀的
-tenterhooks [ˈtentərhʊks] noun 
 tenth [tenθ] ordinal number 第十 noun 十分之一
 tepee [ˈtiːpiː] noun （美洲印第安人舊時使用的）圓錐形帳篷
-terabit [ˈterəbɪt] noun 1.萬億比特，太比特（十進制計算機內存或數據單位，等於 1 000 000 000 000 比特） 2.太比特（二進制計算機內存或數據單位，等於 1 099 511 627 776 比特）
-terabyte [ˈterəbaɪt] noun 1.萬億字節，太字節（十進制計算機內存或數據的單位，等於 1 000 000 000 000 字節） 2.太字節（二進制計算機內存或數據的單位，等於 1 099 511 627 776 字節）
+terabit [ˈterəbɪt] noun 1.萬億比特，太比特（十進制計算機內存或數據單位，等於 1 000 000 000 000 比特） 2.太比特（二進制計算機內存或數據單位，等於 1 099 511 627 776 比特）
+terabyte [ˈterəbaɪt] noun 1.萬億字節，太字節（十進制計算機內存或數據的單位，等於 1 000 000 000 000 字節） 2.太字節（二進制計算機內存或數據的單位，等於 1 099 511 627 776 字節）
 terbium [ˈtɜːrbiəm] noun 鋱
 tercentenary [ˌtɜːrsenˈtenəri] noun 三百週年紀念
-tergiversate [tərˈdʒɪvərseɪt] verb 1.（說話）含糊其詞，支吾，迴避事實 2.改變立場；背叛；變節
+tergiversate [tərˈdʒɪvərseɪt] verb (formal)1.（說話）含糊其詞，支吾，迴避事實 2.改變立場；背叛；變節
 teriyaki [ˌterɪˈjɑːki] noun 照燒（日本烹調方法，將肉或魚加甜味醬汁燒烤）
 termagant [ˈtɜːrməɡənt] noun (formal)苛刻的女人；專橫的女人
 termly [ˈtɜːrmli] adjective (BrE)每學期的
 terms [tɜːrmz] noun 1.（協議、合同等的）條件，條款 2.（交易的）條件；價錢；費用 3.表達方式；措辭；說法
 term-time  noun (BrE)學期（與假期相對而言）
-terraced [ˈterəst] adjective 1.(BrE)排房的；排屋的；（街道）有排房的 2.斜坡或山坡
+terraced [ˈterəst] adjective 1.(BrE)排房的；排屋的；（街道）有排房的 2.(斜坡或山坡)梯田形的；階地狀的
 terracing [ˈterəsɪŋ] noun 1.(BrE)（足球場的）階梯看台區 2.階梯狀坡地；階梯形山坡
 terracotta [ˌterəˈkɑːtə] noun 1.（無釉的）赤陶土，赤陶 2.赤褐色；土紅色
 terraform [ˈterəfɔːrm] verb terraform sth將（行星）地球化（以適合人類居住）
@@ -11879,7 +11876,7 @@ terror-stricken  adjective 膽戰心驚的；驚恐萬狀的
 terry [ˈteri] noun 毛圈棉織物（多用以做毛巾）
 tessellated [ˈtesəleɪtɪd] adjective (術語)鑲嵌鋪面小塊的；鑲嵌花樣的
 testable [ˈtestəbl] adjective 可檢驗的；可試驗的；可驗證的
-testing [ˈtestɪŋ] noun 試驗；測試；檢查 adjective 問題或情況
+testing [ˈtestɪŋ] noun 試驗；測試；檢查 adjective (問題或情況)棘手的；傷腦筋的；難應付的
 testis [ˈtestɪs] noun (解)睾丸
 tetanus [ˈtetənəs] noun 破傷風
 tetchy [ˈtetʃi] adjective 易怒的；暴躁的；動輒發怒的
@@ -11895,10 +11892,10 @@ thang [θæŋ] noun (NAmE) (informal)東西，事物（用於說話或書寫，�
 thankless [ˈθæŋkləs] adjective 讓人不領情的；徒勞無益的；吃力不討好的
 thataway [ˈðætəweɪ] adverb (informal)朝那邊；向那邊
 thatcher [ˈθætʃər] noun 蓋茅草屋頂的人
-theatregoer [ˈθiːətərɡoʊər] noun especially US經常去戲院看戲的人；愛看戲的人
-theatre-in-the-round  noun especially US圓形劇場式演出
+theatregoer [ˈθiːətərɡoʊər] noun 經常去戲院看戲的人；愛看戲的人
+theatre-in-the-round  noun 圓形劇場式演出
 theatricality [θiˌætrɪˈkæləti] noun 戲劇性；誇張
-theatricals [θiˈætrɪklz] noun 1.戲劇演出 2.especially in NAmE戲劇化動作；矯揉造作
+theatricals [θiˈætrɪklz] noun 1.戲劇演出 2.(especially in NAmE)戲劇化動作；矯揉造作
 theism [ˈθiːɪzəm] noun 有神論
 themed [θiːmd] adjective (BrE)(事件或娛樂地點)特定主題的；特定歷史時期的
 themself [ðəmˈself] pronoun （they 的反身形式，用以代替 himself 或 herself，指稱性別不明確的人）他自己，她自己
@@ -11907,13 +11904,13 @@ thenceforth [ˌðensˈfɔːrθ] adverb (old use or formal)從那時起；此後
 theodolite [θiˈɑːdəlaɪt] noun 經緯儀
 theosophy [θiˈɑːsəfi] noun 1.神智學（通過直接體驗以認識上帝） 2.神智學會信仰（該會於 1875 年在紐約成立）
 therapeutics [ˌθerəˈpjuːtɪks] noun 治療學
-thereabouts [ˌðerəˈbaʊts] adverb 1.在那附近 2.（數量、時間等）大約，左右，上下
-therefrom [ˌðerˈfrʌm] adverb (律)由此；從那裏
-thereon [ˌðerˈɑːn] adverb (律)以…為根據；由…而產生
-thereto [ˌðerˈtuː] adverb (律)附之；隨之
-thereunder [ˌðerˈʌndər] adverb (律)在其下；據此
-thereupon [ˌðerəˈpɑːn] adverb 1.立即；隨即；因此；於是 2.在其上
-therewith [ˌðerˈwɪð] adverb 1.與此；與之 2.隨即；立即
+thereabouts [ˌðerəˈbaʊts] adverb (通常用於 or 之後)1.在那附近 2.（數量、時間等）大約，左右，上下
+therefrom [ˌðerˈfrʌm] adverb (律 or formal)由此；從那裏
+thereon [ˌðerˈɑːn] adverb (律 or formal)以…為根據；由…而產生
+thereto [ˌðerˈtuː] adverb (律 or formal)附之；隨之
+thereunder [ˌðerˈʌndər] adverb (律 or formal)在其下；據此
+thereupon [ˌðerəˈpɑːn] adverb (formal)1.立即；隨即；因此；於是 2.在其上
+therewith [ˌðerˈwɪð] adverb (old use or formal)1.與此；與之 2.隨即；立即
 therm [θɜːrm] noun 撒姆（英國用以計量煤氣的熱量單位）
 thermodynamics [ˌθɜːrmoʊdaɪˈnæmɪks] noun 熱力學
 thermonuclear [ˌθɜːrmoʊˈnuːkliər] adjective 熱核的
@@ -11926,15 +11923,15 @@ thickener [ˈθɪkənər] noun 增稠劑
 thickhead [ˈθɪkhed] noun (BrE) (informal)傻瓜；笨蛋；呆子
 thickheaded [ˌθɪkˈhedɪd] adjective 愚蠢的；笨的
 thickset [θɪkˈset] adjective (尤指男子)身體粗壯的；膀闊腰圓的；虎背熊腰的
-thick-skinned  adjective 1.人 2.水果
+thick-skinned  adjective 1.(人)厚臉皮的；不計較臉面的；（對批評或侮辱）麻木不仁的 2.(水果)皮厚的
 thieving [ˈθiːvɪŋ] noun (informal)偷竊
 thimble [ˈθɪmbl] noun 頂針；針箍
 thimbleful [ˈθɪmblfʊl] noun 少量液體（尤指酒）
-thine [ðaɪn] pronoun （第二人稱單數的物主代詞）你的（所有物） determiner （第二人稱所有格單數 thy 的另一種形式，用於元音或 h 前）你的
+thine [ðaɪn] pronoun (old use)（第二人稱單數的物主代詞）你的（所有物） determiner （第二人稱所有格單數 thy 的另一種形式，用於元音或 h 前）你的
 thingummy [ˈθɪŋəmi] noun (informal)（指不知、或忘記、或不想提及其名）某某，那個人，那東西
 thinkable [ˈθɪŋkəbl] adjective 可以想像；想像得到
 thinner [ˈθɪnər] noun （塗料、清漆等的）稀料，稀釋劑
-thin-skinned  adjective 1.臉皮薄的；（對批評或侮辱）易生氣的 2.水果
+thin-skinned  adjective 1.臉皮薄的；（對批評或侮辱）易生氣的 2.(水果)皮薄的
 third-class  adjective 1.三等的（尤指舊時火車座位、輪船艙位等） 2.第三類的（美國郵件等級） 3.第三等的（英國大學學位） 4.(disapproving)第三等的；卑微的
 third-degree  adjective 1.三度（燒傷） 2.(NAmE)第三等級（謀殺、人身侵犯或搶劫等）
 third-generation  adjective 1.第三代移動通信技術的 2.第三代技術的
